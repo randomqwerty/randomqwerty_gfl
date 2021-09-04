@@ -13,12 +13,12 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 202349,4,?????,3000,100,Shield Fairy,20.0,60.0,80.0,0.0,0.0,Fervor,6,Locked
 228630,14,?,0,11,Construction Fairy,4.0,12.8,10.4,2.8,5.2,Sturdy,10,Locked
 234226,25,?????,3000,100,Twin Fairies,18.0,60.0,48.0,12.0,0.0,Damage II,10,Locked
-237236,23,??,115,100,Combo Fairy,15.0,42.5,0.0,0.0,7.5,Damage I,10,Locked
+237236,23,??,155,100,Combo Fairy,15.0,42.5,0.0,0.0,7.5,Damage I,10,Locked
 252675,20,???,200,40,Fireworks Fairy,10.8,25.2,11.4,3.0,0.0,Splendor,1,Locked
 277139,1005,?,0,1,Sehra & Nina,2.8,8.0,10.0,0.0,4.0,Critical II,1,Locked
 282666,1006,?????,550,100,Preiya & Camilia,22.0,50.0,10.0,10.0,22.0,Damage II,1,Locked
 316929,1004,?????,550,100,Suee,0.0,0.0,70.0,18.0,30.0,Accuracy I,10,Locked
-319012,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Critical II,10,Locked
+319012,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Fervor,10,Locked
 370738,21,???,200,73,Zodiac Fairy,12.6,0.0,10.2,10.2,12.0,Chinese New Year,1,Locked
 373013,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Aim,1,
 378424,10,?,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,2.4,Evasion I,1,
@@ -71,13 +71,16 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 608896,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Suppression,1,
 612084,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Accuracy I,1,
 616378,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Armor I,1,
-616479,25,?,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0.0,Evasion I,1,
 617512,25,?,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0.0,Keen,1,
 617513,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Charge,1,
+618026,15,?,0,1,Command Fairy,8.0,0.0,7.6,2.0,8.4,Aim,1,
+619205,11,?,0,1,Parachute Fairy,5.6,0.0,5.2,1.2,6.4,Aim,1,Locked
+619804,9,?,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0.0,Evasion I,1,
+620552,6,?,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,4.4,Armor I,1,
 59572,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Fervor,10,Locked
 52650,16,?????,3000,100,Rescue Fairy,32.0,80.0,64.0,0.0,0.0,Damage II,10,Locked
 34213,15,?????,3000,100,Command Fairy,36.0,0.0,32.0,8.0,36.0,Fervor,2,Locked
 457274,22,?????,550,100,Beach Fairy,32.0,0.0,40.0,0.0,32.0,Damage II,10,Locked
 457276,22,?????,550,100,Beach Fairy,32.0,0.0,40.0,0.0,32.0,Fervor,10,Locked
-532223,6,????,1650,70,Taunt Fairy,12.0,38.4,18.4,5.6,16.8,Damage I,10,Locked
-500787,24,???,1000,43,Barrier Fairy,0.0,31.2,13.8,9.6,0.0,Evasion I,1,Locked
+532223,6,????,1650,73,Taunt Fairy,12.8,39.2,19.2,5.6,16.8,Damage I,10,Locked
+500787,24,???,1000,50,Barrier Fairy,0.0,33.0,14.4,10.2,0.0,Evasion I,1,Locked
