@@ -1,33 +1,33 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,426
-item-31,Basic Training Data,5845
-item-32,Intermediate Training Data,8578
-item-33,Advanced Training Data,8605
+item-10,Dummy Core,368
+item-31,Basic Training Data,5031
+item-32,Intermediate Training Data,8802
+item-33,Advanced Training Data,8526
 -1,kalina_level,26
--1,kalina_favor,60243
-item-1,T-Doll Contract,434
-item-2,Equipment Contract,306
-item-3,Quick Production Contract,996
-item-4,Quick Repair Contract,3537
+-1,kalina_favor,60593
+item-1,T-Doll Contract,332
+item-2,Equipment Contract,316
+item-3,Quick Production Contract,828
+item-4,Quick Repair Contract,3710
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
-item-8,Quick Training Contract,46
-item-9,Enhancement Capsule,1319
+item-8,Quick Training Contract,50
+item-9,Enhancement Capsule,1292
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,120
-item-15,Pure Sample,42
-item-16,Quick Analysis Contract,21
-item-17,Data Patch,287
-item-41,Token,908
+item-14,Original Sample,70
+item-15,Pure Sample,41
+item-16,Quick Analysis Contract,9
+item-17,Data Patch,307
+item-41,Token,1044
 item-42,Exchange Ticket,0
 item-43,Black Card,12
-item-44,Calibration Ticket,28
-item-45,Memory Fragment,9838
-item-46,Special Combat Report,5346
-item-47,Theater Material,6
-item-50,Universal Parts,1208
+item-44,Calibration Ticket,42
+item-45,Memory Fragment,9234
+item-46,Special Combat Report,3826
+item-47,Theater Material,0
+item-50,Universal Parts,1150
 item-51,New Type Fire-Control Component,33
 item-100,Elite Griffin Combat Medal,7
 item-101,Combat Ranking Medal,84
@@ -36,23 +36,23 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,item-10000307,5
-item-506,Battery,416
-item-507,Surplus EXP,227764
-item-508,Friendship Points,13440
-item-509,Fairy Command,38
-item-513,Dark Star Kernel,6300
-item-514,Petri Dish,2162
-item-515,Basic Training Keycode,15711
-item-516,Advanced Training Keycode,3385
-item-519,HOC General Data,77
+item-506,Battery,461
+item-507,Surplus EXP,240000
+item-508,Friendship Points,16940
+item-509,Fairy Command,56
+item-513,Dark Star Kernel,8300
+item-514,Petri Dish,2596
+item-515,Basic Training Keycode,18829
+item-516,Advanced Training Keycode,3751
+item-519,HOC General Data,82
 item-520,Frag Grenade,7
 item-521,Stun Grenade,37
 item-522,Turret,21
-item-601,Infinite Surprise Dye,26
+item-601,Infinite Surprise Dye,28
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,2
-item-604,Electronic Impulse,1
-item-605,Aid Commission,23
+item-604,Electronic Impulse,11
+item-605,Aid Commission,25
 item-606,Transfer Catalyst,93
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -211,6 +211,7 @@ item-1679,ID: Fruit of Doubt,1
 item-1695,Background: Starry Night Courtyard,1
 item-1697,Icon: Concert Ticket,1
 item-1698,ID: Gilded Name Card,1
+item-1701,ID: Polaris Light,1
 item-1744,The Witch's Plan,1
 item-1758,Icon: Original Sin - Leviathan,1
 item-1759,Icon: Original Sin - Samael,1
@@ -229,23 +230,23 @@ item-1774,ID: Work Checklist,1
 item-1776,ID: Girls by the Hearth,1
 item-1844,ID: Springtime Celebration,1
 item-1860,ID: Fragments of Precious Treasures,1
-item-4001,City's Gift,23099
-item-4002,Snowfield's Gift,11086
-item-4003,Forest's Gift,37932
-item-4004,Wasteland's Gift,9758
-item-6001,Ordinary Meat Bun,61
-item-6002,Bundle of Meat Buns,68
-item-6003,Trove of Meat Buns,95
-item-6004,Commonfolk Standard,48
+item-4001,City's Gift,24074
+item-4002,Snowfield's Gift,14635
+item-4003,Forest's Gift,38568
+item-4004,Wasteland's Gift,10106
+item-6001,Ordinary Meat Bun,63
+item-6002,Bundle of Meat Buns,74
+item-6003,Trove of Meat Buns,99
+item-6004,Commonfolk Standard,49
 item-6005,Comfort Bucket for One,52
 item-6006,Full Meal for Two,116
 item-6007,Strawberry Cheesecake Slice,53
-item-6008,One Week's Cake Selection,62
-item-6009,Sweet Explosives,100
-item-6010,"Baby  B-A-B-Y.",44
-item-6011,Streetside Oden,52
-item-6012,Wild Honeycomb,34
-item-6013,Icy Theater,30
+item-6008,One Week's Cake Selection,63
+item-6009,Sweet Explosives,101
+item-6010,"Baby  B-A-B-Y.",54
+item-6011,Streetside Oden,62
+item-6012,Wild Honeycomb,45
+item-6013,Icy Theater,40
 item-7004,Lovestruck,3
 item-7012,Cherry Blossom Breeze,1
 item-8001,Intel Points,6050
@@ -255,7 +256,7 @@ item-9004,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,14
-item-10604,Extra Impulse,25
+item-10604,Extra Impulse,29
 item-100009,Crown of Respect,20
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -300,7 +301,7 @@ item-110014,Event Points,2450
 item-110015,Event Points,2470
 item-110016,Event Points,2400
 item-110017,Event Points,3000
-item-110018,Event Points,190
+item-110018,Event Points,1660
 item-120001,Besties Chatter,1
 item-120002,Besties Chatter,1
 item-120003,Besties Chatter,1
@@ -315,6 +316,8 @@ item-900035,Platinum Medal·Shattered Connexion,4
 item-900036,Crown of Respect,0
 item-900037,Nova Medal·DJMAX,3
 item-900038,Platinum Medal·DJMAX,4
+item-1100003,Galactic Oath,1
+item-1100004,Galactic Oath,1
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
 gift-100001,Lollipop,108
@@ -323,16 +326,16 @@ gift-100003,Strawberry Custard Cheesecake,510
 gift-100005,Mulan Tea,2
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,14440
+gift-200001,Combat Report,12998
 gift-200003,Beer on Discount,1
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,60
-gift-400001,Rapid Growth Disk,2425
+gift-400001,Rapid Growth Disk,3126
 furniture-10106,Multifunctional Workbench,6
 furniture-10205,Plain Cat Bed,5
 furniture-10306,Automated Doghouse,6
 furniture-10405,Simple Bird Stand,5
-furniture-10505,Simple Multifunction Temperature-Controlled Enclosure,5
+furniture-10506,Multifunctional Temperature-Controlled Playpen,6
 furniture-20110,Digital Era Desk,10
 furniture-20210,Advanced Drone Console,10
 furniture-20310,Advanced Automated Operating Station,10
