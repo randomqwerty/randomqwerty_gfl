@@ -1,33 +1,33 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,457
-item-31,Basic Training Data,5410
-item-32,Intermediate Training Data,6259
-item-33,Advanced Training Data,6511
+item-10,Dummy Core,488
+item-31,Basic Training Data,5430
+item-32,Intermediate Training Data,7017
+item-33,Advanced Training Data,6531
 -1,kalina_level,26
--1,kalina_favor,62188
-item-1,T-Doll Contract,529
-item-2,Equipment Contract,429
-item-3,Quick Production Contract,1020
-item-4,Quick Repair Contract,3890
+-1,kalina_favor,62238
+item-1,T-Doll Contract,511
+item-2,Equipment Contract,444
+item-3,Quick Production Contract,1013
+item-4,Quick Repair Contract,3900
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
 item-8,Quick Training Contract,50
-item-9,Enhancement Capsule,1059
+item-9,Enhancement Capsule,1049
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,440
-item-15,Pure Sample,87
-item-16,Quick Analysis Contract,10
-item-17,Data Patch,353
-item-41,Token,1420
+item-14,Original Sample,210
+item-15,Pure Sample,39
+item-16,Quick Analysis Contract,16
+item-17,Data Patch,361
+item-41,Token,1432
 item-42,Exchange Ticket,0
 item-43,Black Card,13
-item-44,Calibration Ticket,606
-item-45,Memory Fragment,8406
+item-44,Calibration Ticket,676
+item-45,Memory Fragment,8442
 item-46,Special Combat Report,4731
 item-47,Theater Material,0
-item-50,Universal Parts,949
+item-50,Universal Parts,941
 item-51,New Type Fire-Control Component,35
 item-100,Elite Griffin Combat Medal,7
 item-101,Combat Ranking Medal,93
@@ -36,23 +36,23 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,35
-item-506,Battery,192
-item-507,Surplus EXP,105370
-item-508,Friendship Points,10740
-item-509,Fairy Command,74
+item-506,Battery,32
+item-507,Surplus EXP,240000
+item-508,Friendship Points,11480
+item-509,Fairy Command,19
 item-512,Supernova Kernel,40
 item-513,Dark Star Kernel,4550
-item-514,Petri Dish,1093
-item-515,Basic Training Keycode,18717
-item-516,Advanced Training Keycode,3077
-item-519,HOC General Data,92
+item-514,Petri Dish,1181
+item-515,Basic Training Keycode,17069
+item-516,Advanced Training Keycode,3279
+item-519,HOC General Data,93
 item-520,Frag Grenade,7
 item-521,Stun Grenade,37
 item-522,Turret,21
 item-601,Infinite Surprise Dye,28
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,1
-item-604,Electronic Impulse,4
+item-603,Potential Energy,2
+item-604,Electronic Impulse,8
 item-605,Aid Commission,41
 item-606,Transfer Catalyst,73
 item-1001,AAT-52 Icon,1
@@ -214,6 +214,8 @@ item-1696,Background: Sunlit Courtyard,1
 item-1697,Icon: Concert Ticket,1
 item-1698,ID: Gilded Name Card,1
 item-1701,ID: Polaris Light,1
+item-1741,Icon: Silent Farewell,1
+item-1742,Icon: Life of Deception,1
 item-1743,ID: Curtain Call,1
 item-1744,The Witch's Plan,1
 item-1758,Icon: Original Sin - Leviathan,1
@@ -233,9 +235,9 @@ item-1774,ID: Work Checklist,1
 item-1776,ID: Girls by the Hearth,1
 item-1844,ID: Spring Carnival,1
 item-1860,ID: Fragments of Precious Treasures,1
-item-4001,City's Gift,25319
-item-4002,Snowfield's Gift,17439
-item-4003,Forest's Gift,31766
+item-4001,City's Gift,25536
+item-4002,Snowfield's Gift,19461
+item-4003,Forest's Gift,31983
 item-4004,Wasteland's Gift,11745
 item-6001,Ordinary Meat Bun,68
 item-6002,Bundle of Meat Buns,77
@@ -245,9 +247,9 @@ item-6005,Comfort Bucket for One,53
 item-6006,Full Meal for Two,118
 item-6007,Strawberry Cheesecake Slice,55
 item-6008,One Week's Cake Selection,68
-item-6009,Sweet Explosives,102
+item-6009,Sweet Explosives,98
 item-6010,"Baby  B-A-B-Y.",54
-item-6011,Streetside Oden,63
+item-6011,Streetside Oden,64
 item-6012,Wild Honeycomb,49
 item-6013,Icy Theater,41
 item-7004,Lovestruck,3
@@ -278,9 +280,9 @@ item-100062,Jade Coffer,0
 item-100063,Strange Soap,4
 item-100064,Nova Medal,3
 item-100065,Platinum Medal,3
-item-100066,Butterfly Mirage,5
+item-100066,Butterfly Mirage,60
 item-100067,Nova Medal - Butterfly in a Cocoon,5
-item-100068,Platinum Medal - Butterfly in a Cocoon,206
+item-100068,Platinum Medal - Butterfly in a Cocoon,270
 item-100069,Commander Headwear: Monster Overlord,1
 item-100070,Phoenix Token,0
 item-100071,Nova Medal - Bounty Feast,0
@@ -337,11 +339,11 @@ gift-100003,Strawberry Custard Cheesecake,597
 gift-100005,Mulan Tea,2
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,12126
+gift-200001,Combat Report,12212
 gift-200003,Beer on Discount,1
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,60
-gift-400001,Rapid Growth Disk,1286
+gift-400001,Rapid Growth Disk,1358
 furniture-10106,Multifunctional Workbench,6
 furniture-10206,Isolated Cat Tree,6
 furniture-10306,Automated Doghouse,6
