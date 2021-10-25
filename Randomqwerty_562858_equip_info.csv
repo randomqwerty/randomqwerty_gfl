@@ -283,10 +283,10 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 29498130,178,Exclusive,?????,12.7mm 1SL,-,-,10,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,30000,10,16,Locked
 29690568,201,Exclusive,?????,Go-Bag "V",-,-,-6,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 29708000,199,Exclusive,?????,Osprey 45 Silencer,-,-,0,0,8,0,0,0%,15%,0,0,0,0%,0%,0%,0,1,0,0,Locked
-29709127,204,Exclusive,?????,416's Go-Bag,-,-,0,0,12,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
-29720105,202,Exclusive,?????,ACOG (4X),-,-,0,0,0,0,0,0%,24%,0,0,0,0%,0%,0%,0,1,0,0,Locked
+29709127,204,Exclusive,?????,416's Go-Bag,152362472,Agent 416,0,0,12,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
+29720105,202,Exclusive,?????,ACOG (4X),152362472,Agent 416,0,0,0,0,0,0%,24%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 29730669,4,Optical,?????,VFL 6-24X56,141363535,Triela,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,13,Locked
-29738414,203,Exclusive,?????,556 High-Velocity Ammo (Explosive),-,-,12,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
+29738414,203,Exclusive,?????,556 High-Velocity Ammo (Explosive),152362472,Agent 416,12,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 29785068,200,Exclusive,?????,.45 Hollow Point Ammo (Incendiary),-,-,10,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,1,0,0,Locked
 29847986,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,8,0,0,0,0,0%,0%,-9,0,0,0%,0%,0%,0,0,0,0,Locked
 29850845,40,T-Exo,?????,IOP T4 Exoskeleton,58231985,M950A Mod,-7,0,31,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
@@ -317,7 +317,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 32386573,8,Holographic,?????,EOT 518,-,-,4,7,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 32399323,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,170,0,0,0%,0%,0%,0,10000,10,0,Locked
 32443664,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,6,0,0,0%,12%,0,0,0,0%,0%,0%,0,0,0,0,
-32605983,40,T-Exo,?????,IOP T4 Exoskeleton,-,-,-7,0,28,0,0,0%,0%,0,0,0,0%,0%,0%,0,4801,7,0,Locked
+32605983,40,T-Exo,?????,IOP T4 Exoskeleton,-,-,-7,0,28,0,0,0%,0%,0,0,0,0%,0%,0%,0,5151,7,0,Locked
 32756395,117,Exclusive,?????,Glorylight,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,1,0,0,Locked
 32802427,8,Holographic,?????,EOT 518,-,-,5,7,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 32924710,118,Exclusive,?????,Black Cat,117881096,El Fail,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,1,0,0,Locked
