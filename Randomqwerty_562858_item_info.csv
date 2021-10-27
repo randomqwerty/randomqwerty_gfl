@@ -1,33 +1,33 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,1222
+item-10,Dummy Core,1238
 item-31,Basic Training Data,4801
-item-32,Intermediate Training Data,6793
+item-32,Intermediate Training Data,6581
 item-33,Advanced Training Data,7422
 -1,kalina_level,26
 -1,kalina_favor,62693
-item-1,T-Doll Contract,9
-item-2,Equipment Contract,490
-item-3,Quick Production Contract,562
-item-4,Quick Repair Contract,3968
+item-1,T-Doll Contract,20
+item-2,Equipment Contract,487
+item-3,Quick Production Contract,578
+item-4,Quick Repair Contract,3984
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
 item-8,Quick Training Contract,49
-item-9,Enhancement Capsule,997
+item-9,Enhancement Capsule,988
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,0
-item-15,Pure Sample,3
-item-16,Quick Analysis Contract,28
+item-14,Original Sample,160
+item-15,Pure Sample,39
+item-16,Quick Analysis Contract,29
 item-17,Data Patch,377
-item-41,Token,1589
+item-41,Token,1627
 item-42,Exchange Ticket,0
 item-43,Black Card,13
 item-44,Calibration Ticket,826
 item-45,Memory Fragment,8518
 item-46,Special Combat Report,4731
 item-47,Theater Material,0
-item-50,Universal Parts,907
+item-50,Universal Parts,874
 item-51,New Type Fire-Control Component,35
 item-100,Elite Griffin Combat Medal,7
 item-101,Combat Ranking Medal,93
@@ -36,13 +36,13 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,35
-item-506,Battery,402
-item-507,Surplus EXP,240000
-item-508,Friendship Points,13730
-item-509,Fairy Command,3
+item-506,Battery,335
+item-507,Surplus EXP,170520
+item-508,Friendship Points,14060
+item-509,Fairy Command,7
 item-512,Supernova Kernel,70
 item-513,Dark Star Kernel,4550
-item-514,Petri Dish,1833
+item-514,Petri Dish,1921
 item-515,Basic Training Keycode,17069
 item-516,Advanced Training Keycode,1979
 item-519,HOC General Data,96
@@ -235,10 +235,10 @@ item-1774,ID: Work Checklist,1
 item-1776,ID: Girls by the Hearth,1
 item-1844,ID: Spring Carnival,1
 item-1860,ID: Fragments of Precious Treasures,1
-item-4001,City's Gift,27171
+item-4001,City's Gift,27195
 item-4002,Snowfield's Gift,21654
-item-4003,Forest's Gift,33250
-item-4004,Wasteland's Gift,15230
+item-4003,Forest's Gift,10274
+item-4004,Wasteland's Gift,15457
 item-6001,Ordinary Meat Bun,69
 item-6002,Bundle of Meat Buns,78
 item-6003,Trove of Meat Buns,101
@@ -247,13 +247,14 @@ item-6005,Comfort Bucket for One,53
 item-6006,Full Meal for Two,118
 item-6007,Strawberry Cheesecake Slice,55
 item-6008,One Week's Cake Selection,71
-item-6009,Sweet Explosives,88
+item-6009,Sweet Explosives,91
 item-6010,"Baby  B-A-B-Y.",54
 item-6011,Streetside Oden,64
 item-6012,Wild Honeycomb,49
 item-6013,Icy Theater,42
 item-7004,Lovestruck,3
 item-7012,Cherry Blossom Breeze,5
+item-7024,item-10007024,9
 item-8001,Intel Points,6050
 item-8003,Intel Points,0
 item-9003,Supply Box,0
@@ -280,9 +281,9 @@ item-100062,Jade Coffer,0
 item-100063,Strange Soap,4
 item-100064,Nova Medal,3
 item-100065,Platinum Medal,3
-item-100066,Butterfly Mirage,1
+item-100066,Butterfly Mirage,61
 item-100067,Nova Medal - Butterfly in a Cocoon,5
-item-100068,Platinum Medal - Butterfly in a Cocoon,2
+item-100068,Platinum Medal - Butterfly in a Cocoon,34
 item-100069,Commander Headwear: Monster Overlord,1
 item-100070,Phoenix Token,0
 item-100071,Nova Medal - Bounty Feast,0
@@ -339,11 +340,11 @@ gift-100003,Strawberry Custard Cheesecake,597
 gift-100005,Mulan Tea,2
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,12727
+gift-200001,Combat Report,11489
 gift-200003,Beer on Discount,1
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,60
-gift-400001,Rapid Growth Disk,1702
+gift-400001,Rapid Growth Disk,1787
 furniture-10106,Multifunctional Workbench,6
 furniture-10206,Isolated Cat Tree,6
 furniture-10306,Automated Doghouse,6
