@@ -67,7 +67,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 17180878,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10176,10,0,Locked
 17244177,71,Hollow-point,????,ILM Hollow-Point Ammo,-,-,4,0,0,0,0,0%,0%,-5,0,0,0%,0%,0%,0,0,0,0,
 17334557,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10025,10,4,Locked
-17369734,66,Suppressor,?????,AC4 Suppressor,161958213,Gr P30,0,0,8,0,0,0%,16%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
+17369734,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,8,0,0,0%,16%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 17518540,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-3,0,0,0%,0%,0,11,0,0%,0%,0%,0,10000,10,1,Locked
 17722639,99,Exclusive,?????,Inherited Case,48689212,M4A1 Mod,20,0,0,0,20,0%,0%,0,15,0,0%,0%,0%,0,30001,10,6,Locked
 17722650,100,Exclusive,?????,Lightweight Rail Kit,48917520,ST AR-15 Mod,0,10,0,0,0,20%,0%,0,0,0,0%,0%,0%,0,30001,10,6,Locked
@@ -124,7 +124,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 21515437,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,168740861,Type56R,0,0,0,-3,0,25%,0%,0,0,0,0%,0%,0%,0,10000,10,4,Locked
 21583896,4,Optical,?????,VFL 6-24X56,154710082,StG44 Mod,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,7,Locked
 21596254,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,23%,0%,0,0,0,0%,0%,0%,0,10000,10,8,Locked
-21603222,72,Hollow-point,?????,ILM Hollow-Point Ammo,161958213,Gr P30,10,0,0,0,0,0%,0%,-8,0,0,0%,0%,0%,0,10000,10,0,Locked
+21603222,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,10,0,0,0,0,0%,0%,-8,0,0,0%,0%,0%,0,10000,10,0,Locked
 21627916,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,20%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 21632058,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,8,Locked
 21652958,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,25%,0%,0,0,0,0%,0%,0%,0,10000,10,5,Locked
@@ -242,7 +242,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 26875546,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,6,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 26931329,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,6,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 26969584,58,X-Exo,?????,IOP X4 Exoskeleton,-,-,0,0,9,0,0,0%,0%,0,0,0,0%,0%,0%,0,500,2,0,Locked
-27122419,40,T-Exo,?????,IOP T4 Exoskeleton,161958213,Gr P30,-7,0,30,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
+27122419,40,T-Exo,?????,IOP T4 Exoskeleton,-,-,-7,0,30,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 27163413,15,Night Equipment,????,PEQ-15,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,79%,0,0,0,0,
 27167343,15,Night Equipment,????,PEQ-15,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,76%,0,0,0,0,
 27168436,15,Night Equipment,????,PEQ-15,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,78%,0,0,0,0,
@@ -329,6 +329,9 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33753467,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,12%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 33757633,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,95%,0,0,0,0,Locked
 33757634,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,Locked
-33765801,221,Exclusive,?????,equip-10000221,-,-,2,0,0,0,0,0%,0%,110,0,0,0%,0%,0%,0,1,0,0,Locked
+33765801,221,Exclusive,?????,equip-10000221,-,-,2,0,0,0,0,0%,0%,132,0,0,0%,0%,0%,0,3701,4,0,Locked
 33765809,221,Exclusive,?????,equip-10000221,-,-,3,0,0,0,0,0%,0%,138,0,0,0%,0%,0%,0,5701,5,0,Locked
 33769786,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,
+33789895,111,Exclusive,?????,K6-24X56,-,-,0,2,0,0,0,0%,20%,0,0,0,0%,0%,0%,0,1,0,0,Locked
+33789896,115,Exclusive,?????,Digital Camouflage,-,-,2,0,0,-3,0,12%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
+33789897,104,Exclusive,?????,Fire Selector,-,-,0,0,0,0,2,0%,17%,0,0,0,0%,0%,0%,0,1,0,0,Locked
