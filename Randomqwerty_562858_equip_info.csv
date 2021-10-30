@@ -3,7 +3,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 9490489,109,Optical,?????,16Lab 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10275,10,0,Locked
 9506151,110,High-velocity,?????,16Lab High-Velocity Ammo,163157497,AK-15,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 9559344,108,Exclusive,?????,Blue Thick Cape,-,-,0,0,0,-3,1,11%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
-9592028,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,6,Locked
+9592028,72,Hollow-point,?????,ILM Hollow-Point Ammo,172190816,P22,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,6,Locked
 9628426,40,T-Exo,?????,IOP T4 Exoskeleton,47406865,Gr Mk23,-6,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,12,Locked
 9705413,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,25%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 10240436,57,X-Exo,????,IOP X3 Exoskeleton,-,-,0,0,6,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
@@ -18,7 +18,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 11354225,72,Hollow-point,?????,ILM Hollow-Point Ammo,86987467,M1911 Mod,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,16,Locked
 11514786,60,Exclusive,?????,.300BLK High-Velocity Ammo,48917520,ST AR-15 Mod,25,-1,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,30125,10,13,Locked
 11665860,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,0,0,10,Locked
-11674313,40,T-Exo,?????,IOP T4 Exoskeleton,166662516,P22,-6,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
+11674313,40,T-Exo,?????,IOP T4 Exoskeleton,172190816,P22,-6,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
 11865158,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10050,10,3,Locked
 11957397,121,Exo,?????,16Lab T4 Exoskeleton,128689029,HS2000,-6,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 12314095,120,Red Dot,?????,16Lab MARS,-,-,0,30,0,0,-1,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
@@ -67,7 +67,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 17180878,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10176,10,0,Locked
 17244177,71,Hollow-point,????,ILM Hollow-Point Ammo,-,-,4,0,0,0,0,0%,0%,-5,0,0,0%,0%,0%,0,0,0,0,
 17334557,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10025,10,4,Locked
-17369734,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,8,0,0,0%,16%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
+17369734,66,Suppressor,?????,AC4 Suppressor,172190816,P22,0,0,8,0,0,0%,16%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 17518540,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-3,0,0,0%,0%,0,11,0,0%,0%,0%,0,10000,10,1,Locked
 17722639,99,Exclusive,?????,Inherited Case,48689212,M4A1 Mod,20,0,0,0,20,0%,0%,0,15,0,0%,0%,0%,0,30001,10,6,Locked
 17722650,100,Exclusive,?????,Lightweight Rail Kit,48917520,ST AR-15 Mod,0,10,0,0,0,20%,0%,0,0,0,0%,0%,0%,0,30001,10,6,Locked
@@ -165,14 +165,14 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 22997825,71,Hollow-point,????,ILM Hollow-Point Ammo,-,-,4,0,0,0,0,0%,0%,-5,0,0,0%,0%,0%,0,0,0,0,
 23100173,71,Hollow-point,????,ILM Hollow-Point Ammo,-,-,4,0,0,0,0,0%,0%,-5,0,0,0%,0%,0%,0,0,0,0,
 23212801,71,Hollow-point,????,ILM Hollow-Point Ammo,-,-,4,0,0,0,0,0%,0%,-4,0,0,0%,0%,0%,0,0,0,0,
-23225128,66,Suppressor,?????,AC4 Suppressor,166662516,P22,0,0,6,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
+23225128,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,6,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 23225163,58,X-Exo,?????,IOP X4 Exoskeleton,-,-,0,0,10,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 23230974,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,6,0,0,0%,14%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 23230975,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,95%,0,0,0,0,Locked
 23230982,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-3,0,0,0%,0%,0,11,0,0%,0%,0%,0,10000,10,1,Locked
 23231026,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,159649078,Gr SL8,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,7,Locked
 23231066,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,146588676,Type88 Mod,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,7,Locked
-23231120,72,Hollow-point,?????,ILM Hollow-Point Ammo,166662516,P22,9,0,0,0,0,0%,0%,-8,0,0,0%,0%,0%,0,2900,6,0,Locked
+23231120,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,9,0,0,0,0,0%,0%,-8,0,0,0%,0%,0%,0,2900,6,0,Locked
 23231195,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,7,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 23231279,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,6,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 23231300,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,15,Locked
@@ -326,13 +326,9 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33757633,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,95%,0,0,0,0,Locked
 33757634,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,Locked
 33765801,221,Exclusive,?????,equip-10000221,-,-,2,0,0,0,0,0%,0%,132,0,0,0%,0%,0%,0,4101,4,0,Locked
-33765809,221,Exclusive,?????,equip-10000221,-,-,3,0,0,0,0,0%,0%,138,0,0,0%,0%,0%,0,5701,5,0,Locked
+33765809,221,Exclusive,?????,equip-10000221,-,-,3,0,0,0,0,0%,0%,138,0,0,0%,0%,0%,0,6101,5,0,Locked
 33769786,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,
 33789895,111,Exclusive,?????,K6-24X56,-,-,0,2,0,0,0,0%,20%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 33789896,115,Exclusive,?????,Digital Camouflage,-,-,2,0,0,-3,0,12%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 33789897,104,Exclusive,?????,Fire Selector,-,-,0,0,0,0,2,0%,17%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 33805942,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,11%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
-33807223,3,Optical,????,PSO-1,-,-,0,0,0,0,0,0%,15%,0,0,0,0%,0%,0%,0,0,0,0,
-33807224,42,Armor Plate,???,Type 1 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,3,0,0%,0%,0%,0,0,0,0,
-33807225,56,X-Exo,???,IOP X2 Exoskeleton,-,-,0,0,4,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-33807303,71,Hollow-point,????,ILM Hollow-Point Ammo,-,-,5,0,0,0,0,0%,0%,-4,0,0,0%,0%,0%,0,0,0,0,
