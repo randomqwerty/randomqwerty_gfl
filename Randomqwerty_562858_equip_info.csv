@@ -295,7 +295,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 30829821,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,9,0,0,0,0,0%,0%,-9,0,0,0%,0%,0%,0,1,0,0,Locked
 30926134,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,103214168,Type88 Mod,0,0,0,0,0,0%,0%,168,0,0,0%,0%,0%,0,10000,10,0,Locked
 31048816,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,6,0,0,0%,13%,0,0,0,0%,0%,0%,0,1,0,0,
-31101792,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,128646140,KSVK Mod,0,0,0,-3,0,19%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
+31101792,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,19%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 31118985,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,93%,0,0,0,0,Locked
 31130684,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,95%,0,0,0,0,Locked
 31173138,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,95%,0,0,0,0,Locked
@@ -322,7 +322,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33532728,95,Hollow-point,?????,16Lab Hollow-Point,-,-,10,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,1,0,0,Locked
 33533947,158,Exclusive,?????,Acceleration Coil,-,-,5,0,0,0,0,0%,50%,0,0,0,0%,0%,0%,0,30000,10,13,Locked
 33650091,198,Exclusive,?????,Wooden Grips,-,-,0,0,7,0,0,0%,16%,0,0,0,0%,0%,0%,0,1,0,0,Locked
-33753467,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,12%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
+33753467,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,128646140,KSVK Mod,0,0,0,-3,0,12%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 33757633,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,95%,0,0,0,0,Locked
 33757634,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,Locked
 33765801,221,Exclusive,?????,equip-10000221,-,-,2,0,0,0,0,0%,0%,132,0,0,0%,0%,0%,0,4701,4,0,Locked
@@ -330,18 +330,27 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33769786,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,
 33789895,111,Exclusive,?????,K6-24X56,-,-,0,4,0,0,0,0%,41%,0,0,0,0%,0%,0%,0,30000,10,0,Locked
 33789896,115,Exclusive,?????,Digital Camouflage,-,-,2,0,0,-3,0,12%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
-33789897,104,Exclusive,?????,Fire Selector,-,-,0,0,0,0,2,0%,23%,0,0,0,0%,0%,0%,0,3701,4,0,Locked
+33789897,104,Exclusive,?????,Fire Selector,-,-,0,0,0,0,3,0%,32%,0,0,0,0%,0%,0%,0,22801,9,0,Locked
 33805942,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,11%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 33823138,15,Night Equipment,????,PEQ-15,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,80%,0,0,0,0,
 33823573,15,Night Equipment,????,PEQ-15,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,77%,0,0,0,0,
 33832354,15,Night Equipment,????,PEQ-15,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,77%,0,0,0,0,
 33842336,43,Armor Plate,????,Type 2 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,4,0,0%,0%,0%,0,0,0,0,
 33844479,42,Armor Plate,???,Type 1 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,3,0,0%,0%,0%,0,0,0,0,
-33853409,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,11%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+33853409,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,11%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 33862883,42,Armor Plate,???,Type 1 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,3,0,0%,0%,0%,0,0,0,0,
 33862884,42,Armor Plate,???,Type 1 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,3,0,0%,0%,0%,0,0,0,0,
 33862886,42,Armor Plate,???,Type 1 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,3,0,0%,0%,0%,0,0,0,0,
-33862893,13,Night Equipment,??,PEQ-2,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,51%,0,0,0,0,
-33864230,10,Red Dot,???,AMP COMPM4,-,-,0,4,0,0,-1,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-33864231,14,Night Equipment,???,PEQ-5,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,65%,0,0,0,0,
 33864232,42,Armor Plate,???,Type 1 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,3,0,0%,0%,0%,0,0,0,0,
+33873279,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,
+33873280,43,Armor Plate,????,Type 2 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,4,0,0%,0%,0%,0,0,0,0,
+33873281,42,Armor Plate,???,Type 1 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,3,0,0%,0%,0%,0,0,0,0,
+33873282,42,Armor Plate,???,Type 1 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,3,0,0%,0%,0%,0,0,0,0,
+33883863,9,Red Dot,??,AMP COMPM2,-,-,0,2,0,0,-1,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+33883864,87,Camouflage Cape,??,Ragged Cape,-,-,0,0,0,-3,0,3%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+33883865,37,T-Exo,??,IOP T1 Exoskeleton,-,-,-1,0,6,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+33883866,13,Night Equipment,??,PEQ-2,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,52%,0,0,0,0,
+33883867,14,Night Equipment,???,PEQ-5,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,66%,0,0,0,0,
+33883868,15,Night Equipment,????,PEQ-15,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,80%,0,0,0,0,
+33883869,11,Red Dot,????,COG M150,-,-,0,9,0,0,-2,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+33883870,11,Red Dot,????,COG M150,-,-,0,8,0,0,-2,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
