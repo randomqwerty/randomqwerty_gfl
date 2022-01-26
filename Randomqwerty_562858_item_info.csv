@@ -1,62 +1,63 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,896
+item-10,Dummy Core,706
 item-31,Basic Training Data,4564
-item-32,Intermediate Training Data,7294
-item-33,Advanced Training Data,5338
+item-32,Intermediate Training Data,6944
+item-33,Advanced Training Data,5767
 -1,kalina_level,27
--1,kalina_favor,68958
-item-1,T-Doll Contract,119
-item-2,Equipment Contract,11
-item-3,Quick Production Contract,224
-item-4,Quick Repair Contract,4722
+-1,kalina_favor,69008
+item-1,T-Doll Contract,150
+item-2,Equipment Contract,21
+item-3,Quick Production Contract,267
+item-4,Quick Repair Contract,4671
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
-item-8,Quick Training Contract,39
-item-9,Enhancement Capsule,422
+item-8,Quick Training Contract,33
+item-9,Enhancement Capsule,506
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,60
-item-15,Pure Sample,10
-item-16,Quick Analysis Contract,9
-item-17,Data Patch,141
-item-41,Token,2948
+item-14,Original Sample,320
+item-15,Pure Sample,72
+item-16,Quick Analysis Contract,4
+item-17,Data Patch,147
+item-41,Token,3178
 item-42,Exchange Ticket,0
 item-43,Black Card,14
-item-44,Calibration Ticket,711
-item-45,Memory Fragment,7574
-item-46,Special Combat Report,8476
+item-44,Calibration Ticket,1291
+item-45,Memory Fragment,4184
+item-46,Special Combat Report,8876
 item-47,Theater Material,8
-item-50,Universal Parts,1404
-item-51,New Type Fire-Control Component,41
-item-100,Elite Griffin Combat Medal,7
+item-50,Universal Parts,1099
+item-51,New Type Fire-Control Component,36
+item-100,Elite Griffin Combat Medal,8
 item-101,Combat Ranking Medal,112
 item-103,Challenger Medal,22
 item-104,Elite Adventurer Medal,6
+item-105,Sangvis-Griffin Coalition Medal,5
 item-106,Chess Champion Medal,37
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,70
-item-506,Battery,800
-item-507,Surplus EXP,54600
-item-508,Friendship Points,9190
-item-509,Fairy Command,149
+item-506,Battery,263
+item-507,Surplus EXP,0
+item-508,Friendship Points,9670
+item-509,Fairy Command,140
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,120
 item-513,Dark Star Kernel,1250
-item-514,Petri Dish,3878
-item-515,Basic Training Keycode,27231
-item-516,Advanced Training Keycode,9354
-item-519,HOC General Data,143
+item-514,Petri Dish,4054
+item-515,Basic Training Keycode,27143
+item-516,Advanced Training Keycode,8934
+item-519,HOC General Data,144
 item-520,Frag Grenade,7
 item-521,Stun Grenade,37
 item-522,Turret,21
-item-525,Quick Auto-Battle Contract,117
-item-601,Infinite Surprise Dye,30
+item-525,Quick Auto-Battle Contract,129
+item-601,Infinite Surprise Dye,32
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,3
+item-603,Potential Energy,2
 item-604,Electronic Impulse,0
-item-605,Aid Commission,55
+item-605,Aid Commission,60
 item-606,Transfer Catalyst,103
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -222,6 +223,11 @@ item-1696,Background: Sunlit Courtyard,1
 item-1697,Icon: Concert Ticket,1
 item-1698,ID: Gilded Name Card,1
 item-1701,ID: Polaris Light,1
+item-1703,item-10001703,1
+item-1704,item-10001704,1
+item-1705,item-10001705,1
+item-1706,item-10001706,1
+item-1707,Gr G11 Neural Upgrade Icon,1
 item-1741,Icon: Silent Farewell,1
 item-1742,Icon: Life of Deception,1
 item-1743,ID: Curtain Call,1
@@ -260,20 +266,21 @@ item-1991,Icon: Purple Night of Rapture,1
 item-1992,ID card: Maelstrom of Pink and Purple,1
 item-2013,Icon: Birth of Starlight,1
 item-2016,Icon: Best Partner,2
+item-2017,Icon:  Setting Sail,1
 item-2019,ID:  Screen Breakers,1
-item-4001,City's Gift,25830
-item-4002,Snowfield's Gift,17401
-item-4003,Forest's Gift,199
-item-4004,Wasteland's Gift,8270
-item-6001,Ordinary Meat Bun,79
+item-4001,City's Gift,26353
+item-4002,Snowfield's Gift,17487
+item-4003,Forest's Gift,471
+item-4004,Wasteland's Gift,8356
+item-6001,Ordinary Meat Bun,80
 item-6002,Bundle of Meat Buns,83
 item-6003,Trove of Meat Buns,107
 item-6004,Commonfolk Standard,58
 item-6005,Comfort Bucket for One,57
-item-6006,Full Meal for Two,86
+item-6006,Full Meal for Two,87
 item-6007,Strawberry Cheesecake Slice,58
 item-6008,One Week's Cake Selection,75
-item-6009,Sweet Explosives,112
+item-6009,Sweet Explosives,113
 item-6010,"Baby  B-A-B-Y.",55
 item-6011,Streetside Oden,64
 item-6012,Wild Honeycomb,50
@@ -285,10 +292,11 @@ item-8001,Intel Points,6050
 item-8003,Intel Points,0
 item-9003,Supply Box,0
 item-9004,Supply Box,0
+item-9005,item-10009005,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
-item-10603,Extra Potential Energy,7
-item-10604,Extra Impulse,51
+item-10603,Extra Potential Energy,5
+item-10604,Extra Impulse,64
 item-100009,Crown of Respect,20
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -303,6 +311,9 @@ item-100048,Platinum Medal,4
 item-100050,Nova Medal – Il Teatrino,2
 item-100051,Platinum Medal – Il Teatrino,1
 item-100052,Augustus,0
+item-100057,item-10100057,1
+item-100058,item-10100058,108
+item-100059,item-10100059,71
 item-100062,Jade Coffer,0
 item-100063,Strange Soap,4
 item-100064,Nova Medal,3
@@ -349,6 +360,7 @@ item-110015,Event Points,2470
 item-110016,Event Points,2400
 item-110017,Event Points,3000
 item-110018,Event Points,2500
+item-110019,Event Points,140
 item-120001,Besties Chatter,1
 item-120002,Besties Chatter,1
 item-120003,Besties Chatter,1
@@ -377,17 +389,17 @@ gift-100005,Mulan Tea,2
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,7563
+gift-200001,Combat Report,5165
 gift-200003,Beer on Discount,1
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
-gift-400001,Rapid Growth Disk,4709
+gift-400001,Rapid Growth Disk,4853
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10209,Isolated Cat Tree,9
-furniture-10309,Automated Doghouse,9
+furniture-10310,Integrated Canine Care Station,10
 furniture-10409,Compound Bird Cage,9
-furniture-10509,Multifunctional Temperature-Controlled Playpen,9
+furniture-10510,Fully-Automatic Twin-Level Temperature-Controlled Playpen,10
 furniture-20110,Digital Era Desk,10
 furniture-20210,Advanced Drone Console,10
 furniture-20310,Advanced Automated Operating Station,10
