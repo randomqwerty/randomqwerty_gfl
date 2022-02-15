@@ -1,5 +1,5 @@
 ﻿ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fire,Crit.Rate,Crit.Damage,Armor Pen.,Armor,Shield,Damage Amplify,Damage Reduction,Night View,Rounds,Equip Exp,Equip Level,Adjust Count,Locked
-9372571,8,Holographic,★★★★★,EOT 518,-,-,8,14,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,10075,10,6,Locked
+9372571,8,Holographic,★★★★★,EOT 518,49055116,Vector,8,14,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,10075,10,6,Locked
 9490489,109,Optical,★★★★★,16Lab 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10275,10,0,Locked
 9506151,110,High-velocity,★★★★★,16Lab High-Velocity Ammo,46922341,416 Mod,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 9559344,108,Exclusive,★★★★★,Blue Thick Cape,-,-,0,0,0,-3,1,11%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -12,7 +12,7 @@
 10792231,67,Ammunition Box,★★★★,IOP High-Capacity Ammo Box,-,-,0,0,-1,0,0,0%,0%,0,0,0,0%,0%,0%,3,5000,10,0,Locked
 10792244,4,Optical,★★★★★,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10150,10,6,Locked
 10993487,58,X-Exo,★★★★★,IOP X4 Exoskeleton,-,-,0,0,20,0,0,0%,0%,0,0,0,0%,0%,0%,0,10050,10,3,Locked
-11354225,72,Hollow-point,★★★★★,ILM Hollow-Point Ammo,117734064,El Clear,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,16,Locked
+11354225,72,Hollow-point,★★★★★,ILM Hollow-Point Ammo,85354529,Micro Uzi Mod,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,16,Locked
 11514786,60,Exclusive,★★★★★,.300BLK High-Velocity Ammo,48917520,ST AR-15 Mod,35,0,0,0,-10,0%,0%,0,0,0,0%,0%,0%,0,30125,10,13,Locked
 11665860,16,Night Equipment,★★★★★,PEQ-16A,91711390,AN-94,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,0,0,10,Locked
 11674313,40,T-Exo,★★★★★,IOP T4 Exoskeleton,-,-,-6,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
@@ -29,8 +29,8 @@
 12655367,59,Exclusive,★★★★★,National Match-Grade Armor-Piercing Ammo,-,-,0,0,0,0,4,0%,0%,125,0,0,0%,0%,0%,0,0,0,0,Locked
 12870446,4,Optical,★★★★★,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,12,Locked
 12871715,91,Exclusive,★★★★★,Special Warfare Mobile Suit,-,-,0,-20,10,0,-10,0%,0%,0,20,0,0%,0%,0%,0,30075,10,0,Locked
-13079587,8,Holographic,★★★★★,EOT 518,-,-,8,14,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,10000,10,26,Locked
-13340237,95,Hollow-point,★★★★★,16Lab Hollow-Point,58231985,M950A Mod,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10075,10,0,Locked
+13079587,8,Holographic,★★★★★,EOT 518,85354529,Micro Uzi Mod,8,14,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,10000,10,26,Locked
+13340237,95,Hollow-point,★★★★★,16Lab Hollow-Point,49055116,Vector,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10075,10,0,Locked
 13578599,66,Suppressor,★★★★★,AC4 Suppressor,51382747,RO635 Mod,0,0,10,0,0,0%,20%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 13806472,137,Exclusive,★★★★★,Adelhyde,-,-,0,0,15,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 13806473,138,Exclusive,★★★★★,Flanergide,-,-,0,0,15,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -345,4 +345,5 @@
 35110321,227,M1022 AP,★★★★★,M1022 Sniper Rounds,-,-,10,0,0,0,0,0%,0%,120,0,0,0%,0%,0%,0,10000,10,26,Locked
 35143530,192,Exclusive,★★★★★,Beloved Dangle,51382747,RO635 Mod,-8,0,45,0,0,0%,0%,0,0,0,0%,0%,0%,0,30000,10,8,
 35218785,40,T-Exo,★★★★★,IOP T4 Exoskeleton,-,-,-7,0,21,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-35226668,3,Optical,★★★★,PSO-1,-,-,0,0,0,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,
+35231191,233,Chipset,★★★★,#1 Processor,49055116,Vector,5,0,0,0,8,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+35231192,233,Chipset,★★★★,#1 Processor,85354529,Micro Uzi Mod,5,0,0,0,8,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,

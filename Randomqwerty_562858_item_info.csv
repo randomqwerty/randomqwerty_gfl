@@ -1,30 +1,30 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,557
-item-31,Basic Training Data,4274
-item-32,Intermediate Training Data,3956
-item-33,Advanced Training Data,3114
+item-10,Dummy Core,561
+item-31,Basic Training Data,3274
+item-32,Intermediate Training Data,3316
+item-33,Advanced Training Data,3220
 -1,kalina_level,27
--1,kalina_favor,70288
-item-1,T-Doll Contract,304
-item-2,Equipment Contract,14
-item-3,Quick Production Contract,402
-item-4,Quick Repair Contract,4324
+-1,kalina_favor,70313
+item-1,T-Doll Contract,308
+item-2,Equipment Contract,12
+item-3,Quick Production Contract,405
+item-4,Quick Repair Contract,4335
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
-item-8,Quick Training Contract,23
+item-8,Quick Training Contract,20
 item-9,Enhancement Capsule,724
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,40
-item-15,Pure Sample,18
-item-16,Quick Analysis Contract,18
+item-14,Original Sample,0
+item-15,Pure Sample,4
+item-16,Quick Analysis Contract,19
 item-17,Data Patch,188
-item-41,Token,3513
+item-41,Token,3514
 item-42,Exchange Ticket,0
 item-43,Black Card,14
 item-44,Calibration Ticket,1296
-item-45,Memory Fragment,5364
+item-45,Memory Fragment,5164
 item-46,Special Combat Report,9476
 item-47,Theater Material,8
 item-50,Universal Parts,369
@@ -38,21 +38,21 @@ item-106,Chess Champion Medal,37
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,70
-item-506,Battery,1759
-item-507,Surplus EXP,176190
+item-506,Battery,881
+item-507,Surplus EXP,125861
 item-508,Friendship Points,1130
-item-509,Fairy Command,84
+item-509,Fairy Command,14
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,120
 item-513,Dark Star Kernel,5450
-item-514,Petri Dish,5006
+item-514,Petri Dish,5028
 item-515,Basic Training Keycode,28758
 item-516,Advanced Training Keycode,10856
 item-519,HOC General Data,152
 item-520,Frag Grenade,7
 item-521,Stun Grenade,37
 item-522,Turret,21
-item-525,Quick Auto-Battle Contract,183
+item-525,Quick Auto-Battle Contract,186
 item-601,Infinite Surprise Dye,34
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,1
@@ -207,6 +207,8 @@ item-1619,KSVK Neural Upgrade Icon,1
 item-1626,Icon: 2nd Anniversary Icon,1
 item-1636,ST AR-15 - Prisoner of the Dream,1
 item-1643,Top Hat Drifting to the Flowers,1
+item-1652,Icon: Concerto of Frost,1
+item-1653,Icon: Rondo of Dreams,1
 item-1669,ID Card: BBQ by the Azure Sea,1
 item-1670,Icon: Tropical Mojito,1
 item-1671,Icon: Sunset of Day 51,1
@@ -317,7 +319,7 @@ item-100051,Platinum Medal – Il Teatrino,1
 item-100052,Augustus,0
 item-100057,True Core Mask - Dual Randomness,0
 item-100058,Nova Medal - Dual Randomness,2
-item-100059,Platinum Medal - Dual Randomness,27
+item-100059,Platinum Medal - Dual Randomness,28
 item-100062,Jade Coffer,0
 item-100063,Strange Soap,4
 item-100064,Nova Medal,3
@@ -386,8 +388,6 @@ item-1100003,Galactic Oath,1
 item-1100004,Galactic Oath,1
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
-item-1653,Icon: Rondo of Dreams,1
-item-1652,Icon: Concerto of Frost,1
 gift-100001,Lollipop,164
 gift-100002,Ice Cream Cone,102
 gift-100003,Strawberry Custard Cheesecake,720
@@ -395,7 +395,7 @@ gift-100005,Mulan Tea,2
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,4286
+gift-200001,Combat Report,3866
 gift-200003,Beer on Discount,1
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,60
@@ -443,7 +443,7 @@ furniture-70010,furniture_establish-10070010,0
 furniture-80007,Real Time Relay Terminal,0
 furniture-80011,Black Market Shop,0
 furniture-80109,Automated Gate Console,9
-furniture-80305,Advanced Loot Rack,5
+furniture-80306,Advanced Loot Rack,6
 furniture-90110,Impulse Reactor,10
 furniture-90205,Tactical Chip Research Station,5
 furniture-90400,Symmetric Infusion Drive,0
