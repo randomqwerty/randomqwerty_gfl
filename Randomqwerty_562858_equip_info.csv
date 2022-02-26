@@ -29,7 +29,7 @@
 12655367,59,Exclusive,★★★★★,National Match-Grade Armor-Piercing Ammo,-,-,0,0,0,0,4,0%,0%,125,0,0,0%,0%,0%,0,0,0,0,Locked
 12870446,4,Optical,★★★★★,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,12,Locked
 12871715,91,Exclusive,★★★★★,Special Warfare Mobile Suit,-,-,0,-20,10,0,-10,0%,0%,0,20,0,0%,0%,0%,0,30075,10,0,Locked
-13079587,8,Holographic,★★★★★,EOT 518,49055116,Vector,8,14,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,10000,10,26,Locked
+13079587,8,Holographic,★★★★★,EOT 518,-,-,8,14,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,10000,10,26,Locked
 13340237,95,Hollow-point,★★★★★,16Lab Hollow-Point,49055116,Vector,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10075,10,0,Locked
 13578599,66,Suppressor,★★★★★,AC4 Suppressor,97105676,GSh-18 Mod,0,0,10,0,0,0%,20%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 13806472,137,Exclusive,★★★★★,Adelhyde,-,-,0,0,15,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -58,7 +58,7 @@
 17178299,4,Optical,★★★★★,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10050,10,10,Locked
 17180877,16,Night Equipment,★★★★★,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,1,0,0,Locked
 17180878,20,Armor-piercing,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10176,10,0,Locked
-17334557,4,Optical,★★★★★,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10025,10,4,Locked
+17334557,4,Optical,★★★★★,VFL 6-24X56,48689212,M4A1 Mod,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10025,10,4,Locked
 17369734,66,Suppressor,★★★★★,AC4 Suppressor,51382747,RO635 Mod,0,0,8,0,0,0%,16%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 17518540,44,Armor Plate,★★★★★,Type 3 Armor Plate,-,-,0,0,-3,0,0,0%,0%,0,11,0,0%,0%,0%,0,10000,10,1,Locked
 17722639,99,Exclusive,★★★★★,Inherited Case,48689212,M4A1 Mod,20,0,0,0,20,0%,0%,0,15,0,0%,0%,0%,0,30001,10,6,Locked
@@ -80,7 +80,7 @@
 19385776,68,Ammunition Box,★★★★★,IOP Maximum Ammo Box,172771041,Type80,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,5,10000,10,6,Locked
 19395555,32,High-velocity,★★★★★,APCR High-Velocity Ammo,48689212,M4A1 Mod,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,5,Locked
 19397548,20,Armor-piercing,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,9,Locked
-19399280,72,Hollow-point,★★★★★,ILM Hollow-Point Ammo,-,-,9,0,0,0,0,0%,0%,-9,0,0,0%,0%,0%,0,1100,3,0,Locked
+19399280,72,Hollow-point,★★★★★,ILM Hollow-Point Ammo,128689029,HS2000,9,0,0,0,0,0%,0%,-9,0,0,0%,0%,0%,0,1100,3,0,Locked
 19430049,20,Armor-piercing,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,16,Locked
 19431722,20,Armor-piercing,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,15,Locked
 19440882,40,T-Exo,★★★★★,IOP T4 Exoskeleton,-,-,-7,0,32,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
@@ -152,7 +152,7 @@
 23231026,20,Armor-piercing,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,7,Locked
 23231066,20,Armor-piercing,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,177809757,Super SASS,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,7,Locked
 23231120,72,Hollow-point,★★★★★,ILM Hollow-Point Ammo,-,-,9,0,0,0,0,0%,0%,-8,0,0,0%,0%,0%,0,3400,6,0,Locked
-23231195,66,Suppressor,★★★★★,AC4 Suppressor,-,-,0,0,7,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
+23231195,66,Suppressor,★★★★★,AC4 Suppressor,128689029,HS2000,0,0,7,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 23231279,66,Suppressor,★★★★★,AC4 Suppressor,-,-,0,0,6,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 23231300,20,Armor-piercing,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,15,Locked
 23231375,76,Buckshot,★★★★★,#000 Buckshot,-,-,7,0,0,0,0,12%,0%,0,0,0,0%,0%,0%,0,0,0,0,
@@ -165,7 +165,7 @@
 23278020,40,T-Exo,★★★★★,IOP T4 Exoskeleton,-,-,-7,0,29,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 23281504,32,High-velocity,★★★★★,APCR High-Velocity Ammo,-,-,15,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 23283610,118,Exclusive,★★★★★,Black Cat,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,1,0,0,Locked
-23389792,4,Optical,★★★★★,VFL 6-24X56,48689212,M4A1 Mod,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,10,Locked
+23389792,4,Optical,★★★★★,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,10,Locked
 23398017,16,Night Equipment,★★★★★,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,94%,0,0,0,0,Locked
 23735629,101,Exclusive,★★★★★,XM261 ACP,86987467,M1911 Mod,8,0,0,0,0,0%,0%,-9,0,0,0%,0%,0%,0,1,0,0,Locked
 23771289,72,Hollow-point,★★★★★,ILM Hollow-Point Ammo,-,-,8,0,0,0,0,0%,0%,-9,0,0,0%,0%,0%,0,900,3,0,Locked
