@@ -1,12 +1,12 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,154
+item-10,Dummy Core,165
 item-31,Basic Training Data,2944
 item-32,Intermediate Training Data,3064
 item-33,Advanced Training Data,2908
 -1,kalina_level,27
 -1,kalina_favor,71603
-item-1,T-Doll Contract,343
+item-1,T-Doll Contract,345
 item-2,Equipment Contract,90
 item-3,Quick Production Contract,514
 item-4,Quick Repair Contract,4411
@@ -16,15 +16,15 @@ item-8,Quick Training Contract,22
 item-9,Enhancement Capsule,656
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,0
-item-15,Pure Sample,4
+item-14,Original Sample,100
+item-15,Pure Sample,35
 item-16,Quick Analysis Contract,6
 item-17,Data Patch,92
-item-41,Token,3860
+item-41,Token,3861
 item-42,Exchange Ticket,0
 item-43,Black Card,15
 item-44,Calibration Ticket,2121
-item-45,Memory Fragment,8324
+item-45,Memory Fragment,8374
 item-46,Special Combat Report,10376
 item-47,Theater Material,21591
 item-50,Universal Parts,227
@@ -39,10 +39,10 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,item-10000308,5
-item-506,Battery,1225
-item-507,Surplus EXP,81694
+item-506,Battery,1203
+item-507,Surplus EXP,94
 item-508,Friendship Points,5600
-item-509,Fairy Command,41
+item-509,Fairy Command,4
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,240
 item-513,Dark Star Kernel,6250
@@ -53,10 +53,10 @@ item-519,HOC General Data,115
 item-520,Frag Grenade,7
 item-521,Stun Grenade,37
 item-522,Turret,21
-item-525,Quick Auto-Battle Contract,176
+item-525,Quick Auto-Battle Contract,179
 item-601,Infinite Surprise Dye,34
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,2
+item-603,Potential Energy,1
 item-604,Electronic Impulse,4
 item-605,Aid Commission,71
 item-606,Transfer Catalyst,138
@@ -303,7 +303,7 @@ item-9005,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,9
-item-10604,Extra Impulse,79
+item-10604,Extra Impulse,80
 item-100009,Crown of Respect,20
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -399,12 +399,12 @@ gift-100005,Mulan Tea,2
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,6587
+gift-200001,Combat Report,6654
 gift-200003,Beer on Discount,1
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
-gift-400001,Rapid Growth Disk,5092
+gift-400001,Rapid Growth Disk,5125
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
@@ -429,7 +429,7 @@ furniture-40028,Comic Stand,0
 furniture-40009,Luffberry chess,0
 furniture-50110,Data Detection Hub,10
 furniture-50210,Holographic Mission Center,10
-furniture-50309,Advanced Disk Drive Storage,9
+furniture-50310,Ultra High-Speed Liquid-Cooled Storage,10
 furniture-50410,Futuristic Analysis Terminal,10
 furniture-60110,Storeroom,10
 furniture-60203,Large Maintenance Machinery,3
