@@ -10,7 +10,7 @@
 10792226,67,Ammunition Box,★★★★,IOP High-Capacity Ammo Box,-,-,0,0,-1,0,0,0%,0%,0,0,0,0%,0%,0%,3,5000,10,0,Locked
 10792230,67,Ammunition Box,★★★★,IOP High-Capacity Ammo Box,-,-,0,0,-1,0,0,0%,0%,0,0,0,0%,0%,0%,3,5000,10,0,Locked
 10792231,67,Ammunition Box,★★★★,IOP High-Capacity Ammo Box,-,-,0,0,-1,0,0,0%,0%,0,0,0,0%,0%,0%,3,5000,10,0,Locked
-10792244,4,Optical,★★★★★,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10150,10,6,Locked
+10792244,4,Optical,★★★★★,VFL 6-24X56,140935147,Rico,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10150,10,6,Locked
 10993487,58,X-Exo,★★★★★,IOP X4 Exoskeleton,-,-,0,0,20,0,0,0%,0%,0,0,0,0%,0%,0%,0,10050,10,3,Locked
 11354225,72,Hollow-point,★★★★★,ILM Hollow-Point Ammo,129036884,P22,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,16,Locked
 11514786,60,Exclusive,★★★★★,.300BLK High-Velocity Ammo,48917520,ST AR-15 Mod,25,-1,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,30125,10,13,Locked
@@ -82,7 +82,7 @@
 19397548,20,Armor-piercing,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,159649078,Gr SL8,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,9,Locked
 19399280,72,Hollow-point,★★★★★,ILM Hollow-Point Ammo,-,-,9,0,0,0,0,0%,0%,-9,0,0,0%,0%,0%,0,1100,3,0,Locked
 19430049,20,Armor-piercing,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,16,Locked
-19431722,20,Armor-piercing,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,15,Locked
+19431722,20,Armor-piercing,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,140935147,Rico,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,15,Locked
 19440882,40,T-Exo,★★★★★,IOP T4 Exoskeleton,59539982,Gr G36c,-7,0,32,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 19441670,66,Suppressor,★★★★★,AC4 Suppressor,46703121,Contender,0,0,10,0,0,0%,20%,0,0,0,0%,0%,0%,0,10000,10,9,Locked
 19452214,68,Ammunition Box,★★★★★,IOP Maximum Ammo Box,55531384,Negev,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,5,10000,10,2,Locked
@@ -217,7 +217,7 @@
 27270670,165,Exclusive,★★★★★,Tactical Earphones,-,-,5,0,10,0,5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 27296601,40,T-Exo,★★★★★,IOP T4 Exoskeleton,50871904,SAA Mod,-7,0,31,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 27325940,40,T-Exo,★★★★★,IOP T4 Exoskeleton,121475958,Gr Mk23,-7,0,30,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
-27666207,183,Exclusive,★★★★★,Duelling Cards,-,-,0,0,0,-3,0,45%,0%,0,0,0,0%,0%,0%,0,30000,10,2,Locked
+27666207,183,Exclusive,★★★★★,Duelling Cards,140935147,Rico,0,0,0,-3,0,45%,0%,0,0,0,0%,0%,0%,0,30000,10,2,Locked
 27711073,66,Suppressor,★★★★★,AC4 Suppressor,-,-,0,0,6,0,0,0%,13%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 27720753,184,Exclusive,★★★★★,Fairy Tale Picture Books,-,-,15,0,18,0,0,0%,0%,0,0,0,0%,0%,0%,0,30000,10,3,Locked
 27737263,40,T-Exo,★★★★★,IOP T4 Exoskeleton,58231985,M950A Mod,-7,0,30,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
@@ -344,7 +344,7 @@
 35110321,227,M1022 AP,★★★★★,M1022 Sniper Rounds,172429303,Carcano M91/38,10,0,0,0,0,0%,0%,120,0,0,0%,0%,0%,0,10000,10,26,Locked
 35143530,192,Exclusive,★★★★★,Beloved Dangle,51382747,RO635 Mod,-8,0,45,0,0,0%,0%,0,0,0,0%,0%,0%,0,30000,10,8,Locked
 35218785,40,T-Exo,★★★★★,IOP T4 Exoskeleton,-,-,-7,0,21,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
-35241896,234,Chipset,★★★★★,#2 Processor,91711390,AN-94,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
+35241896,234,Chipset,★★★★★,#2 Processor,90676896,Am RFB,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 35241899,234,Chipset,★★★★★,#2 Processor,-,-,13,0,0,0,21,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 35280868,225,Flare,★★★★★,Signal Flare,55477390,Stechkin Mod,0,0,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 35320220,236,Exclusive,★★★★★,Thompson's Exoskeleton,50842073,Thompson,-8,0,38,0,0,0%,0%,0,0,0,0%,0%,0%,0,30000,10,5,Locked
