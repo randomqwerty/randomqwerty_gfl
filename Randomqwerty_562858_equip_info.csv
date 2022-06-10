@@ -6,13 +6,13 @@
 9592028,72,HP Round,★★★★★,ILM Hollow-Point Ammo,107351764,Python,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,6,Locked
 9628426,40,T-Exo,★★★★★,IOP T4 Exoskeleton,-,-,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,12,Locked
 9705413,90,Camo Cloak,★★★★★,Thermoptic Camouflage Cape,46642779,M14 Mod,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,6,Locked
-10791979,76,Buckshot Shell,★★★★★,#000 Buckshot,171555839,LTLX7000,10,-,-,-,-,20%,-,-,-,-,-,-,-,-,10000,10,1,Locked
+10791979,76,Buckshot Shell,★★★★★,#000 Buckshot,175483428,Defender,10,-,-,-,-,20%,-,-,-,-,-,-,-,-,10000,10,1,Locked
 10792226,67,Ammo Box,★★★★,IOP High-Capacity Ammo Box,-,-,-,-,-1,-,-,-,-,-,-,-,-,-,-,3,5000,10,0,Locked
 10792230,67,Ammo Box,★★★★,IOP High-Capacity Ammo Box,-,-,-,-,-1,-,-,-,-,-,-,-,-,-,-,3,5000,10,0,Locked
 10792231,67,Ammo Box,★★★★,IOP High-Capacity Ammo Box,-,-,-,-,-1,-,-,-,-,-,-,-,-,-,-,3,5000,10,0,Locked
 10792244,4,Optical,★★★★★,VFL 6-24X56,72369341,Stella Hoshii,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10150,10,6,Locked
 10993487,58,X-Exo,★★★★★,IOP X4 Exoskeleton,117734064,El Clear,-,-,20,-,-,-,-,-,-,-,-,-,-,-,10050,10,3,Locked
-11354225,72,HP Round,★★★★★,ILM Hollow-Point Ammo,129036884,P22,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,16,Locked
+11354225,72,HP Round,★★★★★,ILM Hollow-Point Ammo,125946494,M1895 Mod,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,16,Locked
 11514786,60,Exclusive,★★★★★,.300BLK High-Velocity Ammo,48917520,ST AR-15 Mod,25,-1,-,-,-,-,-,-,-,-,-,-,-,-,30125,10,13,Locked
 11665860,16,Night Equip,★★★★★,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,10,Locked
 11674313,40,T-Exo,★★★★★,IOP T4 Exoskeleton,58231985,M950A Mod,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,16,Locked
@@ -178,7 +178,7 @@
 24088200,76,Buckshot Shell,★★★★★,#000 Buckshot,-,-,7,-,-,-,-,12%,-,-,-,-,-,-,-,-,0,0,0,Locked
 24155129,20,AP Round,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,185031839,XM3,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,25,Locked
 24335095,32,HV Round,★★★★★,APCR High-Velocity Ammo,-,-,8,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-24365807,68,Ammo Box,★★★★★,IOP Maximum Ammo Box,-,-,-,-,-3,-,-,-,-,-,-,-,-,-,-,5,10000,10,2,Locked
+24365807,68,Ammo Box,★★★★★,IOP Maximum Ammo Box,148407253,Kord,-,-,-3,-,-,-,-,-,-,-,-,-,-,5,10000,10,2,Locked
 24409219,58,X-Exo,★★★★★,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 24443357,66,Silencer,★★★★★,AC4 Suppressor,85096093,Gr MP5 Mod,-,-,6,-,-,-,14%,-,-,-,-,-,-,-,0,0,0,Locked
 24444519,62,Exclusive,★★★★★,GSG UX Exoskeleton,85096093,Gr MP5 Mod,-6,-,58,-,-,-,-,-,-,-,-,-,-,-,30000,10,28,Locked
@@ -231,7 +231,7 @@
 28430053,158,Exclusive,★★★★★,Acceleration Coil,103214168,Type88 Mod,5,-,-,-,-,-,50%,-,-,-,-,-,-,-,30000,10,15,Locked
 28599399,159,Exclusive,★★★★★,Tactical Headwear,46922341,416 Mod,25,-,20,-,-,10%,-,-,-,-,-,-,-,-,30000,10,16,Locked
 28751913,16,Night Equip,★★★★★,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,91%,-,0,0,0,Locked
-28775096,4,Optical,★★★★★,VFL 6-24X56,47068065,WA2000,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,7,Locked
+28775096,4,Optical,★★★★★,VFL 6-24X56,148407253,Kord,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,7,Locked
 28843332,16,Night Equip,★★★★★,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,94%,-,0,0,0,Locked
 28965492,58,X-Exo,★★★★★,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 28982766,16,Night Equip,★★★★★,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,91%,-,1,0,0,Locked
@@ -332,7 +332,7 @@
 34692174,266,Exclusive,★★★★★,ImpulsIIA/C,-,-,-,-,12,-,-,-,8%,-,-,-,-,-,-,-,1,0,0,Locked
 34763120,221,Exclusive,★★★★★,Magnetic Accelerated Rounds,-,-,5,-,-,-,-,-,-,178,-,-,-,-,-,-,30000,10,5,Locked
 34787655,107,Exclusive,★★★★★,Infinite Ammo Box,-,-,-25,-10,-2,-,-,-,-,-,-,-,-,-,-,20,0,0,0,Locked
-34884830,216,Exclusive,★★★★★,20-gauge Custom Slug Rounds,175483428,Defender,7,-,-,-,-,-,13%,-,-,-,-,-,-,-,1,0,0,Locked
+34884830,216,Exclusive,★★★★★,20-gauge Custom Slug Rounds,-,-,7,-,-,-,-,-,13%,-,-,-,-,-,-,-,1,0,0,Locked
 34889489,16,Night Equip,★★★★★,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,98%,-,0,0,0,Locked
 34889492,225,Signal Flare,★★★★★,Signal Flare,51382747,RO635 Mod,-,-,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 34937439,259,Exclusive,★★★★★,Old Camouflage Uniform,-,-,-,-,-,-,-,22%,-,-,-,-,-,-,-,-,1,0,0,Locked
@@ -341,7 +341,7 @@
 34989971,40,T-Exo,★★★★★,IOP T4 Exoskeleton,128689029,HS2000,-7,-,21,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 34990008,224,Auxiliary Sights,★★★★★,RMR T4 Red Dot Sight,106384600,Python,-,18,-,-,-,-,30%,-,-,-,-,-,-,-,10000,10,3,Locked
 35110319,229,Special AP Round,★★★★★,Mk1000 SLAP,174014959,Hanazono Yurine,-,-,-,-,-5,-,-,500,-,-,-,-,-,-,10000,10,13,Locked
-35110321,227,Sniper Round,★★★★★,M1022 Sniper Rounds,-,-,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,26,Locked
+35110321,227,Sniper Round,★★★★★,M1022 Sniper Rounds,148407253,Kord,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,26,Locked
 35143530,192,Exclusive,★★★★★,Beloved Dangle,51382747,RO635 Mod,-8,-,45,-,-,-,-,-,-,-,-,-,-,-,30000,10,8,Locked
 35218785,40,T-Exo,★★★★★,IOP T4 Exoskeleton,-,-,-7,-,21,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 35241896,234,Chip,★★★★★,#2 Processor,181519785,SIG MCX,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,6,Locked
@@ -382,8 +382,8 @@
 36531853,229,Special AP Round,★★★★★,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,240,-,-,-,-,-,-,0,0,0,Locked
 36708670,227,Sniper Round,★★★★★,M1022 Sniper Rounds,-,-,10,-,-,-,-,-,-,114,-,-,-,-,-,-,10000,10,7,Locked
 36718468,246,Exclusive,★★★★★,RBL Grip,-,-,-,-,8,-,-,-,12%,-,-,-,-,-,-,-,1,0,0,Locked
-36721995,227,Sniper Round,★★★★★,M1022 Sniper Rounds,-,-,10,-,-,-,-,-,-,112,-,-,-,-,-,-,10000,10,8,Locked
+36721995,227,Sniper Round,★★★★★,M1022 Sniper Rounds,85096094,M1918 Mod,10,-,-,-,-,-,-,112,-,-,-,-,-,-,10000,10,8,Locked
 36817805,235,Flash Shell,★★★★★,Shotgun Flash Shells,-,-,-,8,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 36817807,229,Special AP Round,★★★★★,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,248,-,-,-,-,-,-,0,0,0,Locked
-36877211,227,Sniper Round,★★★★★,M1022 Sniper Rounds,-,-,7,-,-,-,-,-,-,107,-,-,-,-,-,-,7600,9,0,Locked
+36877211,227,Sniper Round,★★★★★,M1022 Sniper Rounds,-,-,7,-,-,-,-,-,-,107,-,-,-,-,-,-,9300,9,0,Locked
 36899377,229,Special AP Round,★★★★★,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,244,-,-,-,-,-,-,1,0,0,Locked
