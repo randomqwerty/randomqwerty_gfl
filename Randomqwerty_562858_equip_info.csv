@@ -64,7 +64,7 @@
 17722639,99,Exclusive,★★★★★,Inherited Case,48689212,M4A1 Mod,20,-,-,-,20,-,-,-,15,-,-,-,-,-,30001,10,6,Locked
 17722650,100,Exclusive,★★★★★,Lightweight Rail Kit,48917520,ST AR-15 Mod,-,10,-,-,-,20%,-,-,-,-,-,-,-,-,30001,10,6,Locked
 17973340,129,Exclusive,★★★★★,M2 Bipod,46642779,M14 Mod,-,10,-,-,-,-,48%,-,-,-,-,-,-,-,30001,10,16,Locked
-18009243,20,AP Round,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,172429303,Carcano M91/38,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10001,10,22,Locked
+18009243,20,AP Round,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10001,10,22,Locked
 18039094,106,Exclusive,★★★★★,EOT XPS3,46922341,416 Mod,8,14,-,-,-,-,25%,-,-,-,-,-,-,-,30000,10,26,Locked
 18429595,130,Exclusive,★★★★★,Gr G36 Hybrid Sight,-,-,-,3,-,-,-,-,20%,-,-,-,-,-,-,-,1,0,0,Locked
 18552501,4,Optical,★★★★★,VFL 6-24X56,175483428,Defender,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,5,Locked
@@ -150,7 +150,7 @@
 23230975,16,Night Equip,★★★★★,PEQ-16A,61428571,Type95,-,-,-,-,-,-,-,-,-,-,-,-,95%,-,0,0,0,Locked
 23230982,44,Armor Plate,★★★★★,Type 3 Armor Plate,184547049,M26-MASS,-,-,-3,-,-,-,-,-,11,-,-,-,-,-,10000,10,1,Locked
 23231026,20,AP Round,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,46703121,Contender,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,7,Locked
-23231066,20,AP Round,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,112199872,M200,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,7,Locked
+23231066,20,AP Round,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,7,Locked
 23231120,72,HP Round,★★★★★,ILM Hollow-Point Ammo,59534472,PP-19 Mod,9,-,-,-,-,-,-,-8,-,-,-,-,-,-,3400,6,0,Locked
 23231195,66,Silencer,★★★★★,AC4 Suppressor,-,-,-,-,7,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,Locked
 23231279,66,Silencer,★★★★★,AC4 Suppressor,-,-,-,-,6,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,Locked
@@ -318,7 +318,7 @@
 34642582,58,X-Exo,★★★★★,IOP X4 Exoskeleton,-,-,-,-,10,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 34642639,16,Night Equip,★★★★★,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,93%,-,0,0,0,Locked
 34648263,72,HP Round,★★★★★,ILM Hollow-Point Ammo,-,-,8,-,-,-,-,-,-,-8,-,-,-,-,-,-,0,0,0,Locked
-34653360,227,Sniper Round,★★★★★,M1022 Sniper Rounds,181485967,RPK-203,10,-,-,-,-,-,-,117,-,-,-,-,-,-,10000,10,10,Locked
+34653360,227,Sniper Round,★★★★★,M1022 Sniper Rounds,112199872,M200,10,-,-,-,-,-,-,117,-,-,-,-,-,-,10000,10,10,Locked
 34653362,231,Birdshot,★★★★★,#7.5 Birdshot,-,-,-,-,-,-,7,-14%,-,-,-,-,-,-,-,-,0,0,0,Locked
 34653997,68,Ammo Box,★★★★★,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,2,0,0,0,Locked
 34655063,235,Flash Shell,★★★★★,Shotgun Flash Shells,184547049,M26-MASS,-,8,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
@@ -357,7 +357,7 @@
 35510423,58,X-Exo,★★★★★,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 35548838,224,Auxiliary Sights,★★★★★,RMR T4 Red Dot Sight,145426733,Desert Eagle,-,17,-,-,-,-,30%,-,-,-,-,-,-,-,10000,10,3,Locked
 35561633,229,Special AP Round,★★★★★,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,483,-,-,-,-,-,-,10000,10,0,Locked
-35561636,227,Sniper Round,★★★★★,M1022 Sniper Rounds,-,-,10,-,-,-,-,-,-,118,-,-,-,-,-,-,10000,10,13,Locked
+35561636,227,Sniper Round,★★★★★,M1022 Sniper Rounds,172429303,Carcano M91/38,10,-,-,-,-,-,-,118,-,-,-,-,-,-,10000,10,13,Locked
 35561640,40,T-Exo,★★★★★,IOP T4 Exoskeleton,-,-,-6,-,23,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 35611354,16,Night Equip,★★★★★,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,94%,-,0,0,0,Locked
 35666972,66,Silencer,★★★★★,AC4 Suppressor,182044406,Webley,-,-,6,-,-,-,12%,-,-,-,-,-,-,-,0,0,0,Locked
@@ -383,7 +383,7 @@
 36708670,227,Sniper Round,★★★★★,M1022 Sniper Rounds,69235347,Mosin-Nagant Mod,10,-,-,-,-,-,-,114,-,-,-,-,-,-,10000,10,7,Locked
 36718468,246,Exclusive,★★★★★,RBL Grip,-,-,-,-,8,-,-,-,12%,-,-,-,-,-,-,-,1,0,0,Locked
 36721995,227,Sniper Round,★★★★★,M1022 Sniper Rounds,85096094,M1918 Mod,10,-,-,-,-,-,-,112,-,-,-,-,-,-,10000,10,8,Locked
-36817805,235,Flash Shell,★★★★★,Shotgun Flash Shells,-,-,-,8,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-36817807,229,Special AP Round,★★★★★,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,322,-,-,-,-,-,-,1200,3,0,Locked
+36817805,235,Flash Shell,★★★★★,Shotgun Flash Shells,171555839,LTLX7000,-,8,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
+36817807,229,Special AP Round,★★★★★,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,347,-,-,-,-,-,-,1600,4,0,Locked
 36877211,227,Sniper Round,★★★★★,M1022 Sniper Rounds,-,-,7,-,-,-,-,-,-,111,-,-,-,-,-,-,10000,10,0,Locked
 36899377,229,Special AP Round,★★★★★,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,244,-,-,-,-,-,-,1,0,0,Locked
