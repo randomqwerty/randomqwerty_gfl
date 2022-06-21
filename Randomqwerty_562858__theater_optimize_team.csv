@@ -65,8 +65,8 @@
 714,Elementary4,Day,20095,RF,Type88 Mod,116,200,1,10,10,Exclusive (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7093,354,425,496,567,64
 714,Elementary4,Day,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),7071,353,424,494,565,65
 714,Elementary4,Day,20039,RF,Mosin-Nagant Mod,115,95,0,8,8,AP Round (5-Star),Exclusive (5-Star),Exclusive (5-Star),7014,350,420,490,561,66
-714,Elementary4,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),6968,348,418,487,557,67
-714,Elementary4,Day,50,RF,Lee Enfield,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6968,348,418,487,557,68
+714,Elementary4,Day,50,RF,Lee Enfield,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6968,348,418,487,557,67
+714,Elementary4,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),6968,348,418,487,557,68
 714,Elementary4,Day,1024,RF,Rico,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),6907,345,414,483,552,69
 714,Elementary4,Day,125,MG,Gr MG4,100,100,0,4,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),13821,345,414,483,552,70
 714,Elementary4,Day,348,RF,HS.50,100,140,1,10,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),6834,341,410,478,546,71
@@ -109,23 +109,34 @@
 714,Elementary4,Day,1022,SG,Dana Zane,100,100,0,1,0,Exclusive (5-Star),Buckshot Shell (5-Star),Night Equip (5-Star),6812,255,306,357,408,108
 714,Elementary4,Day,347,SMG,SR2,71,80,0,1,0,-,AP Round (5-Star),-,3054,229,274,320,366,109
 714,Elementary4,Day,302,SG,Defender,100,100,0,10,0,-,Exclusive (5-Star),Night Equip (5-Star),5402,202,243,283,324,110
-714,Elementary4,Day,350,SG,FO-12,100,100,0,4,0,-,Birdshot (5-Star),Night Equip (5-Star),5235,196,235,274,314,111
+714,Elementary4,Day,350,SG,FO-12,100,100,0,4,0,-,Buckshot Shell (4-Star),Night Equip (5-Star),5340,200,240,280,320,111
 714,Elementary4,Day,20152,SG,M1897 Mod,110,100,0,1,1,-,Birdshot (5-Star),Night Equip (5-Star),5212,195,234,273,312,112
-714,Elementary4,Day,160,SG,Saiga-12,100,100,0,1,0,-,Birdshot (5-Star),Night Equip (5-Star),5194,194,233,272,311,113
+714,Elementary4,Day,160,SG,Saiga-12,100,100,0,1,0,-,Buckshot Shell (3-Star),Night Equip (5-Star),5186,194,233,272,311,113
 714,Elementary4,Day,1025,SG,Triela,100,100,0,1,0,-,Exclusive (5-Star),Night Equip (5-Star),5147,193,231,270,308,114
-714,Elementary4,Day,281,SG,CAWS,100,100,0,1,0,-,Buckshot Shell (2-Star),Night Equip (5-Star),5039,188,226,264,302,115
-714,Elementary4,Day,109,MG,Gr MG5,100,100,0,10,0,AP Round (4-Star),-,Ammo Box (5-Star),6774,169,203,237,270,116
-714,Elementary4,Day,349,AR,AK74M,71,79,0,1,0,Night Equip (5-Star),-,-,1923,168,201,235,269,117
-714,Elementary4,Day,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (4-Star),-,Ammo Box (5-Star),6736,168,202,235,269,118
-714,Elementary4,Day,307,MG,ZB-26,100,100,0,1,0,AP Round (4-Star),-,Ammo Box (5-Star),6724,168,201,235,268,119
-714,Elementary4,Day,238,MG,QJY-88,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (5-Star),6637,165,199,232,265,120
-714,Elementary4,Day,208,MG,HMG21,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6321,158,189,221,252,121
-714,Elementary4,Day,275,MG,M1895 CB,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6258,156,187,219,250,122
-714,Elementary4,Day,276,MG,Kord,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6220,155,186,217,248,123
-714,Elementary4,Day,20089,MG,Bren Mod,110,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),5992,149,179,209,239,124
-714,Elementary4,Day,1010,HG,El Fail,1,100,0,1,0,-,-,-,148,20,24,28,32,125
-714,Elementary4,Day,293,AR,AK-15,1,50,0,1,0,-,-,-,179,15,18,21,25,126
-714,Elementary4,Day,353,SG,MAG-7,1,50,0,1,0,-,-,-,246,9,11,12,14,127
+714,Elementary4,Day,281,SG,CAWS,100,100,0,1,0,-,Birdshot (5-Star),Night Equip (5-Star),5116,191,230,268,306,115
+714,Elementary4,Day,165,SG,M1014,100,100,0,1,0,-,Birdshot (5-Star),Night Equip (5-Star),5071,190,228,266,304,116
+714,Elementary4,Day,156,SG,Super-Shorty,100,100,0,1,0,-,Buckshot Shell (2-Star),Night Equip (5-Star),4930,184,221,258,295,117
+714,Elementary4,Day,109,MG,Gr MG5,100,100,0,10,0,AP Round (4-Star),-,Ammo Box (5-Star),6774,169,203,237,270,118
+714,Elementary4,Day,349,AR,AK74M,71,79,0,1,0,Night Equip (5-Star),-,-,1923,168,201,235,269,119
+714,Elementary4,Day,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (4-Star),-,Ammo Box (5-Star),6736,168,202,235,269,120
+714,Elementary4,Day,307,MG,ZB-26,100,100,0,1,0,AP Round (4-Star),-,Ammo Box (5-Star),6724,168,201,235,268,121
+714,Elementary4,Day,238,MG,QJY-88,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (5-Star),6637,165,199,232,265,122
+714,Elementary4,Day,208,MG,HMG21,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6321,158,189,221,252,123
+714,Elementary4,Day,275,MG,M1895 CB,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6258,156,187,219,250,124
+714,Elementary4,Day,276,MG,Kord,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6220,155,186,217,248,125
+714,Elementary4,Day,20089,MG,Bren Mod,110,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),5992,149,179,209,239,126
+714,Elementary4,Day,1010,HG,El Fail,1,100,0,1,0,-,-,-,148,20,24,28,32,127
+714,Elementary4,Day,293,AR,AK-15,1,50,0,1,0,-,-,-,179,15,18,21,25,128
+714,Elementary4,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,15,18,21,24,129
+714,Elementary4,Day,29,SMG,STEN MkⅡ,1,50,0,1,0,-,-,-,202,15,18,21,24,130
+714,Elementary4,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,14,17,20,23,131
+714,Elementary4,Day,74,AR,SIG-510,1,50,0,1,0,-,-,-,162,14,17,19,22,132
+714,Elementary4,Day,353,SG,MAG-7,1,50,0,1,0,-,-,-,246,9,11,12,14,133
+714,Elementary4,Day,34,RF,M1 Garand,1,50,0,1,0,-,-,-,175,8,10,12,14,134
+714,Elementary4,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,7,9,11,12,135
+714,Elementary4,Day,82,MG,DP28,1,50,0,1,0,-,-,-,207,5,6,7,8,136
+714,Elementary4,Day,240,MG,Mk46,1,50,0,1,0,-,-,-,222,5,6,7,8,137
+714,Elementary4,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,5,6,7,8,138
 718,Elementary8,Day,20055,AR,M4A1 Mod,120,200,1,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),8492,1167,1401,1634,1868,1
 718,Elementary8,Day,20065,AR,416 Mod,118,200,1,10,10,Exclusive (5-Star),HV Round (5-Star),Exclusive (5-Star),7556,1038,1246,1454,1662,2
 718,Elementary8,Day,20122,AR,Gr G11 Mod,115,100,0,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),7474,1027,1233,1438,1644,3
@@ -231,42 +242,54 @@
 718,Elementary8,Day,1030,SMG,Jashin-chan,90,100,0,1,0,Exclusive (5-Star),-,Night Equip (5-Star),4999,374,449,524,599,103
 718,Elementary8,Day,1019,SMG,Dorothy Haze,100,100,0,10,0,-,Exclusive (5-Star),Night Equip (5-Star),4823,361,434,506,578,104
 718,Elementary8,Day,302,SG,Defender,100,100,0,10,0,-,Exclusive (5-Star),Night Equip (5-Star),5402,337,405,472,540,105
-718,Elementary8,Day,127,SMG,Type79,100,100,0,1,0,-,Exclusive (5-Star),Night Equip (5-Star),4444,333,399,466,533,106
-718,Elementary8,Day,350,SG,FO-12,100,100,0,4,0,-,Birdshot (5-Star),Night Equip (5-Star),5235,327,392,458,523,107
+718,Elementary8,Day,350,SG,FO-12,100,100,0,4,0,-,Buckshot Shell (4-Star),Night Equip (5-Star),5340,333,400,467,534,106
+718,Elementary8,Day,127,SMG,Type79,100,100,0,1,0,-,Exclusive (5-Star),Night Equip (5-Star),4444,333,399,466,533,107
 718,Elementary8,Day,20152,SG,M1897 Mod,110,100,0,1,1,-,Birdshot (5-Star),Night Equip (5-Star),5212,325,390,456,521,108
 718,Elementary8,Day,160,SG,Saiga-12,100,100,0,1,0,-,Birdshot (5-Star),Night Equip (5-Star),5194,324,389,454,519,109
 718,Elementary8,Day,1025,SG,Triela,100,100,0,1,0,-,Exclusive (5-Star),Night Equip (5-Star),5147,321,386,450,514,110
-718,Elementary8,Day,281,SG,CAWS,100,100,0,1,0,-,Buckshot Shell (2-Star),Night Equip (5-Star),5039,314,377,440,503,111
-718,Elementary8,Day,20037,RF,M14 Mod,117,200,1,10,10,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7401,277,333,388,444,112
-718,Elementary8,Day,20095,RF,Type88 Mod,116,200,1,10,10,Exclusive (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7093,265,319,372,425,113
-718,Elementary8,Day,349,AR,AK74M,71,79,0,1,0,Night Equip (5-Star),-,-,1923,264,317,370,423,114
-718,Elementary8,Day,20039,RF,Mosin-Nagant Mod,115,95,0,8,8,AP Round (5-Star),Exclusive (5-Star),Exclusive (5-Star),7014,263,315,368,420,115
-718,Elementary8,Day,50,RF,Lee Enfield,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6968,261,313,365,418,116
-718,Elementary8,Day,46,RF,Kar98k,100,100,0,8,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6649,249,299,349,398,117
-718,Elementary8,Day,20053,RF,NTW-20 Mod,117,200,1,10,10,Exclusive (5-Star),-,Camo Cloak (5-Star),6484,243,291,340,389,118
-718,Elementary8,Day,20051,RF,FF FN49 Mod,115,100,0,8,8,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6323,237,284,331,379,119
-718,Elementary8,Day,20252,RF,KSVK Mod,116,200,1,10,10,Exclusive (5-Star),-,Camo Cloak (5-Star),6304,236,283,330,378,120
-718,Elementary8,Day,347,SMG,SR2,71,80,0,1,0,-,AP Round (5-Star),-,3054,229,274,320,366,121
-718,Elementary8,Day,266,RF,R93,100,150,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5989,224,269,314,359,122
-718,Elementary8,Day,261,RF,QBU-88,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5928,222,266,311,355,123
-718,Elementary8,Day,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),-,Camo Cloak (5-Star),5853,219,263,307,351,124
-718,Elementary8,Day,348,RF,HS.50,100,140,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5691,213,256,298,341,125
-718,Elementary8,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5657,212,254,296,339,126
-718,Elementary8,Day,36,RF,Springfield,100,100,0,1,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5631,211,253,295,337,127
-718,Elementary8,Day,48,RF,WA2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5614,210,252,294,336,128
-718,Elementary8,Day,1024,RF,Rico,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5569,208,250,292,334,129
-718,Elementary8,Day,296,RF,Gr SL8,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5554,208,249,291,333,130
-718,Elementary8,Day,43,RF,SVD,100,100,0,10,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5370,201,241,281,322,131
-718,Elementary8,Day,231,RF,M82A1,100,100,0,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),5367,201,241,281,322,132
-718,Elementary8,Day,197,RF,Carcano M1891,100,150,1,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),5334,200,240,280,320,133
-718,Elementary8,Day,257,RF,M200,100,100,0,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),5320,199,239,279,319,134
-718,Elementary8,Day,329,RF,SVCh,100,100,0,8,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),5331,199,239,279,319,135
-718,Elementary8,Day,198,RF,Carcano M91/38,100,100,0,10,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),5295,198,238,277,317,136
-718,Elementary8,Day,20044,RF,SV-98 Mod,115,100,0,8,8,Sniper Round (5-Star),-,Exclusive (5-Star),5287,198,237,277,317,137
-718,Elementary8,Day,270,RF,4 Shiki,100,100,0,8,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5287,198,237,277,317,138
-718,Elementary8,Day,1020,RF,Stella Hoshii,100,100,0,8,0,Sniper Round (5-Star),-,Exclusive (5-Star),5142,192,231,269,308,139
-718,Elementary8,Day,1010,HG,El Fail,1,100,0,1,0,-,-,-,148,20,24,28,32,140
-718,Elementary8,Day,353,SG,MAG-7,1,50,0,1,0,-,-,-,246,15,18,21,24,141
+718,Elementary8,Day,281,SG,CAWS,100,100,0,1,0,-,Birdshot (5-Star),Night Equip (5-Star),5116,319,383,447,511,111
+718,Elementary8,Day,165,SG,M1014,100,100,0,1,0,-,Buckshot Shell (3-Star),Night Equip (5-Star),5051,315,378,441,505,112
+718,Elementary8,Day,156,SG,Super-Shorty,100,100,0,1,0,-,Buckshot Shell (2-Star),Night Equip (5-Star),4930,308,369,431,493,113
+718,Elementary8,Day,20037,RF,M14 Mod,117,200,1,10,10,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7401,277,333,388,444,114
+718,Elementary8,Day,20095,RF,Type88 Mod,116,200,1,10,10,Exclusive (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7093,265,319,372,425,115
+718,Elementary8,Day,349,AR,AK74M,71,79,0,1,0,Night Equip (5-Star),-,-,1923,264,317,370,423,116
+718,Elementary8,Day,20039,RF,Mosin-Nagant Mod,115,95,0,8,8,AP Round (5-Star),Exclusive (5-Star),Exclusive (5-Star),7014,263,315,368,420,117
+718,Elementary8,Day,50,RF,Lee Enfield,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6968,261,313,365,418,118
+718,Elementary8,Day,46,RF,Kar98k,100,100,0,8,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6649,249,299,349,398,119
+718,Elementary8,Day,20053,RF,NTW-20 Mod,117,200,1,10,10,Exclusive (5-Star),-,Camo Cloak (5-Star),6484,243,291,340,389,120
+718,Elementary8,Day,20051,RF,FF FN49 Mod,115,100,0,8,8,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6323,237,284,331,379,121
+718,Elementary8,Day,20252,RF,KSVK Mod,116,200,1,10,10,Exclusive (5-Star),-,Camo Cloak (5-Star),6304,236,283,330,378,122
+718,Elementary8,Day,347,SMG,SR2,71,80,0,1,0,-,AP Round (5-Star),-,3054,229,274,320,366,123
+718,Elementary8,Day,266,RF,R93,100,150,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5989,224,269,314,359,124
+718,Elementary8,Day,261,RF,QBU-88,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5928,222,266,311,355,125
+718,Elementary8,Day,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),-,Camo Cloak (5-Star),5853,219,263,307,351,126
+718,Elementary8,Day,348,RF,HS.50,100,140,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5691,213,256,298,341,127
+718,Elementary8,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5657,212,254,296,339,128
+718,Elementary8,Day,36,RF,Springfield,100,100,0,1,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5631,211,253,295,337,129
+718,Elementary8,Day,48,RF,WA2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5614,210,252,294,336,130
+718,Elementary8,Day,1024,RF,Rico,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5569,208,250,292,334,131
+718,Elementary8,Day,296,RF,Gr SL8,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5554,208,249,291,333,132
+718,Elementary8,Day,43,RF,SVD,100,100,0,10,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5370,201,241,281,322,133
+718,Elementary8,Day,231,RF,M82A1,100,100,0,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),5367,201,241,281,322,134
+718,Elementary8,Day,197,RF,Carcano M1891,100,150,1,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),5334,200,240,280,320,135
+718,Elementary8,Day,257,RF,M200,100,100,0,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),5320,199,239,279,319,136
+718,Elementary8,Day,329,RF,SVCh,100,100,0,8,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),5331,199,239,279,319,137
+718,Elementary8,Day,198,RF,Carcano M91/38,100,100,0,10,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),5295,198,238,277,317,138
+718,Elementary8,Day,20044,RF,SV-98 Mod,115,100,0,8,8,Sniper Round (5-Star),-,Exclusive (5-Star),5287,198,237,277,317,139
+718,Elementary8,Day,270,RF,4 Shiki,100,100,0,8,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5287,198,237,277,317,140
+718,Elementary8,Day,1020,RF,Stella Hoshii,100,100,0,8,0,Sniper Round (5-Star),-,Exclusive (5-Star),5142,192,231,269,308,141
+718,Elementary8,Day,74,AR,SIG-510,1,50,0,1,0,-,-,-,162,22,26,31,35,142
+718,Elementary8,Day,1010,HG,El Fail,1,100,0,1,0,-,-,-,148,20,24,28,32,143
+718,Elementary8,Day,10,HG,PPK,1,50,0,1,0,-,-,-,130,17,21,25,28,144
+718,Elementary8,Day,353,SG,MAG-7,1,50,0,1,0,-,-,-,246,15,18,21,24,145
+718,Elementary8,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,15,18,21,24,146
+718,Elementary8,Day,29,SMG,STEN MkⅡ,1,50,0,1,0,-,-,-,202,15,18,21,24,147
+718,Elementary8,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,14,17,20,23,148
+718,Elementary8,Day,240,MG,Mk46,1,50,0,1,0,-,-,-,222,13,16,19,22,149
+718,Elementary8,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,13,15,18,21,150
+718,Elementary8,Day,82,MG,DP28,1,50,0,1,0,-,-,-,207,12,15,18,20,151
+718,Elementary8,Day,34,RF,M1 Garand,1,50,0,1,0,-,-,-,175,6,7,9,10,152
+718,Elementary8,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,5,7,8,9,153
 724,Intermediate4,Day,20055,AR,M4A1 Mod,120,200,1,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),8492,1167,1401,1634,1868,1
 724,Intermediate4,Day,20065,AR,416 Mod,118,200,1,10,10,Exclusive (5-Star),HV Round (5-Star),Exclusive (5-Star),7556,1038,1246,1454,1662,2
 724,Intermediate4,Day,20122,AR,Gr G11 Mod,115,100,0,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),7474,1027,1233,1438,1644,3
@@ -330,8 +353,8 @@
 724,Intermediate4,Day,20095,RF,Type88 Mod,116,200,1,10,10,Exclusive (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7093,531,638,744,851,61
 724,Intermediate4,Day,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),7071,530,636,742,848,62
 724,Intermediate4,Day,20039,RF,Mosin-Nagant Mod,115,95,0,8,8,AP Round (5-Star),Exclusive (5-Star),Exclusive (5-Star),7014,526,631,736,841,63
-724,Intermediate4,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),6968,522,627,731,836,64
-724,Intermediate4,Day,50,RF,Lee Enfield,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6968,522,627,731,836,65
+724,Intermediate4,Day,50,RF,Lee Enfield,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6968,522,627,731,836,64
+724,Intermediate4,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),6968,522,627,731,836,65
 724,Intermediate4,Day,125,MG,Gr MG4,100,100,0,4,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),13821,518,621,725,829,66
 724,Intermediate4,Day,1024,RF,Rico,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),6907,518,621,725,828,67
 724,Intermediate4,Day,348,RF,HS.50,100,140,1,10,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),6834,512,615,717,820,68
@@ -378,23 +401,34 @@
 724,Intermediate4,Day,1021,MG,Alma Armas,100,100,0,1,0,Special AP Round (5-Star),-,Exclusive (5-Star),10242,384,460,537,614,109
 724,Intermediate4,Day,347,SMG,SR2,71,80,0,1,0,-,AP Round (5-Star),-,3054,381,458,534,610,110
 724,Intermediate4,Day,302,SG,Defender,100,100,0,10,0,-,Exclusive (5-Star),Night Equip (5-Star),5402,337,405,472,540,111
-724,Intermediate4,Day,350,SG,FO-12,100,100,0,4,0,-,Birdshot (5-Star),Night Equip (5-Star),5235,327,392,458,523,112
+724,Intermediate4,Day,350,SG,FO-12,100,100,0,4,0,-,Buckshot Shell (4-Star),Night Equip (5-Star),5340,333,400,467,534,112
 724,Intermediate4,Day,20152,SG,M1897 Mod,110,100,0,1,1,-,Birdshot (5-Star),Night Equip (5-Star),5212,325,390,456,521,113
 724,Intermediate4,Day,160,SG,Saiga-12,100,100,0,1,0,-,Birdshot (5-Star),Night Equip (5-Star),5194,324,389,454,519,114
 724,Intermediate4,Day,1025,SG,Triela,100,100,0,1,0,-,Exclusive (5-Star),Night Equip (5-Star),5147,321,386,450,514,115
-724,Intermediate4,Day,281,SG,CAWS,100,100,0,1,0,-,Buckshot Shell (2-Star),Night Equip (5-Star),5039,314,377,440,503,116
-724,Intermediate4,Day,349,AR,AK74M,71,79,0,1,0,Night Equip (5-Star),-,-,1923,264,317,370,423,117
-724,Intermediate4,Day,109,MG,Gr MG5,100,100,0,10,0,AP Round (4-Star),-,Ammo Box (5-Star),6774,254,304,355,406,118
-724,Intermediate4,Day,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (4-Star),-,Ammo Box (5-Star),6736,252,303,353,404,119
-724,Intermediate4,Day,307,MG,ZB-26,100,100,0,1,0,AP Round (4-Star),-,Ammo Box (5-Star),6724,252,302,353,403,120
-724,Intermediate4,Day,238,MG,QJY-88,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (5-Star),6637,248,298,348,398,121
-724,Intermediate4,Day,208,MG,HMG21,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6321,237,284,331,379,122
-724,Intermediate4,Day,275,MG,M1895 CB,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6258,234,281,328,375,123
-724,Intermediate4,Day,276,MG,Kord,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6220,233,279,326,373,124
-724,Intermediate4,Day,20089,MG,Bren Mod,110,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),5992,224,269,314,359,125
-724,Intermediate4,Day,1009,HG,El Clear,1,100,0,1,0,-,-,-,148,20,24,28,32,126
-724,Intermediate4,Day,1010,HG,El Fail,1,100,0,1,0,-,-,-,148,20,24,28,32,127
-724,Intermediate4,Day,353,SG,MAG-7,1,50,0,1,0,-,-,-,246,15,18,21,24,128
+724,Intermediate4,Day,281,SG,CAWS,100,100,0,1,0,-,Birdshot (5-Star),Night Equip (5-Star),5116,319,383,447,511,116
+724,Intermediate4,Day,165,SG,M1014,100,100,0,1,0,-,Buckshot Shell (3-Star),Night Equip (5-Star),5051,315,378,441,505,117
+724,Intermediate4,Day,156,SG,Super-Shorty,100,100,0,1,0,-,Buckshot Shell (2-Star),Night Equip (5-Star),4930,308,369,431,493,118
+724,Intermediate4,Day,349,AR,AK74M,71,79,0,1,0,Night Equip (5-Star),-,-,1923,264,317,370,423,119
+724,Intermediate4,Day,109,MG,Gr MG5,100,100,0,10,0,AP Round (4-Star),-,Ammo Box (5-Star),6774,254,304,355,406,120
+724,Intermediate4,Day,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (4-Star),-,Ammo Box (5-Star),6736,252,303,353,404,121
+724,Intermediate4,Day,307,MG,ZB-26,100,100,0,1,0,AP Round (4-Star),-,Ammo Box (5-Star),6724,252,302,353,403,122
+724,Intermediate4,Day,238,MG,QJY-88,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (5-Star),6637,248,298,348,398,123
+724,Intermediate4,Day,208,MG,HMG21,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6321,237,284,331,379,124
+724,Intermediate4,Day,275,MG,M1895 CB,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6258,234,281,328,375,125
+724,Intermediate4,Day,276,MG,Kord,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6220,233,279,326,373,126
+724,Intermediate4,Day,20089,MG,Bren Mod,110,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),5992,224,269,314,359,127
+724,Intermediate4,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,25,30,35,40,128
+724,Intermediate4,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,24,29,34,39,129
+724,Intermediate4,Day,74,AR,SIG-510,1,50,0,1,0,-,-,-,162,22,26,31,35,130
+724,Intermediate4,Day,1009,HG,El Clear,1,100,0,1,0,-,-,-,148,20,24,28,32,131
+724,Intermediate4,Day,1010,HG,El Fail,1,100,0,1,0,-,-,-,148,20,24,28,32,132
+724,Intermediate4,Day,10,HG,PPK,1,50,0,1,0,-,-,-,130,17,21,25,28,133
+724,Intermediate4,Day,353,SG,MAG-7,1,50,0,1,0,-,-,-,246,15,18,21,24,134
+724,Intermediate4,Day,34,RF,M1 Garand,1,50,0,1,0,-,-,-,175,13,15,18,21,135
+724,Intermediate4,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,11,14,16,19,136
+724,Intermediate4,Day,240,MG,Mk46,1,50,0,1,0,-,-,-,222,8,9,11,13,137
+724,Intermediate4,Day,82,MG,DP28,1,50,0,1,0,-,-,-,207,7,9,10,12,138
+724,Intermediate4,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,7,9,11,12,139
 728,Intermediate8,Day,213,SMG,C-MS,100,100,0,8,0,Chip (5-Star),AP Round (5-Star),Red Dot (5-Star),7886,985,1182,1380,1577,1
 728,Intermediate8,Day,183,HG,Contender,100,100,0,10,0,Auxiliary Sights (5-Star),AP Round (5-Star),X-Exo (5-Star),4860,972,1166,1360,1555,2
 728,Intermediate8,Day,164,SG,FP-6,100,100,0,1,0,Armor Plate (5-Star),Buckshot Shell (5-Star),Red Dot (5-Star),7521,902,1083,1263,1444,3
@@ -442,9 +476,9 @@
 728,Intermediate8,Day,20032,SMG,Micro Uzi Mod,113,100,0,9,8,T-Exo (5-Star),-,Silencer (5-Star),5599,699,839,979,1119,45
 728,Intermediate8,Day,28,SMG,Gr MP7,100,100,0,8,0,T-Exo (5-Star),-,Silencer (5-Star),5584,698,837,977,1116,46
 728,Intermediate8,Day,20029,SMG,STEN MkⅡ Mod,110,100,0,3,0,T-Exo (5-Star),-,Silencer (5-Star),5526,690,828,967,1105,47
-728,Intermediate8,Day,135,SMG,SR-3MP,100,100,0,10,0,T-Exo (5-Star),-,Silencer (5-Star),5490,686,823,960,1098,48
-728,Intermediate8,Day,272,HG,Desert Eagle,100,100,0,10,0,Silencer (5-Star),-,T-Exo (5-Star),3397,679,815,951,1087,49
-728,Intermediate8,Day,1022,SG,Dana Zane,100,100,0,1,0,Exclusive (5-Star),Birdshot (5-Star),Optical (5-Star),6779,677,813,949,1084,50
+728,Intermediate8,Day,1022,SG,Dana Zane,100,100,0,1,0,Exclusive (5-Star),Buckshot Shell (4-Star),Optical (5-Star),6894,689,827,965,1103,48
+728,Intermediate8,Day,135,SMG,SR-3MP,100,100,0,10,0,T-Exo (5-Star),-,Silencer (5-Star),5490,686,823,960,1098,49
+728,Intermediate8,Day,272,HG,Desert Eagle,100,100,0,10,0,Silencer (5-Star),-,T-Exo (5-Star),3397,679,815,951,1087,50
 728,Intermediate8,Day,1023,SMG,Henrietta,90,100,0,1,0,T-Exo (5-Star),-,Exclusive (5-Star),5289,661,793,925,1057,51
 728,Intermediate8,Day,20065,AR,416 Mod,118,200,1,10,10,Exclusive (5-Star),HV Round (5-Star),Exclusive (5-Star),7556,661,793,925,1057,52
 728,Intermediate8,Day,20,SMG,Vector,100,100,0,10,0,Exo (5-Star),-,Optical (5-Star),5232,654,784,915,1046,53
@@ -466,70 +500,81 @@
 728,Intermediate8,Day,1027,AR,Angelica,100,100,0,10,0,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),6211,543,652,760,869,69
 728,Intermediate8,Day,118,AR,9A-91,100,100,0,10,0,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),6206,543,651,760,868,70
 728,Intermediate8,Day,266,RF,R93,100,150,1,10,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),7214,541,649,757,865,71
-728,Intermediate8,Day,1025,SG,Triela,100,100,0,1,0,-,Exclusive (5-Star),Optical (5-Star),5383,538,645,753,861,72
-728,Intermediate8,Day,350,SG,FO-12,100,100,0,4,0,-,Birdshot (5-Star),Optical (5-Star),5366,536,643,751,858,73
+728,Intermediate8,Day,350,SG,FO-12,100,100,0,4,0,-,Buckshot Shell (3-Star),Optical (5-Star),5411,541,649,757,865,72
+728,Intermediate8,Day,1025,SG,Triela,100,100,0,1,0,-,Exclusive (5-Star),Optical (5-Star),5383,538,645,753,861,73
 728,Intermediate8,Day,261,RF,QBU-88,100,100,0,8,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),7125,534,641,748,855,74
 728,Intermediate8,Day,20152,SG,M1897 Mod,110,100,0,1,1,-,Birdshot (5-Star),Optical (5-Star),5335,533,640,746,853,75
 728,Intermediate8,Day,62,AR,Gr G41,100,100,0,2,0,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),6079,531,638,744,851,76
 728,Intermediate8,Day,20095,RF,Type88 Mod,116,200,1,10,10,Exclusive (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7093,531,638,744,851,77
-728,Intermediate8,Day,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),7071,530,636,742,848,78
+728,Intermediate8,Day,160,SG,Saiga-12,100,100,0,1,0,-,Birdshot (5-Star),Optical (5-Star),5314,531,637,743,850,78
 728,Intermediate8,Day,20039,RF,Mosin-Nagant Mod,115,95,0,8,8,AP Round (5-Star),Exclusive (5-Star),Exclusive (5-Star),7014,526,631,736,841,79
 728,Intermediate8,Day,50,RF,Lee Enfield,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6968,522,627,731,836,80
 728,Intermediate8,Day,125,MG,Gr MG4,100,100,0,4,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),13821,518,621,725,829,81
-728,Intermediate8,Day,160,SG,Saiga-12,100,100,0,1,0,-,Buckshot Shell (2-Star),Night Equip (5-Star),5119,511,614,716,819,82
-728,Intermediate8,Day,46,RF,Kar98k,100,100,0,8,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6649,498,598,698,797,83
-728,Intermediate8,Day,1033,MG,Hanazono Yurine,100,100,0,8,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),13019,488,585,683,781,84
-728,Intermediate8,Day,20064,AR,Gr G36 Mod,117,200,1,8,8,Exclusive (5-Star),HV Round (5-Star),-,5548,485,582,679,776,85
-728,Intermediate8,Day,215,AR,MDR,100,100,0,10,0,Exclusive (5-Star),HV Round (5-Star),-,5429,475,570,665,760,86
-728,Intermediate8,Day,20051,RF,FF FN49 Mod,115,100,0,8,8,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6323,474,569,663,758,87
-728,Intermediate8,Day,1032,AR,Medusa,92,100,0,4,0,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),5333,466,559,653,746,88
-728,Intermediate8,Day,54,AR,M16A1,100,100,0,1,0,HV Round (5-Star),Exclusive (5-Star),-,5167,452,542,632,723,89
-728,Intermediate8,Day,172,AR,Am RFB,100,100,0,10,0,Exclusive (5-Star),HV Round (5-Star),-,5095,445,534,624,713,90
-728,Intermediate8,Day,1029,AR,Agent 416,100,100,0,4,0,Exclusive (5-Star),HV Round (5-Star),Exclusive (5-Star),5027,439,527,615,703,91
-728,Intermediate8,Day,85,MG,PK,100,100,0,10,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),11674,437,525,612,700,92
-728,Intermediate8,Day,130,AR,Type97,100,100,0,8,0,Exclusive (5-Star),HV Round (5-Star),-,4991,436,524,611,698,93
-728,Intermediate8,Day,1026,MG,Claes,90,100,0,1,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),11544,432,519,606,692,94
-728,Intermediate8,Day,348,RF,HS.50,100,140,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5691,426,512,597,682,95
-728,Intermediate8,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5657,424,509,593,678,96
-728,Intermediate8,Day,36,RF,Springfield,100,100,0,1,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5631,422,506,591,675,97
-728,Intermediate8,Day,48,RF,WA2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5614,421,505,589,673,98
-728,Intermediate8,Day,206,AR,AK-12,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),-,4808,420,504,588,673,99
-728,Intermediate8,Day,20060,AR,AS Val Mod,115,100,0,10,10,Night Equip (5-Star),Exclusive (5-Star),-,4791,419,503,586,670,100
-728,Intermediate8,Day,1024,RF,Rico,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5569,417,501,584,668,101
-728,Intermediate8,Day,205,AR,AN-94,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),-,4767,417,500,583,667,102
-728,Intermediate8,Day,73,AR,AUG,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),-,4760,416,499,583,666,103
-728,Intermediate8,Day,296,RF,Gr SL8,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5554,416,499,583,666,104
-728,Intermediate8,Day,231,RF,M82A1,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5540,415,498,581,664,105
-728,Intermediate8,Day,329,RF,SVCh,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5517,413,496,579,662,106
-728,Intermediate8,Day,197,RF,Carcano M1891,100,150,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5511,413,495,578,661,107
-728,Intermediate8,Day,257,RF,M200,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5500,412,495,577,660,108
-728,Intermediate8,Day,20044,RF,SV-98 Mod,115,100,0,8,8,AP Round (5-Star),-,Exclusive (5-Star),5476,410,492,574,657,109
-728,Intermediate8,Day,198,RF,Carcano M91/38,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5473,410,492,574,656,110
-728,Intermediate8,Day,72,AR,TAR-21,90,100,0,1,0,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),4685,409,491,573,655,111
-728,Intermediate8,Day,292,MG,RPK-16,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10820,405,486,568,649,112
-728,Intermediate8,Day,243,AR,64 Shiki,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),-,4634,405,486,567,648,113
-728,Intermediate8,Day,253,MG,Lewis,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10803,405,486,567,648,114
-728,Intermediate8,Day,148,RF,IWS 2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5384,403,484,565,646,115
-728,Intermediate8,Day,43,RF,SVD,100,100,0,10,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5370,402,483,563,644,116
-728,Intermediate8,Day,1020,RF,Stella Hoshii,100,100,0,8,0,AP Round (5-Star),-,Exclusive (5-Star),5341,400,480,560,640,117
-728,Intermediate8,Day,20075,MG,M1918 Mod,115,100,0,6,10,Special AP Round (5-Star),-,Exclusive (5-Star),10524,394,473,552,631,118
-728,Intermediate8,Day,112,MG,Negev,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10512,394,473,551,630,119
-728,Intermediate8,Day,173,MG,PKP,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10407,390,468,546,624,120
-728,Intermediate8,Day,339,MG,RPK-203,100,100,0,9,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10370,388,466,544,622,121
-728,Intermediate8,Day,1021,MG,Alma Armas,100,100,0,1,0,Special AP Round (5-Star),-,Exclusive (5-Star),10242,384,460,537,614,122
-728,Intermediate8,Day,347,SMG,SR2,71,80,0,1,0,-,AP Round (5-Star),-,3054,381,458,534,610,123
-728,Intermediate8,Day,109,MG,Gr MG5,100,100,0,10,0,AP Round (4-Star),-,Ammo Box (5-Star),6774,254,304,355,406,124
-728,Intermediate8,Day,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (4-Star),-,Ammo Box (5-Star),6736,252,303,353,404,125
-728,Intermediate8,Day,307,MG,ZB-26,100,100,0,1,0,AP Round (4-Star),-,Ammo Box (5-Star),6724,252,302,353,403,126
-728,Intermediate8,Day,238,MG,QJY-88,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (5-Star),6637,248,298,348,398,127
-728,Intermediate8,Day,208,MG,HMG21,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6321,237,284,331,379,128
-728,Intermediate8,Day,275,MG,M1895 CB,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6258,234,281,328,375,129
-728,Intermediate8,Day,276,MG,Kord,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6220,233,279,326,373,130
-728,Intermediate8,Day,20089,MG,Bren Mod,110,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),5992,224,269,314,359,131
-728,Intermediate8,Day,349,AR,AK74M,71,79,0,1,0,Night Equip (5-Star),-,-,1923,168,201,235,269,132
-728,Intermediate8,Day,1010,HG,El Fail,1,100,0,1,0,-,-,-,148,29,35,41,47,133
-728,Intermediate8,Day,353,SG,MAG-7,1,50,0,1,0,-,-,-,246,24,29,34,39,134
-728,Intermediate8,Day,293,AR,AK-15,1,50,0,1,0,-,-,-,179,15,18,21,25,135
+728,Intermediate8,Day,281,SG,CAWS,100,100,0,1,0,-,Birdshot (5-Star),Night Equip (5-Star),5116,511,613,716,818,82
+728,Intermediate8,Day,165,SG,M1014,100,100,0,1,0,-,Buckshot Shell (2-Star),Night Equip (5-Star),4989,498,598,698,798,83
+728,Intermediate8,Day,46,RF,Kar98k,100,100,0,8,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6649,498,598,698,797,84
+728,Intermediate8,Day,1033,MG,Hanazono Yurine,100,100,0,8,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),13019,488,585,683,781,85
+728,Intermediate8,Day,20064,AR,Gr G36 Mod,117,200,1,8,8,Exclusive (5-Star),HV Round (5-Star),-,5548,485,582,679,776,86
+728,Intermediate8,Day,215,AR,MDR,100,100,0,10,0,Exclusive (5-Star),HV Round (5-Star),-,5429,475,570,665,760,87
+728,Intermediate8,Day,20051,RF,FF FN49 Mod,115,100,0,8,8,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6323,474,569,663,758,88
+728,Intermediate8,Day,1032,AR,Medusa,92,100,0,4,0,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),5333,466,559,653,746,89
+728,Intermediate8,Day,54,AR,M16A1,100,100,0,1,0,HV Round (5-Star),Exclusive (5-Star),-,5167,452,542,632,723,90
+728,Intermediate8,Day,172,AR,Am RFB,100,100,0,10,0,Exclusive (5-Star),HV Round (5-Star),-,5095,445,534,624,713,91
+728,Intermediate8,Day,1029,AR,Agent 416,100,100,0,4,0,Exclusive (5-Star),HV Round (5-Star),Exclusive (5-Star),5027,439,527,615,703,92
+728,Intermediate8,Day,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),-,Camo Cloak (5-Star),5853,438,526,614,702,93
+728,Intermediate8,Day,85,MG,PK,100,100,0,10,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),11674,437,525,612,700,94
+728,Intermediate8,Day,130,AR,Type97,100,100,0,8,0,Exclusive (5-Star),HV Round (5-Star),-,4991,436,524,611,698,95
+728,Intermediate8,Day,1026,MG,Claes,90,100,0,1,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),11544,432,519,606,692,96
+728,Intermediate8,Day,348,RF,HS.50,100,140,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5691,426,512,597,682,97
+728,Intermediate8,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5657,424,509,593,678,98
+728,Intermediate8,Day,36,RF,Springfield,100,100,0,1,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5631,422,506,591,675,99
+728,Intermediate8,Day,48,RF,WA2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5614,421,505,589,673,100
+728,Intermediate8,Day,206,AR,AK-12,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),-,4808,420,504,588,673,101
+728,Intermediate8,Day,20060,AR,AS Val Mod,115,100,0,10,10,Night Equip (5-Star),Exclusive (5-Star),-,4791,419,503,586,670,102
+728,Intermediate8,Day,1024,RF,Rico,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5569,417,501,584,668,103
+728,Intermediate8,Day,205,AR,AN-94,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),-,4767,417,500,583,667,104
+728,Intermediate8,Day,73,AR,AUG,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),-,4760,416,499,583,666,105
+728,Intermediate8,Day,296,RF,Gr SL8,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5554,416,499,583,666,106
+728,Intermediate8,Day,231,RF,M82A1,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5540,415,498,581,664,107
+728,Intermediate8,Day,329,RF,SVCh,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5517,413,496,579,662,108
+728,Intermediate8,Day,197,RF,Carcano M1891,100,150,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5511,413,495,578,661,109
+728,Intermediate8,Day,257,RF,M200,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5500,412,495,577,660,110
+728,Intermediate8,Day,20044,RF,SV-98 Mod,115,100,0,8,8,AP Round (5-Star),-,Exclusive (5-Star),5476,410,492,574,657,111
+728,Intermediate8,Day,198,RF,Carcano M91/38,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5473,410,492,574,656,112
+728,Intermediate8,Day,72,AR,TAR-21,90,100,0,1,0,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),4685,409,491,573,655,113
+728,Intermediate8,Day,292,MG,RPK-16,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10820,405,486,568,649,114
+728,Intermediate8,Day,243,AR,64 Shiki,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),-,4634,405,486,567,648,115
+728,Intermediate8,Day,253,MG,Lewis,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10803,405,486,567,648,116
+728,Intermediate8,Day,148,RF,IWS 2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5384,403,484,565,646,117
+728,Intermediate8,Day,43,RF,SVD,100,100,0,10,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5370,402,483,563,644,118
+728,Intermediate8,Day,1020,RF,Stella Hoshii,100,100,0,8,0,AP Round (5-Star),-,Exclusive (5-Star),5341,400,480,560,640,119
+728,Intermediate8,Day,20075,MG,M1918 Mod,115,100,0,6,10,Special AP Round (5-Star),-,Exclusive (5-Star),10524,394,473,552,631,120
+728,Intermediate8,Day,112,MG,Negev,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10512,394,473,551,630,121
+728,Intermediate8,Day,173,MG,PKP,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10407,390,468,546,624,122
+728,Intermediate8,Day,339,MG,RPK-203,100,100,0,9,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10370,388,466,544,622,123
+728,Intermediate8,Day,1021,MG,Alma Armas,100,100,0,1,0,Special AP Round (5-Star),-,Exclusive (5-Star),10242,384,460,537,614,124
+728,Intermediate8,Day,347,SMG,SR2,71,80,0,1,0,-,AP Round (5-Star),-,3054,381,458,534,610,125
+728,Intermediate8,Day,109,MG,Gr MG5,100,100,0,10,0,AP Round (4-Star),-,Ammo Box (5-Star),6774,254,304,355,406,126
+728,Intermediate8,Day,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (4-Star),-,Ammo Box (5-Star),6736,252,303,353,404,127
+728,Intermediate8,Day,307,MG,ZB-26,100,100,0,1,0,AP Round (4-Star),-,Ammo Box (5-Star),6724,252,302,353,403,128
+728,Intermediate8,Day,238,MG,QJY-88,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (5-Star),6637,248,298,348,398,129
+728,Intermediate8,Day,208,MG,HMG21,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6321,237,284,331,379,130
+728,Intermediate8,Day,275,MG,M1895 CB,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6258,234,281,328,375,131
+728,Intermediate8,Day,276,MG,Kord,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6220,233,279,326,373,132
+728,Intermediate8,Day,20089,MG,Bren Mod,110,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),5992,224,269,314,359,133
+728,Intermediate8,Day,349,AR,AK74M,71,79,0,1,0,Night Equip (5-Star),-,-,1923,168,201,235,269,134
+728,Intermediate8,Day,1010,HG,El Fail,1,100,0,1,0,-,-,-,148,29,35,41,47,135
+728,Intermediate8,Day,10,HG,PPK,1,50,0,1,0,-,-,-,130,26,31,36,41,136
+728,Intermediate8,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,25,30,35,40,137
+728,Intermediate8,Day,353,SG,MAG-7,1,50,0,1,0,-,-,-,246,24,29,34,39,138
+728,Intermediate8,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,24,29,34,39,139
+728,Intermediate8,Day,293,AR,AK-15,1,50,0,1,0,-,-,-,179,15,18,21,25,140
+728,Intermediate8,Day,74,AR,SIG-510,1,50,0,1,0,-,-,-,162,14,17,19,22,141
+728,Intermediate8,Day,34,RF,M1 Garand,1,50,0,1,0,-,-,-,175,13,15,18,21,142
+728,Intermediate8,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,11,14,16,19,143
+728,Intermediate8,Day,240,MG,Mk46,1,50,0,1,0,-,-,-,222,8,9,11,13,144
+728,Intermediate8,Day,82,MG,DP28,1,50,0,1,0,-,-,-,207,7,9,10,12,145
+728,Intermediate8,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,7,9,11,12,146
 733,Advanced3,Day,183,HG,Contender,100,100,0,10,0,Auxiliary Sights (5-Star),AP Round (5-Star),X-Exo (5-Star),4860,972,1166,1360,1555,1
 733,Advanced3,Day,260,HG,PA-15,100,100,0,8,0,Auxiliary Sights (5-Star),HP Round (5-Star),X-Exo (5-Star),3743,898,1077,1257,1437,2
 733,Advanced3,Day,329,RF,SVCh,100,100,0,8,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),6632,895,1074,1253,1432,3
@@ -545,8 +590,8 @@
 733,Advanced3,Day,20095,RF,Type88 Mod,116,200,1,10,10,Exclusive (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7093,797,957,1117,1276,13
 733,Advanced3,Day,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),7071,795,954,1113,1272,14
 733,Advanced3,Day,20039,RF,Mosin-Nagant Mod,115,95,0,8,8,AP Round (5-Star),Exclusive (5-Star),Exclusive (5-Star),7014,789,946,1104,1262,15
-733,Advanced3,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),6968,783,940,1097,1254,16
-733,Advanced3,Day,50,RF,Lee Enfield,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6968,783,940,1097,1254,17
+733,Advanced3,Day,50,RF,Lee Enfield,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6968,783,940,1097,1254,16
+733,Advanced3,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),6968,783,940,1097,1254,17
 733,Advanced3,Day,229,SG,M870,100,100,0,10,0,Armor Plate (5-Star),Buckshot Shell (5-Star),Red Dot (5-Star),7823,782,938,1095,1251,18
 733,Advanced3,Day,20001,HG,SAA Mod,115,100,0,10,10,Silencer (5-Star),HP Round (5-Star),T-Exo (5-Star),3905,781,937,1093,1249,19
 733,Advanced3,Day,1024,RF,Rico,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),6907,777,932,1087,1243,20
@@ -580,15 +625,15 @@
 733,Advanced3,Day,20044,RF,SV-98 Mod,115,100,0,8,8,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),6548,736,883,1031,1178,48
 733,Advanced3,Day,142,HG,Five-seven,100,100,0,10,0,Silencer (5-Star),HP Round (5-Star),X-Exo (5-Star),3674,734,881,1028,1175,49
 733,Advanced3,Day,324,SG,M6 ASW,100,100,0,1,0,Armor Plate (5-Star),Birdshot (5-Star),Holographic (5-Star),7349,734,881,1028,1175,50
-733,Advanced3,Day,1034,SG,Minos,90,100,0,1,0,Armor Plate (5-Star),Birdshot (5-Star),Exclusive (5-Star),7337,733,880,1027,1173,51
+733,Advanced3,Day,1034,SG,Minos,90,100,0,1,0,Armor Plate (5-Star),Buckshot Shell (4-Star),Exclusive (5-Star),7335,733,880,1026,1173,51
 733,Advanced3,Day,352,SG,Nova,100,100,0,10,0,Armor Plate (5-Star),Birdshot (5-Star),Holographic (5-Star),7277,727,873,1018,1164,52
 733,Advanced3,Day,148,RF,IWS 2000,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),6446,725,870,1015,1160,53
 733,Advanced3,Day,43,RF,SVD,100,100,0,10,0,Exclusive (5-Star),Optical (5-Star),Camo Cloak (5-Star),6447,725,870,1015,1160,54
 733,Advanced3,Day,1020,RF,Stella Hoshii,100,100,0,8,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),6431,723,868,1012,1157,55
-733,Advanced3,Day,20154,SG,M500 Mod,110,100,0,8,10,Armor Plate (5-Star),Slug Shell (5-Star),Holographic (5-Star),7214,721,865,1009,1154,56
+733,Advanced3,Day,20154,SG,M500 Mod,110,100,0,8,10,Armor Plate (5-Star),Birdshot (5-Star),Holographic (5-Star),7219,721,866,1010,1155,56
 733,Advanced3,Day,1009,HG,El Clear,100,100,0,10,0,Silencer (5-Star),HP Round (5-Star),X-Exo (5-Star),3586,717,860,1004,1147,57
 733,Advanced3,Day,222,RF,TAC-50,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),6367,716,859,1002,1146,58
-733,Advanced3,Day,164,SG,FP-6,100,100,0,1,0,Armor Plate (5-Star),Flash Shell (5-Star),Optical (5-Star),7146,714,857,1000,1143,59
+733,Advanced3,Day,164,SG,FP-6,100,100,0,1,0,Armor Plate (5-Star),Slug Shell (5-Star),Optical (5-Star),7146,714,857,1000,1143,59
 733,Advanced3,Day,20091,HG,MP-446 Mod,110,100,0,10,10,Silencer (5-Star),HP Round (5-Star),X-Exo (5-Star),3572,714,857,1000,1143,60
 733,Advanced3,Day,351,SG,M26-MASS,100,100,0,1,0,Armor Plate (5-Star),Flash Shell (5-Star),Optical (5-Star),7139,713,856,999,1142,61
 733,Advanced3,Day,20005,HG,M1895 Mod,112,100,0,8,8,Silencer (5-Star),HP Round (5-Star),T-Exo (5-Star),3551,710,852,994,1136,62
@@ -614,58 +659,68 @@
 733,Advanced3,Day,132,HG,Type59,100,100,0,8,0,Night Equip (5-Star),-,Exo (5-Star),2770,554,664,775,886,82
 733,Advanced3,Day,160,SG,Saiga-12,100,100,0,1,0,-,Flash Shell (5-Star),Night Equip (5-Star),5494,549,659,769,879,83
 733,Advanced3,Day,302,SG,Defender,100,100,0,10,0,-,Flash Shell (5-Star),Night Equip (5-Star),5457,545,654,763,873,84
-733,Advanced3,Day,20064,AR,Gr G36 Mod,117,200,1,8,8,Exclusive (5-Star),HV Round (5-Star),Chip (5-Star),6084,532,638,745,851,85
-733,Advanced3,Day,54,AR,M16A1,100,100,0,1,0,HV Round (5-Star),Exclusive (5-Star),Chip (5-Star),5930,518,622,726,830,86
-733,Advanced3,Day,215,AR,MDR,100,100,0,10,0,Exclusive (5-Star),HV Round (5-Star),Chip (5-Star),5931,518,622,726,830,87
-733,Advanced3,Day,125,MG,Gr MG4,100,100,0,4,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),13821,518,621,725,829,88
-733,Advanced3,Day,206,AR,AK-12,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),Chip (5-Star),5916,517,621,724,828,89
-733,Advanced3,Day,1025,SG,Triela,100,100,0,1,0,-,Exclusive (5-Star),Night Equip (5-Star),5147,514,617,720,823,90
-733,Advanced3,Day,20152,SG,M1897 Mod,110,100,0,1,1,-,Buckshot Shell (2-Star),Night Equip (5-Star),5092,509,611,712,814,91
-733,Advanced3,Day,20056,AR,M4 SOPMOD II Mod,120,200,1,10,10,Night Equip (5-Star),Exclusive (5-Star),HV Round (5-Star),5622,491,590,688,787,92
-733,Advanced3,Day,1033,MG,Hanazono Yurine,100,100,0,8,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),13019,488,585,683,781,93
-733,Advanced3,Day,1027,AR,Angelica,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),5574,487,585,682,780,94
-733,Advanced3,Day,118,AR,9A-91,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),5478,479,575,671,766,95
-733,Advanced3,Day,20143,SMG,RO635 Mod,115,100,0,10,10,Exclusive (5-Star),-,Night Equip (5-Star),6335,475,570,665,760,96
-733,Advanced3,Day,62,AR,Gr G41,100,100,0,2,0,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),5388,471,565,660,754,97
-733,Advanced3,Day,20103,SMG,UMP45 Mod,117,100,0,10,10,Exclusive (5-Star),-,Exclusive (5-Star),6283,471,565,659,753,98
-733,Advanced3,Day,20057,AR,ST AR-15 Mod,120,200,1,10,10,Night Equip (5-Star),Exclusive (5-Star),Exclusive (5-Star),5377,470,564,658,752,99
-733,Advanced3,Day,1032,AR,Medusa,92,100,0,4,0,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),5333,466,559,653,746,100
-733,Advanced3,Day,172,AR,Am RFB,100,100,0,10,0,Exclusive (5-Star),HV Round (5-Star),-,5095,445,534,624,713,101
-733,Advanced3,Day,20026,SMG,Gr MP5 Mod,112,150,1,10,10,Exclusive (5-Star),-,Night Equip (5-Star),5927,444,533,622,711,102
-733,Advanced3,Day,1029,AR,Agent 416,100,100,0,4,0,Exclusive (5-Star),HV Round (5-Star),Exclusive (5-Star),5027,439,527,615,703,103
-733,Advanced3,Day,85,MG,PK,100,100,0,10,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),11674,437,525,612,700,104
-733,Advanced3,Day,130,AR,Type97,100,100,0,8,0,Exclusive (5-Star),HV Round (5-Star),-,4991,436,524,611,698,105
-733,Advanced3,Day,1026,MG,Claes,90,100,0,1,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),11544,432,519,606,692,106
-733,Advanced3,Day,16,SMG,Thompson,100,100,0,10,0,Exclusive (5-Star),-,Night Equip (5-Star),5732,429,515,601,687,107
-733,Advanced3,Day,1028,SMG,Agent Vector,100,100,0,8,0,Exclusive (5-Star),Exclusive (5-Star),Exclusive (5-Star),5603,420,504,588,672,108
-733,Advanced3,Day,20060,AR,AS Val Mod,115,100,0,10,10,Night Equip (5-Star),Exclusive (5-Star),-,4791,419,503,586,670,109
-733,Advanced3,Day,205,AR,AN-94,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),-,4767,417,500,583,667,110
-733,Advanced3,Day,73,AR,AUG,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),-,4760,416,499,583,666,111
-733,Advanced3,Day,115,SMG,Suomi,100,100,0,4,0,Exclusive (5-Star),-,Night Equip (5-Star),5525,414,497,580,663,112
-733,Advanced3,Day,72,AR,TAR-21,90,100,0,1,0,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),4685,409,491,573,655,113
-733,Advanced3,Day,292,MG,RPK-16,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10820,405,486,568,649,114
-733,Advanced3,Day,243,AR,64 Shiki,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),-,4634,405,486,567,648,115
-733,Advanced3,Day,253,MG,Lewis,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10803,405,486,567,648,116
-733,Advanced3,Day,213,SMG,C-MS,100,100,0,8,0,-,AP Round (4-Star),Night Equip (5-Star),5297,397,476,556,635,117
-733,Advanced3,Day,20075,MG,M1918 Mod,115,100,0,6,10,Special AP Round (5-Star),-,Exclusive (5-Star),10524,394,473,552,631,118
-733,Advanced3,Day,112,MG,Negev,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10512,394,473,551,630,119
-733,Advanced3,Day,173,MG,PKP,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10407,390,468,546,624,120
-733,Advanced3,Day,339,MG,RPK-203,100,100,0,9,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10370,388,466,544,622,121
-733,Advanced3,Day,1021,MG,Alma Armas,100,100,0,1,0,Special AP Round (5-Star),-,Exclusive (5-Star),10242,384,460,537,614,122
-733,Advanced3,Day,1030,SMG,Jashin-chan,90,100,0,1,0,Exclusive (5-Star),-,Night Equip (5-Star),4999,374,449,524,599,123
-733,Advanced3,Day,1019,SMG,Dorothy Haze,100,100,0,10,0,-,Exclusive (5-Star),Night Equip (5-Star),4823,361,434,506,578,124
-733,Advanced3,Day,127,SMG,Type79,100,100,0,1,0,-,Exclusive (5-Star),Night Equip (5-Star),4444,333,399,466,533,125
-733,Advanced3,Day,109,MG,Gr MG5,100,100,0,10,0,AP Round (4-Star),-,Ammo Box (5-Star),6774,254,304,355,406,126
-733,Advanced3,Day,20081,MG,LWMMG Mod,110,100,0,8,8,Sniper Round (5-Star),-,Ammo Box (5-Star),6736,252,303,353,404,127
-733,Advanced3,Day,307,MG,ZB-26,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (5-Star),6724,252,302,353,403,128
-733,Advanced3,Day,238,MG,QJY-88,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (5-Star),6637,248,298,348,398,129
-733,Advanced3,Day,208,MG,HMG21,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6321,237,284,331,379,130
-733,Advanced3,Day,275,MG,M1895 CB,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6258,234,281,328,375,131
-733,Advanced3,Day,276,MG,Kord,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6220,233,279,326,373,132
-733,Advanced3,Day,349,AR,AK74M,71,79,0,1,0,Night Equip (5-Star),-,-,1923,168,201,235,269,133
+733,Advanced3,Day,20152,SG,M1897 Mod,110,100,0,1,1,-,Flash Shell (5-Star),Night Equip (5-Star),5451,545,654,763,872,85
+733,Advanced3,Day,20064,AR,Gr G36 Mod,117,200,1,8,8,Exclusive (5-Star),HV Round (5-Star),Chip (5-Star),6084,532,638,745,851,86
+733,Advanced3,Day,54,AR,M16A1,100,100,0,1,0,HV Round (5-Star),Exclusive (5-Star),Chip (5-Star),5930,518,622,726,830,87
+733,Advanced3,Day,215,AR,MDR,100,100,0,10,0,Exclusive (5-Star),HV Round (5-Star),Chip (5-Star),5931,518,622,726,830,88
+733,Advanced3,Day,125,MG,Gr MG4,100,100,0,4,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),13821,518,621,725,829,89
+733,Advanced3,Day,206,AR,AK-12,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),Chip (5-Star),5916,517,621,724,828,90
+733,Advanced3,Day,1025,SG,Triela,100,100,0,1,0,-,Exclusive (5-Star),Night Equip (5-Star),5147,514,617,720,823,91
+733,Advanced3,Day,281,SG,CAWS,100,100,0,1,0,-,Buckshot Shell (3-Star),Night Equip (5-Star),5107,510,612,714,817,92
+733,Advanced3,Day,165,SG,M1014,100,100,0,1,0,-,Buckshot Shell (2-Star),Night Equip (5-Star),4989,498,598,698,798,93
+733,Advanced3,Day,20056,AR,M4 SOPMOD II Mod,120,200,1,10,10,Night Equip (5-Star),Exclusive (5-Star),HV Round (5-Star),5622,491,590,688,787,94
+733,Advanced3,Day,1033,MG,Hanazono Yurine,100,100,0,8,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),13019,488,585,683,781,95
+733,Advanced3,Day,1027,AR,Angelica,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),5574,487,585,682,780,96
+733,Advanced3,Day,118,AR,9A-91,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),5478,479,575,671,766,97
+733,Advanced3,Day,20143,SMG,RO635 Mod,115,100,0,10,10,Exclusive (5-Star),-,Night Equip (5-Star),6335,475,570,665,760,98
+733,Advanced3,Day,62,AR,Gr G41,100,100,0,2,0,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),5388,471,565,660,754,99
+733,Advanced3,Day,20103,SMG,UMP45 Mod,117,100,0,10,10,Exclusive (5-Star),-,Exclusive (5-Star),6283,471,565,659,753,100
+733,Advanced3,Day,20057,AR,ST AR-15 Mod,120,200,1,10,10,Night Equip (5-Star),Exclusive (5-Star),Exclusive (5-Star),5377,470,564,658,752,101
+733,Advanced3,Day,1032,AR,Medusa,92,100,0,4,0,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),5333,466,559,653,746,102
+733,Advanced3,Day,172,AR,Am RFB,100,100,0,10,0,Exclusive (5-Star),HV Round (5-Star),-,5095,445,534,624,713,103
+733,Advanced3,Day,20026,SMG,Gr MP5 Mod,112,150,1,10,10,Exclusive (5-Star),-,Night Equip (5-Star),5927,444,533,622,711,104
+733,Advanced3,Day,1029,AR,Agent 416,100,100,0,4,0,Exclusive (5-Star),HV Round (5-Star),Exclusive (5-Star),5027,439,527,615,703,105
+733,Advanced3,Day,85,MG,PK,100,100,0,10,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),11674,437,525,612,700,106
+733,Advanced3,Day,130,AR,Type97,100,100,0,8,0,Exclusive (5-Star),HV Round (5-Star),-,4991,436,524,611,698,107
+733,Advanced3,Day,1026,MG,Claes,90,100,0,1,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),11544,432,519,606,692,108
+733,Advanced3,Day,16,SMG,Thompson,100,100,0,10,0,Exclusive (5-Star),-,Night Equip (5-Star),5732,429,515,601,687,109
+733,Advanced3,Day,1028,SMG,Agent Vector,100,100,0,8,0,Exclusive (5-Star),Exclusive (5-Star),Exclusive (5-Star),5603,420,504,588,672,110
+733,Advanced3,Day,20060,AR,AS Val Mod,115,100,0,10,10,Night Equip (5-Star),Exclusive (5-Star),-,4791,419,503,586,670,111
+733,Advanced3,Day,205,AR,AN-94,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),-,4767,417,500,583,667,112
+733,Advanced3,Day,73,AR,AUG,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),-,4760,416,499,583,666,113
+733,Advanced3,Day,115,SMG,Suomi,100,100,0,4,0,Exclusive (5-Star),-,Night Equip (5-Star),5525,414,497,580,663,114
+733,Advanced3,Day,72,AR,TAR-21,90,100,0,1,0,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),4685,409,491,573,655,115
+733,Advanced3,Day,292,MG,RPK-16,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10820,405,486,568,649,116
+733,Advanced3,Day,243,AR,64 Shiki,100,100,0,10,0,Night Equip (5-Star),HV Round (5-Star),-,4634,405,486,567,648,117
+733,Advanced3,Day,253,MG,Lewis,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10803,405,486,567,648,118
+733,Advanced3,Day,213,SMG,C-MS,100,100,0,8,0,-,AP Round (4-Star),Night Equip (5-Star),5297,397,476,556,635,119
+733,Advanced3,Day,20075,MG,M1918 Mod,115,100,0,6,10,Special AP Round (5-Star),-,Exclusive (5-Star),10524,394,473,552,631,120
+733,Advanced3,Day,112,MG,Negev,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10512,394,473,551,630,121
+733,Advanced3,Day,173,MG,PKP,100,100,0,10,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10407,390,468,546,624,122
+733,Advanced3,Day,339,MG,RPK-203,100,100,0,9,0,Special AP Round (5-Star),-,Ammo Box (5-Star),10370,388,466,544,622,123
+733,Advanced3,Day,1021,MG,Alma Armas,100,100,0,1,0,Special AP Round (5-Star),-,Exclusive (5-Star),10242,384,460,537,614,124
+733,Advanced3,Day,1030,SMG,Jashin-chan,90,100,0,1,0,Exclusive (5-Star),-,Night Equip (5-Star),4999,374,449,524,599,125
+733,Advanced3,Day,1019,SMG,Dorothy Haze,100,100,0,10,0,-,Exclusive (5-Star),Night Equip (5-Star),4823,361,434,506,578,126
+733,Advanced3,Day,109,MG,Gr MG5,100,100,0,10,0,AP Round (4-Star),-,Ammo Box (5-Star),6774,254,304,355,406,127
+733,Advanced3,Day,20081,MG,LWMMG Mod,110,100,0,8,8,Sniper Round (5-Star),-,Ammo Box (5-Star),6736,252,303,353,404,128
+733,Advanced3,Day,307,MG,ZB-26,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (5-Star),6724,252,302,353,403,129
+733,Advanced3,Day,238,MG,QJY-88,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (5-Star),6637,248,298,348,398,130
+733,Advanced3,Day,208,MG,HMG21,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6321,237,284,331,379,131
+733,Advanced3,Day,275,MG,M1895 CB,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6258,234,281,328,375,132
+733,Advanced3,Day,276,MG,Kord,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6220,233,279,326,373,133
 733,Advanced3,Day,1010,HG,El Fail,1,100,0,1,0,-,-,-,148,29,35,41,47,134
 733,Advanced3,Day,353,SG,MAG-7,1,50,0,1,0,-,-,-,246,24,29,34,39,135
-733,Advanced3,Day,293,AR,AK-15,1,50,0,1,0,-,-,-,179,15,18,21,25,136
+733,Advanced3,Day,34,RF,M1 Garand,1,50,0,1,0,-,-,-,175,19,23,27,31,136
+733,Advanced3,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,17,21,25,28,137
+733,Advanced3,Day,293,AR,AK-15,1,50,0,1,0,-,-,-,179,15,18,21,25,138
+733,Advanced3,Day,349,AR,AK74M,1,50,0,1,0,-,-,-,173,15,18,21,24,139
+733,Advanced3,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,15,18,21,24,140
+733,Advanced3,Day,29,SMG,STEN MkⅡ,1,50,0,1,0,-,-,-,202,15,18,21,24,141
+733,Advanced3,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,14,17,20,23,142
+733,Advanced3,Day,74,AR,SIG-510,1,50,0,1,0,-,-,-,162,14,17,19,22,143
+733,Advanced3,Day,240,MG,Mk46,1,50,0,1,0,-,-,-,222,8,9,11,13,144
+733,Advanced3,Day,82,MG,DP28,1,50,0,1,0,-,-,-,207,7,9,10,12,145
+733,Advanced3,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,7,9,11,12,146
 736,Advanced6,Night,20055,AR,M4A1 Mod,120,200,1,10,10,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),7607,1426,1711,1996,2282,1
 736,Advanced6,Night,20065,AR,416 Mod,118,200,1,10,10,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),6537,1225,1470,1715,1961,2
 736,Advanced6,Night,20122,AR,Gr G11 Mod,115,100,0,10,10,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),6275,1176,1411,1647,1882,3
@@ -738,38 +793,38 @@
 736,Advanced6,Night,1018,HG,Sei Asagiri,100,100,0,8,0,Silencer (5-Star),-,Exclusive (5-Star),2848,498,598,697,797,70
 736,Advanced6,Night,96,HG,Grizzly,100,100,0,10,0,Silencer (5-Star),-,Exclusive (5-Star),2780,486,583,681,778,71
 736,Advanced6,Night,72,AR,TAR-21,90,100,0,1,0,Silencer (5-Star),-,Exclusive (5-Star),2580,483,580,677,774,72
-736,Advanced6,Night,20152,SG,M1897 Mod,110,100,0,1,1,-,Birdshot (5-Star),Optical (5-Star),4600,402,483,563,644,73
-736,Advanced6,Night,351,SG,M26-MASS,100,100,0,1,0,-,Birdshot (5-Star),Optical (5-Star),4583,401,481,561,641,74
-736,Advanced6,Night,350,SG,FO-12,100,100,0,4,0,-,Birdshot (5-Star),Optical (5-Star),4582,400,481,561,641,75
+736,Advanced6,Night,350,SG,FO-12,100,100,0,4,0,-,Buckshot Shell (4-Star),Optical (5-Star),4611,403,484,564,645,73
+736,Advanced6,Night,20152,SG,M1897 Mod,110,100,0,1,1,-,Birdshot (5-Star),Optical (5-Star),4600,402,483,563,644,74
+736,Advanced6,Night,351,SG,M26-MASS,100,100,0,1,0,-,Buckshot Shell (3-Star),Optical (5-Star),4582,400,481,561,641,75
 736,Advanced6,Night,302,SG,Defender,100,100,0,10,0,-,Exclusive (5-Star),Optical (5-Star),4510,394,473,552,631,76
-736,Advanced6,Night,281,SG,CAWS,100,100,0,1,0,-,Buckshot Shell (2-Star),Optical (5-Star),4488,392,471,549,628,77
-736,Advanced6,Night,1025,SG,Triela,100,100,0,1,0,-,Exclusive (5-Star),Optical (5-Star),4325,378,454,529,605,78
-736,Advanced6,Night,347,SMG,SR2,71,80,0,1,0,-,AP Round (5-Star),-,2193,356,427,498,570,79
-736,Advanced6,Night,125,MG,Gr MG4,100,100,0,4,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),5992,299,359,419,479,80
-736,Advanced6,Night,349,AR,AK74M,71,79,0,1,0,Optical (5-Star),-,-,1311,245,294,344,393,81
-736,Advanced6,Night,292,MG,RPK-16,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4848,242,290,339,387,82
-736,Advanced6,Night,112,MG,Negev,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4769,238,286,333,381,83
-736,Advanced6,Night,253,MG,Lewis,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4750,237,285,332,380,84
-736,Advanced6,Night,20075,MG,M1918 Mod,115,100,0,6,10,Special AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),4703,235,282,329,376,85
-736,Advanced6,Night,1033,MG,Hanazono Yurine,100,100,0,8,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),4654,232,279,325,372,86
-736,Advanced6,Night,339,MG,RPK-203,100,100,0,9,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4613,230,276,322,369,87
-736,Advanced6,Night,173,MG,PKP,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4437,221,266,310,354,88
-736,Advanced6,Night,109,MG,Gr MG5,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4429,221,265,310,354,89
-736,Advanced6,Night,238,MG,QJY-88,100,100,0,1,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4321,216,259,302,345,90
-736,Advanced6,Night,1021,MG,Alma Armas,100,100,0,1,0,Special AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),4258,212,255,298,340,91
-736,Advanced6,Night,20053,RF,NTW-20 Mod,117,200,1,10,10,Exclusive (5-Star),Optical (5-Star),Camo Cloak (5-Star),4044,202,242,283,323,92
-736,Advanced6,Night,20252,RF,KSVK Mod,116,200,1,10,10,Exclusive (5-Star),Optical (5-Star),Camo Cloak (5-Star),3958,197,237,277,316,93
-736,Advanced6,Night,20037,RF,M14 Mod,117,200,1,10,10,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),3790,189,227,265,303,94
-736,Advanced6,Night,20039,RF,Mosin-Nagant Mod,115,95,0,8,8,AP Round (5-Star),Exclusive (5-Star),Exclusive (5-Star),3788,189,227,265,303,95
-736,Advanced6,Night,266,RF,R93,100,150,1,10,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),3744,187,224,262,299,96
-736,Advanced6,Night,20095,RF,Type88 Mod,116,200,1,10,10,Exclusive (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),3716,185,222,260,297,97
-736,Advanced6,Night,261,RF,QBU-88,100,100,0,8,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),3576,178,214,250,286,98
-736,Advanced6,Night,85,MG,PK,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),3500,175,210,245,280,99
-736,Advanced6,Night,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),3510,175,210,245,280,100
-736,Advanced6,Night,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),3488,174,209,244,279,101
-736,Advanced6,Night,307,MG,ZB-26,100,100,0,1,0,AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),3463,173,207,242,277,102
-736,Advanced6,Night,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),3471,173,208,242,277,103
-736,Advanced6,Night,257,RF,M200,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),3453,172,207,241,276,104
+736,Advanced6,Night,281,SG,CAWS,100,100,0,1,0,-,Birdshot (5-Star),Optical (5-Star),4497,393,472,550,629,77
+736,Advanced6,Night,165,SG,M1014,100,100,0,1,0,-,Birdshot (5-Star),Optical (5-Star),4481,392,470,548,627,78
+736,Advanced6,Night,156,SG,Super-Shorty,100,100,0,1,0,-,Buckshot Shell (2-Star),Optical (5-Star),4458,390,468,546,624,79
+736,Advanced6,Night,1025,SG,Triela,100,100,0,1,0,-,Exclusive (5-Star),Optical (5-Star),4325,378,454,529,605,80
+736,Advanced6,Night,347,SMG,SR2,71,80,0,1,0,-,AP Round (5-Star),-,2193,356,427,498,570,81
+736,Advanced6,Night,125,MG,Gr MG4,100,100,0,4,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),5992,299,359,419,479,82
+736,Advanced6,Night,349,AR,AK74M,71,79,0,1,0,Optical (5-Star),-,-,1311,245,294,344,393,83
+736,Advanced6,Night,292,MG,RPK-16,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4848,242,290,339,387,84
+736,Advanced6,Night,112,MG,Negev,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4769,238,286,333,381,85
+736,Advanced6,Night,253,MG,Lewis,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4750,237,285,332,380,86
+736,Advanced6,Night,20075,MG,M1918 Mod,115,100,0,6,10,Special AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),4703,235,282,329,376,87
+736,Advanced6,Night,1033,MG,Hanazono Yurine,100,100,0,8,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),4654,232,279,325,372,88
+736,Advanced6,Night,339,MG,RPK-203,100,100,0,9,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4613,230,276,322,369,89
+736,Advanced6,Night,173,MG,PKP,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4437,221,266,310,354,90
+736,Advanced6,Night,109,MG,Gr MG5,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4429,221,265,310,354,91
+736,Advanced6,Night,238,MG,QJY-88,100,100,0,1,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4321,216,259,302,345,92
+736,Advanced6,Night,1021,MG,Alma Armas,100,100,0,1,0,Special AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),4258,212,255,298,340,93
+736,Advanced6,Night,20053,RF,NTW-20 Mod,117,200,1,10,10,Exclusive (5-Star),Optical (5-Star),Camo Cloak (5-Star),4044,202,242,283,323,94
+736,Advanced6,Night,20252,RF,KSVK Mod,116,200,1,10,10,Exclusive (5-Star),Optical (5-Star),Camo Cloak (5-Star),3958,197,237,277,316,95
+736,Advanced6,Night,20037,RF,M14 Mod,117,200,1,10,10,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),3790,189,227,265,303,96
+736,Advanced6,Night,20039,RF,Mosin-Nagant Mod,115,95,0,8,8,AP Round (5-Star),Exclusive (5-Star),Exclusive (5-Star),3788,189,227,265,303,97
+736,Advanced6,Night,266,RF,R93,100,150,1,10,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),3744,187,224,262,299,98
+736,Advanced6,Night,20095,RF,Type88 Mod,116,200,1,10,10,Exclusive (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),3716,185,222,260,297,99
+736,Advanced6,Night,261,RF,QBU-88,100,100,0,8,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),3576,178,214,250,286,100
+736,Advanced6,Night,85,MG,PK,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),3500,175,210,245,280,101
+736,Advanced6,Night,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),3510,175,210,245,280,102
+736,Advanced6,Night,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),3488,174,209,244,279,103
+736,Advanced6,Night,307,MG,ZB-26,100,100,0,1,0,AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),3463,173,207,242,277,104
 736,Advanced6,Night,50,RF,Lee Enfield,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),3407,170,204,238,272,105
 736,Advanced6,Night,46,RF,Kar98k,100,100,0,8,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),3302,165,198,231,264,106
 736,Advanced6,Night,1026,MG,Claes,90,100,0,1,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),3266,163,195,228,261,107
@@ -779,22 +834,33 @@
 736,Advanced6,Night,208,MG,HMG21,100,100,0,1,0,AP Round (5-Star),-,Ammo Box (4-Star),3089,154,185,216,247,111
 736,Advanced6,Night,197,RF,Carcano M1891,100,150,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),3050,152,183,213,244,112
 736,Advanced6,Night,337,RF,De Lisle,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),3050,152,183,213,244,113
-736,Advanced6,Night,348,RF,HS.50,100,140,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),3046,152,182,213,243,114
-736,Advanced6,Night,20089,MG,Bren Mod,110,100,0,1,0,AP Round (5-Star),-,Ammo Box (4-Star),3026,151,181,211,242,115
-736,Advanced6,Night,198,RF,Carcano M91/38,100,100,0,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),2927,146,175,204,234,116
-736,Advanced6,Night,329,RF,SVCh,100,100,0,8,0,AP Round (4-Star),-,Camo Cloak (5-Star),2935,146,176,205,234,117
-736,Advanced6,Night,48,RF,WA2000,100,100,0,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),2899,144,173,202,231,118
-736,Advanced6,Night,20044,RF,SV-98 Mod,115,100,0,8,8,Sniper Round (5-Star),-,Exclusive (5-Star),2860,143,171,200,228,119
-736,Advanced6,Night,296,RF,Gr SL8,100,100,0,8,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),2846,142,170,199,227,120
-736,Advanced6,Night,1020,RF,Stella Hoshii,100,100,0,8,0,Sniper Round (5-Star),-,Exclusive (5-Star),2840,142,170,198,227,121
-736,Advanced6,Night,231,RF,M82A1,100,100,0,10,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),2836,141,170,198,226,122
-736,Advanced6,Night,1024,RF,Rico,100,100,0,10,0,Sniper Round (5-Star),-,Exclusive (5-Star),2832,141,169,198,226,123
-736,Advanced6,Night,222,RF,TAC-50,100,100,0,10,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),2821,141,169,197,225,124
-736,Advanced6,Night,43,RF,SVD,100,100,0,10,0,Exclusive (5-Star),-,Camo Cloak (5-Star),2806,140,168,196,224,125
-736,Advanced6,Night,293,AR,AK-15,1,50,0,1,0,-,-,-,155,29,34,40,46,126
-736,Advanced6,Night,1009,HG,El Clear,1,100,0,1,0,-,-,-,133,23,27,32,37,127
-736,Advanced6,Night,1010,HG,El Fail,1,100,0,1,0,-,-,-,133,23,27,32,37,128
-736,Advanced6,Night,353,SG,MAG-7,1,50,0,1,0,-,-,-,237,20,24,29,33,129
+736,Advanced6,Night,257,RF,M200,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),3046,152,182,213,243,114
+736,Advanced6,Night,348,RF,HS.50,100,140,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),3046,152,182,213,243,115
+736,Advanced6,Night,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),-,Camo Cloak (5-Star),3034,151,182,212,242,116
+736,Advanced6,Night,20089,MG,Bren Mod,110,100,0,1,0,AP Round (5-Star),-,Ammo Box (4-Star),3026,151,181,211,242,117
+736,Advanced6,Night,198,RF,Carcano M91/38,100,100,0,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),2927,146,175,204,234,118
+736,Advanced6,Night,329,RF,SVCh,100,100,0,8,0,AP Round (4-Star),-,Camo Cloak (5-Star),2935,146,176,205,234,119
+736,Advanced6,Night,48,RF,WA2000,100,100,0,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),2899,144,173,202,231,120
+736,Advanced6,Night,20044,RF,SV-98 Mod,115,100,0,8,8,Sniper Round (5-Star),-,Exclusive (5-Star),2860,143,171,200,228,121
+736,Advanced6,Night,296,RF,Gr SL8,100,100,0,8,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),2846,142,170,199,227,122
+736,Advanced6,Night,1020,RF,Stella Hoshii,100,100,0,8,0,Sniper Round (5-Star),-,Exclusive (5-Star),2840,142,170,198,227,123
+736,Advanced6,Night,231,RF,M82A1,100,100,0,10,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),2836,141,170,198,226,124
+736,Advanced6,Night,1024,RF,Rico,100,100,0,10,0,Sniper Round (5-Star),-,Exclusive (5-Star),2832,141,169,198,226,125
+736,Advanced6,Night,222,RF,TAC-50,100,100,0,10,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),2821,141,169,197,225,126
+736,Advanced6,Night,43,RF,SVD,100,100,0,10,0,Exclusive (5-Star),-,Camo Cloak (5-Star),2806,140,168,196,224,127
+736,Advanced6,Night,33,SMG,m45,1,50,0,1,0,-,-,-,193,31,37,43,50,128
+736,Advanced6,Night,25,SMG,MP40,1,50,0,1,0,-,-,-,191,31,37,43,49,129
+736,Advanced6,Night,293,AR,AK-15,1,50,0,1,0,-,-,-,155,29,34,40,46,130
+736,Advanced6,Night,74,AR,SIG-510,1,50,0,1,0,-,-,-,145,27,32,38,43,131
+736,Advanced6,Night,1009,HG,El Clear,1,100,0,1,0,-,-,-,133,23,27,32,37,132
+736,Advanced6,Night,1010,HG,El Fail,1,100,0,1,0,-,-,-,133,23,27,32,37,133
+736,Advanced6,Night,353,SG,MAG-7,1,50,0,1,0,-,-,-,237,20,24,29,33,134
+736,Advanced6,Night,10,HG,PPK,1,50,0,1,0,-,-,-,116,20,24,28,32,135
+736,Advanced6,Night,240,MG,Mk46,1,50,0,1,0,-,-,-,193,9,11,13,15,136
+736,Advanced6,Night,82,MG,DP28,1,50,0,1,0,-,-,-,176,8,10,12,14,137
+736,Advanced6,Night,110,MG,FG42,1,50,0,1,0,-,-,-,181,9,10,12,14,138
+736,Advanced6,Night,40,RF,SVT-38,1,50,0,1,0,-,-,-,128,6,7,8,10,139
+736,Advanced6,Night,34,RF,M1 Garand,1,50,0,1,0,-,-,-,136,6,8,9,10,140
 738,Advanced8,Day,20055,AR,M4A1 Mod,120,200,1,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),8492,1592,1910,2229,2547,1
 738,Advanced8,Day,20065,AR,416 Mod,118,200,1,10,10,Exclusive (5-Star),HV Round (5-Star),Exclusive (5-Star),7556,1416,1700,1983,2266,2
 738,Advanced8,Day,20122,AR,Gr G11 Mod,115,100,0,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),7474,1401,1681,1961,2242,3
@@ -863,8 +929,8 @@
 738,Advanced8,Day,20097,HG,M950A Mod,114,100,0,10,10,Silencer (5-Star),HP Round (5-Star),X-Exo (5-Star),4263,746,895,1044,1193,66
 738,Advanced8,Day,20037,RF,M14 Mod,117,200,1,10,10,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7401,740,888,1036,1184,67
 738,Advanced8,Day,20103,SMG,UMP45 Mod,117,100,0,10,10,Exclusive (5-Star),HP Round (5-Star),Exclusive (5-Star),6537,735,882,1029,1176,68
-738,Advanced8,Day,20026,SMG,Gr MP5 Mod,112,150,1,10,10,Exclusive (5-Star),HP Round (5-Star),Silencer (5-Star),6508,732,878,1025,1171,69
-738,Advanced8,Day,214,AR,ADS,90,100,0,1,0,Silencer (5-Star),-,X-Exo (5-Star),3904,732,878,1024,1171,70
+738,Advanced8,Day,214,AR,ADS,90,100,0,1,0,Silencer (5-Star),-,X-Exo (5-Star),3904,732,878,1024,1171,69
+738,Advanced8,Day,20026,SMG,Gr MP5 Mod,112,150,1,10,10,Exclusive (5-Star),HP Round (5-Star),Silencer (5-Star),6508,732,878,1025,1171,70
 738,Advanced8,Day,20063,AR,Gr G3 Mod,110,100,0,1,0,Silencer (5-Star),-,X-Exo (5-Star),3885,728,874,1019,1165,71
 738,Advanced8,Day,213,SMG,C-MS,100,100,0,8,0,X-Exo (5-Star),AP Round (5-Star),Silencer (5-Star),6449,725,870,1015,1160,72
 738,Advanced8,Day,20053,RF,NTW-20 Mod,117,200,1,10,10,Exclusive (5-Star),Silencer (5-Star),Camo Cloak (5-Star),7143,714,857,1000,1142,73
@@ -876,65 +942,77 @@
 738,Advanced8,Day,50,RF,Lee Enfield,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6968,696,836,975,1114,79
 738,Advanced8,Day,233,HG,Px4 Storm,100,100,0,10,0,Exclusive (5-Star),HP Round (5-Star),X-Exo (5-Star),3872,677,813,948,1084,80
 738,Advanced8,Day,302,SG,Defender,100,100,0,10,0,-,Exclusive (5-Star),Night Equip (5-Star),5402,675,810,945,1080,81
-738,Advanced8,Day,164,SG,FP-6,100,100,0,1,0,-,Birdshot (5-Star),Night Equip (5-Star),5323,665,798,931,1064,82
-738,Advanced8,Day,351,SG,M26-MASS,100,100,0,1,0,-,Birdshot (5-Star),Night Equip (5-Star),5320,665,798,931,1064,83
+738,Advanced8,Day,351,SG,M26-MASS,100,100,0,1,0,-,Buckshot Shell (4-Star),Night Equip (5-Star),5375,671,806,940,1075,82
+738,Advanced8,Day,164,SG,FP-6,100,100,0,1,0,-,Birdshot (5-Star),Night Equip (5-Star),5323,665,798,931,1064,83
 738,Advanced8,Day,46,RF,Kar98k,100,100,0,8,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6649,664,797,930,1063,84
 738,Advanced8,Day,1017,HG,Jill Stingray,100,91,0,10,0,Exclusive (5-Star),HP Round (5-Star),X-Exo (5-Star),3741,654,785,916,1047,85
 738,Advanced8,Day,350,SG,FO-12,100,100,0,4,0,-,Birdshot (5-Star),Night Equip (5-Star),5235,654,785,916,1047,86
-738,Advanced8,Day,115,SMG,Suomi,100,100,0,4,0,Exclusive (5-Star),HP Round (5-Star),Night Equip (5-Star),5772,649,779,909,1038,87
-738,Advanced8,Day,1025,SG,Triela,100,100,0,1,0,-,Exclusive (5-Star),Night Equip (5-Star),5147,643,772,900,1029,88
-738,Advanced8,Day,160,SG,Saiga-12,100,100,0,1,0,-,Buckshot Shell (2-Star),Night Equip (5-Star),5119,639,767,895,1023,89
-738,Advanced8,Day,20051,RF,FF FN49 Mod,115,100,0,8,8,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6323,632,758,885,1011,90
-738,Advanced8,Day,20252,RF,KSVK Mod,116,200,1,10,10,Exclusive (5-Star),-,Camo Cloak (5-Star),6304,630,756,882,1008,91
-738,Advanced8,Day,1028,SMG,Agent Vector,100,100,0,8,0,Exclusive (5-Star),HP Round (5-Star),Exclusive (5-Star),5603,630,756,882,1008,92
-738,Advanced8,Day,96,HG,Grizzly,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),Exclusive (5-Star),3581,626,752,877,1002,93
-738,Advanced8,Day,1018,HG,Sei Asagiri,100,100,0,8,0,Night Equip (5-Star),HP Round (5-Star),Exclusive (5-Star),3534,618,742,865,989,94
-738,Advanced8,Day,242,HG,P22,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),-,3454,604,725,846,967,95
-738,Advanced8,Day,266,RF,R93,100,150,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5989,598,718,838,958,96
-738,Advanced8,Day,20001,HG,SAA Mod,115,100,0,10,10,Night Equip (5-Star),HP Round (5-Star),-,3405,595,715,834,953,97
-738,Advanced8,Day,261,RF,QBU-88,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5928,592,711,829,948,98
-738,Advanced8,Day,250,HG,HS2000,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),-,3354,586,704,821,939,99
-738,Advanced8,Day,294,HG,Webley,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),-,3356,587,704,822,939,100
-738,Advanced8,Day,126,HG,NZ75,100,100,0,1,0,Exclusive (5-Star),HP Round (5-Star),-,3353,586,704,821,938,101
-738,Advanced8,Day,114,HG,Welrod MkⅡ,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),-,3345,585,702,819,936,102
-738,Advanced8,Day,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),-,Camo Cloak (5-Star),5853,585,702,819,936,103
-738,Advanced8,Day,285,HG,C-93,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),-,3337,583,700,817,934,104
-738,Advanced8,Day,1030,SMG,Jashin-chan,90,100,0,1,0,Exclusive (5-Star),HP Round (5-Star),Night Equip (5-Star),5184,583,699,816,933,105
-738,Advanced8,Day,303,HG,HP-35,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),-,3329,582,699,815,932,106
-738,Advanced8,Day,4,HG,Python,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),-,3325,581,698,814,931,107
-738,Advanced8,Day,1026,MG,Claes,90,100,0,1,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),7639,572,687,802,916,108
-738,Advanced8,Day,348,RF,HS.50,100,140,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5691,569,682,796,910,109
-738,Advanced8,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5657,565,678,791,905,110
-738,Advanced8,Day,36,RF,Springfield,100,100,0,1,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5631,563,675,788,900,111
-738,Advanced8,Day,48,RF,WA2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5614,561,673,785,898,112
-738,Advanced8,Day,1024,RF,Rico,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5569,556,668,779,891,113
-738,Advanced8,Day,296,RF,Gr SL8,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5554,555,666,777,888,114
-738,Advanced8,Day,231,RF,M82A1,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5540,554,664,775,886,115
-738,Advanced8,Day,20101,SMG,UMP9 Mod,110,100,0,10,10,-,Signal Flare (5-Star),Night Equip (5-Star),4902,551,661,772,882,116
-738,Advanced8,Day,329,RF,SVCh,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5517,551,662,772,882,117
-738,Advanced8,Day,197,RF,Carcano M1891,100,150,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5511,551,661,771,881,118
-738,Advanced8,Day,257,RF,M200,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5500,550,660,770,880,119
-738,Advanced8,Day,20044,RF,SV-98 Mod,115,100,0,8,8,AP Round (5-Star),-,Exclusive (5-Star),5476,547,657,766,876,120
-738,Advanced8,Day,198,RF,Carcano M91/38,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5473,547,656,766,875,121
-738,Advanced8,Day,245,SMG,P90,100,100,0,8,0,-,Signal Flare (5-Star),Night Equip (5-Star),4860,546,656,765,874,122
-738,Advanced8,Day,1019,SMG,Dorothy Haze,100,100,0,10,0,-,Exclusive (5-Star),Night Equip (5-Star),4823,542,651,759,868,123
-738,Advanced8,Day,20002,HG,M1911 Mod,115,100,0,8,5,Night Equip (5-Star),Exclusive (5-Star),-,3097,541,650,758,867,124
-738,Advanced8,Day,148,RF,IWS 2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5384,538,646,753,861,125
-738,Advanced8,Day,43,RF,SVD,100,100,0,10,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5370,537,644,751,859,126
-738,Advanced8,Day,1020,RF,Stella Hoshii,100,100,0,8,0,AP Round (5-Star),-,Exclusive (5-Star),5341,534,640,747,854,127
-738,Advanced8,Day,109,MG,Gr MG5,100,100,0,10,0,AP Round (4-Star),-,Ammo Box (5-Star),6774,508,609,711,812,128
-738,Advanced8,Day,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (4-Star),-,Ammo Box (5-Star),6736,505,606,707,808,129
-738,Advanced8,Day,307,MG,ZB-26,100,100,0,1,0,AP Round (4-Star),-,Ammo Box (5-Star),6724,504,605,706,806,130
-738,Advanced8,Day,127,SMG,Type79,100,100,0,1,0,-,Exclusive (5-Star),Night Equip (5-Star),4444,499,599,699,799,131
-738,Advanced8,Day,208,MG,HMG21,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6321,474,568,663,758,132
-738,Advanced8,Day,275,MG,M1895 CB,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6258,469,563,657,750,133
-738,Advanced8,Day,276,MG,Kord,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6220,466,559,653,746,134
-738,Advanced8,Day,20089,MG,Bren Mod,110,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),5992,449,539,629,719,135
-738,Advanced8,Day,349,AR,AK74M,71,79,0,1,0,Night Equip (5-Star),-,-,1923,360,432,504,576,136
-738,Advanced8,Day,347,SMG,SR2,71,80,0,1,0,-,Sniper Round (5-Star),-,2943,331,397,463,529,137
-738,Advanced8,Day,353,SG,MAG-7,1,50,0,1,0,-,-,-,246,30,36,43,49,138
-738,Advanced8,Day,1009,HG,El Clear,1,100,0,1,0,-,-,-,148,25,31,36,41,139
-738,Advanced8,Day,1010,HG,El Fail,1,100,0,1,0,-,-,-,148,25,31,36,41,140
+738,Advanced8,Day,20152,SG,M1897 Mod,110,100,0,1,1,-,Birdshot (5-Star),Night Equip (5-Star),5212,651,781,912,1042,87
+738,Advanced8,Day,115,SMG,Suomi,100,100,0,4,0,Exclusive (5-Star),HP Round (5-Star),Night Equip (5-Star),5772,649,779,909,1038,88
+738,Advanced8,Day,160,SG,Saiga-12,100,100,0,1,0,-,Buckshot Shell (3-Star),Night Equip (5-Star),5186,648,777,907,1037,89
+738,Advanced8,Day,1025,SG,Triela,100,100,0,1,0,-,Exclusive (5-Star),Night Equip (5-Star),5147,643,772,900,1029,90
+738,Advanced8,Day,20051,RF,FF FN49 Mod,115,100,0,8,8,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6323,632,758,885,1011,91
+738,Advanced8,Day,20252,RF,KSVK Mod,116,200,1,10,10,Exclusive (5-Star),-,Camo Cloak (5-Star),6304,630,756,882,1008,92
+738,Advanced8,Day,1028,SMG,Agent Vector,100,100,0,8,0,Exclusive (5-Star),HP Round (5-Star),Exclusive (5-Star),5603,630,756,882,1008,93
+738,Advanced8,Day,281,SG,CAWS,100,100,0,1,0,-,Buckshot Shell (2-Star),Night Equip (5-Star),5039,629,755,881,1007,94
+738,Advanced8,Day,96,HG,Grizzly,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),Exclusive (5-Star),3581,626,752,877,1002,95
+738,Advanced8,Day,1018,HG,Sei Asagiri,100,100,0,8,0,Night Equip (5-Star),HP Round (5-Star),Exclusive (5-Star),3534,618,742,865,989,96
+738,Advanced8,Day,242,HG,P22,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),-,3454,604,725,846,967,97
+738,Advanced8,Day,266,RF,R93,100,150,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5989,598,718,838,958,98
+738,Advanced8,Day,20001,HG,SAA Mod,115,100,0,10,10,Night Equip (5-Star),HP Round (5-Star),-,3405,595,715,834,953,99
+738,Advanced8,Day,261,RF,QBU-88,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5928,592,711,829,948,100
+738,Advanced8,Day,250,HG,HS2000,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),-,3354,586,704,821,939,101
+738,Advanced8,Day,294,HG,Webley,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),-,3356,587,704,822,939,102
+738,Advanced8,Day,126,HG,NZ75,100,100,0,1,0,Exclusive (5-Star),HP Round (5-Star),-,3353,586,704,821,938,103
+738,Advanced8,Day,114,HG,Welrod MkⅡ,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),-,3345,585,702,819,936,104
+738,Advanced8,Day,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),-,Camo Cloak (5-Star),5853,585,702,819,936,105
+738,Advanced8,Day,285,HG,C-93,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),-,3337,583,700,817,934,106
+738,Advanced8,Day,1030,SMG,Jashin-chan,90,100,0,1,0,Exclusive (5-Star),HP Round (5-Star),Night Equip (5-Star),5184,583,699,816,933,107
+738,Advanced8,Day,303,HG,HP-35,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),-,3329,582,699,815,932,108
+738,Advanced8,Day,4,HG,Python,100,100,0,10,0,Night Equip (5-Star),HP Round (5-Star),-,3325,581,698,814,931,109
+738,Advanced8,Day,1026,MG,Claes,90,100,0,1,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),7639,572,687,802,916,110
+738,Advanced8,Day,348,RF,HS.50,100,140,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5691,569,682,796,910,111
+738,Advanced8,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5657,565,678,791,905,112
+738,Advanced8,Day,36,RF,Springfield,100,100,0,1,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5631,563,675,788,900,113
+738,Advanced8,Day,48,RF,WA2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5614,561,673,785,898,114
+738,Advanced8,Day,1024,RF,Rico,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5569,556,668,779,891,115
+738,Advanced8,Day,296,RF,Gr SL8,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5554,555,666,777,888,116
+738,Advanced8,Day,231,RF,M82A1,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5540,554,664,775,886,117
+738,Advanced8,Day,20101,SMG,UMP9 Mod,110,100,0,10,10,-,Signal Flare (5-Star),Night Equip (5-Star),4902,551,661,772,882,118
+738,Advanced8,Day,329,RF,SVCh,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5517,551,662,772,882,119
+738,Advanced8,Day,197,RF,Carcano M1891,100,150,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5511,551,661,771,881,120
+738,Advanced8,Day,257,RF,M200,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5500,550,660,770,880,121
+738,Advanced8,Day,20044,RF,SV-98 Mod,115,100,0,8,8,AP Round (5-Star),-,Exclusive (5-Star),5476,547,657,766,876,122
+738,Advanced8,Day,198,RF,Carcano M91/38,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5473,547,656,766,875,123
+738,Advanced8,Day,245,SMG,P90,100,100,0,8,0,-,Signal Flare (5-Star),Night Equip (5-Star),4860,546,656,765,874,124
+738,Advanced8,Day,1019,SMG,Dorothy Haze,100,100,0,10,0,-,Exclusive (5-Star),Night Equip (5-Star),4823,542,651,759,868,125
+738,Advanced8,Day,20002,HG,M1911 Mod,115,100,0,8,5,Night Equip (5-Star),Exclusive (5-Star),-,3097,541,650,758,867,126
+738,Advanced8,Day,148,RF,IWS 2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5384,538,646,753,861,127
+738,Advanced8,Day,43,RF,SVD,100,100,0,10,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5370,537,644,751,859,128
+738,Advanced8,Day,1020,RF,Stella Hoshii,100,100,0,8,0,AP Round (5-Star),-,Exclusive (5-Star),5341,534,640,747,854,129
+738,Advanced8,Day,109,MG,Gr MG5,100,100,0,10,0,AP Round (4-Star),-,Ammo Box (5-Star),6774,508,609,711,812,130
+738,Advanced8,Day,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (4-Star),-,Ammo Box (5-Star),6736,505,606,707,808,131
+738,Advanced8,Day,307,MG,ZB-26,100,100,0,1,0,AP Round (4-Star),-,Ammo Box (5-Star),6724,504,605,706,806,132
+738,Advanced8,Day,127,SMG,Type79,100,100,0,1,0,-,Exclusive (5-Star),Night Equip (5-Star),4444,499,599,699,799,133
+738,Advanced8,Day,208,MG,HMG21,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6321,474,568,663,758,134
+738,Advanced8,Day,275,MG,M1895 CB,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6258,469,563,657,750,135
+738,Advanced8,Day,276,MG,Kord,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6220,466,559,653,746,136
+738,Advanced8,Day,20089,MG,Bren Mod,110,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),5992,449,539,629,719,137
+738,Advanced8,Day,349,AR,AK74M,71,79,0,1,0,Night Equip (5-Star),-,-,1923,360,432,504,576,138
+738,Advanced8,Day,347,SMG,SR2,71,80,0,1,0,-,Sniper Round (5-Star),-,2943,331,397,463,529,139
+738,Advanced8,Day,353,SG,MAG-7,1,50,0,1,0,-,-,-,246,30,36,43,49,140
+738,Advanced8,Day,74,AR,SIG-510,1,50,0,1,0,-,-,-,162,30,36,42,48,141
+738,Advanced8,Day,1009,HG,El Clear,1,100,0,1,0,-,-,-,148,25,31,36,41,142
+738,Advanced8,Day,1010,HG,El Fail,1,100,0,1,0,-,-,-,148,25,31,36,41,143
+738,Advanced8,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,22,27,31,36,144
+738,Advanced8,Day,10,HG,PPK,1,50,0,1,0,-,-,-,130,22,27,31,36,145
+738,Advanced8,Day,29,SMG,STEN MkⅡ,1,50,0,1,0,-,-,-,202,22,27,31,36,146
+738,Advanced8,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,22,26,31,35,147
+738,Advanced8,Day,34,RF,M1 Garand,1,50,0,1,0,-,-,-,175,17,21,24,28,148
+738,Advanced8,Day,240,MG,Mk46,1,50,0,1,0,-,-,-,222,16,19,23,26,149
+738,Advanced8,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,15,19,22,25,150
+738,Advanced8,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,15,19,22,25,151
+738,Advanced8,Day,82,MG,DP28,1,50,0,1,0,-,-,-,207,15,18,21,24,152
 743,Core3,Day,20055,AR,M4A1 Mod,120,200,1,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),8492,1061,1273,1486,1698,1
 743,Core3,Day,20065,AR,416 Mod,118,200,1,10,10,Exclusive (5-Star),HV Round (5-Star),Exclusive (5-Star),7556,944,1133,1322,1511,2
 743,Core3,Day,20122,AR,Gr G11 Mod,115,100,0,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),7474,934,1121,1307,1494,3
@@ -1015,54 +1093,65 @@
 743,Core3,Day,72,AR,TAR-21,90,100,0,1,0,Night Equip (5-Star),-,Exclusive (5-Star),4042,505,606,707,808,78
 743,Core3,Day,350,SG,FO-12,100,100,0,4,0,-,Flash Shell (5-Star),Night Equip (5-Star),5530,483,580,677,774,79
 743,Core3,Day,302,SG,Defender,100,100,0,10,0,-,Exclusive (5-Star),Night Equip (5-Star),5402,472,567,661,756,80
-743,Core3,Day,20152,SG,M1897 Mod,110,100,0,1,1,-,Birdshot (5-Star),Night Equip (5-Star),5212,456,547,638,729,81
-743,Core3,Day,160,SG,Saiga-12,100,100,0,1,0,-,Birdshot (5-Star),Night Equip (5-Star),5194,454,545,636,727,82
+743,Core3,Day,160,SG,Saiga-12,100,100,0,1,0,-,Buckshot Shell (4-Star),Night Equip (5-Star),5290,462,555,648,740,81
+743,Core3,Day,20152,SG,M1897 Mod,110,100,0,1,1,-,Birdshot (5-Star),Night Equip (5-Star),5212,456,547,638,729,82
 743,Core3,Day,1025,SG,Triela,100,100,0,1,0,-,Exclusive (5-Star),Night Equip (5-Star),5147,450,540,630,720,83
-743,Core3,Day,281,SG,CAWS,100,100,0,1,0,-,Buckshot Shell (2-Star),Night Equip (5-Star),5039,440,529,617,705,84
-743,Core3,Day,85,MG,PK,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),8225,411,493,575,658,85
-743,Core3,Day,1026,MG,Claes,90,100,0,1,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),7639,381,458,534,611,86
-743,Core3,Day,183,HG,Contender,100,100,0,10,0,Night Equip (5-Star),AP Round (5-Star),-,4269,373,448,522,597,87
-743,Core3,Day,20037,RF,M14 Mod,117,200,1,10,10,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7401,370,444,518,592,88
-743,Core3,Day,20095,RF,Type88 Mod,116,200,1,10,10,Exclusive (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7093,354,425,496,567,89
-743,Core3,Day,20039,RF,Mosin-Nagant Mod,115,95,0,8,8,AP Round (5-Star),Exclusive (5-Star),Exclusive (5-Star),7014,350,420,490,561,90
-743,Core3,Day,307,MG,ZB-26,100,100,0,1,0,AP Round (5-Star),-,Ammo Box (5-Star),7005,350,420,490,560,91
-743,Core3,Day,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (5-Star),-,Ammo Box (5-Star),7005,350,420,490,560,92
-743,Core3,Day,50,RF,Lee Enfield,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6968,348,418,487,557,93
-743,Core3,Day,347,SMG,SR2,71,80,0,1,0,-,AP Round (5-Star),-,3054,343,412,481,549,94
-743,Core3,Day,46,RF,Kar98k,100,100,0,8,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6649,332,398,465,531,95
-743,Core3,Day,208,MG,HMG21,100,100,0,1,0,AP Round (5-Star),-,Ammo Box (4-Star),6594,329,395,461,527,96
-743,Core3,Day,275,MG,M1895 CB,100,100,0,10,0,AP Round (5-Star),-,Ammo Box (4-Star),6517,325,391,456,521,97
-743,Core3,Day,20053,RF,NTW-20 Mod,117,200,1,10,10,Exclusive (5-Star),-,Camo Cloak (5-Star),6484,324,389,453,518,98
-743,Core3,Day,276,MG,Kord,100,100,0,10,0,AP Round (5-Star),-,Ammo Box (4-Star),6444,322,386,451,515,99
-743,Core3,Day,20051,RF,FF FN49 Mod,115,100,0,8,8,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6323,316,379,442,505,100
-743,Core3,Day,20252,RF,KSVK Mod,116,200,1,10,10,Exclusive (5-Star),-,Camo Cloak (5-Star),6304,315,378,441,504,101
-743,Core3,Day,1017,HG,Jill Stingray,100,91,0,10,0,Exclusive (5-Star),Exclusive (5-Star),Exclusive (5-Star),3583,313,376,438,501,102
-743,Core3,Day,20089,MG,Bren Mod,110,100,0,1,0,AP Round (5-Star),-,Ammo Box (4-Star),6240,312,374,436,499,103
-743,Core3,Day,266,RF,R93,100,150,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5989,299,359,419,479,104
-743,Core3,Day,261,RF,QBU-88,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5928,296,355,414,474,105
-743,Core3,Day,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),-,Camo Cloak (5-Star),5853,292,351,409,468,106
-743,Core3,Day,96,HG,Grizzly,100,100,0,10,0,Night Equip (5-Star),-,Exclusive (5-Star),3317,290,348,406,464,107
-743,Core3,Day,1018,HG,Sei Asagiri,100,100,0,8,0,Night Equip (5-Star),-,Exclusive (5-Star),3264,285,342,399,456,108
-743,Core3,Day,348,RF,HS.50,100,140,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5691,284,341,398,455,109
-743,Core3,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5657,282,339,395,452,110
-743,Core3,Day,36,RF,Springfield,100,100,0,1,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5631,281,337,394,450,111
-743,Core3,Day,48,RF,WA2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5614,280,336,392,449,112
-743,Core3,Day,1024,RF,Rico,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5569,278,334,389,445,113
-743,Core3,Day,296,RF,Gr SL8,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5554,277,333,388,444,114
-743,Core3,Day,20002,HG,M1911 Mod,115,100,0,8,5,Night Equip (5-Star),Exclusive (5-Star),-,3097,270,325,379,433,115
-743,Core3,Day,43,RF,SVD,100,100,0,10,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5370,268,322,375,429,116
-743,Core3,Day,231,RF,M82A1,100,100,0,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),5367,268,322,375,429,117
-743,Core3,Day,197,RF,Carcano M1891,100,150,1,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),5334,266,320,373,426,118
-743,Core3,Day,329,RF,SVCh,100,100,0,8,0,AP Round (4-Star),-,Camo Cloak (5-Star),5331,266,319,373,426,119
-743,Core3,Day,257,RF,M200,100,100,0,10,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),5320,266,319,372,425,120
-743,Core3,Day,198,RF,Carcano M91/38,100,100,0,10,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),5295,264,317,370,423,121
-743,Core3,Day,20044,RF,SV-98 Mod,115,100,0,8,8,Sniper Round (5-Star),-,Exclusive (5-Star),5287,264,317,370,422,122
-743,Core3,Day,270,RF,4 Shiki,100,100,0,8,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5287,264,317,370,422,123
-743,Core3,Day,1020,RF,Stella Hoshii,100,100,0,8,0,Sniper Round (5-Star),-,Exclusive (5-Star),5142,257,308,359,411,124
-743,Core3,Day,349,AR,AK74M,71,79,0,1,0,Night Equip (5-Star),-,-,1923,240,288,336,384,125
-743,Core3,Day,353,SG,MAG-7,1,50,0,1,0,-,-,-,246,21,25,30,34,126
-743,Core3,Day,1009,HG,El Clear,1,100,0,1,0,-,-,-,148,12,15,18,20,127
-743,Core3,Day,1010,HG,El Fail,1,100,0,1,0,-,-,-,148,12,15,18,20,128
+743,Core3,Day,281,SG,CAWS,100,100,0,1,0,-,Birdshot (5-Star),Night Equip (5-Star),5116,447,537,626,716,84
+743,Core3,Day,165,SG,M1014,100,100,0,1,0,-,Buckshot Shell (3-Star),Night Equip (5-Star),5051,441,530,618,707,85
+743,Core3,Day,156,SG,Super-Shorty,100,100,0,1,0,-,Buckshot Shell (2-Star),Night Equip (5-Star),4930,431,517,603,690,86
+743,Core3,Day,85,MG,PK,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),8225,411,493,575,658,87
+743,Core3,Day,1026,MG,Claes,90,100,0,1,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),7639,381,458,534,611,88
+743,Core3,Day,183,HG,Contender,100,100,0,10,0,Night Equip (5-Star),AP Round (5-Star),-,4269,373,448,522,597,89
+743,Core3,Day,20037,RF,M14 Mod,117,200,1,10,10,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7401,370,444,518,592,90
+743,Core3,Day,20095,RF,Type88 Mod,116,200,1,10,10,Exclusive (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7093,354,425,496,567,91
+743,Core3,Day,20039,RF,Mosin-Nagant Mod,115,95,0,8,8,AP Round (5-Star),Exclusive (5-Star),Exclusive (5-Star),7014,350,420,490,561,92
+743,Core3,Day,307,MG,ZB-26,100,100,0,1,0,AP Round (5-Star),-,Ammo Box (5-Star),7005,350,420,490,560,93
+743,Core3,Day,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (5-Star),-,Ammo Box (5-Star),7005,350,420,490,560,94
+743,Core3,Day,50,RF,Lee Enfield,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6968,348,418,487,557,95
+743,Core3,Day,347,SMG,SR2,71,80,0,1,0,-,AP Round (5-Star),-,3054,343,412,481,549,96
+743,Core3,Day,46,RF,Kar98k,100,100,0,8,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6649,332,398,465,531,97
+743,Core3,Day,208,MG,HMG21,100,100,0,1,0,AP Round (5-Star),-,Ammo Box (4-Star),6594,329,395,461,527,98
+743,Core3,Day,275,MG,M1895 CB,100,100,0,10,0,AP Round (5-Star),-,Ammo Box (4-Star),6517,325,391,456,521,99
+743,Core3,Day,20053,RF,NTW-20 Mod,117,200,1,10,10,Exclusive (5-Star),-,Camo Cloak (5-Star),6484,324,389,453,518,100
+743,Core3,Day,276,MG,Kord,100,100,0,10,0,AP Round (5-Star),-,Ammo Box (4-Star),6444,322,386,451,515,101
+743,Core3,Day,20051,RF,FF FN49 Mod,115,100,0,8,8,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6323,316,379,442,505,102
+743,Core3,Day,20252,RF,KSVK Mod,116,200,1,10,10,Exclusive (5-Star),-,Camo Cloak (5-Star),6304,315,378,441,504,103
+743,Core3,Day,1017,HG,Jill Stingray,100,91,0,10,0,Exclusive (5-Star),Exclusive (5-Star),Exclusive (5-Star),3583,313,376,438,501,104
+743,Core3,Day,20089,MG,Bren Mod,110,100,0,1,0,AP Round (5-Star),-,Ammo Box (4-Star),6240,312,374,436,499,105
+743,Core3,Day,266,RF,R93,100,150,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5989,299,359,419,479,106
+743,Core3,Day,261,RF,QBU-88,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5928,296,355,414,474,107
+743,Core3,Day,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),-,Camo Cloak (5-Star),5853,292,351,409,468,108
+743,Core3,Day,96,HG,Grizzly,100,100,0,10,0,Night Equip (5-Star),-,Exclusive (5-Star),3317,290,348,406,464,109
+743,Core3,Day,1018,HG,Sei Asagiri,100,100,0,8,0,Night Equip (5-Star),-,Exclusive (5-Star),3264,285,342,399,456,110
+743,Core3,Day,348,RF,HS.50,100,140,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5691,284,341,398,455,111
+743,Core3,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5657,282,339,395,452,112
+743,Core3,Day,36,RF,Springfield,100,100,0,1,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5631,281,337,394,450,113
+743,Core3,Day,48,RF,WA2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5614,280,336,392,449,114
+743,Core3,Day,1024,RF,Rico,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5569,278,334,389,445,115
+743,Core3,Day,296,RF,Gr SL8,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5554,277,333,388,444,116
+743,Core3,Day,20002,HG,M1911 Mod,115,100,0,8,5,Night Equip (5-Star),Exclusive (5-Star),-,3097,270,325,379,433,117
+743,Core3,Day,43,RF,SVD,100,100,0,10,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5370,268,322,375,429,118
+743,Core3,Day,231,RF,M82A1,100,100,0,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),5367,268,322,375,429,119
+743,Core3,Day,197,RF,Carcano M1891,100,150,1,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),5334,266,320,373,426,120
+743,Core3,Day,329,RF,SVCh,100,100,0,8,0,AP Round (4-Star),-,Camo Cloak (5-Star),5331,266,319,373,426,121
+743,Core3,Day,257,RF,M200,100,100,0,10,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),5320,266,319,372,425,122
+743,Core3,Day,198,RF,Carcano M91/38,100,100,0,10,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),5295,264,317,370,423,123
+743,Core3,Day,20044,RF,SV-98 Mod,115,100,0,8,8,Sniper Round (5-Star),-,Exclusive (5-Star),5287,264,317,370,422,124
+743,Core3,Day,270,RF,4 Shiki,100,100,0,8,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5287,264,317,370,422,125
+743,Core3,Day,1020,RF,Stella Hoshii,100,100,0,8,0,Sniper Round (5-Star),-,Exclusive (5-Star),5142,257,308,359,411,126
+743,Core3,Day,349,AR,AK74M,71,79,0,1,0,Night Equip (5-Star),-,-,1923,240,288,336,384,127
+743,Core3,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,22,27,31,36,128
+743,Core3,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,22,26,31,35,129
+743,Core3,Day,353,SG,MAG-7,1,50,0,1,0,-,-,-,246,21,25,30,34,130
+743,Core3,Day,74,AR,SIG-510,1,50,0,1,0,-,-,-,162,20,24,28,32,131
+743,Core3,Day,1009,HG,El Clear,1,100,0,1,0,-,-,-,148,12,15,18,20,132
+743,Core3,Day,1010,HG,El Fail,1,100,0,1,0,-,-,-,148,12,15,18,20,133
+743,Core3,Day,10,HG,PPK,1,50,0,1,0,-,-,-,130,11,13,15,18,134
+743,Core3,Day,240,MG,Mk46,1,50,0,1,0,-,-,-,222,11,13,15,17,135
+743,Core3,Day,82,MG,DP28,1,50,0,1,0,-,-,-,207,10,12,14,16,136
+743,Core3,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,10,12,14,16,137
+743,Core3,Day,34,RF,M1 Garand,1,50,0,1,0,-,-,-,175,8,10,12,14,138
+743,Core3,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,7,9,11,12,139
 746,Core6,Day,20055,AR,M4A1 Mod,120,200,1,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),8492,1061,1273,1486,1698,1
 746,Core6,Day,80,MG,M1919A4,100,100,0,1,0,Special AP Round (5-Star),Auxiliary Sights (5-Star),Ammo Box (5-Star),11788,1060,1273,1485,1697,2
 746,Core6,Day,125,MG,Gr MG4,100,100,0,4,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),13821,1036,1243,1451,1658,3
@@ -1081,13 +1170,13 @@
 746,Core6,Day,112,MG,Negev,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),12373,927,1113,1299,1484,16
 746,Core6,Day,173,MG,PKP,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),12303,922,1107,1291,1476,17
 746,Core6,Day,324,SG,M6 ASW,100,100,0,1,0,Armor Plate (5-Star),Birdshot (5-Star),Holographic (5-Star),7349,918,1102,1286,1469,18
-746,Core6,Day,1034,SG,Minos,90,100,0,1,0,Armor Plate (5-Star),Birdshot (5-Star),Exclusive (5-Star),7337,917,1100,1283,1467,19
+746,Core6,Day,1034,SG,Minos,90,100,0,1,0,Armor Plate (5-Star),Buckshot Shell (4-Star),Exclusive (5-Star),7335,916,1100,1283,1467,19
 746,Core6,Day,339,MG,RPK-203,100,100,0,9,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),12226,916,1100,1283,1467,20
 746,Core6,Day,1021,MG,Alma Armas,100,100,0,1,0,Special AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),12142,910,1092,1274,1457,21
 746,Core6,Day,352,SG,Nova,100,100,0,10,0,Armor Plate (5-Star),Birdshot (5-Star),Holographic (5-Star),7277,909,1091,1273,1455,22
 746,Core6,Day,238,MG,QJY-88,100,100,0,1,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),12040,903,1083,1264,1444,23
-746,Core6,Day,20154,SG,M500 Mod,110,100,0,8,10,Armor Plate (5-Star),Slug Shell (5-Star),Holographic (5-Star),7214,901,1082,1262,1442,24
-746,Core6,Day,164,SG,FP-6,100,100,0,1,0,Armor Plate (5-Star),Flash Shell (5-Star),Optical (5-Star),7146,893,1071,1250,1429,25
+746,Core6,Day,20154,SG,M500 Mod,110,100,0,8,10,Armor Plate (5-Star),Birdshot (5-Star),Holographic (5-Star),7219,902,1082,1263,1443,24
+746,Core6,Day,164,SG,FP-6,100,100,0,1,0,Armor Plate (5-Star),Slug Shell (5-Star),Optical (5-Star),7146,893,1071,1250,1429,25
 746,Core6,Day,351,SG,M26-MASS,100,100,0,1,0,Armor Plate (5-Star),Flash Shell (5-Star),Optical (5-Star),7139,892,1070,1249,1427,26
 746,Core6,Day,350,SG,FO-12,100,100,0,4,0,Armor Plate (5-Star),Flash Shell (5-Star),Optical (5-Star),7079,884,1061,1238,1415,27
 746,Core6,Day,1022,SG,Dana Zane,100,100,0,1,0,Exclusive (5-Star),Flash Shell (5-Star),Optical (5-Star),7040,880,1056,1232,1408,28
@@ -1118,12 +1207,12 @@
 746,Core6,Day,73,AR,AUG,100,100,0,10,0,Optical (5-Star),HV Round (5-Star),T-Exo (5-Star),5679,709,851,993,1135,53
 746,Core6,Day,20095,RF,Type88 Mod,116,200,1,10,10,Exclusive (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7093,709,851,993,1134,54
 746,Core6,Day,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),7071,707,848,989,1131,55
-746,Core6,Day,20039,RF,Mosin-Nagant Mod,115,95,0,8,8,AP Round (5-Star),Exclusive (5-Star),Exclusive (5-Star),7014,701,841,981,1122,56
-746,Core6,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),6968,696,836,975,1114,57
+746,Core6,Day,20152,SG,M1897 Mod,110,100,0,1,1,-,Flash Shell (5-Star),Optical (5-Star),5646,705,846,988,1129,56
+746,Core6,Day,20039,RF,Mosin-Nagant Mod,115,95,0,8,8,AP Round (5-Star),Exclusive (5-Star),Exclusive (5-Star),7014,701,841,981,1122,57
 746,Core6,Day,50,RF,Lee Enfield,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6968,696,836,975,1114,58
-746,Core6,Day,115,SMG,Suomi,100,100,0,4,0,Exclusive (5-Star),HP Round (5-Star),Silencer (5-Star),6166,693,832,971,1109,59
-746,Core6,Day,245,SMG,P90,100,100,0,8,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),6153,692,830,969,1107,60
-746,Core6,Day,1024,RF,Rico,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),6907,690,828,966,1105,61
+746,Core6,Day,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),6968,696,836,975,1114,59
+746,Core6,Day,115,SMG,Suomi,100,100,0,4,0,Exclusive (5-Star),HP Round (5-Star),Silencer (5-Star),6166,693,832,971,1109,60
+746,Core6,Day,245,SMG,P90,100,100,0,8,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),6153,692,830,969,1107,61
 746,Core6,Day,20101,SMG,UMP9 Mod,110,100,0,10,10,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),6123,688,826,964,1102,62
 746,Core6,Day,1032,AR,Medusa,92,100,0,4,0,Silencer (5-Star),HV Round (5-Star),Exclusive (5-Star),5500,687,825,962,1100,63
 746,Core6,Day,172,AR,Am RFB,100,100,0,10,0,Exclusive (5-Star),HV Round (5-Star),T-Exo (5-Star),5432,679,814,950,1086,64
@@ -1140,56 +1229,67 @@
 746,Core6,Day,135,SMG,SR-3MP,100,100,0,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5722,643,772,901,1029,75
 746,Core6,Day,1025,SG,Triela,100,100,0,1,0,-,Exclusive (5-Star),Night Equip (5-Star),5147,643,772,900,1029,76
 746,Core6,Day,127,SMG,Type79,100,100,0,1,0,T-Exo (5-Star),Exclusive (5-Star),Silencer (5-Star),5686,639,767,895,1023,77
-746,Core6,Day,20,SMG,Vector,100,100,0,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5668,637,765,892,1020,78
-746,Core6,Day,20152,SG,M1897 Mod,110,100,0,1,1,-,Buckshot Shell (2-Star),Night Equip (5-Star),5092,636,763,891,1018,79
+746,Core6,Day,281,SG,CAWS,100,100,0,1,0,-,Buckshot Shell (3-Star),Night Equip (5-Star),5107,638,766,893,1021,78
+746,Core6,Day,20,SMG,Vector,100,100,0,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5668,637,765,892,1020,79
 746,Core6,Day,1029,AR,Agent 416,100,100,0,4,0,Exclusive (5-Star),Exclusive (5-Star),T-Exo (5-Star),5078,634,761,888,1015,80
 746,Core6,Day,20051,RF,FF FN49 Mod,115,100,0,8,8,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),6323,632,758,885,1011,81
 746,Core6,Day,1028,SMG,Agent Vector,100,100,0,8,0,Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5603,630,756,882,1008,82
 746,Core6,Day,348,RF,HS.50,100,140,1,10,0,AP Round (5-Star),Silencer (5-Star),Camo Cloak (5-Star),6292,629,755,880,1006,83
-746,Core6,Day,85,MG,PK,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),8225,616,740,863,987,84
-746,Core6,Day,1023,SMG,Henrietta,90,100,0,1,0,X-Exo (5-Star),HP Round (5-Star),Exclusive (5-Star),5350,601,722,842,963,85
-746,Core6,Day,1030,SMG,Jashin-chan,90,100,0,1,0,Exclusive (5-Star),HP Round (5-Star),Night Equip (5-Star),5184,583,699,816,933,86
-746,Core6,Day,1026,MG,Claes,90,100,0,1,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),7639,572,687,802,916,87
-746,Core6,Day,36,RF,Springfield,100,100,0,1,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5631,563,675,788,900,88
-746,Core6,Day,48,RF,WA2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5614,561,673,785,898,89
-746,Core6,Day,20136,SMG,PP-19 Mod,107,100,0,1,0,X-Exo (5-Star),HP Round (5-Star),Night Equip (5-Star),4948,556,667,779,890,90
-746,Core6,Day,296,RF,Gr SL8,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5554,555,666,777,888,91
-746,Core6,Day,231,RF,M82A1,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5540,554,664,775,886,92
-746,Core6,Day,329,RF,SVCh,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5517,551,662,772,882,93
-746,Core6,Day,197,RF,Carcano M1891,100,150,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5511,551,661,771,881,94
-746,Core6,Day,257,RF,M200,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5500,550,660,770,880,95
-746,Core6,Day,20044,RF,SV-98 Mod,115,100,0,8,8,AP Round (5-Star),-,Exclusive (5-Star),5476,547,657,766,876,96
-746,Core6,Day,198,RF,Carcano M91/38,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5473,547,656,766,875,97
-746,Core6,Day,20031,SMG,M38 Mod,110,100,0,1,1,X-Exo (5-Star),HP Round (5-Star),Night Equip (5-Star),4838,544,653,761,870,98
-746,Core6,Day,311,SMG,Lusa,90,100,0,8,0,X-Exo (5-Star),HP Round (5-Star),Night Equip (5-Star),4823,542,651,759,868,99
-746,Core6,Day,148,RF,IWS 2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5384,538,646,753,861,100
-746,Core6,Day,43,RF,SVD,100,100,0,10,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5370,537,644,751,859,101
-746,Core6,Day,295,SMG,CF-05,100,100,0,1,0,X-Exo (5-Star),HP Round (5-Star),Night Equip (5-Star),4764,535,643,750,857,102
-746,Core6,Day,251,SMG,X95,92,100,0,8,0,X-Exo (5-Star),HP Round (5-Star),Night Equip (5-Star),4755,534,641,748,855,103
-746,Core6,Day,1020,RF,Stella Hoshii,100,100,0,8,0,AP Round (5-Star),-,Exclusive (5-Star),5341,534,640,747,854,104
-746,Core6,Day,290,AR,89 Shiki,100,100,0,5,0,Night Equip (5-Star),-,X-Exo (5-Star),4196,524,629,734,839,105
-746,Core6,Day,293,AR,AK-15,100,100,0,3,0,Night Equip (5-Star),-,X-Exo (5-Star),4177,522,626,730,835,106
-746,Core6,Day,178,SMG,F1,100,100,0,1,0,X-Exo (5-Star),Signal Flare (5-Star),Night Equip (5-Star),4638,521,626,730,834,107
-746,Core6,Day,119,AR,OTs-14,100,100,0,10,0,Night Equip (5-Star),-,X-Exo (5-Star),4156,519,623,727,831,108
-746,Core6,Day,306,AR,AK-Alfa,100,100,0,2,0,Night Equip (5-Star),-,X-Exo (5-Star),4155,519,623,727,831,109
-746,Core6,Day,109,MG,Gr MG5,100,100,0,10,0,AP Round (4-Star),-,Ammo Box (5-Star),6774,508,609,711,812,110
-746,Core6,Day,72,AR,TAR-21,90,100,0,1,0,Night Equip (5-Star),-,Exclusive (5-Star),4042,505,606,707,808,111
-746,Core6,Day,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (4-Star),-,Ammo Box (5-Star),6736,505,606,707,808,112
-746,Core6,Day,307,MG,ZB-26,100,100,0,1,0,AP Round (4-Star),-,Ammo Box (4-Star),6372,477,573,669,764,113
-746,Core6,Day,208,MG,HMG21,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6321,474,568,663,758,114
-746,Core6,Day,275,MG,M1895 CB,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6258,469,563,657,750,115
-746,Core6,Day,27,SMG,Skorpion,100,100,0,10,0,-,Signal Flare (5-Star),Night Equip (5-Star),4150,466,560,653,747,116
-746,Core6,Day,276,MG,Kord,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6220,466,559,653,746,117
-746,Core6,Day,183,HG,Contender,100,100,0,10,0,Night Equip (5-Star),Sniper Round (5-Star),-,4058,355,426,497,568,118
-746,Core6,Day,347,SMG,SR2,71,80,0,1,0,-,Sniper Round (5-Star),-,2943,331,397,463,529,119
-746,Core6,Day,1017,HG,Jill Stingray,100,91,0,10,0,Exclusive (5-Star),Exclusive (5-Star),Exclusive (5-Star),3583,313,376,438,501,120
-746,Core6,Day,96,HG,Grizzly,100,100,0,10,0,Night Equip (5-Star),-,Exclusive (5-Star),3317,290,348,406,464,121
-746,Core6,Day,1018,HG,Sei Asagiri,100,100,0,8,0,Night Equip (5-Star),-,Exclusive (5-Star),3264,285,342,399,456,122
-746,Core6,Day,20002,HG,M1911 Mod,115,100,0,8,5,Night Equip (5-Star),Exclusive (5-Star),-,3097,270,325,379,433,123
-746,Core6,Day,349,AR,AK74M,71,79,0,1,0,Night Equip (5-Star),-,-,1923,240,288,336,384,124
-746,Core6,Day,353,SG,MAG-7,1,50,0,1,0,-,-,-,246,30,36,43,49,125
-746,Core6,Day,1009,HG,El Clear,1,100,0,1,0,-,-,-,148,12,15,18,20,126
-746,Core6,Day,1010,HG,El Fail,1,100,0,1,0,-,-,-,148,12,15,18,20,127
+746,Core6,Day,165,SG,M1014,100,100,0,1,0,-,Buckshot Shell (2-Star),Night Equip (5-Star),4989,623,748,873,997,84
+746,Core6,Day,85,MG,PK,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),8225,616,740,863,987,85
+746,Core6,Day,1023,SMG,Henrietta,90,100,0,1,0,X-Exo (5-Star),HP Round (5-Star),Exclusive (5-Star),5350,601,722,842,963,86
+746,Core6,Day,1030,SMG,Jashin-chan,90,100,0,1,0,Exclusive (5-Star),HP Round (5-Star),Night Equip (5-Star),5184,583,699,816,933,87
+746,Core6,Day,1026,MG,Claes,90,100,0,1,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),7639,572,687,802,916,88
+746,Core6,Day,36,RF,Springfield,100,100,0,1,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5631,563,675,788,900,89
+746,Core6,Day,48,RF,WA2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5614,561,673,785,898,90
+746,Core6,Day,1024,RF,Rico,100,100,0,10,0,AP Round (5-Star),-,Exclusive (5-Star),5569,556,668,779,891,91
+746,Core6,Day,20136,SMG,PP-19 Mod,107,100,0,1,0,X-Exo (5-Star),HP Round (5-Star),Night Equip (5-Star),4948,556,667,779,890,92
+746,Core6,Day,296,RF,Gr SL8,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5554,555,666,777,888,93
+746,Core6,Day,231,RF,M82A1,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5540,554,664,775,886,94
+746,Core6,Day,329,RF,SVCh,100,100,0,8,0,AP Round (5-Star),-,Camo Cloak (5-Star),5517,551,662,772,882,95
+746,Core6,Day,197,RF,Carcano M1891,100,150,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5511,551,661,771,881,96
+746,Core6,Day,257,RF,M200,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5500,550,660,770,880,97
+746,Core6,Day,20044,RF,SV-98 Mod,115,100,0,8,8,AP Round (5-Star),-,Exclusive (5-Star),5476,547,657,766,876,98
+746,Core6,Day,198,RF,Carcano M91/38,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5473,547,656,766,875,99
+746,Core6,Day,20031,SMG,M38 Mod,110,100,0,1,1,X-Exo (5-Star),HP Round (5-Star),Night Equip (5-Star),4838,544,653,761,870,100
+746,Core6,Day,311,SMG,Lusa,90,100,0,8,0,X-Exo (5-Star),HP Round (5-Star),Night Equip (5-Star),4823,542,651,759,868,101
+746,Core6,Day,148,RF,IWS 2000,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),5384,538,646,753,861,102
+746,Core6,Day,43,RF,SVD,100,100,0,10,0,Exclusive (5-Star),-,Camo Cloak (5-Star),5370,537,644,751,859,103
+746,Core6,Day,295,SMG,CF-05,100,100,0,1,0,X-Exo (5-Star),HP Round (5-Star),Night Equip (5-Star),4764,535,643,750,857,104
+746,Core6,Day,251,SMG,X95,92,100,0,8,0,X-Exo (5-Star),HP Round (5-Star),Night Equip (5-Star),4755,534,641,748,855,105
+746,Core6,Day,1020,RF,Stella Hoshii,100,100,0,8,0,AP Round (5-Star),-,Exclusive (5-Star),5341,534,640,747,854,106
+746,Core6,Day,290,AR,89 Shiki,100,100,0,5,0,Night Equip (5-Star),-,X-Exo (5-Star),4196,524,629,734,839,107
+746,Core6,Day,293,AR,AK-15,100,100,0,3,0,Night Equip (5-Star),-,X-Exo (5-Star),4177,522,626,730,835,108
+746,Core6,Day,178,SMG,F1,100,100,0,1,0,X-Exo (5-Star),Signal Flare (5-Star),Night Equip (5-Star),4638,521,626,730,834,109
+746,Core6,Day,119,AR,OTs-14,100,100,0,10,0,Night Equip (5-Star),-,X-Exo (5-Star),4156,519,623,727,831,110
+746,Core6,Day,306,AR,AK-Alfa,100,100,0,2,0,Night Equip (5-Star),-,X-Exo (5-Star),4155,519,623,727,831,111
+746,Core6,Day,109,MG,Gr MG5,100,100,0,10,0,AP Round (4-Star),-,Ammo Box (5-Star),6774,508,609,711,812,112
+746,Core6,Day,72,AR,TAR-21,90,100,0,1,0,Night Equip (5-Star),-,Exclusive (5-Star),4042,505,606,707,808,113
+746,Core6,Day,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (4-Star),-,Ammo Box (5-Star),6736,505,606,707,808,114
+746,Core6,Day,307,MG,ZB-26,100,100,0,1,0,AP Round (4-Star),-,Ammo Box (4-Star),6372,477,573,669,764,115
+746,Core6,Day,208,MG,HMG21,100,100,0,1,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6321,474,568,663,758,116
+746,Core6,Day,275,MG,M1895 CB,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6258,469,563,657,750,117
+746,Core6,Day,27,SMG,Skorpion,100,100,0,10,0,-,Signal Flare (5-Star),Night Equip (5-Star),4150,466,560,653,747,118
+746,Core6,Day,276,MG,Kord,100,100,0,10,0,Sniper Round (5-Star),-,Ammo Box (4-Star),6220,466,559,653,746,119
+746,Core6,Day,183,HG,Contender,100,100,0,10,0,Night Equip (5-Star),Sniper Round (5-Star),-,4058,355,426,497,568,120
+746,Core6,Day,347,SMG,SR2,71,80,0,1,0,-,Sniper Round (5-Star),-,2943,331,397,463,529,121
+746,Core6,Day,1017,HG,Jill Stingray,100,91,0,10,0,Exclusive (5-Star),Exclusive (5-Star),Exclusive (5-Star),3583,313,376,438,501,122
+746,Core6,Day,96,HG,Grizzly,100,100,0,10,0,Night Equip (5-Star),-,Exclusive (5-Star),3317,290,348,406,464,123
+746,Core6,Day,1018,HG,Sei Asagiri,100,100,0,8,0,Night Equip (5-Star),-,Exclusive (5-Star),3264,285,342,399,456,124
+746,Core6,Day,20002,HG,M1911 Mod,115,100,0,8,5,Night Equip (5-Star),Exclusive (5-Star),-,3097,270,325,379,433,125
+746,Core6,Day,349,AR,AK74M,71,79,0,1,0,Night Equip (5-Star),-,-,1923,240,288,336,384,126
+746,Core6,Day,353,SG,MAG-7,1,50,0,1,0,-,-,-,246,30,36,43,49,127
+746,Core6,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,22,27,31,36,128
+746,Core6,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,22,26,31,35,129
+746,Core6,Day,74,AR,SIG-510,1,50,0,1,0,-,-,-,162,20,24,28,32,130
+746,Core6,Day,34,RF,M1 Garand,1,50,0,1,0,-,-,-,175,17,21,24,28,131
+746,Core6,Day,240,MG,Mk46,1,50,0,1,0,-,-,-,222,16,19,23,26,132
+746,Core6,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,15,19,22,25,133
+746,Core6,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,15,19,22,25,134
+746,Core6,Day,82,MG,DP28,1,50,0,1,0,-,-,-,207,15,18,21,24,135
+746,Core6,Day,1009,HG,El Clear,1,100,0,1,0,-,-,-,148,12,15,18,20,136
+746,Core6,Day,1010,HG,El Fail,1,100,0,1,0,-,-,-,148,12,15,18,20,137
+746,Core6,Day,10,HG,PPK,1,50,0,1,0,-,-,-,130,11,13,15,18,138
 748,Core8,Night,20055,AR,M4A1 Mod,120,200,1,10,10,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),7607,2091,2510,2928,3347,1
 748,Core8,Night,20065,AR,416 Mod,118,200,1,10,10,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),6537,1797,2157,2516,2876,2
 748,Core8,Night,20122,AR,Gr G11 Mod,115,100,0,10,10,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),6275,1725,2070,2415,2761,3
@@ -1262,60 +1362,71 @@
 748,Core8,Night,1018,HG,Sei Asagiri,100,100,0,8,0,Silencer (5-Star),-,Exclusive (5-Star),2848,747,897,1046,1196,70
 748,Core8,Night,96,HG,Grizzly,100,100,0,10,0,Silencer (5-Star),-,Exclusive (5-Star),2780,729,875,1021,1167,71
 748,Core8,Night,72,AR,TAR-21,90,100,0,1,0,Silencer (5-Star),-,Exclusive (5-Star),2580,709,851,993,1135,72
-748,Core8,Night,20152,SG,M1897 Mod,110,100,0,1,1,-,Birdshot (5-Star),Optical (5-Star),4600,575,690,805,920,73
-748,Core8,Night,351,SG,M26-MASS,100,100,0,1,0,-,Birdshot (5-Star),Optical (5-Star),4583,572,687,802,916,74
-748,Core8,Night,350,SG,FO-12,100,100,0,4,0,-,Birdshot (5-Star),Optical (5-Star),4582,572,687,801,916,75
+748,Core8,Night,350,SG,FO-12,100,100,0,4,0,-,Buckshot Shell (4-Star),Optical (5-Star),4611,576,691,806,922,73
+748,Core8,Night,20152,SG,M1897 Mod,110,100,0,1,1,-,Birdshot (5-Star),Optical (5-Star),4600,575,690,805,920,74
+748,Core8,Night,351,SG,M26-MASS,100,100,0,1,0,-,Buckshot Shell (3-Star),Optical (5-Star),4582,572,687,801,916,75
 748,Core8,Night,302,SG,Defender,100,100,0,10,0,-,Exclusive (5-Star),Optical (5-Star),4510,563,676,789,902,76
-748,Core8,Night,281,SG,CAWS,100,100,0,1,0,-,Buckshot Shell (2-Star),Optical (5-Star),4488,561,673,785,897,77
-748,Core8,Night,1025,SG,Triela,100,100,0,1,0,-,Exclusive (5-Star),Optical (5-Star),4325,540,648,756,865,78
-748,Core8,Night,347,SMG,SR2,71,80,0,1,0,-,AP Round (5-Star),-,2193,520,625,729,833,79
-748,Core8,Night,125,MG,Gr MG4,100,100,0,4,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),5992,449,539,629,719,80
-748,Core8,Night,292,MG,RPK-16,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4848,363,436,509,581,81
-748,Core8,Night,349,AR,AK74M,71,79,0,1,0,Optical (5-Star),-,-,1311,360,432,504,576,82
-748,Core8,Night,112,MG,Negev,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4769,357,429,500,572,83
-748,Core8,Night,253,MG,Lewis,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4750,356,427,498,570,84
-748,Core8,Night,20075,MG,M1918 Mod,115,100,0,6,10,Special AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),4703,352,423,493,564,85
-748,Core8,Night,1033,MG,Hanazono Yurine,100,100,0,8,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),4654,349,418,488,558,86
-748,Core8,Night,339,MG,RPK-203,100,100,0,9,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4613,345,415,484,553,87
-748,Core8,Night,173,MG,PKP,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4437,332,399,465,532,88
-748,Core8,Night,109,MG,Gr MG5,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4429,332,398,465,531,89
-748,Core8,Night,238,MG,QJY-88,100,100,0,1,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4321,324,388,453,518,90
-748,Core8,Night,1021,MG,Alma Armas,100,100,0,1,0,Special AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),4258,319,383,447,510,91
-748,Core8,Night,20053,RF,NTW-20 Mod,117,200,1,10,10,Exclusive (5-Star),Optical (5-Star),Camo Cloak (5-Star),4044,303,363,424,485,92
-748,Core8,Night,20252,RF,KSVK Mod,116,200,1,10,10,Exclusive (5-Star),Optical (5-Star),Camo Cloak (5-Star),3958,296,356,415,474,93
-748,Core8,Night,20037,RF,M14 Mod,117,200,1,10,10,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),3790,284,341,397,454,94
-748,Core8,Night,20039,RF,Mosin-Nagant Mod,115,95,0,8,8,AP Round (5-Star),Exclusive (5-Star),Exclusive (5-Star),3788,284,340,397,454,95
-748,Core8,Night,266,RF,R93,100,150,1,10,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),3744,280,336,393,449,96
-748,Core8,Night,20095,RF,Type88 Mod,116,200,1,10,10,Exclusive (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),3716,278,334,390,445,97
-748,Core8,Night,261,RF,QBU-88,100,100,0,8,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),3576,268,321,375,429,98
-748,Core8,Night,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),3510,263,315,368,421,99
-748,Core8,Night,85,MG,PK,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),3500,262,315,367,420,100
-748,Core8,Night,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),3488,261,313,366,418,101
-748,Core8,Night,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),3471,260,312,364,416,102
-748,Core8,Night,307,MG,ZB-26,100,100,0,1,0,AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),3463,259,311,363,415,103
-748,Core8,Night,257,RF,M200,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),3453,258,310,362,414,104
+748,Core8,Night,281,SG,CAWS,100,100,0,1,0,-,Birdshot (5-Star),Optical (5-Star),4497,562,674,786,899,77
+748,Core8,Night,165,SG,M1014,100,100,0,1,0,-,Birdshot (5-Star),Optical (5-Star),4481,560,672,784,896,78
+748,Core8,Night,156,SG,Super-Shorty,100,100,0,1,0,-,Buckshot Shell (2-Star),Optical (5-Star),4458,557,668,780,891,79
+748,Core8,Night,1025,SG,Triela,100,100,0,1,0,-,Exclusive (5-Star),Optical (5-Star),4325,540,648,756,865,80
+748,Core8,Night,347,SMG,SR2,71,80,0,1,0,-,AP Round (5-Star),-,2193,520,625,729,833,81
+748,Core8,Night,125,MG,Gr MG4,100,100,0,4,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),5992,449,539,629,719,82
+748,Core8,Night,292,MG,RPK-16,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4848,363,436,509,581,83
+748,Core8,Night,349,AR,AK74M,71,79,0,1,0,Optical (5-Star),-,-,1311,360,432,504,576,84
+748,Core8,Night,112,MG,Negev,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4769,357,429,500,572,85
+748,Core8,Night,253,MG,Lewis,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4750,356,427,498,570,86
+748,Core8,Night,20075,MG,M1918 Mod,115,100,0,6,10,Special AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),4703,352,423,493,564,87
+748,Core8,Night,1033,MG,Hanazono Yurine,100,100,0,8,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),4654,349,418,488,558,88
+748,Core8,Night,339,MG,RPK-203,100,100,0,9,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4613,345,415,484,553,89
+748,Core8,Night,173,MG,PKP,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4437,332,399,465,532,90
+748,Core8,Night,109,MG,Gr MG5,100,100,0,10,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4429,332,398,465,531,91
+748,Core8,Night,238,MG,QJY-88,100,100,0,1,0,Special AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),4321,324,388,453,518,92
+748,Core8,Night,1021,MG,Alma Armas,100,100,0,1,0,Special AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),4258,319,383,447,510,93
+748,Core8,Night,20053,RF,NTW-20 Mod,117,200,1,10,10,Exclusive (5-Star),Optical (5-Star),Camo Cloak (5-Star),4044,303,363,424,485,94
+748,Core8,Night,20252,RF,KSVK Mod,116,200,1,10,10,Exclusive (5-Star),Optical (5-Star),Camo Cloak (5-Star),3958,296,356,415,474,95
+748,Core8,Night,20037,RF,M14 Mod,117,200,1,10,10,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),3790,284,341,397,454,96
+748,Core8,Night,20039,RF,Mosin-Nagant Mod,115,95,0,8,8,AP Round (5-Star),Exclusive (5-Star),Exclusive (5-Star),3788,284,340,397,454,97
+748,Core8,Night,266,RF,R93,100,150,1,10,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),3744,280,336,393,449,98
+748,Core8,Night,20095,RF,Type88 Mod,116,200,1,10,10,Exclusive (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),3716,278,334,390,445,99
+748,Core8,Night,261,RF,QBU-88,100,100,0,8,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),3576,268,321,375,429,100
+748,Core8,Night,20081,MG,LWMMG Mod,110,100,0,8,8,AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),3510,263,315,368,421,101
+748,Core8,Night,85,MG,PK,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),3500,262,315,367,420,102
+748,Core8,Night,1031,RF,Pekola,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Exclusive (5-Star),3488,261,313,366,418,103
+748,Core8,Night,316,RF,General Liu,100,100,0,9,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),3471,260,312,364,416,104
 748,Core8,Night,50,RF,Lee Enfield,100,100,0,10,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),3407,255,306,357,408,105
 748,Core8,Night,46,RF,Kar98k,100,100,0,8,0,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),3302,247,297,346,396,106
 748,Core8,Night,1026,MG,Claes,90,100,0,1,0,AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),3266,244,293,342,391,107
-748,Core8,Night,275,MG,M1895 CB,100,100,0,10,0,AP Round (5-Star),-,Ammo Box (4-Star),3184,238,286,334,382,108
-748,Core8,Night,276,MG,Kord,100,100,0,10,0,AP Round (5-Star),-,Ammo Box (4-Star),3159,236,284,331,379,109
-748,Core8,Night,20051,RF,FF FN49 Mod,115,100,0,8,8,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),3132,234,281,328,375,110
-748,Core8,Night,208,MG,HMG21,100,100,0,1,0,AP Round (5-Star),-,Ammo Box (4-Star),3089,231,278,324,370,111
-748,Core8,Night,197,RF,Carcano M1891,100,150,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),3050,228,274,320,366,112
-748,Core8,Night,337,RF,De Lisle,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),3050,228,274,320,366,113
-748,Core8,Night,348,RF,HS.50,100,140,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),3046,228,274,319,365,114
-748,Core8,Night,20089,MG,Bren Mod,110,100,0,1,0,AP Round (5-Star),-,Ammo Box (4-Star),3026,226,272,317,363,115
-748,Core8,Night,329,RF,SVCh,100,100,0,8,0,AP Round (4-Star),-,Camo Cloak (5-Star),2935,220,264,308,352,116
-748,Core8,Night,198,RF,Carcano M91/38,100,100,0,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),2927,219,263,307,351,117
-748,Core8,Night,48,RF,WA2000,100,100,0,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),2899,217,260,304,347,118
-748,Core8,Night,20044,RF,SV-98 Mod,115,100,0,8,8,Sniper Round (5-Star),-,Exclusive (5-Star),2860,214,257,300,343,119
-748,Core8,Night,296,RF,Gr SL8,100,100,0,8,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),2846,213,256,298,341,120
-748,Core8,Night,231,RF,M82A1,100,100,0,10,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),2836,212,255,297,340,121
-748,Core8,Night,1020,RF,Stella Hoshii,100,100,0,8,0,Sniper Round (5-Star),-,Exclusive (5-Star),2840,213,255,298,340,122
-748,Core8,Night,1024,RF,Rico,100,100,0,10,0,Sniper Round (5-Star),-,Exclusive (5-Star),2832,212,254,297,339,123
-748,Core8,Night,222,RF,TAC-50,100,100,0,10,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),2821,211,253,296,338,124
-748,Core8,Night,43,RF,SVD,100,100,0,10,0,Exclusive (5-Star),-,Camo Cloak (5-Star),2806,210,252,294,336,125
-748,Core8,Night,293,AR,AK-15,1,50,0,1,0,-,-,-,155,42,51,59,68,126
-748,Core8,Night,1009,HG,El Clear,1,100,0,1,0,-,-,-,133,34,41,48,55,127
-748,Core8,Night,1010,HG,El Fail,1,100,0,1,0,-,-,-,133,34,41,48,55,128
-748,Core8,Night,353,SG,MAG-7,1,50,0,1,0,-,-,-,237,29,35,41,47,129
+748,Core8,Night,307,MG,ZB-26,100,100,0,1,0,AP Round (5-Star),-,Ammo Box (5-Star),3228,242,290,338,387,108
+748,Core8,Night,275,MG,M1895 CB,100,100,0,10,0,AP Round (5-Star),-,Ammo Box (4-Star),3184,238,286,334,382,109
+748,Core8,Night,276,MG,Kord,100,100,0,10,0,AP Round (5-Star),-,Ammo Box (4-Star),3159,236,284,331,379,110
+748,Core8,Night,20051,RF,FF FN49 Mod,115,100,0,8,8,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),3132,234,281,328,375,111
+748,Core8,Night,208,MG,HMG21,100,100,0,1,0,AP Round (5-Star),-,Ammo Box (4-Star),3089,231,278,324,370,112
+748,Core8,Night,197,RF,Carcano M1891,100,150,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),3050,228,274,320,366,113
+748,Core8,Night,337,RF,De Lisle,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),3050,228,274,320,366,114
+748,Core8,Night,257,RF,M200,100,100,0,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),3046,228,274,319,365,115
+748,Core8,Night,348,RF,HS.50,100,140,1,10,0,AP Round (5-Star),-,Camo Cloak (5-Star),3046,228,274,319,365,116
+748,Core8,Night,20089,MG,Bren Mod,110,100,0,1,0,AP Round (5-Star),-,Ammo Box (4-Star),3026,226,272,317,363,117
+748,Core8,Night,329,RF,SVCh,100,100,0,8,0,AP Round (4-Star),-,Camo Cloak (5-Star),2935,220,264,308,352,118
+748,Core8,Night,198,RF,Carcano M91/38,100,100,0,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),2927,219,263,307,351,119
+748,Core8,Night,48,RF,WA2000,100,100,0,10,0,AP Round (4-Star),-,Camo Cloak (5-Star),2899,217,260,304,347,120
+748,Core8,Night,20044,RF,SV-98 Mod,115,100,0,8,8,Sniper Round (5-Star),-,Exclusive (5-Star),2860,214,257,300,343,121
+748,Core8,Night,296,RF,Gr SL8,100,100,0,8,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),2846,213,256,298,341,122
+748,Core8,Night,231,RF,M82A1,100,100,0,10,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),2836,212,255,297,340,123
+748,Core8,Night,1020,RF,Stella Hoshii,100,100,0,8,0,Sniper Round (5-Star),-,Exclusive (5-Star),2840,213,255,298,340,124
+748,Core8,Night,1024,RF,Rico,100,100,0,10,0,Sniper Round (5-Star),-,Exclusive (5-Star),2832,212,254,297,339,125
+748,Core8,Night,222,RF,TAC-50,100,100,0,10,0,Sniper Round (5-Star),-,Camo Cloak (5-Star),2821,211,253,296,338,126
+748,Core8,Night,43,RF,SVD,100,100,0,10,0,Exclusive (5-Star),-,Camo Cloak (5-Star),2806,210,252,294,336,127
+748,Core8,Night,33,SMG,m45,1,50,0,1,0,-,-,-,193,45,55,64,73,128
+748,Core8,Night,25,SMG,MP40,1,50,0,1,0,-,-,-,191,45,54,63,72,129
+748,Core8,Night,293,AR,AK-15,1,50,0,1,0,-,-,-,155,42,51,59,68,130
+748,Core8,Night,74,AR,SIG-510,1,50,0,1,0,-,-,-,145,39,47,55,63,131
+748,Core8,Night,1009,HG,El Clear,1,100,0,1,0,-,-,-,133,34,41,48,55,132
+748,Core8,Night,1010,HG,El Fail,1,100,0,1,0,-,-,-,133,34,41,48,55,133
+748,Core8,Night,10,HG,PPK,1,50,0,1,0,-,-,-,116,30,36,42,48,134
+748,Core8,Night,353,SG,MAG-7,1,50,0,1,0,-,-,-,237,29,35,41,47,135
+748,Core8,Night,240,MG,Mk46,1,50,0,1,0,-,-,-,193,14,17,20,23,136
+748,Core8,Night,82,MG,DP28,1,50,0,1,0,-,-,-,176,13,15,18,21,137
+748,Core8,Night,110,MG,FG42,1,50,0,1,0,-,-,-,181,13,16,19,21,138
+748,Core8,Night,34,RF,M1 Garand,1,50,0,1,0,-,-,-,136,10,12,14,16,139
+748,Core8,Night,40,RF,SVT-38,1,50,0,1,0,-,-,-,128,9,11,13,15,140
