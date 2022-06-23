@@ -9,7 +9,7 @@
         "name": "Randomqwerty",
         "gem_pay": "300",
         "pause_turn_chance": "3",
-        "experience": "11563614",
+        "experience": "11563990",
         "lv": "193",
         "maxequip": "400",
         "maxgun": "270",
@@ -23,10 +23,10 @@
         "max_sangvis": "100",
         "bp": "0",
         "bp_pay": "149",
-        "mp": "142872",
-        "ammo": "174520",
-        "mre": "127946",
-        "part": "142410",
+        "mp": "144642",
+        "ammo": "174400",
+        "mre": "128801",
+        "part": "142935",
         "core": "1012",
         "coin1": "15576",
         "coin2": "14205",
@@ -35,13 +35,13 @@
         "monthlycard2_end_time": "0",
         "monthlycard3_end_time": "0",
         "growthfond": "0",
-        "last_recover_time": "1655991607",
+        "last_recover_time": "1656004387",
         "last_bp_recover_time": "1655971200",
-        "last_favor_recover_time": "1655991607",
+        "last_favor_recover_time": "1656004387",
         "last_monthlycard1_recover_time": "1651059395",
         "last_monthlycard2_recover_time": "0",
         "last_monthlycard3_recover_time": "0",
-        "last_login_time": "1655991682",
+        "last_login_time": "1656003391",
         "reg_time": "1552065547",
         "gun_collect": "2,5,9,90,10,71,29,25,37,92,44,58,17,27,74,63,93,52,14,183,61,88,47,70,36,77,39,41,40,46,184,65,91,48,24,34,107,68,31,133,21,32,99,94,115,33,22,55,51,23,53,118,56,60,66,26,57,174,20,11,127,18,150,87,103,82,54,105,69,12,110,86,81,197,111,95,3,89,257,8,13,42,141,100,96,16,139,1,123,143,215,85,249,80,15,216,168,50,198,6,114,177,179,102,7,212,188,173,112,137,101,64,122,171,147,117,134,166,131,119,135,176,97,178,167,79,62,136,108,104,19,149,236,129,72,130,222,106,189,194,243,38,113,181,196,98,121,75,109,120,138,116,170,146,142,248,191,84,235,158,1022,1018,1017,161,1021,1019,1020,151,175,201,128,148,154,211,237,245,233,247,35,228,182,78,20037,186,157,20064,73,193,162,180,213,43,124,20002,153,220,20055,20057,207,172,208,203,49,28,206,205,202,192,204,238,221,195,209,200,140,126,169,187,132,230,210,217,20056,20103,225,20053,59,226,239,231,4,229,227,163,256,261,214,218,270,269,223,234,241,1009,1010,20093,190,266,232,20001,159,152,244,255,262,263,264,20032,20005,260,252,250,20039,254,242,253,251,20075,258,240,265,20091,164,20097,20060,267,20063,20051,288,277,145,286,285,268,144,1023,1024,1027,1025,271,1026,224,20089,20094,279,278,20095,20065,20026,273,275,272,20101,276,274,282,284,287,20252,20081,291,280,20044,1028,1029,299,298,307,300,259,306,305,20029,20061,20007,20012,301,294,296,185,297,281,292,160,295,289,309,293,290,314,311,20154,20221,320,20031,304,321,324,325,165,156,155,322,340,283,323,327,199,337,329,303,1031,1032,1034,1033,308,1030,20152,20136,302,125,313,310,20122,20143,319,318,316,317,312,315,20071,339,338,330,328,336,20124,353,351,352,326,350,348,349,347,346",
         "equip_collect": "8,109,110,108,72,40,90,76,67,4,58,60,16,121,120,44,49,50,59,91,95,66,137,138,139,140,141,142,143,144,146,148,147,145,149,20,12,161,99,100,129,106,130,105,68,169,168,32,86,61,126,125,80,127,175,117,118,101,62,133,119,155,19,170,132,182,92,135,165,183,184,187,186,185,188,189,158,159,160,178,201,199,204,202,203,200,174,198,221,111,115,104,254,255,252,253,251,229,231,211,227,235,266,107,216,225,259,190,224,192,234,236,265,197,237,264,242,246,250,73,248,75,74,77,78,42,64,7,88,39,65,13,17,232,2,11,10,29,223,38,56,14,3,43,89,6",
@@ -50,7 +50,7 @@
         "last_dorm_material_change_time1": "1655947612",
         "last_dorm_material_change_time2": "1655982000",
         "material_available_num1": "294",
-        "material_available_num2": "80",
+        "material_available_num2": "60",
         "dorm_max_score": "235000",
         "last_ssoc_change_time": "1655985600",
         "app_guard_id": "301281d9bd9b600453cc8290d24f413f2f794e3d:1600746781414:TgUBBA==",
@@ -87,9 +87,8 @@
     },
     "item_with_user_info": [
         {
-            "id": "8225724",
             "item_id": "1",
-            "number": "300",
+            "number": "301",
             "last_recover_time": "0"
         },
         {
@@ -220,9 +219,8 @@
             "last_recover_time": "0"
         },
         {
-            "id": "9373573",
             "item_id": "53",
-            "number": "0",
+            "number": "100",
             "last_recover_time": "0"
         },
         {
@@ -256,9 +254,8 @@
             "last_recover_time": "0"
         },
         {
-            "id": "8956764",
             "item_id": "106",
-            "number": "42",
+            "number": "44",
             "last_recover_time": "0"
         },
         {
@@ -292,9 +289,8 @@
             "last_recover_time": "0"
         },
         {
-            "id": "8222337",
             "item_id": "507",
-            "number": "50964",
+            "number": "62825",
             "last_recover_time": "0"
         },
         {
@@ -304,9 +300,8 @@
             "last_recover_time": "0"
         },
         {
-            "id": "7145728",
             "item_id": "509",
-            "number": "105",
+            "number": "100",
             "last_recover_time": "0"
         },
         {
@@ -3796,8 +3791,8 @@
             "medal2": "0",
             "bestrank": "5",
             "medal4": "1",
-            "counter": "317",
-            "win_counter": "307",
+            "counter": "318",
+            "win_counter": "308",
             "shortest_in_coinmission": "0.00",
             "type5_score": "0",
             "is_open": "1",
@@ -19352,18 +19347,18 @@
     ],
     "operation_act_info": [
         {
-            "id": "57207756",
+            "id": "57210577",
             "operation_id": "2",
             "user_id": "562858",
             "team_id": "14",
-            "start_time": "1655985841"
+            "start_time": "1655997222"
         },
         {
-            "id": "57207761",
+            "id": "57210175",
             "operation_id": "29",
             "user_id": "562858",
             "team_id": "11",
-            "start_time": "1655985849"
+            "start_time": "1655995491"
         },
         {
             "id": "57207757",
@@ -36455,28 +36450,31 @@
     },
     "squad_data_daily": [
         {
-            "user_id": 562858,
-            "squad_id": "10",
-            "type": "slay:normal",
-            "last_finish_time": "2022-06-23",
-            "count": 0,
-            "receive": 0
-        },
-        {
-            "user_id": 562858,
-            "squad_id": "13",
-            "type": "mission_emergent_win",
-            "last_finish_time": "2022-06-23",
-            "count": 0,
-            "receive": 0
-        },
-        {
-            "user_id": 562858,
+            "user_id": "562858",
             "squad_id": "5",
             "type": "mission:60",
             "last_finish_time": "2022-06-23",
-            "count": 0,
-            "receive": 0
+            "count": "1",
+            "id": "4222022",
+            "receive": "1"
+        },
+        {
+            "user_id": "562858",
+            "squad_id": "10",
+            "type": "slay:normal",
+            "last_finish_time": "2022-06-23",
+            "count": "32",
+            "id": "4222020",
+            "receive": "1"
+        },
+        {
+            "user_id": "562858",
+            "squad_id": "13",
+            "type": "mission_emergent_win",
+            "last_finish_time": "2022-06-23",
+            "count": "0",
+            "id": "4222021",
+            "receive": "0"
         }
     ],
     "squad_with_user_info": {
@@ -41743,6 +41741,22 @@
                     {
                         "affair_id": "57",
                         "affair_time": "1655990081"
+                    },
+                    {
+                        "affair_id": "39",
+                        "affair_time": "1655992527"
+                    },
+                    {
+                        "affair_id": "66",
+                        "affair_time": "1655995175"
+                    },
+                    {
+                        "affair_id": "4",
+                        "affair_time": "1655999936"
+                    },
+                    {
+                        "affair_id": "113",
+                        "affair_time": "1656001496"
                     }
                 ],
                 "gun_ids": [
@@ -41763,7 +41777,7 @@
                 "draw_event_prize": "0"
             }
         ],
-        "next_time": "1655992527",
+        "next_time": "1656007380",
         "ex_prize": {
             "user_exp": 0,
             "mp": 0,
@@ -41793,10 +41807,10 @@
         "next_explore_time": 1656019526,
         "end_time": 1656008726,
         "explore_time_type": "3",
-        "mp": "142872",
-        "ammo": "174520",
-        "mre": "127946",
-        "part": "142410"
+        "mp": "144642",
+        "ammo": "174400",
+        "mre": "128801",
+        "part": "142935"
     },
     "theater_with_user_info": {
         "71": {
@@ -43918,9 +43932,9 @@
             "chip1": "0",
             "chip2": "0",
             "can_click": "1",
-            "favor": "816649",
+            "favor": "821982",
             "favor_toplimit": "1000000",
-            "max_favor": "816649",
+            "max_favor": "821982",
             "life": "1320",
             "sign": "0",
             "soul_bond": "0",
@@ -46820,7 +46834,7 @@
             "lv": "161",
             "max_dorm": "4",
             "headpic_id": "433",
-            "homepage_time": 1655991526,
+            "homepage_time": 1655993847,
             "give_team_today": "1"
         },
         {
@@ -46831,8 +46845,8 @@
             "lv": "150",
             "max_dorm": "7",
             "headpic_id": "733",
-            "homepage_time": "1655950187",
-            "give_team_today": 1
+            "homepage_time": 1656001789,
+            "give_team_today": 2
         },
         {
             "type": "1",
@@ -46842,8 +46856,8 @@
             "lv": "162",
             "max_dorm": "6",
             "headpic_id": "651",
-            "homepage_time": 1655987585,
-            "give_team_today": "4"
+            "homepage_time": 1655998781,
+            "give_team_today": 1
         },
         {
             "type": "1",
@@ -46853,8 +46867,8 @@
             "lv": "174",
             "max_dorm": "10",
             "headpic_id": "511",
-            "homepage_time": "1655961535",
-            "give_team_today": "1"
+            "homepage_time": 1656003904,
+            "give_team_today": 1
         },
         {
             "type": "1",
@@ -46875,7 +46889,7 @@
             "lv": "158",
             "max_dorm": "14",
             "headpic_id": "496",
-            "homepage_time": 1655990758,
+            "homepage_time": 1656004446,
             "give_team_today": "1"
         },
         {
@@ -46886,7 +46900,7 @@
             "lv": "141",
             "max_dorm": "8",
             "headpic_id": "462",
-            "homepage_time": "1655969719",
+            "homepage_time": 1656004439,
             "give_team_today": "1"
         },
         {
@@ -46952,7 +46966,7 @@
             "lv": "184",
             "max_dorm": "5",
             "headpic_id": "50",
-            "homepage_time": "1655963900",
+            "homepage_time": 1656002893,
             "give_team_today": "1"
         },
         {
@@ -46963,7 +46977,7 @@
             "lv": "169",
             "max_dorm": "6",
             "headpic_id": "444",
-            "homepage_time": "1655921706",
+            "homepage_time": 1656000082,
             "give_team_today": "1"
         },
         {
@@ -47062,8 +47076,8 @@
             "lv": "215",
             "max_dorm": "14",
             "headpic_id": "497",
-            "homepage_time": 1655991589,
-            "give_team_today": 1
+            "homepage_time": 1656003727,
+            "give_team_today": 3
         },
         {
             "type": "1",
@@ -47095,7 +47109,7 @@
             "lv": "169",
             "max_dorm": "14",
             "headpic_id": "47",
-            "homepage_time": 1655988749,
+            "homepage_time": 1656003513,
             "give_team_today": "3"
         },
         {
@@ -47106,8 +47120,8 @@
             "lv": "240",
             "max_dorm": "14",
             "headpic_id": "129",
-            "homepage_time": 1655990910,
-            "give_team_today": 3
+            "homepage_time": 1655996582,
+            "give_team_today": 5
         },
         {
             "type": "1",
@@ -47117,8 +47131,8 @@
             "lv": "175",
             "max_dorm": "7",
             "headpic_id": "462",
-            "homepage_time": "1655968222",
-            "give_team_today": "2"
+            "homepage_time": 1655996103,
+            "give_team_today": 1
         },
         {
             "type": "1",
@@ -47128,7 +47142,7 @@
             "lv": "162",
             "max_dorm": "7",
             "headpic_id": "741",
-            "homepage_time": "1655950554",
+            "homepage_time": 1656000558,
             "give_team_today": "1"
         },
         {
@@ -47139,7 +47153,7 @@
             "lv": "130",
             "max_dorm": "4",
             "headpic_id": "145",
-            "homepage_time": 1655982663,
+            "homepage_time": 1656002646,
             "give_team_today": 1
         },
         {
@@ -47150,7 +47164,7 @@
             "lv": "226",
             "max_dorm": "10",
             "headpic_id": "503",
-            "homepage_time": 1655989572,
+            "homepage_time": 1656002817,
             "give_team_today": "1"
         },
         {
@@ -47161,7 +47175,7 @@
             "lv": "216",
             "max_dorm": "7",
             "headpic_id": "472",
-            "homepage_time": "1655963795",
+            "homepage_time": 1656004364,
             "give_team_today": "4"
         },
         {
@@ -47172,7 +47186,7 @@
             "lv": "194",
             "max_dorm": "10",
             "headpic_id": "636",
-            "homepage_time": "1655968415",
+            "homepage_time": 1656004312,
             "give_team_today": "2"
         },
         {
@@ -47183,8 +47197,8 @@
             "lv": "192",
             "max_dorm": "14",
             "headpic_id": "152",
-            "homepage_time": 1655991501,
-            "give_team_today": 1
+            "homepage_time": 1655992518,
+            "give_team_today": 2
         },
         {
             "type": "1",
@@ -47216,7 +47230,7 @@
             "lv": "142",
             "max_dorm": "14",
             "headpic_id": "756",
-            "homepage_time": "1655929917",
+            "homepage_time": 1656004453,
             "give_team_today": "3"
         },
         {
@@ -47227,8 +47241,8 @@
             "lv": "181",
             "max_dorm": "11",
             "headpic_id": "707",
-            "homepage_time": "1655947147",
-            "give_team_today": "2"
+            "homepage_time": 1656001943,
+            "give_team_today": 1
         },
         {
             "type": "1",
@@ -47238,8 +47252,8 @@
             "lv": "206",
             "max_dorm": "10",
             "headpic_id": "562",
-            "homepage_time": 1655991661,
-            "give_team_today": "2"
+            "homepage_time": 1656000128,
+            "give_team_today": 1
         },
         {
             "type": "1",
@@ -47260,8 +47274,8 @@
             "lv": "193",
             "max_dorm": "9",
             "headpic_id": "707",
-            "homepage_time": 1655987648,
-            "give_team_today": "1"
+            "homepage_time": 1655998452,
+            "give_team_today": 1
         },
         {
             "type": "1",
@@ -47271,7 +47285,7 @@
             "lv": "182",
             "max_dorm": "12",
             "headpic_id": "258",
-            "homepage_time": 1655991304,
+            "homepage_time": 1655994245,
             "give_team_today": "1"
         },
         {
@@ -47282,8 +47296,8 @@
             "lv": "204",
             "max_dorm": "10",
             "headpic_id": "793",
-            "homepage_time": 1655975783,
-            "give_team_today": 2
+            "homepage_time": 1656003063,
+            "give_team_today": 3
         },
         {
             "type": "1",
@@ -47294,7 +47308,7 @@
             "max_dorm": "5",
             "headpic_id": "395",
             "homepage_time": "1655969051",
-            "give_team_today": "1"
+            "give_team_today": 2
         },
         {
             "type": "1",
@@ -47316,7 +47330,7 @@
             "max_dorm": "14",
             "headpic_id": "750",
             "homepage_time": "1655944061",
-            "give_team_today": 1
+            "give_team_today": 2
         },
         {
             "type": "1",
@@ -47326,7 +47340,7 @@
             "lv": "163",
             "max_dorm": "14",
             "headpic_id": "138",
-            "homepage_time": "1655953399",
+            "homepage_time": 1655998589,
             "give_team_today": "1"
         },
         {
@@ -47359,7 +47373,7 @@
             "lv": "187",
             "max_dorm": "14",
             "headpic_id": "376",
-            "homepage_time": "1655963489",
+            "homepage_time": 1655997196,
             "give_team_today": "1"
         },
         {
@@ -47370,7 +47384,7 @@
             "lv": "182",
             "max_dorm": "10",
             "headpic_id": "1014",
-            "homepage_time": 1655990934,
+            "homepage_time": 1656002096,
             "give_team_today": "1"
         },
         {
@@ -47381,7 +47395,7 @@
             "lv": "178",
             "max_dorm": "10",
             "headpic_id": "634",
-            "homepage_time": "1655968868",
+            "homepage_time": 1656004447,
             "give_team_today": 1
         },
         {
@@ -47393,7 +47407,7 @@
             "max_dorm": "9",
             "headpic_id": "449",
             "homepage_time": 1655987855,
-            "give_team_today": 1
+            "give_team_today": 2
         },
         {
             "type": "1",
@@ -47403,7 +47417,7 @@
             "lv": "196",
             "max_dorm": "11",
             "headpic_id": "1013",
-            "homepage_time": 1655990611,
+            "homepage_time": 1656004203,
             "give_team_today": "2"
         },
         {
@@ -47414,8 +47428,8 @@
             "lv": "192",
             "max_dorm": "14",
             "headpic_id": "628",
-            "homepage_time": 1655990739,
-            "give_team_today": 1
+            "homepage_time": 1656004377,
+            "give_team_today": 2
         },
         {
             "type": "1",
@@ -47436,7 +47450,7 @@
             "lv": "190",
             "max_dorm": "14",
             "headpic_id": "799",
-            "homepage_time": 1655988200,
+            "homepage_time": 1655993608,
             "give_team_today": "1"
         },
         {
@@ -47447,7 +47461,7 @@
             "lv": "121",
             "max_dorm": "3",
             "headpic_id": "284",
-            "homepage_time": "1655958888",
+            "homepage_time": 1656003207,
             "give_team_today": "1"
         },
         {
@@ -47469,8 +47483,8 @@
             "lv": "184",
             "max_dorm": "10",
             "headpic_id": "261",
-            "homepage_time": 1655988608,
-            "give_team_today": 3
+            "homepage_time": 1655999365,
+            "give_team_today": 4
         },
         {
             "type": "1",
@@ -47480,8 +47494,8 @@
             "lv": "206",
             "max_dorm": "10",
             "headpic_id": "909",
-            "homepage_time": 1655984944,
-            "give_team_today": 2
+            "homepage_time": 1656004354,
+            "give_team_today": 3
         },
         {
             "type": "1",
@@ -47491,8 +47505,8 @@
             "lv": "188",
             "max_dorm": "10",
             "headpic_id": "687",
-            "homepage_time": 1655987648,
-            "give_team_today": 2
+            "homepage_time": 1655998006,
+            "give_team_today": 4
         },
         {
             "type": "1",
@@ -47503,7 +47517,7 @@
             "max_dorm": "7",
             "headpic_id": "419",
             "homepage_time": 1655990974,
-            "give_team_today": "1"
+            "give_team_today": 1
         },
         {
             "type": "1",
@@ -47513,7 +47527,7 @@
             "lv": "108",
             "max_dorm": "4",
             "headpic_id": "652",
-            "homepage_time": "1655946424",
+            "homepage_time": 1655997305,
             "give_team_today": "1"
         },
         {
@@ -47524,7 +47538,7 @@
             "lv": "131",
             "max_dorm": "4",
             "headpic_id": "879",
-            "homepage_time": "1655964891",
+            "homepage_time": 1656003534,
             "give_team_today": "3"
         },
         {
@@ -47535,7 +47549,7 @@
             "lv": "87",
             "max_dorm": "3",
             "headpic_id": "0",
-            "homepage_time": "1655974824",
+            "homepage_time": 1656003830,
             "give_team_today": "1"
         },
         {
@@ -47557,8 +47571,8 @@
             "lv": "170",
             "max_dorm": "14",
             "headpic_id": "785",
-            "homepage_time": 1655990798,
-            "give_team_today": "4"
+            "homepage_time": 1656004332,
+            "give_team_today": 1
         },
         {
             "type": "1",
@@ -47568,7 +47582,7 @@
             "lv": "176",
             "max_dorm": "14",
             "headpic_id": "1015",
-            "homepage_time": 1655988607,
+            "homepage_time": 1656004056,
             "give_team_today": "1"
         },
         {
@@ -47579,8 +47593,8 @@
             "lv": "157",
             "max_dorm": "14",
             "headpic_id": "461",
-            "homepage_time": "1655964861",
-            "give_team_today": 1
+            "homepage_time": 1655995690,
+            "give_team_today": 2
         },
         {
             "type": "1",
@@ -47590,8 +47604,8 @@
             "lv": "144",
             "max_dorm": "14",
             "headpic_id": "252",
-            "homepage_time": "1655967870",
-            "give_team_today": 3
+            "homepage_time": 1655998818,
+            "give_team_today": 5
         },
         {
             "type": "1",
@@ -47612,8 +47626,8 @@
             "lv": "190",
             "max_dorm": "7",
             "headpic_id": "703",
-            "homepage_time": 1655991056,
-            "give_team_today": 2
+            "homepage_time": 1656002149,
+            "give_team_today": 3
         },
         {
             "type": "1",
@@ -47634,8 +47648,8 @@
             "lv": "196",
             "max_dorm": "13",
             "headpic_id": "611",
-            "homepage_time": 1655981434,
-            "give_team_today": 1
+            "homepage_time": 1655999962,
+            "give_team_today": 2
         },
         {
             "type": "1",
@@ -47645,8 +47659,8 @@
             "lv": "181",
             "max_dorm": "8",
             "headpic_id": "1018",
-            "homepage_time": 1655981019,
-            "give_team_today": "1"
+            "homepage_time": 1655991873,
+            "give_team_today": 1
         },
         {
             "type": "1",
@@ -47656,7 +47670,7 @@
             "lv": "185",
             "max_dorm": "9",
             "headpic_id": "799",
-            "homepage_time": 1655991580,
+            "homepage_time": 1656004113,
             "give_team_today": "1"
         },
         {
@@ -47664,10 +47678,10 @@
             "end_time": 0,
             "f_userid": "1297038",
             "name": "Ervha",
-            "lv": "134",
+            "lv": "135",
             "max_dorm": "6",
             "headpic_id": "476",
-            "homepage_time": 1655989792,
+            "homepage_time": 1656002855,
             "give_team_today": "1"
         },
         {
@@ -47678,7 +47692,7 @@
             "lv": "186",
             "max_dorm": "5",
             "headpic_id": "703",
-            "homepage_time": 1655988354,
+            "homepage_time": 1656002707,
             "give_team_today": "2"
         },
         {
@@ -47689,7 +47703,7 @@
             "lv": "154",
             "max_dorm": "4",
             "headpic_id": "973",
-            "homepage_time": "1655947187",
+            "homepage_time": 1655996426,
             "give_team_today": "1"
         },
         {
@@ -47700,8 +47714,8 @@
             "lv": "234",
             "max_dorm": "14",
             "headpic_id": "48",
-            "homepage_time": 1655990945,
-            "give_team_today": 2
+            "homepage_time": 1656003891,
+            "give_team_today": 3
         },
         {
             "type": "1",
@@ -47711,7 +47725,7 @@
             "lv": "187",
             "max_dorm": "14",
             "headpic_id": "676",
-            "homepage_time": 1655991620,
+            "homepage_time": 1656004180,
             "give_team_today": 1
         },
         {
@@ -47722,7 +47736,7 @@
             "lv": "149",
             "max_dorm": "5",
             "headpic_id": "301",
-            "homepage_time": 1655976531,
+            "homepage_time": 1656004259,
             "give_team_today": 1
         },
         {
@@ -47755,8 +47769,8 @@
             "lv": "234",
             "max_dorm": "10",
             "headpic_id": "248",
-            "homepage_time": 1655991529,
-            "give_team_today": 1
+            "homepage_time": 1656003151,
+            "give_team_today": 3
         },
         {
             "type": "1",
@@ -47766,7 +47780,7 @@
             "lv": "154",
             "max_dorm": "10",
             "headpic_id": "760",
-            "homepage_time": "1655969117",
+            "homepage_time": 1656000325,
             "give_team_today": 1
         },
         {
@@ -47777,8 +47791,8 @@
             "lv": "193",
             "max_dorm": "12",
             "headpic_id": "491",
-            "homepage_time": 1655987371,
-            "give_team_today": "1"
+            "homepage_time": 1656003405,
+            "give_team_today": 1
         },
         {
             "type": "1",
@@ -47788,7 +47802,7 @@
             "lv": "59",
             "max_dorm": "2",
             "headpic_id": "671",
-            "homepage_time": 1655991237,
+            "homepage_time": 1656004346,
             "give_team_today": "1"
         },
         {
@@ -47810,7 +47824,7 @@
             "lv": "182",
             "max_dorm": "8",
             "headpic_id": "758",
-            "homepage_time": 1655984441,
+            "homepage_time": 1656000505,
             "give_team_today": "1"
         },
         {
@@ -47821,7 +47835,7 @@
             "lv": "195",
             "max_dorm": "14",
             "headpic_id": "461",
-            "homepage_time": 1655989663,
+            "homepage_time": 1656000434,
             "give_team_today": "3"
         },
         {
@@ -47865,8 +47879,8 @@
             "lv": "232",
             "max_dorm": "14",
             "headpic_id": "433",
-            "homepage_time": 1655991668,
-            "give_team_today": 5
+            "homepage_time": 1656004216,
+            "give_team_today": 6
         }
     ],
     "user_friend_info": {
@@ -47929,10 +47943,10 @@
             },
             {
                 "medal_id": "7",
-                "num": "42",
+                "num": "44",
                 "first_time": "1639528855",
                 "last_time": "1639528855,",
-                "update_time": "1655910519"
+                "update_time": "1655997214"
             }
         ],
         "card_id": "81",
@@ -48394,16 +48408,16 @@
         },
         {
             "medal_id": "7",
-            "num": "42",
+            "num": "44",
             "first_time": "1639528855",
             "last_time": "1639528855,",
-            "update_time": "1655910519"
+            "update_time": "1655997214"
         }
     ],
     "kalina_with_user_info": {
         "user_id": "562858",
         "click_num": 0,
-        "click_time": 1655991741,
+        "click_time": 1656004453,
         "level": "27",
         "favor": "81178",
         "last_favor": "68253",
@@ -55346,6 +55360,146 @@
             "special_effect": "0"
         },
         {
+            "id": "188497175",
+            "user_id": "562858",
+            "gun_id": "2",
+            "gun_exp": "0",
+            "gun_level": "1",
+            "team_id": "0",
+            "if_modification": "0",
+            "location": "0",
+            "position": "0",
+            "life": "37",
+            "ammo": "5",
+            "mre": "10",
+            "pow": "0",
+            "hit": "0",
+            "dodge": "0",
+            "rate": "0",
+            "skill1": "1",
+            "skill2": "0",
+            "fix_end_time": "0",
+            "is_locked": "0",
+            "number": "1",
+            "equip1": "0",
+            "equip2": "0",
+            "equip3": "0",
+            "equip4": "0",
+            "favor": "500000",
+            "max_favor": "500000",
+            "favor_toplimit": "1000000",
+            "soul_bond": "0",
+            "skin": "0",
+            "can_click": "0",
+            "soul_bond_time": "0",
+            "special_effect": "0"
+        },
+        {
+            "id": "188497232",
+            "user_id": "562858",
+            "gun_id": "31",
+            "gun_exp": "0",
+            "gun_level": "1",
+            "team_id": "0",
+            "if_modification": "0",
+            "location": "0",
+            "position": "0",
+            "life": "102",
+            "ammo": "5",
+            "mre": "10",
+            "pow": "0",
+            "hit": "0",
+            "dodge": "0",
+            "rate": "0",
+            "skill1": "1",
+            "skill2": "0",
+            "fix_end_time": "0",
+            "is_locked": "0",
+            "number": "1",
+            "equip1": "0",
+            "equip2": "0",
+            "equip3": "0",
+            "equip4": "0",
+            "favor": "500000",
+            "max_favor": "500000",
+            "favor_toplimit": "1000000",
+            "soul_bond": "0",
+            "skin": "0",
+            "can_click": "0",
+            "soul_bond_time": "0",
+            "special_effect": "0"
+        },
+        {
+            "id": "188497271",
+            "user_id": "562858",
+            "gun_id": "87",
+            "gun_exp": "0",
+            "gun_level": "1",
+            "team_id": "0",
+            "if_modification": "0",
+            "location": "0",
+            "position": "0",
+            "life": "83",
+            "ammo": "5",
+            "mre": "10",
+            "pow": "0",
+            "hit": "0",
+            "dodge": "0",
+            "rate": "0",
+            "skill1": "1",
+            "skill2": "0",
+            "fix_end_time": "0",
+            "is_locked": "0",
+            "number": "1",
+            "equip1": "0",
+            "equip2": "0",
+            "equip3": "0",
+            "equip4": "0",
+            "favor": "500000",
+            "max_favor": "500000",
+            "favor_toplimit": "1000000",
+            "soul_bond": "0",
+            "skin": "0",
+            "can_click": "0",
+            "soul_bond_time": "0",
+            "special_effect": "0"
+        },
+        {
+            "id": "188497282",
+            "user_id": "562858",
+            "gun_id": "17",
+            "gun_exp": "0",
+            "gun_level": "1",
+            "team_id": "0",
+            "if_modification": "0",
+            "location": "0",
+            "position": "0",
+            "life": "93",
+            "ammo": "5",
+            "mre": "10",
+            "pow": "0",
+            "hit": "0",
+            "dodge": "0",
+            "rate": "0",
+            "skill1": "1",
+            "skill2": "0",
+            "fix_end_time": "0",
+            "is_locked": "0",
+            "number": "1",
+            "equip1": "0",
+            "equip2": "0",
+            "equip3": "0",
+            "equip4": "0",
+            "favor": "500000",
+            "max_favor": "500000",
+            "favor_toplimit": "1000000",
+            "soul_bond": "0",
+            "skin": "0",
+            "can_click": "0",
+            "soul_bond_time": "0",
+            "special_effect": "0"
+        },
+        {
             "id": "48689212",
             "user_id": "562858",
             "gun_id": "20055",
@@ -55357,7 +55511,7 @@
             "position": "14",
             "life": "547",
             "ammo": "0",
-            "mre": "0",
+            "mre": "4",
             "pow": "32",
             "hit": "44",
             "dodge": "44",
@@ -55384,7 +55538,7 @@
             "id": "55477390",
             "user_id": "562858",
             "gun_id": "20007",
-            "gun_exp": "9183403",
+            "gun_exp": "9189235",
             "gun_level": "114",
             "team_id": "2",
             "if_modification": "2",
@@ -55392,7 +55546,7 @@
             "position": "8",
             "life": "420",
             "ammo": "0",
-            "mre": "0",
+            "mre": "4",
             "pow": "19",
             "hit": "44",
             "dodge": "59",
@@ -55427,7 +55581,7 @@
             "position": "7",
             "life": "360",
             "ammo": "0",
-            "mre": "0",
+            "mre": "4",
             "pow": "21",
             "hit": "53",
             "dodge": "76",
@@ -55476,7 +55630,7 @@
             "equip2": "0",
             "equip3": "0",
             "equip4": "0",
-            "favor": "1921044",
+            "favor": "1926377",
             "max_favor": "2000000",
             "favor_toplimit": "2000000",
             "soul_bond": "1",
@@ -55791,8 +55945,8 @@
             "equip2": "0",
             "equip3": "0",
             "equip4": "0",
-            "favor": "861141",
-            "max_favor": "861141",
+            "favor": "866474",
+            "max_favor": "866474",
             "favor_toplimit": "1000000",
             "soul_bond": "0",
             "skin": "0",
