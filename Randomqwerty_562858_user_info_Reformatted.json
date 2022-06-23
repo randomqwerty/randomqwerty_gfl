@@ -35,24 +35,24 @@
         "monthlycard2_end_time": "0",
         "monthlycard3_end_time": "0",
         "growthfond": "0",
-        "last_recover_time": "1655942107",
+        "last_recover_time": "1655942287",
         "last_bp_recover_time": "1655884800",
-        "last_favor_recover_time": "1655942107",
+        "last_favor_recover_time": "1655942287",
         "last_monthlycard1_recover_time": "1651059395",
         "last_monthlycard2_recover_time": "0",
         "last_monthlycard3_recover_time": "0",
-        "last_login_time": "1655941531",
+        "last_login_time": "1655942383",
         "reg_time": "1552065547",
         "gun_collect": "2,5,9,90,10,71,29,25,37,92,44,58,17,27,74,63,93,52,14,183,61,88,47,70,36,77,39,41,40,46,184,65,91,48,24,34,107,68,31,133,21,32,99,94,115,33,22,55,51,23,53,118,56,60,66,26,57,174,20,11,127,18,150,87,103,82,54,105,69,12,110,86,81,197,111,95,3,89,257,8,13,42,141,100,96,16,139,1,123,143,215,85,249,80,15,216,168,50,198,6,114,177,179,102,7,212,188,173,112,137,101,64,122,171,147,117,134,166,131,119,135,176,97,178,167,79,62,136,108,104,19,149,236,129,72,130,222,106,189,194,243,38,113,181,196,98,121,75,109,120,138,116,170,146,142,248,191,84,235,158,1022,1018,1017,161,1021,1019,1020,151,175,201,128,148,154,211,237,245,233,247,35,228,182,78,20037,186,157,20064,73,193,162,180,213,43,124,20002,153,220,20055,20057,207,172,208,203,49,28,206,205,202,192,204,238,221,195,209,200,140,126,169,187,132,230,210,217,20056,20103,225,20053,59,226,239,231,4,229,227,163,256,261,214,218,270,269,223,234,241,1009,1010,20093,190,266,232,20001,159,152,244,255,262,263,264,20032,20005,260,252,250,20039,254,242,253,251,20075,258,240,265,20091,164,20097,20060,267,20063,20051,288,277,145,286,285,268,144,1023,1024,1027,1025,271,1026,224,20089,20094,279,278,20095,20065,20026,273,275,272,20101,276,274,282,284,287,20252,20081,291,280,20044,1028,1029,299,298,307,300,259,306,305,20029,20061,20007,20012,301,294,296,185,297,281,292,160,295,289,309,293,290,314,311,20154,20221,320,20031,304,321,324,325,165,156,155,322,340,283,323,327,199,337,329,303,1031,1032,1034,1033,308,1030,20152,20136,302,125,313,310,20122,20143,319,318,316,317,312,315,20071,339,338,330,328,336,20124,353,351,352,326,350,348,349,347,346",
         "equip_collect": "8,109,110,108,72,40,90,76,67,4,58,60,16,121,120,44,49,50,59,91,95,66,137,138,139,140,141,142,143,144,146,148,147,145,149,20,12,161,99,100,129,106,130,105,68,169,168,32,86,61,126,125,80,127,175,117,118,101,62,133,119,155,19,170,132,182,92,135,165,183,184,187,186,185,188,189,158,159,160,178,201,199,204,202,203,200,174,198,221,111,115,104,254,255,252,253,251,229,231,211,227,235,266,107,216,225,259,190,224,192,234,236,265,197,237,264,242,246,250,73,248,75,74,77,78,42,64,7,88,39,65,13,17,232,2,11,10,29,223,38,56,14,3,43,89",
         "maxdorm": "10",
         "maxdorm_spare": "106",
         "last_dorm_material_change_time1": "1655926526",
-        "last_dorm_material_change_time2": "1655895600",
+        "last_dorm_material_change_time2": "1655938800",
         "material_available_num1": "224",
         "material_available_num2": "100",
         "dorm_max_score": "235000",
-        "last_ssoc_change_time": "1655920800",
+        "last_ssoc_change_time": "1655942400",
         "app_guard_id": "301281d9bd9b600453cc8290d24f413f2f794e3d:1600746781414:TgUBBA==",
         "app_guard_num": "5",
         "is_bind": "0",
@@ -293,7 +293,7 @@
         },
         {
             "item_id": "509",
-            "number": "60",
+            "number": "75",
             "last_recover_time": "0"
         },
         {
@@ -41229,6 +41229,10 @@
                     {
                         "affair_id": "82",
                         "affair_time": "1655941223"
+                    },
+                    {
+                        "affair_id": "83",
+                        "affair_time": "1655944202"
                     }
                 ],
                 "gun_ids": [
@@ -41249,7 +41253,7 @@
                 "item_id": 0
             }
         ],
-        "next_time": "1655944202",
+        "next_time": "1655947978",
         "ex_prize": {
             "user_exp": 0,
             "mp": 0,
@@ -43404,9 +43408,9 @@
             "chip1": "0",
             "chip2": "0",
             "can_click": "1",
-            "favor": "795980",
+            "favor": "796055",
             "favor_toplimit": "1000000",
-            "max_favor": "795980",
+            "max_favor": "796055",
             "life": "1320",
             "sign": "0",
             "soul_bond": "0",
@@ -46306,7 +46310,7 @@
             "lv": "161",
             "max_dorm": "4",
             "headpic_id": "433",
-            "homepage_time": 1655942361,
+            "homepage_time": 1655947499,
             "give_team_today": "1"
         },
         {
@@ -46317,7 +46321,7 @@
             "lv": "150",
             "max_dorm": "7",
             "headpic_id": "733",
-            "homepage_time": 1655937851,
+            "homepage_time": 1655943830,
             "give_team_today": 1
         },
         {
@@ -46328,7 +46332,7 @@
             "lv": "162",
             "max_dorm": "6",
             "headpic_id": "651",
-            "homepage_time": 1655940869,
+            "homepage_time": 1655947325,
             "give_team_today": 3
         },
         {
@@ -46339,7 +46343,7 @@
             "lv": "174",
             "max_dorm": "10",
             "headpic_id": "511",
-            "homepage_time": 1655940425,
+            "homepage_time": 1655943274,
             "give_team_today": "1"
         },
         {
@@ -46383,7 +46387,7 @@
             "lv": "183",
             "max_dorm": "10",
             "headpic_id": "541",
-            "homepage_time": 1655936029,
+            "homepage_time": 1655943032,
             "give_team_today": "1"
         },
         {
@@ -46416,7 +46420,7 @@
             "lv": "186",
             "max_dorm": "3",
             "headpic_id": "909",
-            "homepage_time": 1655939381,
+            "homepage_time": 1655945652,
             "give_team_today": "2"
         },
         {
@@ -46438,7 +46442,7 @@
             "lv": "184",
             "max_dorm": "5",
             "headpic_id": "50",
-            "homepage_time": 1655942377,
+            "homepage_time": 1655945751,
             "give_team_today": "2"
         },
         {
@@ -46493,7 +46497,7 @@
             "lv": "170",
             "max_dorm": "6",
             "headpic_id": "396",
-            "homepage_time": 1655941530,
+            "homepage_time": 1655946209,
             "give_team_today": 2
         },
         {
@@ -46504,7 +46508,7 @@
             "lv": "138",
             "max_dorm": "6",
             "headpic_id": "704",
-            "homepage_time": 1655940082,
+            "homepage_time": 1655944239,
             "give_team_today": "1"
         },
         {
@@ -46548,8 +46552,8 @@
             "lv": "215",
             "max_dorm": "14",
             "headpic_id": "497",
-            "homepage_time": 1655941916,
-            "give_team_today": 6
+            "homepage_time": 1655947405,
+            "give_team_today": 8
         },
         {
             "type": "1",
@@ -46567,10 +46571,10 @@
             "end_time": 0,
             "f_userid": "542652",
             "name": "Tak4u117",
-            "lv": "181",
+            "lv": "182",
             "max_dorm": "10",
             "headpic_id": "339",
-            "homepage_time": 1655937070,
+            "homepage_time": 1655947524,
             "give_team_today": "1"
         },
         {
@@ -46592,8 +46596,8 @@
             "lv": "240",
             "max_dorm": "14",
             "headpic_id": "129",
-            "homepage_time": 1655939414,
-            "give_team_today": 12
+            "homepage_time": 1655947071,
+            "give_team_today": 13
         },
         {
             "type": "1",
@@ -46614,7 +46618,7 @@
             "lv": "162",
             "max_dorm": "7",
             "headpic_id": "741",
-            "homepage_time": 1655922513,
+            "homepage_time": 1655946866,
             "give_team_today": "1"
         },
         {
@@ -46625,7 +46629,7 @@
             "lv": "130",
             "max_dorm": "4",
             "headpic_id": "145",
-            "homepage_time": 1655932045,
+            "homepage_time": 1655946996,
             "give_team_today": "1"
         },
         {
@@ -46636,7 +46640,7 @@
             "lv": "226",
             "max_dorm": "10",
             "headpic_id": "503",
-            "homepage_time": 1655941348,
+            "homepage_time": 1655946727,
             "give_team_today": "1"
         },
         {
@@ -46647,7 +46651,7 @@
             "lv": "216",
             "max_dorm": "7",
             "headpic_id": "472",
-            "homepage_time": 1655937876,
+            "homepage_time": 1655947349,
             "give_team_today": 1
         },
         {
@@ -46658,7 +46662,7 @@
             "lv": "194",
             "max_dorm": "10",
             "headpic_id": "636",
-            "homepage_time": 1655939540,
+            "homepage_time": 1655945605,
             "give_team_today": 1
         },
         {
@@ -46669,7 +46673,7 @@
             "lv": "192",
             "max_dorm": "14",
             "headpic_id": "152",
-            "homepage_time": 1655940003,
+            "homepage_time": 1655947059,
             "give_team_today": 3
         },
         {
@@ -46691,7 +46695,7 @@
             "lv": "192",
             "max_dorm": "10",
             "headpic_id": "846",
-            "homepage_time": "1655861407",
+            "homepage_time": 1655947114,
             "give_team_today": "1"
         },
         {
@@ -46713,7 +46717,7 @@
             "lv": "181",
             "max_dorm": "11",
             "headpic_id": "707",
-            "homepage_time": 1655938153,
+            "homepage_time": 1655947275,
             "give_team_today": 2
         },
         {
@@ -46768,7 +46772,7 @@
             "lv": "204",
             "max_dorm": "10",
             "headpic_id": "793",
-            "homepage_time": 1655940968,
+            "homepage_time": 1655945406,
             "give_team_today": 2
         },
         {
@@ -46801,7 +46805,7 @@
             "lv": "178",
             "max_dorm": "14",
             "headpic_id": "750",
-            "homepage_time": 1655937407,
+            "homepage_time": 1655944061,
             "give_team_today": 2
         },
         {
@@ -46823,7 +46827,7 @@
             "lv": "177",
             "max_dorm": "14",
             "headpic_id": "473",
-            "homepage_time": 1655941298,
+            "homepage_time": 1655944509,
             "give_team_today": 4
         },
         {
@@ -46834,7 +46838,7 @@
             "lv": "190",
             "max_dorm": "10",
             "headpic_id": "868",
-            "homepage_time": 1655925798,
+            "homepage_time": 1655943154,
             "give_team_today": 6
         },
         {
@@ -46845,8 +46849,8 @@
             "lv": "187",
             "max_dorm": "14",
             "headpic_id": "376",
-            "homepage_time": 1655939517,
-            "give_team_today": 6
+            "homepage_time": 1655943859,
+            "give_team_today": 9
         },
         {
             "type": "1",
@@ -46878,7 +46882,7 @@
             "lv": "177",
             "max_dorm": "9",
             "headpic_id": "449",
-            "homepage_time": 1655907556,
+            "homepage_time": 1655945588,
             "give_team_today": 1
         },
         {
@@ -46900,7 +46904,7 @@
             "lv": "192",
             "max_dorm": "14",
             "headpic_id": "628",
-            "homepage_time": 1655920198,
+            "homepage_time": 1655944140,
             "give_team_today": 4
         },
         {
@@ -46911,7 +46915,7 @@
             "lv": "188",
             "max_dorm": "10",
             "headpic_id": "279",
-            "homepage_time": 1655942196,
+            "homepage_time": 1655943153,
             "give_team_today": 1
         },
         {
@@ -46933,7 +46937,7 @@
             "lv": "121",
             "max_dorm": "3",
             "headpic_id": "284",
-            "homepage_time": 1655937075,
+            "homepage_time": 1655945901,
             "give_team_today": "1"
         },
         {
@@ -46988,7 +46992,7 @@
             "lv": "167",
             "max_dorm": "7",
             "headpic_id": "419",
-            "homepage_time": 1655942327,
+            "homepage_time": 1655946149,
             "give_team_today": "1"
         },
         {
@@ -46999,7 +47003,7 @@
             "lv": "108",
             "max_dorm": "4",
             "headpic_id": "652",
-            "homepage_time": 1655912774,
+            "homepage_time": 1655946594,
             "give_team_today": "1"
         },
         {
@@ -47010,7 +47014,7 @@
             "lv": "131",
             "max_dorm": "4",
             "headpic_id": "879",
-            "homepage_time": 1655911408,
+            "homepage_time": 1655944742,
             "give_team_today": "3"
         },
         {
@@ -47032,7 +47036,7 @@
             "lv": "176",
             "max_dorm": "10",
             "headpic_id": "421",
-            "homepage_time": 1655923237,
+            "homepage_time": 1655946894,
             "give_team_today": "2"
         },
         {
@@ -47043,8 +47047,8 @@
             "lv": "170",
             "max_dorm": "14",
             "headpic_id": "785",
-            "homepage_time": 1655942157,
-            "give_team_today": 2
+            "homepage_time": 1655946539,
+            "give_team_today": 3
         },
         {
             "type": "1",
@@ -47054,7 +47058,7 @@
             "lv": "176",
             "max_dorm": "14",
             "headpic_id": "1015",
-            "homepage_time": 1655941865,
+            "homepage_time": 1655944971,
             "give_team_today": "1"
         },
         {
@@ -47065,8 +47069,8 @@
             "lv": "157",
             "max_dorm": "14",
             "headpic_id": "461",
-            "homepage_time": 1655942296,
-            "give_team_today": 4
+            "homepage_time": 1655945502,
+            "give_team_today": 5
         },
         {
             "type": "1",
@@ -47076,7 +47080,7 @@
             "lv": "144",
             "max_dorm": "14",
             "headpic_id": "252",
-            "homepage_time": 1655938980,
+            "homepage_time": 1655946353,
             "give_team_today": 1
         },
         {
@@ -47098,7 +47102,7 @@
             "lv": "190",
             "max_dorm": "7",
             "headpic_id": "703",
-            "homepage_time": 1655941945,
+            "homepage_time": 1655947171,
             "give_team_today": 8
         },
         {
@@ -47121,7 +47125,7 @@
             "max_dorm": "12",
             "headpic_id": "611",
             "homepage_time": 1655941329,
-            "give_team_today": 4
+            "give_team_today": 5
         },
         {
             "type": "1",
@@ -47142,7 +47146,7 @@
             "lv": "185",
             "max_dorm": "9",
             "headpic_id": "799",
-            "homepage_time": 1655942306,
+            "homepage_time": 1655946402,
             "give_team_today": "2"
         },
         {
@@ -47175,7 +47179,7 @@
             "lv": "154",
             "max_dorm": "4",
             "headpic_id": "973",
-            "homepage_time": "1655861141",
+            "homepage_time": 1655947202,
             "give_team_today": "1"
         },
         {
@@ -47187,7 +47191,7 @@
             "max_dorm": "14",
             "headpic_id": "48",
             "homepage_time": 1655937330,
-            "give_team_today": 12
+            "give_team_today": 13
         },
         {
             "type": "1",
@@ -47197,7 +47201,7 @@
             "lv": "187",
             "max_dorm": "14",
             "headpic_id": "676",
-            "homepage_time": 1655942035,
+            "homepage_time": 1655947090,
             "give_team_today": 2
         },
         {
@@ -47241,7 +47245,7 @@
             "lv": "234",
             "max_dorm": "10",
             "headpic_id": "248",
-            "homepage_time": 1655933810,
+            "homepage_time": 1655947357,
             "give_team_today": 4
         },
         {
@@ -47274,7 +47278,7 @@
             "lv": "58",
             "max_dorm": "2",
             "headpic_id": "671",
-            "homepage_time": 1655938309,
+            "homepage_time": 1655946817,
             "give_team_today": "1"
         },
         {
@@ -47307,7 +47311,7 @@
             "lv": "195",
             "max_dorm": "14",
             "headpic_id": "461",
-            "homepage_time": 1655941058,
+            "homepage_time": 1655947592,
             "give_team_today": "2"
         },
         {
@@ -47329,7 +47333,7 @@
             "lv": "183",
             "max_dorm": "12",
             "headpic_id": "758",
-            "homepage_time": 1655906395,
+            "homepage_time": 1655947318,
             "give_team_today": "1"
         },
         {
@@ -54962,7 +54966,7 @@
             "equip2": "0",
             "equip3": "0",
             "equip4": "0",
-            "favor": "1900375",
+            "favor": "1900450",
             "max_favor": "2000000",
             "favor_toplimit": "2000000",
             "soul_bond": "1",
@@ -55277,8 +55281,8 @@
             "equip2": "0",
             "equip3": "0",
             "equip4": "0",
-            "favor": "840472",
-            "max_favor": "840472",
+            "favor": "840547",
+            "max_favor": "840547",
             "favor_toplimit": "1000000",
             "soul_bond": "0",
             "skin": "0",
