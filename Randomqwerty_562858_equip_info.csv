@@ -1,10 +1,10 @@
 ﻿ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fire,Crit.Rate,Crit.Damage,Armor Pen.,Armor,Shield,Damage Amplify,Damage Reduction,Night View,Rounds,Equip Exp,Equip Level,Adjust Count,Locked
 9372571,8,EOT (Holographic),★★★★★,EOT 518,184547270,Nova,8,14,-,-,-4,-,-,-,-,-,-,-,-,-,10075,10,6,Locked
-9490489,109,Optical,★★★★★,16Lab 6-24X56,168740861,Type56R Mod,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10275,10,0,Locked
+9490489,109,Optical,★★★★★,16Lab 6-24X56,-,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10275,10,0,Locked
 9506151,110,HV (Ammo),★★★★★,16Lab High-Velocity Ammo,-,-,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
 9592028,72,HP (Ammo),★★★★★,ILM Hollow-Point Ammo,159567115,Webley,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,6,Locked
 9628426,40,T Exo (Body),★★★★★,IOP T4 Exoskeleton,159567115,Webley,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,12,Locked
-9705413,90,Cape (Body),★★★★★,Thermoptic Camouflage Cape,168740861,Type56R Mod,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,6,Locked
+9705413,90,Cape (Body),★★★★★,Thermoptic Camouflage Cape,-,-,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,6,Locked
 10791979,76,Buck (Shell),★★★★★,#000 Buckshot,175483428,Defender,15,-,-,-,-,22%,-,-,-,-,-,-,-,-,10000,10,16,Locked
 10792226,67,Box (MG Clip),★★★★,IOP High-Capacity Ammo Box,-,-,-,-,-1,-,-,-,-,-,-,-,-,-,-,3,5000,10,0,Locked
 10792230,67,Box (MG Clip),★★★★,IOP High-Capacity Ammo Box,-,-,-,-,-1,-,-,-,-,-,-,-,-,-,-,3,5000,10,0,Locked
@@ -76,8 +76,8 @@
 19395555,32,HV (Ammo),★★★★★,APCR High-Velocity Ammo,46922341,416 Mod,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,5,Locked
 19397548,20,AP (Ammo),★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,52823449,Lee Enfield,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,9,Locked
 19399280,72,HP (Ammo),★★★★★,ILM Hollow-Point Ammo,55477390,Stechkin Mod,9,-,-,-,-,-,-,-9,-,-,-,-,-,-,1100,3,0,Locked
-19430049,20,AP (Ammo),★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,16,Locked
-19431722,20,AP (Ammo),★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,140935147,Rico,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,15,Locked
+19430049,20,AP (Ammo),★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,160907925,RPK-16,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,16,Locked
+19431722,20,AP (Ammo),★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,15,Locked
 19440882,40,T Exo (Body),★★★★★,IOP T4 Exoskeleton,46703121,Contender,-7,-,32,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
 19441670,66,Supp (Silencer),★★★★★,AC4 Suppressor,85096093,Gr MP5 Mod,-,-,10,-,-,-,20%,-,-,-,-,-,-,-,10000,10,9,Locked
 19452214,68,Box (MG Clip),★★★★★,IOP Maximum Ammo Box,55531384,Negev,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10000,10,2,Locked
@@ -333,7 +333,7 @@
 35427014,197,Sp. Eq (Exclusive),★★★★★,Mk31 Multi-functional Exoskeleton,-,-,-6,-,47,-,-,-,-,-,-,-,-,-,-,-,30000,10,0,Locked
 35429704,234,Chip (Body),★★★★★,#2 Processor,-,-,13,-,-,-,20,-50%,-,-,-,-,-,-,-,-,10000,10,0,Locked
 35441813,234,Chip (Body),★★★★★,#2 Processor,-,-,15,-,-,-,23,-50%,-,-,-,-,-,-,-,-,10000,10,5,Locked
-35459467,229,SLAP (Ammo),★★★★★,Mk1000 SLAP,160907925,RPK-16,-,-,-,-,-5,-,-,500,-,-,-,-,-,-,10000,10,13,Locked
+35459467,229,SLAP (Ammo),★★★★★,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,500,-,-,-,-,-,-,10000,10,13,Locked
 35476526,44,Plate (Body),★★★★★,Type 3 Armor Plate,-,-,-,-,-3,-,-,-,-,-,8,-,-,-,-,-,0,0,1,Locked
 35510423,58,X Exo (Body),★★★★★,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 35548838,224,RMR (Auxiliary Sight),★★★★★,RMR T4 Red Dot Sight,107351764,Python,-,17,-,-,-,-,30%,-,-,-,-,-,-,-,10000,10,3,Locked
@@ -363,7 +363,7 @@
 36721995,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,188340704,Carcano M91/38,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,16,Locked
 36817805,235,Flash (Shell),★★★★★,Shotgun Flash Shells,152430545,M500 Mod,-,8,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 36817807,229,SLAP (Ammo),★★★★★,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,496,-,-,-,-,-,-,10000,10,0,Locked
-36877211,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,168740861,Type56R Mod,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,16,Locked
+36877211,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,140935147,Rico,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,16,Locked
 36899377,229,SLAP (Ammo),★★★★★,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,244,-,-,-,-,-,-,1,0,0,Locked
 37010706,235,Flash (Shell),★★★★★,Shotgun Flash Shells,184547270,Nova,-,8,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 37077350,248,Sp. Eq (Exclusive),★★★★★,9A High-Performance Chip,-,-,8,-,-,-,12,-,-,-,-,-,-,-,-,-,1,0,0,Locked
