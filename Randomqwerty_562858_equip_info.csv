@@ -5,7 +5,7 @@
 9592028,72,HP (Ammo),★★★★★,ILM Hollow-Point Ammo,190545744,Kolibri,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,6,Locked
 9628426,40,T Exo (Body),★★★★★,IOP T4 Exoskeleton,143704502,SPP-1,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,12,Locked
 9705413,90,Cape (Body),★★★★★,Thermoptic Camouflage Cape,188340704,Carcano M91/38,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,6,Locked
-10791979,76,Buck (Shell),★★★★★,#000 Buckshot,175483428,Defender,15,-,-,-,-,22%,-,-,-,-,-,-,-,-,10000,10,16,Locked
+10791979,76,Buck (Shell),★★★★★,#000 Buckshot,-,-,15,-,-,-,-,22%,-,-,-,-,-,-,-,-,10000,10,16,Locked
 10792226,67,Box (MG Clip),★★★★,IOP High-Capacity Ammo Box,-,-,-,-,-1,-,-,-,-,-,-,-,-,-,-,3,5000,10,0,Locked
 10792230,67,Box (MG Clip),★★★★,IOP High-Capacity Ammo Box,-,-,-,-,-1,-,-,-,-,-,-,-,-,-,-,3,5000,10,0,Locked
 10792231,67,Box (MG Clip),★★★★,IOP High-Capacity Ammo Box,-,-,-,-,-1,-,-,-,-,-,-,-,-,-,-,3,5000,10,0,Locked
@@ -93,7 +93,7 @@
 20568100,86,Sp. Eq (Exclusive),★★★★★,Hayha Memory Chip,-,-,30,-,5,-,-,30%,-,-,-,-,-,-,-,-,30000,10,36,Locked
 20611764,72,HP (Ammo),★★★★★,ILM Hollow-Point Ammo,-,-,12,-,-,-,-,-,-,-8,-,-,-,-,-,-,10000,10,0,Locked
 20635237,16,PEQ (Night Equip),★★★★★,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,8,Locked
-20792203,20,AP (Ammo),★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,188340704,Carcano M91/38,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,11,Locked
+20792203,20,AP (Ammo),★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,11,Locked
 20974481,126,Sp. Eq (Exclusive),★★★★★,Dinergate RO,-,-,35,14,-,-,-2,-,-,-,-,-,-,-,-,-,30000,10,9,Locked
 20974492,125,Sp. Eq (Exclusive),★★★★★,Additional Computing Module,49277906,UMP45 Mod,-,-,15,-,-,-,25%,-,-,-,-,-,-,-,30000,10,6,Locked
 21413505,40,T Exo (Body),★★★★★,IOP T4 Exoskeleton,-,-,-7,-,28,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
@@ -119,7 +119,7 @@
 21924246,40,T Exo (Body),★★★★★,IOP T4 Exoskeleton,-,-,-6,-,31,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
 21947972,68,Box (MG Clip),★★★★★,IOP Maximum Ammo Box,-,-,-,-,-3,-,-,-,-,-,-,-,-,-,-,5,10000,10,1,Locked
 21996482,16,PEQ (Night Equip),★★★★★,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,94%,-,0,0,0,Locked
-22091829,44,Plate (Body),★★★★★,Type 3 Armor Plate,80440674,Am KSG,-,-,-2,-,-,-,-,-,10,-,-,-,-,-,10000,10,0,Locked
+22091829,44,Plate (Body),★★★★★,Type 3 Armor Plate,175483428,Defender,-,-,-2,-,-,-,-,-,10,-,-,-,-,-,10000,10,0,Locked
 22120460,68,Box (MG Clip),★★★★★,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,2,0,0,0,Locked
 22146519,90,Cape (Body),★★★★★,Thermoptic Camouflage Cape,187732814,HS.50,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,4,Locked
 22171250,8,EOT (Holographic),★★★★★,EOT 518,-,-,5,10,-,-,-5,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
@@ -315,7 +315,7 @@
 34692174,266,Sp. Eq (Exclusive),★★★★★,ImpulsIIA/C,76253490,Px4 Storm,-,-,12,-,-,-,8%,-,-,-,-,-,-,-,1,0,0,Locked
 34763120,221,Sp. Eq (Exclusive),★★★★★,Magnetic Accelerated Rounds,-,-,5,-,-,-,-,-,-,178,-,-,-,-,-,-,30000,10,5,Locked
 34787655,107,Sp. Eq (Exclusive),★★★★★,Infinite Ammo Box,-,-,-25,-10,-2,-,-,-,-,-,-,-,-,-,-,20,0,0,0,Locked
-34884830,216,Sp. Eq (Exclusive),★★★★★,20-gauge Custom Slug Rounds,-,-,7,-,-,-,-,-,13%,-,-,-,-,-,-,-,1,0,0,Locked
+34884830,216,Sp. Eq (Exclusive),★★★★★,20-gauge Custom Slug Rounds,175483428,Defender,7,-,-,-,-,-,13%,-,-,-,-,-,-,-,1,0,0,Locked
 34889489,16,PEQ (Night Equip),★★★★★,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,98%,-,0,0,0,Locked
 34889492,225,Flare (Ammo),★★★★★,Signal Flare,-,-,-,-,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 34937621,190,Sp. Eq (Exclusive),★★★★★,G-box,56323559,Gr G11 Mod,20,10,-,-,-,25%,-,-,-,-,-,-,-,-,30000,10,4,Locked
@@ -370,7 +370,7 @@
 37117675,49,PEQ (Night Equip),★★★★★,16Lab Infrared Designator,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,1,0,0,Locked
 37136423,109,Optical,★★★★★,16Lab 6-24X56,-,-,-,-,-,-,-,-,24%,-,-,-,-,-,-,-,1,0,0,Locked
 37173965,110,HV (Ammo),★★★★★,16Lab High-Velocity Ammo,-,-,12,-,-,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
-37180304,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,-,-,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,26,Locked
+37180304,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,188340704,Carcano M91/38,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,26,Locked
 37342883,20,AP (Ammo),★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,119,-,-,-,-,-,-,0,0,0,Locked
 37418363,229,SLAP (Ammo),★★★★★,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,246,-,-,-,-,-,-,0,0,0,Locked
 37521334,225,Flare (Ammo),★★★★★,Signal Flare,-,-,-,-,-,-,-4,-,-,-,-,-,-,-,-,-,1,0,0,Locked
