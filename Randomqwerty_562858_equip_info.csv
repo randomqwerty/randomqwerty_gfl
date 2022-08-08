@@ -21,7 +21,7 @@
 12325193,58,X Exo (Body),★★★★★,IOP X4 Exoskeleton,-,-,-,-,20,-,-,-,-,-,-,-,-,-,-,-,10000,10,4,Locked
 12407611,58,X Exo (Body),★★★★★,IOP X4 Exoskeleton,-,-,-,-,8,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 12482181,16,PEQ (Night Equip),★★★★★,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,16,Locked
-12482183,44,Plate (Body),★★★★★,Type 3 Armor Plate,147637202,DP-12,-,-,-2,-,-,-,-,-,11,-,-,-,-,-,10075,10,6,Locked
+12482183,44,Plate (Body),★★★★★,Type 3 Armor Plate,185841510,FO-12,-,-,-2,-,-,-,-,-,11,-,-,-,-,-,10075,10,6,Locked
 12588291,76,Buck (Shell),★★★★★,#000 Buckshot,-,-,7,-,-,-,-,12%,-,-,-,-,-,-,-,-,0,0,0,Locked
 12608856,49,PEQ (Night Equip),★★★★★,16Lab Infrared Designator,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,0,Locked
 12653275,50,AP (Ammo),★★★★★,16Lab Sub-Caliber Armor-Piercing Ammo,52823449,Lee Enfield,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10125,10,0,Locked
@@ -91,7 +91,7 @@
 20363922,68,Box (MG Clip),★★★★★,IOP Maximum Ammo Box,-,-,-,-,-3,-,-,-,-,-,-,-,-,-,-,5,10000,10,1,Locked
 20363924,68,Box (MG Clip),★★★★★,IOP Maximum Ammo Box,-,-,-,-,-3,-,-,-,-,-,-,-,-,-,-,5,10000,10,3,Locked
 20568100,86,Sp. Eq (Exclusive),★★★★★,Hayha Memory Chip,-,-,30,-,5,-,-,30%,-,-,-,-,-,-,-,-,30000,10,36,Locked
-20611764,72,HP (Ammo),★★★★★,ILM Hollow-Point Ammo,-,-,12,-,-,-,-,-,-,-8,-,-,-,-,-,-,10000,10,0,Locked
+20611764,72,HP (Ammo),★★★★★,ILM Hollow-Point Ammo,85096093,Gr MP5 Mod,12,-,-,-,-,-,-,-8,-,-,-,-,-,-,10000,10,0,Locked
 20635237,16,PEQ (Night Equip),★★★★★,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,8,Locked
 20792203,20,AP (Ammo),★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,11,Locked
 20974481,126,Sp. Eq (Exclusive),★★★★★,Dinergate RO,-,-,35,14,-,-,-2,-,-,-,-,-,-,-,-,-,30000,10,9,Locked
@@ -107,7 +107,7 @@
 21632058,4,Optical,★★★★★,VFL 6-24X56,-,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,8,Locked
 21652958,90,Cape (Body),★★★★★,Thermoptic Camouflage Cape,67251942,Gr G28,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,5,Locked
 21671704,68,Box (MG Clip),★★★★★,IOP Maximum Ammo Box,-,-,-,-,-3,-,-,-,-,-,-,-,-,-,-,5,10000,10,1,Locked
-21673545,66,Supp (Silencer),★★★★★,AC4 Suppressor,-,-,-,-,6,-,-,-,12%,-,-,-,-,-,-,-,0,0,0,Locked
+21673545,66,Supp (Silencer),★★★★★,AC4 Suppressor,85096093,Gr MP5 Mod,-,-,6,-,-,-,12%,-,-,-,-,-,-,-,0,0,0,Locked
 21694966,90,Cape (Body),★★★★★,Thermoptic Camouflage Cape,46642779,M14 Mod,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,6,Locked
 21710101,80,Slug (Shell),★★★★★,SABOT Slug,-,-,-,14,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
 21756772,66,Supp (Silencer),★★★★★,AC4 Suppressor,-,-,-,-,6,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,Locked
@@ -173,7 +173,7 @@
 24365807,68,Box (MG Clip),★★★★★,IOP Maximum Ammo Box,-,-,-,-,-3,-,-,-,-,-,-,-,-,-,-,5,10000,10,2,Locked
 24409219,58,X Exo (Body),★★★★★,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 24443357,66,Supp (Silencer),★★★★★,AC4 Suppressor,-,-,-,-,6,-,-,-,14%,-,-,-,-,-,-,-,0,0,0,Locked
-24444519,62,Sp. Eq (Exclusive),★★★★★,GSG UX Exoskeleton,-,-,-6,-,58,-,-,-,-,-,-,-,-,-,-,-,30000,10,28,Locked
+24444519,62,Sp. Eq (Exclusive),★★★★★,GSG UX Exoskeleton,85096093,Gr MP5 Mod,-6,-,58,-,-,-,-,-,-,-,-,-,-,-,30000,10,28,Locked
 24461498,133,Sp. Eq (Exclusive),★★★★★,Stechkin Buttstock,55477390,Stechkin Mod,-,2,9,-,-,-,17%,-,-,-,-,-,-,-,30000,10,0,Locked
 24573843,66,Supp (Silencer),★★★★★,AC4 Suppressor,-,-,-,-,6,-,-,-,12%,-,-,-,-,-,-,-,0,0,0,Locked
 24590223,16,PEQ (Night Equip),★★★★★,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,94%,-,1,0,0,Locked
@@ -302,7 +302,7 @@
 34642639,16,PEQ (Night Equip),★★★★★,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,93%,-,0,0,0,Locked
 34648263,72,HP (Ammo),★★★★★,ILM Hollow-Point Ammo,128929270,P22,8,-,-,-,-,-,-,-8,-,-,-,-,-,-,0,0,0,Locked
 34653360,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,172771354,De Lisle,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,26,Locked
-34653362,231,Birdshot (Shell),★★★★★,#7.5 Birdshot,-,-,-,-,-,-,7,-14%,-,-,-,-,-,-,-,-,0,0,0,Locked
+34653362,231,Birdshot (Shell),★★★★★,#7.5 Birdshot,185841510,FO-12,-,-,-,-,7,-14%,-,-,-,-,-,-,-,-,0,0,0,Locked
 34653997,68,Box (MG Clip),★★★★★,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,2,0,0,0,Locked
 34655063,235,Flash (Shell),★★★★★,Shotgun Flash Shells,184547049,M26-MASS,-,8,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 34656059,229,SLAP (Ammo),★★★★★,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,500,-,-,-,-,-,-,10000,10,23,Locked
