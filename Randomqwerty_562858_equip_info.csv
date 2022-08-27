@@ -25,7 +25,7 @@
 12588291,76,Buck (Shell),★★★★★,#000 Buckshot,-,-,7,-,-,-,-,12%,-,-,-,-,-,-,-,-,0,0,0,Locked
 12608856,49,PEQ (Night Equip),★★★★★,16Lab Infrared Designator,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,0,Locked
 12653275,50,AP (Ammo),★★★★★,16Lab Sub-Caliber Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10125,10,0,Locked
-12870446,4,Optical,★★★★★,VFL 6-24X56,-,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,12,Locked
+12870446,4,Optical,★★★★★,VFL 6-24X56,56401056,Ribeyrolles,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,12,Locked
 12871715,91,Sp. Eq (Exclusive),★★★★★,Special Warfare Mobile Suit,-,-,-,-20,10,-,-10,-,-,-,20,-,-,-,-,-,30075,10,0,Locked
 13079587,8,EOT (Holographic),★★★★★,EOT 518,85354529,Micro Uzi Mod,8,14,-,-,-4,-,-,-,-,-,-,-,-,-,10000,10,26,Locked
 13340237,95,HP (Ammo),★★★★★,16Lab Hollow-Point,106384600,Python,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10075,10,0,Locked
@@ -73,7 +73,7 @@
 19311169,4,Optical,★★★★★,VFL 6-24X56,68729092,Springfield,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,1,Locked
 19381247,44,Plate (Body),★★★★★,Type 3 Armor Plate,188730924,M500 Mod,-,-,-3,-,-,-,-,-,11,-,-,-,-,-,10000,10,4,Locked
 19385776,68,Box (MG Clip),★★★★★,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10000,10,6,Locked
-19395555,32,HV (Ammo),★★★★★,APCR High-Velocity Ammo,-,-,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,5,Locked
+19395555,32,HV (Ammo),★★★★★,APCR High-Velocity Ammo,56401056,Ribeyrolles,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,5,Locked
 19397548,20,AP (Ammo),★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,9,Locked
 19399280,72,HP (Ammo),★★★★★,ILM Hollow-Point Ammo,50871904,SAA Mod,9,-,-,-,-,-,-,-9,-,-,-,-,-,-,1100,3,0,Locked
 19430049,20,AP (Ammo),★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,121304531,R93,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,16,Locked
@@ -332,7 +332,7 @@
 35320220,236,Sp. Eq (Exclusive),★★★★★,Thompson's Exoskeleton,-,-,-8,-,40,-,-,-,-,-,-,-,-,-,-,-,30000,10,6,Locked
 35427014,197,Sp. Eq (Exclusive),★★★★★,Mk31 Multi-functional Exoskeleton,-,-,-6,-,47,-,-,-,-,-,-,-,-,-,-,-,30000,10,0,Locked
 35429704,234,Chip (Body),★★★★★,#2 Processor,-,-,13,-,-,-,20,-50%,-,-,-,-,-,-,-,-,10000,10,0,Locked
-35441813,234,Chip (Body),★★★★★,#2 Processor,-,-,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,6,Locked
+35441813,234,Chip (Body),★★★★★,#2 Processor,56401056,Ribeyrolles,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,6,Locked
 35459467,229,SLAP (Ammo),★★★★★,Mk1000 SLAP,148407253,Kord,-,-,-,-,-5,-,-,500,-,-,-,-,-,-,10000,10,13,Locked
 35476526,44,Plate (Body),★★★★★,Type 3 Armor Plate,-,-,-,-,-3,-,-,-,-,-,11,-,-,-,-,-,10000,10,1,Locked
 35510423,58,X Exo (Body),★★★★★,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
@@ -377,7 +377,8 @@
 37592273,217,Sp. Eq (Exclusive),★★★★★,SB 2.5-10x56,-,-,3,-,-,-,-,-,25%,-,-,-,-,-,-,-,1,0,0,Locked
 37610586,213,Sp. Eq (Exclusive),★★★★★,Special Ops Bag,53739457,Welrod MkⅡ Mod,-,-,25,-,-,-,-,-,5,-,-,-,-,-,30000,10,6,Locked
 37739900,235,Flash (Shell),★★★★★,Shotgun Flash Shells,189585220,LTLX7000,-,9,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-37785350,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,-,-,9,-,-,-,-,-,-,102,-,-,-,-,-,-,6400,8,5,Locked
+37785350,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,-,-,10,-,-,-,-,-,-,105,-,-,-,-,-,-,7600,9,5,Locked
 37895835,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,-,-,6,-,-,-,-,-,-,73,-,-,-,-,-,-,0,0,0,Locked
 37907838,224,RMR (Auxiliary Sight),★★★★★,RMR T4 Red Dot Sight,-,-,-,10,-,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,Locked
 37918081,276,Sp. Eq (Exclusive),★★★★★,M13 Receiver,-,-,-,-,7,-,-,-,13%,-,-,-,-,-,-,-,1,0,0,Locked
+37993163,225,Flare (Ammo),★★★★★,Signal Flare,-,-,-,-,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,Locked
