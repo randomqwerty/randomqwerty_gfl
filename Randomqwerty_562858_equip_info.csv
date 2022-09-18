@@ -81,7 +81,7 @@
 19440882,40,T Exo (Body),★★★★★,IOP T4 Exoskeleton,62809579,FAL,-8,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,1,Locked
 19441670,66,Supp (Silencer),★★★★★,AC4 Suppressor,-,-,-,-,10,-,-,-,20%,-,-,-,-,-,-,-,10000,10,9,Locked
 19452214,68,Box (MG Clip),★★★★★,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10000,10,2,Locked
-19454817,32,HV (Ammo),★★★★★,APCR High-Velocity Ammo,56119054,Gr G36 Mod,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,2,Locked
+19454817,32,HV (Ammo),★★★★★,APCR High-Velocity Ammo,181519785,SIG MCX,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,2,Locked
 19587364,8,EOT (Holographic),★★★★★,EOT 518,-,-,5,10,-,-,-5,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
 19588262,4,Optical,★★★★★,VFL 6-24X56,-,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,9,Locked
 19630871,76,Buck (Shell),★★★★★,#000 Buckshot,-,-,7,-,-,-,-,12%,-,-,-,-,-,-,-,-,0,0,0,Locked
@@ -151,7 +151,7 @@
 23231428,32,HV (Ammo),★★★★★,APCR High-Velocity Ammo,164687103,89 Shiki,9,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 23237624,16,PEQ (Night Equip),★★★★★,PEQ-16A,92374498,AS Val Mod,-,-,-,-,-,-,-,-,-,-,-,-,96%,-,0,0,0,Locked
 23239422,32,HV (Ammo),★★★★★,APCR High-Velocity Ammo,62809579,FAL,8,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-23239423,32,HV (Ammo),★★★★★,APCR High-Velocity Ammo,181519785,SIG MCX,14,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
+23239423,32,HV (Ammo),★★★★★,APCR High-Velocity Ammo,-,-,14,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
 23239467,44,Plate (Body),★★★★★,Type 3 Armor Plate,-,-,-,-,-3,-,-,-,-,-,11,-,-,-,-,-,10000,10,4,Locked
 23243248,32,HV (Ammo),★★★★★,APCR High-Velocity Ammo,173949009,Medusa,14,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
 23278020,40,T Exo (Body),★★★★★,IOP T4 Exoskeleton,85354529,Micro Uzi Mod,-7,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,4,Locked
@@ -175,7 +175,7 @@
 24443357,66,Supp (Silencer),★★★★★,AC4 Suppressor,-,-,-,-,6,-,-,-,14%,-,-,-,-,-,-,-,0,0,0,Locked
 24444519,62,Sp. Eq (Exclusive),★★★★★,GSG UX Exoskeleton,85096093,Gr MP5 Mod,-6,-,58,-,-,-,-,-,-,-,-,-,-,-,30000,10,28,Locked
 24461498,133,Sp. Eq (Exclusive),★★★★★,Stechkin Buttstock,55477390,Stechkin Mod,-,2,9,-,-,-,17%,-,-,-,-,-,-,-,30000,10,0,Locked
-24573843,66,Supp (Silencer),★★★★★,AC4 Suppressor,-,-,-,-,6,-,-,-,12%,-,-,-,-,-,-,-,0,0,0,Locked
+24573843,66,Supp (Silencer),★★★★★,AC4 Suppressor,47406865,Gr Mk23,-,-,6,-,-,-,12%,-,-,-,-,-,-,-,0,0,0,Locked
 24590223,16,PEQ (Night Equip),★★★★★,PEQ-16A,141339134,Angelica,-,-,-,-,-,-,-,-,-,-,-,-,94%,-,1,0,0,Locked
 24615992,90,Cape (Body),★★★★★,Thermoptic Camouflage Cape,103214168,Type88 Mod,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,6,Locked
 24718686,90,Cape (Body),★★★★★,Thermoptic Camouflage Cape,-,-,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,5,Locked
@@ -209,7 +209,7 @@
 27666207,183,Sp. Eq (Exclusive),★★★★★,Duelling Cards,-,-,-,-,-,-3,-,45%,-,-,-,-,-,-,-,-,30000,10,2,Locked
 27711073,66,Supp (Silencer),★★★★★,AC4 Suppressor,128929270,P22,-,-,6,-,-,-,13%,-,-,-,-,-,-,-,1,0,0,Locked
 27720753,184,Sp. Eq (Exclusive),★★★★★,Fairy Tale Picture Books,141339134,Angelica,15,-,18,-,-,-,-,-,-,-,-,-,-,-,30000,10,3,Locked
-27737263,40,T Exo (Body),★★★★★,IOP T4 Exoskeleton,-,-,-7,-,30,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
+27737263,40,T Exo (Body),★★★★★,IOP T4 Exoskeleton,47406865,Gr Mk23,-7,-,30,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
 27777964,185,Sp. Eq (Exclusive),★★★★★,Spectacles,-,-,3,1,-,-,-,-,20%,-,-,-,-,-,-,-,1,0,0,Locked
 27806715,188,Sp. Eq (Exclusive),★★★★★,Meteorite,-,-,3,1,-,-,-,-,19%,-,-,-,-,-,-,-,1,0,0,Locked
 27822937,189,Sp. Eq (Exclusive),★★★★★,Wristwatch,-,-,3,1,-,-,-,-,21%,-,-,-,-,-,-,-,1,0,0,Locked
@@ -326,7 +326,7 @@
 35110321,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,-,-,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,26,Locked
 35143530,192,Sp. Eq (Exclusive),★★★★★,Beloved Dangle,51382747,RO635 Mod,-8,-,45,-,-,-,-,-,-,-,-,-,-,-,30000,10,8,Locked
 35218785,40,T Exo (Body),★★★★★,IOP T4 Exoskeleton,-,-,-7,-,21,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-35241896,234,Chip (Body),★★★★★,#2 Processor,56401056,Ribeyrolles,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,6,Locked
+35241896,234,Chip (Body),★★★★★,#2 Processor,181519785,SIG MCX,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,6,Locked
 35241899,234,Chip (Body),★★★★★,#2 Processor,63139978,64 Shiki,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,9,Locked
 35280868,225,Flare (Ammo),★★★★★,Signal Flare,-,-,-,-,-,-,-4,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 35320220,236,Sp. Eq (Exclusive),★★★★★,Thompson's Exoskeleton,50842073,Thompson,-8,-,40,-,-,-,-,-,-,-,-,-,-,-,30000,10,6,Locked
@@ -383,7 +383,7 @@
 37993163,225,Flare (Ammo),★★★★★,Signal Flare,-,-,-,-,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 37994729,224,RMR (Auxiliary Sight),★★★★★,RMR T4 Red Dot Sight,-,-,-,10,-,-,-,-,13%,-,-,-,-,-,-,-,1,0,0,Locked
 38018959,234,Chip (Body),★★★★★,#2 Processor,56119054,Gr G36 Mod,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,16,Locked
-38018960,234,Chip (Body),★★★★★,#2 Processor,181519785,SIG MCX,9,-,-,-,13,-50%,-,-,-,-,-,-,-,-,0,0,0,Locked
+38018960,234,Chip (Body),★★★★★,#2 Processor,-,-,9,-,-,-,13,-50%,-,-,-,-,-,-,-,-,0,0,0,Locked
 38018964,234,Chip (Body),★★★★★,#2 Processor,83336426,AUG,8,-,-,-,13,-50%,-,-,-,-,-,-,-,-,0,0,0,Locked
 38018965,234,Chip (Body),★★★★★,#2 Processor,92374498,AS Val Mod,8,-,-,-,14,-50%,-,-,-,-,-,-,-,-,0,0,0,Locked
 38039740,225,Flare (Ammo),★★★★★,Signal Flare,-,-,-,-,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,Locked
