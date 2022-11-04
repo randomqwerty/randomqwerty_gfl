@@ -273,7 +273,7 @@
 33757633,16,PEQ (Night Equip),★★★★★,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,95.6242%,-,0,0,,0,Locked
 33757634,44,Plate (Body),★★★★★,Type 3 Armor Plate,188730924,M500 Mod,-,-,-3,-,-,-,-,-,11,-,-,-,-,-,10000,10,,1,Locked
 33765801,221,Sp. Eq (Exclusive),★★★★★,Magnetic Accelerated Rounds,146588676,Type88 Mod,5,-,-,-,-,-,-,180,-,-,-,-,-,-,30000,10,MAX,16,Locked
-33765809,221,Sp. Eq (Exclusive),★★★★★,Magnetic Accelerated Rounds,103214168,Type88 Mod,5,-,-,-,-,-,-,180,-,-,-,-,-,-,30000,10,MAX,16,Locked
+33765809,221,Sp. Eq (Exclusive),★★★★★,Magnetic Accelerated Rounds,-,-,5,-,-,-,-,-,-,180,-,-,-,-,-,-,30000,10,MAX,16,Locked
 33769786,44,Plate (Body),★★★★★,Type 3 Armor Plate,194568050,Defender,-,-,-3,-,-,-,-,-,11,-,-,-,-,-,10000,10,,1,Locked
 33789895,111,Sp. Eq (Exclusive),★★★★★,K6-24X56,69235347,Mosin-Nagant Mod,-,6,-,-,-,50%,-,-,-,-,-,-,-,-,30000,10,MAX,16,Locked
 33789896,115,Sp. Eq (Exclusive),★★★★★,Digital Camouflage,-,-,6,-,-,-3.0000,-,-,25%,-,-,-,-,-,-,-,30000,10,MAX,6,Locked
@@ -323,7 +323,7 @@
 34989971,40,T Exo (Body),★★★★★,IOP T4 Exoskeleton,-,-,-7.0008,-,21.2740,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
 34990008,224,RMR (Auxiliary Sight),★★★★★,RMR T4 Red Dot Sight,195603887,MG338,-,20,-,-,-,30%,-,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
 35110319,229,SLAP (Ammo),★★★★★,Mk1000 SLAP,195603887,MG338,-,-,-,-,-5.0000,-,-,500,-,-,-,-,-,-,10000,10,MAX,13,Locked
-35110321,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,-,-,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,MAX,26,Locked
+35110321,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,103214168,Type88 Mod,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,MAX,26,Locked
 35143530,192,Sp. Eq (Exclusive),★★★★★,Beloved Dangle,51382747,RO635 Mod,-8,-,45,-,-,-,-,-,-,-,-,-,-,-,30000,10,,8,Locked
 35218785,40,T Exo (Body),★★★★★,IOP T4 Exoskeleton,-,-,-7.6332,-,21.4790,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
 35241896,234,Chip (Body),★★★★★,#2 Processor,-,-,15,-,-,-,25,-,-50.000%,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
@@ -406,7 +406,8 @@
 38658281,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,-,-,6.9136,-,-,-,-,-,-,76.5370,-,-,-,-,-,-,0,0,,0,Locked
 38664895,235,Flash (Shell),★★★★★,Shotgun Flash Shells,195607688,LTLX7000,-,9.2828,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
 38667282,235,Flash (Shell),★★★★★,Shotgun Flash Shells,123998134,M870,-,10.7068,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
-38680394,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,-,-,9,-,-,-,-,-,-,104,-,-,-,-,-,-,3500,6,MAX,6,Locked
+38680394,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,-,-,9,-,-,-,-,-,-,108,-,-,-,-,-,-,4400,7,MAX,6,Locked
 38681488,227,SNIP (Ammo),★★★★★,M1022 Sniper Rounds,-,-,6.9104,-,-,-,-,-,-,74.4590,-,-,-,-,-,-,0,0,,0,Locked
 38726910,239,Sp. Eq (Exclusive),★★★★★,Mk4 SLAP,175592147,Gr MG4 Mod,-1,-,-,-,-,-,-,600.000,-,-,-,-,-,-,30000,10,MAX,4,
 38736000,240,Sp. Eq (Exclusive),★★★★★,Wing-Shaped Mechanical Shield,184547230,RMB-93 Mod,-,-,-,3.0000,-,-,-,-,12,-,-,-,-,-,30000,10,MAX,3,
+38759362,222,RMR (Auxiliary Sight),★★★,RMR Red Dot Sight,-,-,-,3.5688,-,-,-,6.1949%,-,-,-,-,-,-,-,-,0,0,,0,
