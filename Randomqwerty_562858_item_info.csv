@@ -1,14 +1,14 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,985
+item-10,Dummy Core,913
 item-31,Basic Training Data,6027
-item-32,Intermediate Training Data,8855
+item-32,Intermediate Training Data,8335
 item-33,Advanced Training Data,8611
 -1,kalina_level,28
--1,kalina_favor,88098
-item-1,T-Doll Contract,480
-item-2,Equipment Contract,629
-item-3,Quick Production Contract,477
+-1,kalina_favor,88118
+item-1,T-Doll Contract,493
+item-2,Equipment Contract,596
+item-3,Quick Production Contract,459
 item-4,Quick Repair Contract,6048
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
@@ -16,14 +16,14 @@ item-8,Quick Training Contract,93
 item-9,Enhancement Capsule,1661
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,50
-item-15,Pure Sample,0
+item-14,Original Sample,10
+item-15,Pure Sample,9
 item-16,Quick Analysis Contract,38
-item-17,Data Patch,356
+item-17,Data Patch,357
 item-41,Token,264
 item-42,Exchange Ticket,0
-item-43,Black Card,23
-item-44,Calibration Ticket,2104
+item-43,Black Card,24
+item-44,Calibration Ticket,2400
 item-45,Memory Fragment,10259
 item-46,Special Combat Report,14808
 item-47,Theater Material,2
@@ -42,16 +42,16 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,0
-item-506,Battery,9475
-item-507,Surplus EXP,149304
-item-508,Friendship Points,4820
+item-506,Battery,9790
+item-507,Surplus EXP,285504
+item-508,Friendship Points,4910
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1250
 item-513,Dark Star Kernel,15850
 item-514,Petri Dish,5194
-item-515,Basic Training Keycode,52025
-item-516,Advanced Training Keycode,10332
+item-515,Basic Training Keycode,52563
+item-516,Advanced Training Keycode,10870
 item-517,Specified Equipment Contract,0
 item-519,HOC General Data,241
 item-520,Frag Grenade,7
@@ -62,8 +62,8 @@ item-524,Goliath Projectile,1
 item-525,Quick Auto-Battle Contract,1274
 item-601,Infinite Surprise Dye,61
 item-602,Colorful Specified Dye,2
-item-603,Potential Energy,12
-item-604,Electronic Impulse,1
+item-603,Potential Energy,0
+item-604,Electronic Impulse,2
 item-605,Aid Commission,9
 item-606,Transfer Catalyst,215
 item-1001,AAT-52 Icon,1
@@ -217,6 +217,7 @@ item-1563,ID Card: Rider in the Snow,1
 item-1566,Icon: Split-Second,1
 item-1567,ID: Impending Boom,1
 item-1582,Destroyer Icon,1
+item-1583,Architect Icon,1
 item-1588,Tarantula Icon,1
 item-1611,Icon: Tsavorite Girl,1
 item-1612,Icon: The Eye of Storytelling,1
@@ -254,6 +255,7 @@ item-1705,ID: Rebels' Smoke Signal,1
 item-1706,Background: Chloris' Floral Path,1
 item-1707,Gr G11 Neural Upgrade Icon,1
 item-1709,RO635 Neural Upgrade Icon,1
+item-1717,Ripper SWAP Icon,1
 item-1741,Icon: Silent Farewell,1
 item-1742,Icon: Life of Deception,1
 item-1743,ID: Curtain Call,1
@@ -331,7 +333,7 @@ item-1951,ID Card: Fatal Bullet,1
 item-1952,ID Card: Bloodstained Rider,1
 item-1953,ID Card: Moment of Conclusion,1
 item-1954,Background: Lazy Afternoon,1
-item-1987,item-10001987,1
+item-1987,Intruder - Witch of the End Icon,1
 item-1990,Icon: Pink Eye of Enthrallment,1
 item-1991,Icon: Purple Night of Rapture,1
 item-1992,ID card: Maelstrom of Pink and Purple,1
@@ -343,8 +345,8 @@ item-2017,Icon: Setting Sail,1
 item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
 item-2074,ID: A Promise of Four Years,1
-item-2124,ID Card: Mirror Stage,1
-item-2140,item-10002140,1
+item-2124,ID: Mirror Stage,1
+item-2140,Breeze in a Summer Afternoon,1
 item-2142,The Sky is the Limit,1
 item-2174,ID: Power Struggle,1
 item-4001,City's Gift,37499
@@ -378,8 +380,8 @@ item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,18
 item-10604,Extra Impulse,24
-item-10605,item-10010605,240
-item-10606,item-10010606,760
+item-10605,Level of Activity,240
+item-10606,Frontline Protocol Advanced Card,760
 item-100009,Crown of Respect,20
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -475,14 +477,14 @@ item-120004,Besties Chatter,1
 item-120005,Besties Chatter,1
 item-120006,Besties Chatter,1
 item-130015,Grenade Catcher,1
-item-140001,item-10140001,1
-item-200001,item-10200001,1
-item-200002,item-10200002,1
-item-200003,item-10200003,1
-item-200005,item-10200005,1
-item-200008,item-10200008,1
-item-200009,item-10200009,1
-item-200012,item-10200012,1
+item-140001,Grenade Catcher,1
+item-200001,Icon Frame - Whimsical Connection,1
+item-200002,Icon Frame - Neural Tide,1
+item-200003,Icon Frame - Extreme Apex,1
+item-200005,Icon Frame - Neon Glamor,1
+item-200008,Icon Frame - Fuse of Victory,1
+item-200009,Icon Frame - Dance of the Nib,1
+item-200012,Icon Frame - Rifling,1
 item-900030,Nova Medal,4
 item-900032,Nova Medal,3
 item-900033,Platinum Medal,103
@@ -498,9 +500,9 @@ item-900042,Tangerine Coin,0
 item-900043,Nova Medal·Far Side of the Sea,3
 item-900044,Platinum Medal·Far Side of the Sea,3
 item-900045,Azure Conch,0
-item-900046,item-10900046,80
-item-900047,item-10900047,2
-item-900048,item-10900048,4
+item-900046,Xmas Coin,10
+item-900047,Nova Medal - One Coin Short,2
+item-900048,Platinum Medal - One Coin Short,8
 item-1100001,High-Speed Beauties,1
 item-1100002,High-Speed Beauties,1
 item-1100003,Galactic Oath,1
@@ -509,10 +511,8 @@ item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
 item-1100007,Corona Fusion,1
 item-1100008,Corona Fusion,1
-item-1500009,item-11500009,0
-item-1500030,item-11500030,0
-item-1583,Architect Icon,1
-item-1717,Ripper SWAP Icon,1
+item-1500009,Basic Equipment Indicator,0
+item-1500030,5-Star T-Doll Transfer Letter,0
 gift-100001,Lollipop,263
 gift-100002,Ice Cream Cone,152
 gift-100003,Strawberry Custard Cheesecake,582
