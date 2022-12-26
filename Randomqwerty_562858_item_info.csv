@@ -1,33 +1,33 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,546
-item-31,Basic Training Data,6217
-item-32,Intermediate Training Data,7345
-item-33,Advanced Training Data,7141
+item-10,Dummy Core,512
+item-31,Basic Training Data,5817
+item-32,Intermediate Training Data,7185
+item-33,Advanced Training Data,7281
 -1,kalina_level,28
--1,kalina_favor,88238
-item-1,T-Doll Contract,539
-item-2,Equipment Contract,540
-item-3,Quick Production Contract,360
-item-4,Quick Repair Contract,6074
+-1,kalina_favor,88258
+item-1,T-Doll Contract,561
+item-2,Equipment Contract,529
+item-3,Quick Production Contract,410
+item-4,Quick Repair Contract,6100
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
-item-8,Quick Training Contract,92
+item-8,Quick Training Contract,121
 item-9,Enhancement Capsule,1683
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,90
-item-15,Pure Sample,46
+item-14,Original Sample,120
+item-15,Pure Sample,44
 item-16,Quick Analysis Contract,37
-item-17,Data Patch,360
-item-41,Token,364
+item-17,Data Patch,361
+item-41,Token,414
 item-42,Exchange Ticket,0
 item-43,Black Card,24
-item-44,Calibration Ticket,2524
+item-44,Calibration Ticket,2820
 item-45,Memory Fragment,10259
-item-46,Special Combat Report,14808
+item-46,Special Combat Report,14958
 item-47,Theater Material,2
-item-50,Universal Parts,1108
+item-50,Universal Parts,1150
 item-51,New Type Fire-Control Component,62
 item-53,Gachapon Ticket,115
 item-100,Elite Griffin Combat Medal,10
@@ -42,10 +42,10 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,0
-item-506,Battery,10024
-item-507,Surplus EXP,172114
-item-508,Friendship Points,6010
-item-509,Fairy Command,190
+item-506,Battery,9941
+item-507,Surplus EXP,136234
+item-508,Friendship Points,6190
+item-509,Fairy Command,60
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1250
 item-513,Dark Star Kernel,16350
@@ -59,13 +59,13 @@ item-521,Stun Grenade,37
 item-522,Turret,21
 item-523,G&K,1
 item-524,Goliath Projectile,1
-item-525,Quick Auto-Battle Contract,1278
-item-601,Infinite Surprise Dye,67
+item-525,Quick Auto-Battle Contract,1283
+item-601,Infinite Surprise Dye,69
 item-602,Colorful Specified Dye,2
 item-603,Potential Energy,0
-item-604,Electronic Impulse,3
+item-604,Electronic Impulse,1
 item-605,Aid Commission,10
-item-606,Transfer Catalyst,215
+item-606,Transfer Catalyst,240
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
 item-1003,IDW Icon,1
@@ -380,8 +380,8 @@ item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,18
 item-10604,Extra Impulse,29
-item-10605,Level of Activity,400
-item-10606,Frontline Protocol Advanced Card,920
+item-10605,Level of Activity,130
+item-10606,Frontline Protocol Advanced Card,1110
 item-100009,Crown of Respect,20
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -500,9 +500,9 @@ item-900042,Tangerine Coin,0
 item-900043,Nova Medal·Far Side of the Sea,3
 item-900044,Platinum Medal·Far Side of the Sea,3
 item-900045,Azure Conch,0
-item-900046,Xmas Coin,0
+item-900046,Xmas Coin,20
 item-900047,Nova Medal - One Coin Short,2
-item-900048,Platinum Medal - One Coin Short,21
+item-900048,Platinum Medal - One Coin Short,25
 item-1100001,High-Speed Beauties,1
 item-1100002,High-Speed Beauties,1
 item-1100003,Galactic Oath,1
@@ -513,6 +513,7 @@ item-1100007,Corona Fusion,1
 item-1100008,Corona Fusion,1
 item-1500009,Basic Equipment Indicator,0
 item-1500030,5-Star T-Doll Transfer Letter,0
+item-1500010,Accessory Equipment Indicator,0
 gift-100001,Lollipop,263
 gift-100002,Ice Cream Cone,152
 gift-100003,Strawberry Custard Cheesecake,592
@@ -520,12 +521,12 @@ gift-100005,Mulan Tea,22
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,4819
+gift-200001,Combat Report,5479
 gift-200003,Beer on Discount,21
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
-gift-400001,Rapid Growth Disk,5423
+gift-400001,Rapid Growth Disk,5575
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
