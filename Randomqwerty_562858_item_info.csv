@@ -1,29 +1,29 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,279
-item-31,Basic Training Data,4677
+item-10,Dummy Core,281
+item-31,Basic Training Data,4077
 item-32,Intermediate Training Data,5822
-item-33,Advanced Training Data,6941
+item-33,Advanced Training Data,6441
 -1,kalina_level,28
--1,kalina_favor,88398
-item-1,T-Doll Contract,593
-item-2,Equipment Contract,432
-item-3,Quick Production Contract,429
-item-4,Quick Repair Contract,6116
+-1,kalina_favor,88443
+item-1,T-Doll Contract,598
+item-2,Equipment Contract,422
+item-3,Quick Production Contract,433
+item-4,Quick Repair Contract,6121
 item-5,Daily Pause Permit,1
-item-7,Oath Certificate,1
+item-7,Oath Certificate,5
 item-8,Quick Training Contract,123
-item-9,Enhancement Capsule,1645
+item-9,Enhancement Capsule,1629
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,170
-item-15,Pure Sample,11
+item-14,Original Sample,230
+item-15,Pure Sample,32
 item-16,Quick Analysis Contract,59
 item-17,Data Patch,364
-item-41,Token,530
+item-41,Token,554
 item-42,Exchange Ticket,0
 item-43,Black Card,24
-item-44,Calibration Ticket,2381
+item-44,Calibration Ticket,2516
 item-45,Memory Fragment,9519
 item-46,Special Combat Report,14988
 item-47,Theater Material,2
@@ -42,10 +42,10 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,0
-item-506,Battery,10373
-item-507,Surplus EXP,210234
-item-508,Friendship Points,6750
-item-509,Fairy Command,55
+item-506,Battery,10188
+item-507,Surplus EXP,11034
+item-508,Friendship Points,6930
+item-509,Fairy Command,100
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1250
 item-513,Dark Star Kernel,17250
@@ -62,10 +62,10 @@ item-524,Goliath Projectile,1
 item-525,Quick Auto-Battle Contract,1297
 item-601,Infinite Surprise Dye,75
 item-602,Colorful Specified Dye,2
-item-603,Potential Energy,0
+item-603,Potential Energy,12
 item-604,Electronic Impulse,0
 item-605,Aid Commission,13
-item-606,Transfer Catalyst,240
+item-606,Transfer Catalyst,270
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
 item-1003,IDW Icon,1
@@ -380,8 +380,8 @@ item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,18
 item-10604,Extra Impulse,35
-item-10605,Level of Activity,280
-item-10606,Frontline Protocol Advanced Card,1280
+item-10605,Level of Activity,320
+item-10606,Frontline Protocol Advanced Card,1320
 item-100009,Crown of Respect,20
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -514,6 +514,7 @@ item-1100008,Corona Fusion,1
 item-1500009,Basic Equipment Indicator,0
 item-1500010,Accessory Equipment Indicator,0
 item-1500030,5-Star T-Doll Transfer Letter,0
+item-1500013,Guaranteed T-Doll Indicator,0
 gift-100001,Lollipop,263
 gift-100002,Ice Cream Cone,152
 gift-100003,Strawberry Custard Cheesecake,546
@@ -521,7 +522,7 @@ gift-100005,Mulan Tea,22
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,3948
+gift-200001,Combat Report,4017
 gift-200003,Beer on Discount,21
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,60
