@@ -1,23 +1,23 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,382
+item-10,Dummy Core,620
 item-31,Basic Training Data,3777
-item-32,Intermediate Training Data,5776
+item-32,Intermediate Training Data,6370
 item-33,Advanced Training Data,6441
 -1,kalina_level,28
--1,kalina_favor,88468
-item-1,T-Doll Contract,549
+-1,kalina_favor,88493
+item-1,T-Doll Contract,247
 item-2,Equipment Contract,353
-item-3,Quick Production Contract,392
-item-4,Quick Repair Contract,6128
+item-3,Quick Production Contract,100
+item-4,Quick Repair Contract,6133
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,5
 item-8,Quick Training Contract,123
-item-9,Enhancement Capsule,1634
+item-9,Enhancement Capsule,1624
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,290
-item-15,Pure Sample,21
+item-14,Original Sample,670
+item-15,Pure Sample,170
 item-16,Quick Analysis Contract,59
 item-17,Data Patch,365
 item-41,Token,554
@@ -42,14 +42,14 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,0
-item-506,Battery,9558
-item-507,Surplus EXP,12834
-item-508,Friendship Points,7150
-item-509,Fairy Command,143
+item-506,Battery,9999
+item-507,Surplus EXP,41634
+item-508,Friendship Points,7290
+item-509,Fairy Command,158
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1250
 item-513,Dark Star Kernel,17450
-item-514,Petri Dish,5724
+item-514,Petri Dish,5816
 item-515,Basic Training Keycode,55014
 item-516,Advanced Training Keycode,11947
 item-517,Specified Equipment Contract,0
@@ -62,7 +62,7 @@ item-524,Goliath Projectile,1
 item-525,Quick Auto-Battle Contract,1297
 item-601,Infinite Surprise Dye,75
 item-602,Colorful Specified Dye,2
-item-603,Potential Energy,12
+item-603,Potential Energy,0
 item-604,Electronic Impulse,3
 item-605,Aid Commission,13
 item-606,Transfer Catalyst,270
@@ -379,9 +379,9 @@ item-9005,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,18
-item-10604,Extra Impulse,35
-item-10605,Level of Activity,360
-item-10606,Frontline Protocol Advanced Card,1360
+item-10604,Extra Impulse,36
+item-10605,Level of Activity,400
+item-10606,Frontline Protocol Advanced Card,1400
 item-100009,Crown of Respect,20
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -514,8 +514,8 @@ item-1100008,Corona Fusion,1
 item-1500009,Basic Equipment Indicator,0
 item-1500010,Accessory Equipment Indicator,0
 item-1500013,Guaranteed T-Doll Indicator,0
-item-1500030,5-Star T-Doll Transfer Letter,0
 item-1500014,Frontline Protocol - Extra Prize,0
+item-1500030,5-Star T-Doll Transfer Letter,0
 gift-100001,Lollipop,263
 gift-100002,Ice Cream Cone,152
 gift-100003,Strawberry Custard Cheesecake,546
@@ -523,7 +523,7 @@ gift-100005,Mulan Tea,22
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,7696
+gift-200001,Combat Report,7694
 gift-200003,Beer on Discount,21
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,60
