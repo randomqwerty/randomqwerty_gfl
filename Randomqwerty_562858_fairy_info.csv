@@ -1,14 +1,14 @@
 ﻿ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Talent,Skill,Locked
 34213,15,★★★★★,3000,100,Command Fairy,36.0,0.0,32.0,8.0,0,Fervor,2,Locked
+34246,7,★★★★★,3000,100,Sniper Fairy,0.0,88.0,28.0,15.0,0,Fervor,10,Locked
 34824,9,★★★★★,3000,100,Airstrike Fairy,30.0,50.0,40.0,10.0,0,Damage I,10,Locked
 42187,17,★★★★★,3000,100,Illumination Fairy,0.0,90.0,32.0,8.0,0,Fervor,10,Locked
 48588,2,★★★★★,3000,100,Fury Fairy,15.0,0.0,40.0,10.0,0,Critical II,8,Locked
 52650,16,★★★★★,3000,100,Rescue Fairy,32.0,80.0,64.0,0.0,0,Damage II,10,Locked
-59572,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
 68770,8,★★★★★,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0,Fervor,2,Locked
 69327,6,★★★★★,3000,100,Taunt Fairy,18.0,58.0,28.0,8.0,0,Fervor,10,Locked
 112532,1007,★★★★★,550,100,Anna Graem,25.0,30.0,65.0,8.0,0,Damage I,1,Locked
-142526,13,★★,100,20,Rocket Fairy,0.0,14.5,0.0,7.5,0,Aim,7,Locked
+142526,13,★★,100,22,Rocket Fairy,0.0,14.5,0.0,7.5,0,Aim,7,Locked
 177326,3,★★★★★,3000,100,Armor Fairy,22.0,0.0,0.0,25.0,0,Armor II,10,Locked
 189206,19,★,0,1,Cooking Fairy,1.2,2.4,9.2,2.4,0,Evasion I,1,Locked
 189766,1,★★★★★,3000,100,Warrior Fairy,25.0,80.0,40.0,10.0,0,Fervor,10,Locked
@@ -38,7 +38,6 @@
 522764,5,★,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0,Damage II,1,Locked
 531612,10,★,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,0,Suppression,1,Locked
 532223,6,★★★★★,3000,100,Taunt Fairy,18.0,58.0,28.0,8.0,0,Damage II,10,Locked
-533045,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
 537884,10,★,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,0,Fervor,1,Locked
 540877,10,★,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,0,Sturdy,1,Locked
 549294,5,★,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0,Charge,1,Locked
@@ -50,10 +49,8 @@
 569574,27,★★★,200,40,Auspicious Fairy,7.2,27.0,35.4,0.0,0,Auspicious Type,1,Locked
 572145,23,★,0,1,Combo Fairy,6.4,18.8,0.0,0.0,0,Fervor,1,Locked
 572604,10,★,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,0,Assault,1,Locked
-578380,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Assault,10,Locked
 599327,1005,★,0,1,Sehra & Nina,2.8,8.0,10.0,0.0,0,Accuracy I,1,Locked
 602130,1004,★,0,1,Suee,0.0,0.0,14.0,3.6,0,Aim,1,Locked
-619205,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage I,10,Locked
 622618,13,★,0,1,Rocket Fairy,0.0,10.0,0.0,5.2,0,Damage II,1,Locked
 637983,13,★,0,1,Rocket Fairy,0.0,10.0,0.0,5.2,0,Evasion I,1,Locked
 637999,23,★,0,1,Combo Fairy,6.4,18.8,0.0,0.0,0,Sturdy,1,Locked
@@ -62,21 +59,17 @@
 674433,10,★,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,0,Evasion II,1,Locked
 675169,5,★,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0,Accuracy I,1,Locked
 675170,10,★,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,0,Fervor,1,Locked
-678953,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
 683778,5,★,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0,Evasion I,1,Locked
 687196,5,★,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0,Charge,1,Locked
 687397,5,★,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0,Fervor,1,Locked
 688118,10,★,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,0,Accuracy I,1,Locked
-688616,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
 691069,5,★,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0,Armor I,1,Locked
-695403,28,★★★★★,550,100,Sand Dancer Fairy,30.0,30.0,60.0,0.0,0,Fervor,10,Locked
 695404,28,★,0,1,Sand Dancer Fairy,5.2,5.6,11.2,0.0,0,Duststorm Type,1,Locked
 698299,23,★,0,1,Combo Fairy,6.4,18.8,0.0,0.0,0,Suppression,1,Locked
 702631,14,★,0,1,Construction Fairy,3.6,12.0,9.6,2.4,0,Evasion I,1,Locked
 703279,5,★,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0,Armor I,1,Locked
 724297,5,★,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0,Critical II,1,Locked
 724301,5,★,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0,Critical II,1,Locked
-744534,11,★★★,555,100,Parachute Fairy,21.6,0.0,19.2,4.8,0,Charge,10,Locked
 748652,11,★,0,6,Parachute Fairy,6.4,0.0,5.6,1.6,0,Sturdy,10,Locked
 748655,11,★,70,21,Parachute Fairy,7.6,0.0,6.8,1.6,0,Evasion I,10,Locked
 751096,17,★★★★,1500,100,Illumination Fairy,0.0,72.0,25.6,6.4,0,Damage I,10,Locked
@@ -91,135 +84,19 @@
 813556,30,★,0,1,Witch Fairy,5.6,8.0,8.0,0.0,0,Sturdy,1,Locked
 825843,30,★,0,1,Witch Fairy,5.6,8.0,8.0,0.0,0,Keen,1,Locked
 825844,30,★,0,1,Witch Fairy,5.6,8.0,8.0,0.0,0,Witchcraft,1,Locked
-855478,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Evasion II,1,
-855586,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Evasion II,1,
-855676,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Evasion II,1,
-857377,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Evasion II,1,
-857825,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Evasion II,1,
-860301,2,★,0,1,Fury Fairy,2.8,0.0,8.0,2.0,0,Evasion II,1,
-861783,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Evasion II,1,
-861884,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Evasion II,1,
-862103,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Evasion II,1,
-862550,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Evasion II,1,
-862843,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,0,Keen,1,
-862845,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Evasion II,1,
-863063,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Aim,1,
-863335,15,★,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Keen,1,
-863340,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Aim,1,
-863643,15,★,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Assault,1,
-863928,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,0,Accuracy II,1,
-863929,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,0,Evasion II,1,
-863930,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Assault,1,
-863931,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Aim,1,
-863933,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Accuracy II,1,
-864238,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Aim,1,
-864241,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Critical I,1,
-864443,3,★,0,1,Armor Fairy,4.4,0.0,0.0,5.2,0,Evasion II,1,
-864447,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Accuracy II,1,
-864731,15,★,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Critical I,1,
-864732,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Assault,1,
-864829,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Keen,1,
-864956,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Keen,1,
-864999,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Critical I,1,
-865363,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Critical I,1,
-865365,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Keen,1,
-865367,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Critical I,1,
-865368,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,0,Keen,1,
-865644,3,★,0,1,Armor Fairy,4.4,0.0,0.0,5.2,0,Critical I,1,
-865691,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Aim,1,
-865717,2,★,0,1,Fury Fairy,2.8,0.0,8.0,2.0,0,Accuracy II,1,
-865982,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Keen,1,
-866026,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Aim,1,
-866153,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Aim,1,
-866238,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0,Critical I,1,
-866306,15,★,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Keen,1,
-866355,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Critical I,1,
-866358,3,★,0,1,Armor Fairy,4.4,0.0,0.0,5.2,0,Critical I,1,
-866387,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Assault,1,
-866723,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Keen,1,
-866724,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Keen,1,
-866727,15,★,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Evasion II,1,
-866728,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Aim,1,
-866954,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Critical I,1,
-866957,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,0,Assault,1,
-867075,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Keen,1,
-867177,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Accuracy II,1,
-867255,15,★,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Aim,1,
-867282,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Evasion II,1,
-867519,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Assault,1,
-867605,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,0,Critical I,1,
-867612,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Armor I,1,
-867624,2,★,0,1,Fury Fairy,2.8,0.0,8.0,2.0,0,Aim,1,
-867668,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,0,Aim,1,
-867757,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Keen,1,
-867758,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Aim,1,
-867823,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Keen,1,
-868151,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Critical I,1,
-868152,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Evasion I,1,
-868153,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Keen,1,
-868154,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Critical I,1,
-868155,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Charge,1,
-868156,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Accuracy I,1,
-868157,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Critical I,1,
-868338,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Suppression,1,
-868366,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,0,Evasion I,1,
-868392,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Charge,1,
-868426,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Accuracy I,1,
-868460,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Accuracy II,1,
-868491,15,★,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Damage II,1,
-868492,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Evasion II,1,
-868563,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,0,Armor II,1,
-868567,3,★,0,1,Armor Fairy,4.4,0.0,0.0,5.2,0,Critical I,1,
-868657,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Armor II,1,
-868685,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Accuracy I,1,
-868686,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Charge,1,
-868691,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Damage I,1,
-868827,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Assault,1,
-868828,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Keen,1,
-868934,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Damage II,1,
-868935,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Keen,1,
-868969,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Damage I,1,
-869042,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Accuracy II,1,
-869043,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Damage II,1,
-869125,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Armor I,1,
-869129,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,0,Aim,1,
-869130,3,★,0,1,Armor Fairy,4.4,0.0,0.0,5.2,0,Armor I,1,
-869153,15,★,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Charge,1,
-869202,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Accuracy I,1,
-869223,2,★,0,1,Fury Fairy,2.8,0.0,8.0,2.0,0,Accuracy I,1,
-869279,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Assault,1,
-869330,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Accuracy II,1,
-869373,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Charge,1,
-869714,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Armor II,1,
-869715,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Evasion I,1,
-869716,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Suppression,1,
-869717,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Accuracy I,1,
-869718,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,0,Damage I,1,
-869719,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Assault,1,
-869720,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Charge,1,
-869942,3,★,0,1,Armor Fairy,4.4,0.0,0.0,5.2,0,Armor I,1,
-869943,3,★,0,1,Armor Fairy,4.4,0.0,0.0,5.2,0,Accuracy II,1,
-869958,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,0,Accuracy II,1,
-869959,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,0,Armor II,1,
-869996,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Suppression,1,
-870071,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Aim,1,
-870147,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Suppression,1,
-878975,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Sturdy,1,
-878976,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0,Evasion I,1,
-878977,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Suppression,1,
-878978,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Aim,1,
-887246,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Accuracy I,1,
-887247,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Charge,1,
-887248,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Evasion I,1,
-887249,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Suppression,1,
-888392,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Damage II,10,
-888562,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Assault,10,
-888563,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Fervor,10,
-888856,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Armor I,1,
-889483,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Accuracy I,1,
+896547,31,★,0,1,Trap Fairy,5.6,12.0,0.0,0.0,0,Aim,1,Locked
+897788,31,★,0,1,Trap Fairy,5.6,12.0,0.0,0.0,0,Suppression,1,
+897789,31,★,0,1,Trap Fairy,5.6,12.0,0.0,0.0,0,Fervor,1,
 444653,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
-34246,7,★★★★★,3000,100,Sniper Fairy,0.0,88.0,28.0,15.0,0,Fervor,10,Locked
+319012,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
+678953,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
+59572,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
+578380,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Assault,10,Locked
+462003,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
+744534,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
+619205,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage I,10,Locked
+533045,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
+688616,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
 680812,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
 585171,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Armor II,10,Locked
-462003,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
-319012,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
+695403,28,★★★★★,550,100,Sand Dancer Fairy,30.0,30.0,60.0,0.0,0,Fervor,10,Locked
