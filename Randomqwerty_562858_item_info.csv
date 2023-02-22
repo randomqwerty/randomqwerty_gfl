@@ -1,33 +1,33 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,184
+item-10,Dummy Core,200
 item-31,Basic Training Data,4225
-item-32,Intermediate Training Data,3666
+item-32,Intermediate Training Data,4260
 item-33,Advanced Training Data,1758
 -1,kalina_level,28
--1,kalina_favor,90588
-item-1,T-Doll Contract,518
-item-2,Equipment Contract,491
-item-3,Quick Production Contract,424
-item-4,Quick Repair Contract,5930
+-1,kalina_favor,90633
+item-1,T-Doll Contract,527
+item-2,Equipment Contract,511
+item-3,Quick Production Contract,432
+item-4,Quick Repair Contract,5931
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,5
 item-8,Quick Training Contract,104
-item-9,Enhancement Capsule,1883
-item-11,Key Card,2
-item-12,Points,0
-item-14,Original Sample,260
-item-15,Pure Sample,495
-item-16,Quick Analysis Contract,0
-item-17,Data Patch,440
-item-41,Token,218
+item-9,Enhancement Capsule,1880
+item-11,Key Card,0
+item-12,Points,20
+item-14,Original Sample,410
+item-15,Pure Sample,355
+item-16,Quick Analysis Contract,5
+item-17,Data Patch,441
+item-41,Token,223
 item-42,Exchange Ticket,0
 item-43,Black Card,24
-item-44,Calibration Ticket,30
+item-44,Calibration Ticket,40
 item-45,Memory Fragment,9529
 item-46,Special Combat Report,15823
-item-47,Theater Material,0
-item-50,Universal Parts,1719
+item-47,Theater Material,2690
+item-50,Universal Parts,1729
 item-51,New Type Fire-Control Component,45
 item-53,Gachapon Ticket,45
 item-100,Elite Griffin Combat Medal,10
@@ -44,27 +44,27 @@ item-304,Central Data: M2,0
 item-306,Central Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Central Data: PP93,0
-item-506,Battery,9154
-item-507,Surplus EXP,77279
-item-508,Friendship Points,18040
-item-509,Fairy Command,150
+item-506,Battery,8921
+item-507,Surplus EXP,2519
+item-508,Friendship Points,18230
+item-509,Fairy Command,168
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1330
 item-513,Dark Star Kernel,15800
-item-514,Petri Dish,5559
-item-515,Basic Training Keycode,50134
-item-516,Advanced Training Keycode,10949
+item-514,Petri Dish,5651
+item-515,Basic Training Keycode,49034
+item-516,Advanced Training Keycode,10749
 item-517,Specified Equipment Contract,0
-item-519,HOC General Data,260
+item-519,HOC General Data,261
 item-520,Frag Grenade,7
 item-521,Stun Grenade,37
 item-522,Turret,21
 item-523,G&K,1
 item-524,Goliath Projectile,1
-item-525,Quick Auto-Battle Contract,1532
+item-525,Quick Auto-Battle Contract,1537
 item-601,Infinite Surprise Dye,85
 item-602,Colorful Specified Dye,2
-item-603,Potential Energy,12
+item-603,Potential Energy,0
 item-604,Electronic Impulse,0
 item-605,Aid Commission,22
 item-606,Transfer Catalyst,270
@@ -381,7 +381,7 @@ item-6005,Comfort Bucket for One,15
 item-6006,Full Meal for Two,6
 item-6007,Strawberry Cheesecake Slice,81
 item-6008,One Week's Cake Selection,75
-item-6009,Sweet Explosives,41
+item-6009,Sweet Explosives,42
 item-6010,"Baby  B-A-B-Y.",68
 item-6011,Streetside Oden,77
 item-6012,Wild Honeycomb,67
@@ -400,8 +400,8 @@ item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,18
 item-10604,Extra Impulse,62
-item-10605,Level of Activity,100
-item-10606,Frontline Protocol Advanced Card,570
+item-10605,Level of Activity,170
+item-10606,Frontline Protocol Advanced Card,660
 item-100009,Crown of Respect,20
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -554,7 +554,7 @@ gift-100005,Mulan Tea,22
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,2104
+gift-200001,Combat Report,2131
 gift-200003,Beer on Discount,21
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,60
