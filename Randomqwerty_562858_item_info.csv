@@ -1,33 +1,33 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,439
+item-10,Dummy Core,459
 item-31,Basic Training Data,5305
-item-32,Intermediate Training Data,10251
-item-33,Advanced Training Data,2736
+item-32,Intermediate Training Data,10311
+item-33,Advanced Training Data,2948
 -1,kalina_level,28
 -1,kalina_favor,91033
-item-1,T-Doll Contract,654
-item-2,Equipment Contract,565
-item-3,Quick Production Contract,523
-item-4,Quick Repair Contract,6028
+item-1,T-Doll Contract,672
+item-2,Equipment Contract,586
+item-3,Quick Production Contract,534
+item-4,Quick Repair Contract,6053
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,5
 item-8,Quick Training Contract,117
 item-9,Enhancement Capsule,2151
-item-11,Key Card,17
+item-11,Key Card,21
 item-12,Points,0
-item-14,Original Sample,10
-item-15,Pure Sample,17
+item-14,Original Sample,100
+item-15,Pure Sample,46
 item-16,Quick Analysis Contract,2
 item-17,Data Patch,471
-item-41,Token,456
+item-41,Token,482
 item-42,Exchange Ticket,0
 item-43,Black Card,24
 item-44,Calibration Ticket,160
 item-45,Memory Fragment,9889
 item-46,Special Combat Report,13313
 item-47,Theater Material,4
-item-50,Universal Parts,1529
+item-50,Universal Parts,1535
 item-51,New Type Fire-Control Component,48
 item-53,Gachapon Ticket,45
 item-100,Elite Griffin Combat Medal,10
@@ -35,7 +35,7 @@ item-101,Combat Ranking Medal,129
 item-103,Challenger Medal,30
 item-104,Elite Adventurer Medal,7
 item-105,Sangvis-Griffin Coalition Medal,10
-item-106,Chess Champion Medal,295
+item-106,Chess Champion Medal,300
 item-107,Wind-Calmer's Medal,1
 item-108,Hell-Walker's Medal,10
 item-109,8th Theater Pioneer Medal,1
@@ -46,10 +46,10 @@ item-306,Central Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Central Data: PP93,0
 item-309,Central Data: Mk 47,5
-item-506,Battery,9121
-item-507,Surplus EXP,45511
-item-508,Friendship Points,20580
-item-509,Fairy Command,200
+item-506,Battery,9200
+item-507,Surplus EXP,52903
+item-508,Friendship Points,20730
+item-509,Fairy Command,192
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1350
 item-513,Dark Star Kernel,16475
@@ -57,13 +57,13 @@ item-514,Petri Dish,6239
 item-515,Basic Training Keycode,21114
 item-516,Advanced Training Keycode,11997
 item-517,Specified Equipment Contract,0
-item-519,HOC General Data,268
+item-519,HOC General Data,269
 item-520,Frag Grenade,7
 item-521,Stun Grenade,37
 item-522,Turret,21
 item-523,G&K,1
 item-524,Goliath Projectile,1
-item-525,Quick Auto-Battle Contract,1563
+item-525,Quick Auto-Battle Contract,1568
 item-601,Infinite Surprise Dye,89
 item-602,Colorful Specified Dye,2
 item-603,Potential Energy,12
@@ -373,10 +373,10 @@ item-2140,Breeze in a Summer Afternoon,1
 item-2142,The Sky is the Limit,1
 item-2174,ID: Power Struggle,1
 item-2224,ID Card: Fixed Point,1
-item-4001,City's Gift,44669
-item-4002,Snowfield's Gift,12409
-item-4003,Forest's Gift,12681
-item-4004,Wasteland's Gift,7385
+item-4001,City's Gift,44745
+item-4002,Snowfield's Gift,12790
+item-4003,Forest's Gift,12757
+item-4004,Wasteland's Gift,7724
 item-6001,Ordinary Meat Bun,115
 item-6002,Bundle of Meat Buns,114
 item-6003,Trove of Meat Buns,128
@@ -384,8 +384,8 @@ item-6004,Commonfolk Standard,60
 item-6005,Comfort Bucket for One,15
 item-6006,Full Meal for Two,16
 item-6007,Strawberry Cheesecake Slice,83
-item-6008,One Week's Cake Selection,55
-item-6009,Sweet Explosives,45
+item-6008,One Week's Cake Selection,53
+item-6009,Sweet Explosives,46
 item-6010,"Baby  B-A-B-Y.",69
 item-6011,Streetside Oden,78
 item-6012,Wild Honeycomb,69
@@ -404,8 +404,8 @@ item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,15
 item-10604,Extra Impulse,79
-item-10605,Level of Activity,0
-item-10606,Frontline Protocol Advanced Card,1290
+item-10605,Level of Activity,100
+item-10606,Frontline Protocol Advanced Card,1430
 item-100009,Crown of Respect,20
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -550,6 +550,7 @@ item-1500010,Accessory Equipment Indicator,0
 item-1500013,Guaranteed T-Doll Indicator,0
 item-1500014,Frontline Protocol - Extra Prize,0
 item-1500016,Frontline Protocol - Extra Prize,0
+item-1500020,Frontline Protocol - Extra Prize,0
 item-1500030,5-Star T-Doll Transfer Letter,0
 gift-100001,Lollipop,282
 gift-100002,Ice Cream Cone,159
@@ -558,7 +559,7 @@ gift-100005,Mulan Tea,22
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,5871
+gift-200001,Combat Report,5890
 gift-200003,Beer on Discount,21
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,60
