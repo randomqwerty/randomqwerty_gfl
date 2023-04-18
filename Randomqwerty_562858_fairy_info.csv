@@ -28,6 +28,7 @@
 457274,22,★★★★★,550,100,Beach Fairy,32.0,0.0,40.0,0.0,0,Damage II,10,Locked
 457275,22,★,0,1,Beach Fairy,3.2,0.0,4.0,0.0,0,Cool,2,Locked
 457276,22,★★★★★,550,100,Beach Fairy,32.0,0.0,40.0,0.0,0,Fervor,10,Locked
+462003,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
 500787,24,★★★★★,3000,100,Barrier Fairy,0.0,72.0,32.0,22.0,0,Damage I,2,Locked
 518442,5,★,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0,Keen,1,Locked
 518443,10,★,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,0,Armor II,1,Locked
@@ -99,7 +100,6 @@
 938563,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Keen,1,
 942970,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0,Damage I,1,
 946417,3,★,0,1,Armor Fairy,4.4,0.0,0.0,5.2,0,Sturdy,1,
-946418,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Suppression,1,
 946419,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0,Armor II,1,
 946420,14,★,0,1,Construction Fairy,3.6,12.0,9.6,2.4,0,Fervor,1,Locked
 946421,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Sturdy,1,
@@ -127,9 +127,14 @@
 984019,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Keen,1,
 984864,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Critical I,1,
 985120,2,★,0,1,Fury Fairy,2.8,0.0,8.0,2.0,0,Accuracy I,1,
+985342,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Accuracy I,1,
+986305,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Assault,1,
+986643,15,★,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Evasion I,1,
+986773,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Armor I,1,
+988866,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Damage I,1,
+988988,14,★,0,1,Construction Fairy,3.6,12.0,9.6,2.4,0,Suppression,1,
 52650,16,★★★★★,3000,100,Rescue Fairy,32.0,80.0,64.0,0.0,0,Damage II,10,Locked
 533045,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
-462003,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
-751096,17,★★★★,1500,100,Illumination Fairy,0.0,72.0,25.6,6.4,0,Damage I,10,Locked
+751096,17,★★★★,1600,100,Illumination Fairy,0.0,72.0,25.6,6.4,0,Damage I,10,Locked
 748652,11,★,0,28,Parachute Fairy,8.0,0.0,7.6,2.0,0,Sturdy,10,Locked
 252675,20,★★★,200,72,Fireworks Fairy,15.6,36.0,15.6,3.6,0,Splendor,1,Locked
