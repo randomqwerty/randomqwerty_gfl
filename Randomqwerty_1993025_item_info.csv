@@ -1,53 +1,54 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2020-06-17 19:45:24
-item-10,Dummy Core,388
-item-31,Basic Training Data,7009
-item-32,Intermediate Training Data,11594
-item-33,Advanced Training Data,12539
+item-10,Dummy Core,568
+item-31,Basic Training Data,8809
+item-32,Intermediate Training Data,8424
+item-33,Advanced Training Data,11659
 -1,kalina_level,13
--1,kalina_favor,4952
-item-1,T-Doll Contract,505
-item-2,Equipment Contract,471
-item-3,Quick Production Contract,7
-item-4,Quick Repair Contract,893
-item-8,Quick Training Contract,26
-item-9,Enhancement Capsule,706
+-1,kalina_favor,6637
+item-1,T-Doll Contract,541
+item-2,Equipment Contract,512
+item-3,Quick Production Contract,96
+item-4,Quick Repair Contract,952
+item-7,Oath Certificate,0
+item-8,Quick Training Contract,0
+item-9,Enhancement Capsule,624
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,2790
-item-15,Pure Sample,550
-item-16,Quick Analysis Contract,18
+item-14,Original Sample,2890
+item-15,Pure Sample,110
+item-16,Quick Analysis Contract,3
 item-17,Data Patch,2
-item-41,Token,401
+item-41,Token,410
 item-42,Exchange Ticket,0
-item-44,Calibration Ticket,3467
-item-45,Memory Fragment,3220
+item-44,Calibration Ticket,3257
+item-45,Memory Fragment,3300
 item-46,Special Combat Report,2051
-item-50,Universal Parts,2555
-item-51,New Type Fire-Control Component,12
+item-50,Universal Parts,2419
+item-51,New Type Fire-Control Component,15
 item-105,Sangvis-Griffin Coalition Medal,2
-item-301,Central Data: BGM-71,2
+item-301,Central Data: BGM-71,3
 item-302,Central Data: AGS-30,4
 item-303,Central Data: 2B14,0
 item-304,Central Data: M2,3
-item-305,Central Data: AT4,3
-item-306,Central Data: QLZ-04,1
-item-307,Central Data: Mk 153,0
-item-506,Battery,1562
-item-507,Surplus EXP,109070
-item-508,Friendship Points,1500
-item-509,Fairy Command,80
+item-305,Central Data: AT4,6
+item-306,Central Data: QLZ-04,2
+item-307,Central Data: Mk 153,1
+item-506,Battery,722
+item-507,Surplus EXP,187080
+item-508,Friendship Points,2320
+item-509,Fairy Command,95
 item-512,Supernova Kernel,200
 item-513,Dark Star Kernel,30900
-item-514,Petri Dish,1149
+item-514,Petri Dish,311
 item-515,Basic Training Keycode,6594
 item-516,Advanced Training Keycode,6535
 item-517,Specified Equipment Contract,30
-item-519,HOC General Data,4
-item-525,Quick Auto-Battle Contract,53
+item-519,HOC General Data,6
+item-525,Quick Auto-Battle Contract,63
 item-601,Infinite Surprise Dye,4
 item-603,Potential Energy,12
-item-604,Electronic Impulse,14
+item-604,Electronic Impulse,8
 item-605,Aid Commission,41
 item-606,Transfer Catalyst,30
 item-1001,AAT-52 Icon,1
@@ -75,30 +76,32 @@ item-2016,Icon: Best Partner,1
 item-2017,Icon: Setting Sail,1
 item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
-item-4001,City's Gift,19108
-item-4002,Snowfield's Gift,6396
-item-4003,Forest's Gift,22156
-item-4004,Wasteland's Gift,1455
-item-6001,Ordinary Meat Bun,23
-item-6002,Bundle of Meat Buns,25
+item-4001,City's Gift,17491
+item-4002,Snowfield's Gift,1773
+item-4003,Forest's Gift,22750
+item-4004,Wasteland's Gift,61
+item-6001,Ordinary Meat Bun,25
+item-6002,Bundle of Meat Buns,26
 item-6003,Trove of Meat Buns,33
-item-6004,Commonfolk Standard,16
-item-6005,Comfort Bucket for One,12
+item-6004,Commonfolk Standard,17
+item-6005,Comfort Bucket for One,13
 item-6006,Full Meal for Two,23
 item-6007,Strawberry Cheesecake Slice,16
-item-6008,One Week's Cake Selection,13
-item-6009,Sweet Explosives,42
-item-6010,"Baby  B-A-B-Y.",20
+item-6008,One Week's Cake Selection,14
+item-6009,Sweet Explosives,44
+item-6010,"Baby  B-A-B-Y.",21
 item-6011,Streetside Oden,28
-item-6012,Wild Honeycomb,23
-item-6013,Icy Theater,17
+item-6012,Wild Honeycomb,24
+item-6013,Icy Theater,19
 item-8001,Intel Points,2910
 item-8002,Intel Points,0
 item-8003,Intel Points,16
 item-10603,Extra Potential Energy,27
 item-10604,Extra Impulse,53
-item-10605,Level of Activity,160
-item-10606,Frontline Protocol Advanced Card,0
+item-10605,Level of Activity,0
+item-10606,Frontline Protocol Advanced Card,125
+item-10702,item-10010702,290
+item-10703,item-10010703,90
 item-100062,Jade Coffer,0
 item-100077,Supply Box - Mirror Stage,12
 item-100078,Nova Medal - Mirror Stage,2
@@ -122,6 +125,7 @@ item-100125,Platinum Medal - One Coin Short,19
 item-100138,item-10100138,0
 item-100139,item-10100139,0
 item-100159,item-10100159,60
+item-100185,item-10100185,3
 item-110036,Event Points,10
 item-110038,Event Points,960
 item-110040,Event Points,10
@@ -139,8 +143,9 @@ gift-6903,Waltz of Fantasy,1
 gift-100001,Lollipop,84
 gift-100002,Ice Cream Cone,22
 gift-100003,Strawberry Custard Cheesecake,52
-gift-200001,Combat Report,8703
-gift-400001,Rapid Growth Disk,2862
+gift-200001,Combat Report,9484
+gift-400001,Rapid Growth Disk,871
+gift-200012,gift_item-10200012,1
 furniture-10100,Dusty Workbench,0
 furniture-10200,Dusty Cat Bed,0
 furniture-10300,Dusty Doghouse,0
@@ -153,10 +158,10 @@ furniture-20404,Messy Data Table,4
 furniture-20504,Ancient Computer,4
 furniture-20604,Ancient Fax Machine,4
 furniture-20700,Bookshelf of Memories,0
-furniture-30103,Mountain Fort,3
-furniture-30202,Rural Railway Model,2
-furniture-30302,Temporary Warehouse Model,2
-furniture-30402,Cloudy Weather System,2
+furniture-30104,Mountain Fort,4
+furniture-30203,Rural Railway Model,3
+furniture-30303,Temporary Warehouse Model,3
+furniture-30403,Cloudy Weather System,3
 furniture-40023,Cafe Bar Coffee Machine,0
 furniture-40024,Gramophone,0
 furniture-40026,Notebook,0
@@ -182,7 +187,7 @@ furniture-70010,furniture_establish-10070010,0
 furniture-70100,Elevator - To the garage,0
 furniture-80007,Real Time Relay Terminal,0
 furniture-80011,Black Market Shop,0
-furniture-80108,Automated Gate Console,8
+furniture-80109,Automated Gate Console,9
 furniture-80306,Advanced Loot Rack,6
 furniture-90110,Impulse Reactor,10
 furniture-90205,Tactical Chip Research Station,5
