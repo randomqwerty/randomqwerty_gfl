@@ -17,6 +17,7 @@
 49322488,54,AR,★★★★,M16A1,100,3263300,-,-,x5,,605,605,47,46,44,75,10,0,0,20,1,0,,,,100,,,Locked
 49940625,197,RF,★★★★★,Carcano M1891,100,3263300,-,-,x5,,400,400,138,85,42,34,7,0,0,40,10,0,,,,150,Oathed,2020-03-16 21:00,Locked
 50263371,257,RF,★★★★★,M200,100,3263300,-,-,x5,,440,440,145,96,31,34,7,0,0,40,10,0,,,,100,,,Locked
+50490072,20008,HG,★★★★,Makarov Mod,110,5604253,0,0,x5,Mod2,335,335,29,63,102,61,15,0,0,20,10,10,,,,100,,,Locked
 50829807,96,HG,★★★★★,Grizzly,100,3263300,-,-,x5,,430,430,38,51,66,54,15,0,0,20,10,0,,,,100,,,Locked
 50842073,16,SMG,★★★★★,Thompson,100,3263300,-,-,x5,,1190,1190,31,12,56,82,12,0,0,5,10,0,,,,100,,,Locked
 50871904,20001,HG,★★★★★,SAA Mod,115,10083300,-,-,x5,Mod2,410,410,37,50,79,50,15,0,0,20,10,10,,,,100,,,Locked
@@ -56,7 +57,7 @@
 68729092,36,RF,★★★★,Springfield,100,3263300,-,-,x5,,420,420,128,72,40,32,7,0,0,40,1,0,,,,100,,,Locked
 70613842,1022,SG,★★★★★,Dana Zane,100,3263300,-,-,x5,,1345,1345,38,15,13,26,6,22,1,40,1,0,,,,100,,,Locked
 70788646,1018,HG,★★★★★,Sei Asagiri,100,3263300,-,-,x5,,425,425,30,59,77,53,15,0,0,20,10,0,,,,100,,,Locked
-70977880,1017,HG,★★★★★,Jill Stingray,100,3263300,-,-,x5,,400,400,30,53,96,55,15,0,0,20,10,0,,,,100,,,Locked
+70977880,1017,HG,★★★★★,Jill Stingray,100,3263300,-,-,x5,,400,400,30,53,96,55,15,0,0,20,10,0,Flanergide,Bronson Extract,Karmotrine,100,,,Locked
 72029960,1021,MG,★★★★★,Alma Armas,100,3263300,-,-,x5,,975,975,89,31,23,129,4,0,9,5,1,0,,,,100,,,Locked
 72029987,1019,SMG,★★★★★,Dorothy Haze,100,3263300,-,-,x5,,880,880,28,15,87,79,12,0,0,5,10,0,,,,100,,,Locked
 72369341,1020,RF,★★★★★,Stella Hoshii,100,3263300,-,-,x5,,450,450,117,84,36,35,7,0,0,40,8,0,,,,100,,,Locked
@@ -145,6 +146,7 @@
 147637202,282,SG,★★★★★,DP-12,100,3263300,-,-,x5,,1265,1265,31,13,13,30,6,23,5,40,10,0,,,,100,,,Locked
 148407253,276,MG,★★★★★,Kord,100,3263300,-,-,x5,,990,990,109,22,21,110,4,0,9,5,10,0,,,,100,,,Locked
 152144835,1028,SMG,★★★★★,Agent Vector,100,3263300,-,-,x5,,925,925,30,11,71,101,12,0,0,5,10,0,,,,100,,,Locked
+152362472,1029,AR,★★★★★,Agent 416,100,3263300,-,-,x5,,605,605,51,46,44,76,10,0,0,20,8,0,ACOG (4X),556 High-Velocity Ammo (Explosive),416's Go-Bag,100,,,Locked
 154710082,20061,AR,★★★★,StG44 Mod,110,5263300,0,0,x5,Mod2,645,645,57,49,37,65,10,0,0,20,1,1,,,,100,,,Locked
 155174525,20012,HG,★★★★,C96 Mod,110,5263300,-,-,x5,Mod1,420,420,31,51,69,63,15,0,0,20,1,0,,,,100,,,Locked
 156459804,307,MG,★★★★★,ZB-26,100,3263300,-,-,x5,,910,910,100,30,31,116,4,0,9,5,1,0,,,,100,,,Locked
@@ -275,7 +277,7 @@
 202296027,368,SG,★★★★,UTS-15,100,3263300,-,-,x5,,1155,1155,40,16,17,27,6,20,5,40,8,0,,,,100,,,Locked
 202394404,103,SMG,★★★★,UMP45,1,0,0,0,x1,,93,93,11,2,10,57,12,0,0,5,1,0,,,,100,,,Locked
 202394406,103,SMG,★★★★,UMP45,11,6000,0,0,x2,,204,204,13,4,17,60,12,0,0,5,1,0,,,,100,,,Locked
-202394534,115,SMG,★★★★★,Suomi,97,2895960,0,0,x5,,1085,1085,28,14,55,92,12,0,0,5,10,0,,,,100,,,Locked
+202394534,115,SMG,★★★★★,Suomi,97,2898960,0,0,x5,,1085,1085,28,14,55,92,12,0,0,5,10,0,,,,100,,,Locked
 202394803,257,RF,★★★★★,M200,1,0,0,0,x1,,44,44,49,11,4,22,7,0,0,40,1,0,,,,100,,,
 202394839,46,RF,★★★★★,Kar98k,100,3263300,-,-,x5,,420,420,135,78,41,34,7,0,0,40,8,0,,,,100,,,Locked
 202397964,100,HG,★★★★,P7,90,1977450,0,0,x5,,300,300,30,57,76,60,15,0,0,20,1,0,,,,100,,,Locked
@@ -296,12 +298,12 @@
 204344742,368,SG,★★★★,UTS-15,1,0,0,0,x1,,116,116,14,2,2,18,6,3,5,40,1,0,,,,100,,,Locked
 204431212,212,HG,★★★★,K5,1,0,0,0,x1,,33,33,11,7,11,43,15,0,0,40,1,0,,,,100,,,Locked
 204471033,212,HG,★★★★,K5,1,0,0,0,x1,,33,33,11,7,11,43,15,0,0,40,1,0,,,,100,,,Locked
-204490365,375,HG,★★★★★,Colt Walker,100,3263300,-,-,x5,,300,300,36,60,112,57,15,0,0,20,10,0,,,,100,,,Locked
+204490365,375,HG,★★★★★,Colt Walker,100,3263300,-,-,x5,,300,300,36,60,112,57,15,0,0,20,10,0,RMR T4 Red Dot Sight,ILM Hollow-Point Ammo,,100,,,Locked
 204712503,350,SG,★★★★★,FO-12,79,1180200,0,0,x4,,916,916,27,11,9,34,6,19,5,40,1,0,,,,100,,,Locked
 204800611,162,SG,★★★★,SPAS-12,1,0,0,0,x1,,138,138,14,2,2,23,6,3,4,40,1,0,,,,100,,,Locked
-205046737,368,SG,★★★★,UTS-15,1,0,0,0,x1,,116,116,14,2,2,18,6,3,5,40,1,0,,,,71,,,Locked
+205046737,368,SG,★★★★,UTS-15,2,187,0,0,x1,,117,117,15,3,3,19,6,3,5,40,1,0,,,,75,,,Locked
 205157694,352,SG,★★★★,Nova,1,0,0,0,x1,,132,132,11,2,2,19,6,3,7,40,1,0,,,,71,,,Locked
-205305375,366,SG,★★★★★,SPAS-15,63,511764,0,0,x1,,215,215,28,10,7,31,6,15,3,40,10,0,Type 3 Armor Plate,Shotgun Flash Shells,,58,,,Locked
+205305375,366,SG,★★★★★,SPAS-15,64,517764,0,0,x1,,216,216,28,10,7,31,6,16,3,40,10,0,Type 3 Armor Plate,Shotgun Flash Shells,,58,,,Locked
 205341987,350,SG,★★★★★,FO-12,1,0,0,0,x1,,128,128,12,2,2,25,6,3,5,40,1,0,,,,50,,,Locked
 205561440,370,HG,★★★★,P290,100,3263300,-,-,x5,,365,365,27,58,85,61,15,0,0,20,10,0,,,,100,,,Locked
 205561624,374,MG,★★★★★,M240L,100,3263300,-,-,x5,,875,875,101,34,31,128,4,0,11,5,10,0,,,,100,,,Locked
@@ -317,60 +319,51 @@
 205848118,257,RF,★★★★★,M200,1,0,0,0,x1,,44,44,49,11,4,22,7,0,0,40,1,0,,,,50,,,
 205858793,374,MG,★★★★★,M240L,1,0,0,0,x1,,88,88,34,4,4,83,4,0,11,5,1,0,,,,50,,,Locked
 205868577,373,AR,★★★★,CMR-30,1,0,0,0,x1,,54,54,17,7,6,48,10,0,0,20,1,0,,,,50,,,Locked
-205914661,367,SG,★★★★★,MK3A1,1,0,0,0,x1,,110,110,13,2,2,26,6,3,6,40,1,0,,,,50,,,Locked
+205914661,367,SG,★★★★★,MK3A1,1,0,0,0,x1,,110,110,13,2,2,26,6,3,6,40,1,0,,,,51,,,Locked
 205991414,373,AR,★★★★,CMR-30,1,0,0,0,x1,,54,54,17,7,6,48,10,0,0,20,1,0,,,,50,,,Locked
 206012869,352,SG,★★★★,Nova,1,0,0,0,x1,,132,132,11,2,2,19,6,3,7,40,1,0,,,,50,,,
-206165441,47,RF,★★,G43,1,0,0,0,x1,,40,40,41,8,4,27,7,0,0,40,1,0,,,,50,,,
-206165452,10,HG,★★,PPK,1,0,0,0,x1,,29,29,9,7,12,42,15,0,0,20,1,0,,,,50,,,
-206165459,47,RF,★★,G43,1,0,0,0,x1,,40,40,41,8,4,27,7,0,0,40,1,0,,,,50,,,
-206165462,3,HG,★★★,M9,1,0,0,0,x1,,38,38,11,8,9,42,15,0,0,20,1,0,,,,50,,,
-206165478,17,SMG,★★,M3,1,0,0,0,x1,,93,93,11,2,9,46,12,0,0,5,1,0,,,,50,,,
-206165486,94,SMG,★★,Type64,1,0,0,0,x1,,88,88,11,2,9,65,12,0,0,5,1,0,,,,50,,,
-206165495,90,HG,★★,FF FNP9,1,0,0,0,x1,,30,30,11,7,11,42,15,0,0,20,1,0,,,,50,,,
-206165502,14,HG,★★★,Astra,1,0,0,0,x1,,40,40,12,6,9,35,15,0,0,20,1,0,,,,50,,,
-206165503,24,SMG,★★,PP-2000,1,0,0,0,x1,,80,80,12,2,11,57,12,0,0,5,1,0,,,,50,,,
-53739457,20114,HG,★★★★★★,Welrod MkⅡ Mod,115,11929244,1845944,354056,x5,Mod3,405,405,31,74,97,52,15,0,0,40,10,10,S.F. Modified Tactical Light,ILM Hollow-Point Ammo,Special Ops Bag,100,,,Locked
-152362472,1029,AR,★★★★★,Agent 416,100,3263300,-,-,x5,,605,605,51,46,44,76,10,0,0,20,8,0,ACOG (4X),556 High-Velocity Ammo (Explosive),416's Go-Bag,100,,,Locked
-103214168,20095,RF,★★★★,Type88 Mod,117,16848794,1565494,2434506,x5,Mod3,520,520,117,69,39,37,7,0,0,40,10,10,Magnetic Accelerated Rounds,Acceleration Coil,Thermoptic Camouflage Cape,200,Oathed,2021-05-10 21:59,Locked
-172774236,303,HG,★★★★★,HP-35,100,3263300,-,-,x5,,380,380,31,64,89,58,15,0,0,20,10,0,S.F. Modified Tactical Light,16Lab Hollow-Point,IOP T4 Exoskeleton,100,,,Locked
-181485808,20104,SMG,★★★★★★,Gr G36c Mod,110,5441860,178560,301440,x5,Mod2,1070,1070,33,14,70,84,12,0,0,5,10,10,IOP T4 Exoskeleton,16Lab Hollow-Point,S.F. Modified Tactical Light,100,,,Locked
+206260875,366,SG,★★★★★,SPAS-15,1,0,0,0,x1,,132,132,14,2,2,24,6,3,3,40,1,0,,,,50,,,Locked
+103214168,20095,RF,★★★★,Type88 Mod,117,16948154,1664854,2335146,x5,Mod3,520,520,117,69,39,37,7,0,0,40,10,10,Magnetic Accelerated Rounds,Acceleration Coil,Thermoptic Camouflage Cape,200,Oathed,2021-05-10 21:59,Locked
+172774236,303,HG,★★★★★,HP-35,100,3263300,-,-,x5,,380,380,31,64,89,58,15,0,0,20,10,0,S.F. Modified Tactical Light,16Lab Hollow-Point,IOP T4 Exoskeleton,97,,,Locked
+181485808,20104,SMG,★★★★★★,Gr G36c Mod,110,5482900,219600,260400,x5,Mod2,1070,1070,33,14,70,84,12,0,0,5,10,10,IOP T4 Exoskeleton,16Lab Hollow-Point,S.F. Modified Tactical Light,100,,,Locked
 201761263,364,SMG,★★★★,MPK,100,3263300,-,-,x5,,925,925,30,13,75,78,12,0,0,5,10,0,IOP T4 Exoskeleton,Signal Flare,S.F. Modified Tactical Light,100,,,Locked
 202067564,363,SMG,★★★★,MPL,100,3263300,-,-,x5,,925,925,31,13,72,78,12,0,0,5,10,0,IOP T4 Exoskeleton,Signal Flare,S.F. Modified Tactical Light,100,,,Locked
-50490072,20008,HG,★★★★,Makarov Mod,110,5604253,340953,139047,x5,Mod2,335,335,29,63,102,61,15,0,0,20,10,10,S.F. Modified Tactical Light,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
-172489302,20095,RF,★★★★,Type88 Mod,111,5760096,16796,623204,x5,Mod2,515,515,116,68,38,37,7,0,0,40,10,10,Magnetic Accelerated Rounds,VFL 6-24X56,Thermoptic Camouflage Cape,100,,,Locked
+172489302,20095,RF,★★★★,Type88 Mod,111,5809236,65936,574064,x5,Mod2,515,515,116,68,38,37,7,0,0,40,10,10,Magnetic Accelerated Rounds,VFL 6-24X56,Thermoptic Camouflage Cape,100,,,Locked
 201739505,363,SMG,★★★★,MPL,100,3263300,-,-,x5,,925,925,31,13,72,78,12,0,0,5,10,0,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,S.F. Modified Tactical Light,100,,,Locked
 201759097,364,SMG,★★★★,MPK,100,3263300,-,-,x5,,925,925,30,13,75,78,12,0,0,5,10,0,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,S.F. Modified Tactical Light,100,,,Locked
-201786997,20115,SMG,★★★★★★,Suomi Mod,100,3347000,83700,16300,x5,Mod1,1100,1100,31,15,70,93,12,0,0,5,10,0,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,S.F. Modified Tactical Light,100,,,Locked
-47682264,20115,SMG,★★★★★★,Suomi Mod,110,5607010,343710,136290,x5,Mod2,1115,1115,31,15,72,94,12,0,0,5,10,10,Mk31 Multi-functional Exoskeleton,Signal Flare,S.F. Modified Tactical Light,100,,,Locked
+201786997,20115,SMG,★★★★★★,Suomi Mod,110,5301100,37800,442200,x5,Mod2,1115,1115,31,15,72,94,12,0,0,5,10,10,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,S.F. Modified Tactical Light,100,,,Locked
+206221425,354,HG,★★★★,ZiP .22,100,3263300,-,-,x5,,330,330,31,40,85,63,15,0,0,20,10,0,S.F. Modified Tactical Light,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
+47682264,20115,SMG,★★★★★★,Suomi Mod,111,5814010,70710,569290,x5,Mod2,1115,1115,31,15,72,94,12,0,0,5,10,10,Mk31 Multi-functional Exoskeleton,Signal Flare,S.F. Modified Tactical Light,100,,,Locked
 185841510,350,SG,★★★★★,FO-12,100,3263300,-,-,x5,,1280,1280,30,13,11,36,6,23,5,40,10,0,Type 3 Armor Plate,#7.5 Birdshot,16Lab Infrared Designator,100,,,Locked
-198138940,20114,HG,★★★★★★,Welrod MkⅡ Mod,110,5742504,479204,796,x5,Mod2,405,405,30,73,96,52,15,0,0,40,10,10,S.F. Modified Tactical Light,Signal Flare,IOP T4 Exoskeleton,100,,,Locked
+198138940,20114,HG,★★★★★★,Welrod MkⅡ Mod,111,5949504,206204,433796,x5,Mod2,405,405,30,73,96,52,15,0,0,40,10,10,S.F. Modified Tactical Light,Signal Flare,IOP T4 Exoskeleton,100,,,Locked
 204536921,377,RF,★★★★★,SCAR-H,100,3263300,-,-,x5,,425,425,114,93,29,41,7,0,0,40,10,0,M948 Mod X,VFL 6-24X56,Thermoptic Camouflage Cape,100,,,Locked
 204888324,378,AR,★★★★★,SCAR-L,100,3263300,-,-,x5,,550,550,56,48,52,78,10,0,0,20,10,0,VFL 6-24X56,MK318 Mod X,Focus Chip,100,,,Locked
 198655070,323,SG,★★★★★,LTLX7000,100,3263300,-,-,x5,,1375,1375,23,14,11,28,6,25,5,40,10,0,Type 3 Armor Plate,Shotgun Flash Shells,S.F. Modified Tactical Light,100,,,Locked
-199533534,20005,HG,★★★★,M1895 Mod,110,5453650,190350,289650,x5,Mod2,355,355,35,47,98,45,15,0,0,20,10,10,AC4 Suppressor,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
+199533534,20005,HG,★★★★,M1895 Mod,110,5500450,237150,242850,x5,Mod2,355,355,35,47,98,45,15,0,0,20,10,10,AC4 Suppressor,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
 201732973,363,SMG,★★★★,MPL,100,3263300,-,-,x5,,925,925,31,13,72,78,12,0,0,5,10,0,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,AC4 Suppressor,100,,,Locked
 203742779,377,RF,★★★★★,SCAR-H,100,3263300,-,-,x5,,425,425,114,93,29,41,7,0,0,40,10,0,Mk211 High-Explosive Armor-Piercing Ammo,VFL 6-24X56,Thermoptic Camouflage Cape,100,,,Locked
 204003733,378,AR,★★★★★,SCAR-L,100,3263300,-,-,x5,,550,550,56,48,52,78,10,0,0,20,10,0,PEQ-16A,16Lab High-Velocity Ammo,Focus Chip,100,,,Locked
 192687301,354,HG,★★★★,ZiP .22,100,3263300,-,-,x5,,330,330,31,40,85,63,15,0,0,20,10,0,S.F. Modified Tactical Light,16Lab Hollow-Point,IOP T4 Exoskeleton,100,,,Locked
-193242725,20095,RF,★★★★,Type88 Mod,110,5719297,455997,24003,x5,Mod2,515,515,116,68,38,37,7,0,0,40,10,10,Magnetic Accelerated Rounds,VFL 6-24X56,Thermoptic Camouflage Cape,100,,,Locked
-194864019,20115,SMG,★★★★★★,Suomi Mod,100,3359600,96300,3700,x5,Mod1,1100,1100,31,15,70,93,12,0,0,5,10,0,IOP T4 Exoskeleton,16Lab Hollow-Point,S.F. Modified Tactical Light,100,,,Locked
+193242725,20095,RF,★★★★,Type88 Mod,111,5831617,88317,551683,x5,Mod2,515,515,116,68,38,37,7,0,0,40,10,10,Magnetic Accelerated Rounds,VFL 6-24X56,Thermoptic Camouflage Cape,100,,,Locked
+194864019,20115,SMG,★★★★★★,Suomi Mod,110,5349700,86400,393600,x5,Mod2,1115,1115,31,15,72,94,12,0,0,5,10,10,IOP T4 Exoskeleton,16Lab Hollow-Point,S.F. Modified Tactical Light,100,,,Locked
 201648800,364,SMG,★★★★,MPK,100,3263300,-,-,x5,,925,925,30,13,75,78,12,0,0,5,10,0,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,S.F. Modified Tactical Light,100,,,Locked
 201664040,363,SMG,★★★★,MPL,100,3263300,-,-,x5,,925,925,31,13,72,78,12,0,0,5,10,0,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,S.F. Modified Tactical Light,100,,,Locked
-197661322,323,SG,★★★★★,LTLX7000,100,3263300,-,-,x5,,1375,1375,23,14,11,28,6,25,5,40,10,0,Type 3 Armor Plate,Shotgun Flash Shells,S.F. Modified Tactical Light,100,,,Locked
-197925642,20005,HG,★★★★,M1895 Mod,110,5527966,264666,215334,x5,Mod2,355,355,35,47,98,45,15,0,0,20,10,10,AC4 Suppressor,ILM Hollow-Point Ammo,IOP X4 Exoskeleton,100,,,Locked
-201225720,363,SMG,★★★★,MPL,100,3263300,-,-,x5,,925,925,31,13,72,78,12,0,0,5,10,0,IOP X4 Exoskeleton,ILM Hollow-Point Ammo,AC4 Suppressor,100,,,Locked
-204003317,377,RF,★★★★★,SCAR-H,100,3263300,-,-,x5,,425,425,114,93,29,41,7,0,0,40,10,0,Mk211 High-Explosive Armor-Piercing Ammo,VFL 6-24X56,Thermoptic Camouflage Cape,100,,,Locked
-204205348,378,AR,★★★★★,SCAR-L,100,3263300,-,-,x5,,550,550,56,48,52,78,10,0,0,20,10,0,PEQ-16A,16Lab High-Velocity Ammo,Focus Chip,100,,,Locked
-146588676,20095,RF,★★★★,Type88 Mod,115,11712109,1628809,571191,x5,Mod3,520,520,117,68,38,37,7,0,0,40,10,10,Magnetic Accelerated Rounds,Acceleration Coil,Thermoptic Camouflage Cape,100,,,Locked
+197661322,323,SG,★★★★★,LTLX7000,100,3263300,-,-,x5,,1375,1375,23,14,11,28,6,25,5,40,10,0,Type 3 Armor Plate,Shotgun Flash Shells,S.F. Modified Tactical Light,97,,,Locked
+197925642,20005,HG,★★★★,M1895 Mod,110,5567566,304266,175734,x5,Mod2,355,355,35,47,98,45,15,0,0,20,10,10,AC4 Suppressor,ILM Hollow-Point Ammo,IOP X4 Exoskeleton,92,,,Locked
+201225720,363,SMG,★★★★,MPL,100,3263300,-,-,x5,,925,925,31,13,72,78,12,0,0,5,10,0,IOP X4 Exoskeleton,ILM Hollow-Point Ammo,AC4 Suppressor,97,,,Locked
+204003317,377,RF,★★★★★,SCAR-H,100,3263300,-,-,x5,,425,425,114,93,29,41,7,0,0,40,10,0,Mk211 High-Explosive Armor-Piercing Ammo,VFL 6-24X56,Thermoptic Camouflage Cape,97,,,Locked
+204205348,378,AR,★★★★★,SCAR-L,100,3263300,-,-,x5,,550,550,56,48,52,78,10,0,0,20,10,0,PEQ-16A,16Lab High-Velocity Ammo,Focus Chip,97,,,Locked
+146588676,20095,RF,★★★★,Type88 Mod,115,11763589,1680289,519711,x5,Mod3,520,520,117,68,38,37,7,0,0,40,10,10,Magnetic Accelerated Rounds,Acceleration Coil,Thermoptic Camouflage Cape,100,,,Locked
 192687967,354,HG,★★★★,ZiP .22,100,3263300,-,-,x5,,330,330,31,40,85,63,15,0,0,20,10,0,S.F. Modified Tactical Light,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
 201127941,363,SMG,★★★★,MPL,100,3263300,-,-,x5,,925,925,31,13,72,78,12,0,0,5,10,0,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,S.F. Modified Tactical Light,100,,,Locked
 201225714,364,SMG,★★★★,MPK,100,3263300,-,-,x5,,925,925,30,13,75,78,12,0,0,5,10,0,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,S.F. Modified Tactical Light,100,,,Locked
-202393869,20115,SMG,★★★★★★,Suomi Mod,110,5464000,200700,279300,x5,Mod2,1115,1115,31,15,72,94,12,0,0,5,10,10,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,S.F. Modified Tactical Light,100,,,Locked
-46914422,20046,RF,★★★★★★,Kar98k Mod,116,12893994,610694,2389306,x5,Mod3,440,440,146,88,43,36,7,0,0,40,10,10,M1022 Sniper Rounds,PM 5-25X56,Garde du Corps Uniform,200,Oathed,2023-08-01 11:03,Locked
+202393869,20115,SMG,★★★★★★,Suomi Mod,110,5503600,240300,239700,x5,Mod2,1115,1115,31,15,72,94,12,0,0,5,10,10,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,S.F. Modified Tactical Light,100,,,Locked
+46914422,20046,RF,★★★★★★,Kar98k Mod,116,12994794,711494,2288506,x5,Mod3,440,440,146,88,43,36,7,0,0,40,10,10,M1022 Sniper Rounds,PM 5-25X56,Garde du Corps Uniform,200,Oathed,2023-08-01 11:03,Locked
 193090230,354,HG,★★★★,ZiP .22,100,3263300,-,-,x5,,330,330,31,40,85,63,15,0,0,20,10,0,S.F. Modified Tactical Light,Signal Flare,IOP T4 Exoskeleton,100,,,Locked
 194901604,363,SMG,★★★★,MPL,100,3263300,-,-,x5,,925,925,31,13,72,78,12,0,0,5,10,0,IOP T4 Exoskeleton,Signal Flare,S.F. Modified Tactical Light,100,,,Locked
-202393873,20115,SMG,★★★★★★,Suomi Mod,110,5419761,156461,323539,x5,Mod2,1115,1115,31,15,72,94,12,0,0,5,10,10,16Lab T4 Exoskeleton,ILM Hollow-Point Ammo,S.F. Modified Tactical Light,100,,,Locked
+202393873,20115,SMG,★★★★★★,Suomi Mod,110,5459361,196061,283939,x5,Mod2,1115,1115,31,15,72,94,12,0,0,5,10,10,16Lab T4 Exoskeleton,ILM Hollow-Point Ammo,S.F. Modified Tactical Light,100,,,Locked
 203050085,1038,AR,★★★★★,Ai Mizuno,100,3263300,-,-,x5,,580,580,58,57,43,67,10,0,1,20,10,0,16Lab Infrared Designator,APCR High-Velocity Ammo,Bento of Love,100,,,Locked
+53739457,20114,HG,★★★★★★,Welrod MkⅡ Mod,115,12073364,1990064,209936,x5,Mod3,405,405,31,74,97,52,15,0,0,40,10,10,S.F. Modified Tactical Light,ILM Hollow-Point Ammo,Special Ops Bag,100,,,Locked
 194901700,363,SMG,★★★★,MPL,100,3263300,-,-,x5,,925,925,31,13,72,78,12,0,0,5,10,0,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,S.F. Modified Tactical Light,100,,,Locked
 195607688,323,SG,★★★★★,LTLX7000,100,3263300,-,-,x5,,1375,1375,23,14,11,28,6,25,5,40,10,0,Type 3 Armor Plate,Shotgun Flash Shells,S.F. Modified Tactical Light,100,,,Locked
 204027737,377,RF,★★★★★,SCAR-H,100,3263300,-,-,x5,,425,425,114,93,29,41,7,0,0,40,10,0,16Lab Sub-Caliber Armor-Piercing Ammo,VFL 6-24X56,Thermoptic Camouflage Cape,100,,,Locked
