@@ -1,7 +1,7 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2020-06-17 19:45:24
 item-10,Dummy Core,835
-item-31,Basic Training Data,6079
+item-31,Basic Training Data,5929
 item-32,Intermediate Training Data,4939
 item-33,Advanced Training Data,10354
 -1,kalina_level,16
@@ -18,7 +18,7 @@ item-12,Points,0
 item-14,Original Sample,1513
 item-15,Pure Sample,96
 item-16,Quick Analysis Contract,3
-item-17,Data Patch,2
+item-17,Data Patch,0
 item-41,Token,1135
 item-42,Exchange Ticket,0
 item-44,Calibration Ticket,4012
@@ -29,12 +29,12 @@ item-51,New Type Fire-Control Component,11
 item-105,Sangvis-Griffin Coalition Medal,2
 item-106,Chess Champion Medal,5
 item-121,item-10000121,1
-item-301,Central Data: BGM-71,2
-item-302,Central Data: AGS-30,3
-item-303,Central Data: 2B14,4
-item-304,Central Data: M2,6
-item-305,Central Data: AT4,4
-item-306,Central Data: QLZ-04,8
+item-301,Central Data: BGM-71,0
+item-302,Central Data: AGS-30,0
+item-303,Central Data: 2B14,0
+item-304,Central Data: M2,0
+item-305,Central Data: AT4,0
+item-306,Central Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Central Data: PP93,0
 item-506,Battery,557
@@ -188,11 +188,11 @@ gift-585,Moon River,1
 gift-6504,Black Dragon  Towering over S09,1
 gift-100001,Lollipop,94
 gift-100002,Ice Cream Cone,23
+gift-100003,Strawberry Custard Cheesecake,340
+gift-100013,gift_item-10100013,1
 gift-200001,Combat Report,1484
 gift-200012,gift_item-10200012,1
 gift-400001,Rapid Growth Disk,3180
-gift-100013,gift_item-10100013,1
-gift-100003,Strawberry Custard Cheesecake,340
 furniture-10100,Dusty Workbench,0
 furniture-10200,Dusty Cat Bed,0
 furniture-10300,Dusty Doghouse,0
@@ -216,22 +216,9 @@ furniture-40027,Projector,0
 furniture-40028,Comic Stand,0
 furniture-40009,Luffberry chess,0
 furniture-50105,Shortwave Listening Post,5
-furniture-50201,Interim Mission Briefing Station,1
 furniture-50305,Early Disk Drive Storage,5
-furniture-50410,Futuristic Analysis Terminal,10
-furniture-60101,Storeroom,1
-furniture-60201,Small Maintenance Machinery,1
 furniture-60306,Integrated Indoor Training Range,6
-furniture-60400,Elevator - To the camp,0
-furniture-70003,furniture_establish-10070003,0
-furniture-70004,furniture_establish-10070004,0
-furniture-70005,furniture_establish-10070005,0
-furniture-70006,furniture_establish-10070006,0
-furniture-70007,furniture_establish-10070007,0
-furniture-70008,furniture_establish-10070008,0
-furniture-70009,furniture_establish-10070009,0
-furniture-70010,furniture_establish-10070010,0
-furniture-70100,Elevator - To the garage,0
+furniture-50500,furniture_establish-10050500,0
 furniture-80007,Real Time Relay Terminal,0
 furniture-80011,Black Market Shop,0
 furniture-80109,Automated Gate Console,9
@@ -239,3 +226,10 @@ furniture-80306,Advanced Loot Rack,6
 furniture-90110,Impulse Reactor,10
 furniture-90205,Tactical Chip Research Station,5
 furniture-90400,Symmetric Infusion Drive,0
+furniture-100100,furniture_establish-10100100,0
+furniture-100200,furniture_establish-10100200,0
+furniture-100300,furniture_establish-10100300,0
+furniture-100400,furniture_establish-10100400,0
+furniture-100500,furniture_establish-10100500,0
+furniture-100600,furniture_establish-10100600,0
+furniture-100700,furniture_establish-10100700,0
