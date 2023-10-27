@@ -1,22 +1,22 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2020-06-17 19:45:24
 item-10,Dummy Core,834
-item-31,Basic Training Data,2889
-item-32,Intermediate Training Data,5631
+item-31,Basic Training Data,2989
+item-32,Intermediate Training Data,5331
 item-33,Advanced Training Data,11009
 -1,kalina_level,17
--1,kalina_favor,8912
+-1,kalina_favor,8937
 item-1,T-Doll Contract,65
 item-2,Equipment Contract,508
-item-3,Quick Production Contract,49
+item-3,Quick Production Contract,60
 item-4,Quick Repair Contract,1092
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,46
 item-9,Enhancement Capsule,747
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,980
-item-15,Pure Sample,180
+item-14,Original Sample,1056
+item-15,Pure Sample,208
 item-16,Quick Analysis Contract,67
 item-17,Data Patch,0
 item-41,Token,1210
@@ -26,7 +26,7 @@ item-45,Memory Fragment,3246
 item-46,Special Combat Report,0
 item-50,Universal Parts,1631
 item-51,New Type Fire-Control Component,12
-item-57,item-10000057,4000
+item-57,item-10000057,5000
 item-60,item-10000060,0
 item-105,Sangvis-Griffin Coalition Medal,2
 item-106,Chess Champion Medal,5
@@ -60,7 +60,7 @@ item-534,item-10000534,19
 item-601,Infinite Surprise Dye,15
 item-603,Potential Energy,0
 item-604,Electronic Impulse,2
-item-605,Aid Commission,41
+item-605,Aid Commission,43
 item-606,Transfer Catalyst,127
 item-1001,AAT-52 Icon,1
 item-1003,IDW Icon,1
@@ -129,13 +129,13 @@ item-9042,item-10009042,0
 item-9043,item-10009043,316000
 item-10603,Extra Potential Energy,27
 item-10604,Extra Impulse,41
-item-10605,Level of Activity,25
-item-10606,Frontline Protocol Advanced Card,765
-item-10702,item-10010702,732
+item-10605,Level of Activity,30
+item-10606,Frontline Protocol Advanced Card,770
+item-10702,item-10010702,690
 item-10703,item-10010703,90
 item-10705,item-10010705,1058
 item-10707,item-10010707,1208
-item-10708,item-10010708,6482
+item-10708,item-10010708,6962
 item-100062,Jade Coffer,0
 item-100077,Supply Box - Mirror Stage,12
 item-100078,Nova Medal - Mirror Stage,2
@@ -175,7 +175,7 @@ item-100192,item-10100192,14
 item-100193,item-10100193,0
 item-100194,item-10100194,5
 item-100195,item-10100195,8
-item-100196,item-10100196,102
+item-100196,item-10100196,22
 item-100198,item-10100198,2
 item-100199,item-10100199,0
 item-110036,Event Points,10
@@ -209,13 +209,13 @@ gift-100001,Lollipop,94
 gift-100002,Ice Cream Cone,23
 gift-100003,Strawberry Custard Cheesecake,340
 gift-100013,gift_item-10100013,1
-gift-200001,Combat Report,3179
-gift-200012,gift_item-10200012,2
-gift-400001,Rapid Growth Disk,3314
-gift-200011,gift_item-10200011,1
 gift-100014,gift_item-10100014,1
 gift-100015,gift_item-10100015,1
+gift-200001,Combat Report,3179
+gift-200011,gift_item-10200011,1
+gift-200012,gift_item-10200012,2
 gift-200017,gift_item-10200017,1
+gift-400001,Rapid Growth Disk,3314
 furniture-10101,Simple Workbench,1
 furniture-10200,Dusty Cat Bed,0
 furniture-10300,Dusty Doghouse,0
@@ -230,7 +230,7 @@ furniture-20604,Ancient Fax Machine,4
 furniture-20700,Bookshelf of Memories,0
 furniture-30106,Fairy Hall,6
 furniture-30205,Rural Railway Model,5
-furniture-30305,Temporary Warehouse Model,5
+furniture-30306,Industrial Warehouse Model,6
 furniture-30405,Cloudy Weather System,5
 furniture-40023,Cafe Bar Coffee Machine,0
 furniture-40024,Gramophone,0
@@ -238,7 +238,7 @@ furniture-40026,Notebook,0
 furniture-40027,Projector,0
 furniture-40028,Comic Stand,0
 furniture-40009,Luffberry chess,0
-furniture-50106,Longwave Listening Post,6
+furniture-50107,Longwave Listening Post,7
 furniture-50305,Early Disk Drive Storage,5
 furniture-60308,Integrated Indoor Training Range,8
 furniture-50500,furniture_establish-10050500,0
