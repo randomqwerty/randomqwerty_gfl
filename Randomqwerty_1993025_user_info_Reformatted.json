@@ -1,6 +1,6 @@
 {
     "user_info": {
-        "gem": "813",
+        "gem": "933",
         "core": "834",
         "coin1": "2989",
         "coin2": "5331",
@@ -27,65 +27,52 @@
         "max_sangvis": "100",
         "bp": "0",
         "bp_pay": "70",
-        "mp": "222186",
-        "ammo": "255248",
-        "mre": "301265",
-        "part": "187987",
+        "mp": "222166",
+        "ammo": "251898",
+        "mre": "298915",
+        "part": "189433",
         "monthlycard1_end_time": "0",
         "monthlycard2_end_time": "0",
         "monthlycard3_end_time": "0",
         "growthfond": "0",
-        "last_recover_time": "1698421524",
+        "last_recover_time": "1698505764",
         "last_bp_recover_time": "1698246000",
-        "last_favor_recover_time": "1698421524",
+        "last_favor_recover_time": "1698505764",
         "last_monthlycard1_recover_time": "0",
         "last_monthlycard2_recover_time": "0",
         "last_monthlycard3_recover_time": "0",
-        "last_login_time": "1698421629",
+        "last_login_time": "1698505821",
         "reg_time": "1592437524",
         "gun_collect": "2,5,9,90,10,71,29,25,37,68,24,127,137,94,17,105,27,14,91,63,47,55,61,33,32,44,31,56,40,41,6,87,93,57,51,74,12,3,82,26,75,54,162,36,139,52,81,58,70,107,92,111,247,34,133,320,198,257,18,184,118,95,21,141,110,42,305,235,46,11,143,237,66,22,69,43,330,1022,8,99,114,1017,346,100,77,168,287,271,123,96,212,269,103,64,236,112,349,126,97,50,272,288,60,293,304,23,363,80,300,338,323,197,1,216,310,324,89,39,329,270,13,72,383,387,282,386,350,358,385,286,356,377,262,122,243,382,365,206,306,378,328,104,380,355,228,20055,20057,359,150,101,154,336,16,213,135,20046,376,20,390,364,20104,394,392,161,53,153,178,347,283,155,337,116,159,325,156,20010,20228,379,354,260,248,20012,20282,352,381,157,326,190,250,285,233,277",
         "equip_collect": "17,29,1,3,2,37,43,30,6,87,55,14,88,10,64,9,63,228,13,89,11,56,232,233,57,12,222,7,73,5,77,42,4,8,137,138,139,140,141,142,143,144,39,15,38,230,265,65,18,31,49,75,270,109,110,69,78,70,79,276,66,277,71,67,68,282,80,40,72,20,283,132,32,288,44,292,295,304,316,74,231,223,306,310,312,313,226,307,340,76,341,174,347,305,224,350,234,309,235,19,90,311,364,355,105,360",
         "maxdorm": "2",
         "maxdorm_spare": "106",
-        "last_dorm_material_change_time1": "1698417103",
+        "last_dorm_material_change_time1": "1698505825",
         "last_dorm_material_change_time2": "1698170400",
         "material_available_num1": "160",
         "material_available_num2": "18",
         "dorm_max_score": "38000",
-        "last_ssoc_change_time": "1698416640",
+        "last_ssoc_change_time": "1698493536",
         "app_guard_id": "95329556569daa89bff23d3e36586ea8197b9cbe:1595556407749:TgIFAQ==",
         "app_guard_num": "5",
         "is_bind": "0",
         "dorm_max_score_lifetime": "38000",
         "gender": "0"
     },
-    "upgrade_act_info": [
-        {
-            "user_id": "1993025",
-            "gun_with_user_id": "456613110",
-            "sangvis_with_user_id": "0",
-            "skill": "1",
-            "upgrade_slot": "1",
-            "fairy_with_user_id": "0",
-            "end_time": "1698450626"
-        }
-    ],
+    "upgrade_act_info": [],
     "guide_info": {
-        "id": "196555",
-        "user_id": "1993025",
-        "guide": "{\"course\":[1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,1,0,0,1,0,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}"
+        "user_id": 1993025,
+        "guide": "{\"course\":[1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}"
     },
     "item_with_user_info": [
         {
-            "id": "20981837",
             "item_id": "1",
-            "number": "65",
+            "number": "64",
             "last_recover_time": "0"
         },
         {
-            "id": "21099957",
             "item_id": "2",
-            "number": "508",
+            "number": "503",
             "last_recover_time": "0"
         },
         {
@@ -95,9 +82,8 @@
             "last_recover_time": "0"
         },
         {
-            "id": "20981836",
             "item_id": "4",
-            "number": "1092",
+            "number": "1087",
             "last_recover_time": "0"
         },
         {
@@ -113,9 +99,8 @@
             "last_recover_time": "0"
         },
         {
-            "id": "21262927",
             "item_id": "9",
-            "number": "747",
+            "number": "797",
             "last_recover_time": "0"
         },
         {
@@ -177,9 +162,8 @@
             "last_recover_time": "0"
         },
         {
-            "id": "21346539",
             "item_id": "46",
-            "number": "0",
+            "number": "100",
             "last_recover_time": "0"
         },
         {
@@ -273,9 +257,8 @@
             "last_recover_time": "0"
         },
         {
-            "id": "21130334",
             "item_id": "506",
-            "number": "3178",
+            "number": "3278",
             "last_recover_time": "0"
         },
         {
@@ -291,9 +274,8 @@
             "last_recover_time": "0"
         },
         {
-            "id": "21423485",
             "item_id": "509",
-            "number": "125",
+            "number": "140",
             "last_recover_time": "0"
         },
         {
@@ -813,15 +795,13 @@
             "last_recover_time": "0"
         },
         {
-            "id": "21687535",
             "item_id": "10605",
-            "number": "30",
+            "number": "45",
             "last_recover_time": "0"
         },
         {
-            "id": "21692429",
             "item_id": "10606",
-            "number": "770",
+            "number": "785",
             "last_recover_time": "0"
         },
         {
@@ -1247,6 +1227,16 @@
             "id": "21979767",
             "item_id": "1800005",
             "number": "0",
+            "last_recover_time": "0"
+        },
+        {
+            "item_id": "47",
+            "number": "6",
+            "last_recover_time": "0"
+        },
+        {
+            "item_id": "310",
+            "number": "3",
             "last_recover_time": "0"
         }
     ],
@@ -3306,7 +3296,7 @@
             "medal2": "0",
             "bestrank": "5",
             "medal4": "0",
-            "counter": "1",
+            "counter": "3",
             "win_counter": "1",
             "shortest_in_coinmission": "0.00",
             "type5_score": "0",
@@ -40256,11 +40246,11 @@
     ],
     "operation_act_info": [
         {
-            "id": "138546500",
+            "id": "138549117",
             "operation_id": "2",
             "user_id": "1993025",
             "team_id": "9",
-            "start_time": "1698362080",
+            "start_time": "1698429674",
             "exec_num": "6"
         },
         {
@@ -40290,12 +40280,12 @@
     ],
     "develop_act_info": [
         {
-            "id": "75520353",
+            "id": "75523952",
             "build_slot": "1",
             "user_id": "1993025",
-            "gun_id": "25",
+            "gun_id": "31",
             "equip_id": "0",
-            "start_time": "1698276208",
+            "start_time": "1698422243",
             "mp": "400",
             "ammo": "400",
             "mre": "100",
@@ -40306,12 +40296,44 @@
             "wish_gun": "0"
         },
         {
-            "id": "75520354",
+            "id": "75523953",
             "build_slot": "3",
+            "user_id": "1993025",
+            "gun_id": "65",
+            "equip_id": "0",
+            "start_time": "1698422243",
+            "mp": "400",
+            "ammo": "400",
+            "mre": "100",
+            "part": "200",
+            "input_level": "0",
+            "core": "0",
+            "item1_num": "1",
+            "wish_gun": "0"
+        },
+        {
+            "id": "75523951",
+            "build_slot": "5",
+            "user_id": "1993025",
+            "gun_id": "33",
+            "equip_id": "0",
+            "start_time": "1698422241",
+            "mp": "400",
+            "ammo": "400",
+            "mre": "100",
+            "part": "200",
+            "input_level": "0",
+            "core": "0",
+            "item1_num": "1",
+            "wish_gun": "0"
+        },
+        {
+            "id": "75523954",
+            "build_slot": "7",
             "user_id": "1993025",
             "gun_id": "23",
             "equip_id": "0",
-            "start_time": "1698276208",
+            "start_time": "1698422243",
             "mp": "400",
             "ammo": "400",
             "mre": "100",
@@ -40322,44 +40344,12 @@
             "wish_gun": "0"
         },
         {
-            "id": "75520355",
-            "build_slot": "5",
-            "user_id": "1993025",
-            "gun_id": "17",
-            "equip_id": "0",
-            "start_time": "1698276208",
-            "mp": "400",
-            "ammo": "400",
-            "mre": "100",
-            "part": "200",
-            "input_level": "0",
-            "core": "0",
-            "item1_num": "1",
-            "wish_gun": "0"
-        },
-        {
-            "id": "75520356",
-            "build_slot": "7",
-            "user_id": "1993025",
-            "gun_id": "24",
-            "equip_id": "0",
-            "start_time": "1698276208",
-            "mp": "400",
-            "ammo": "400",
-            "mre": "100",
-            "part": "200",
-            "input_level": "0",
-            "core": "0",
-            "item1_num": "1",
-            "wish_gun": "0"
-        },
-        {
-            "id": "75520357",
+            "id": "75523955",
             "build_slot": "9",
             "user_id": "1993025",
-            "gun_id": "363",
+            "gun_id": "286",
             "equip_id": "0",
-            "start_time": "1698276208",
+            "start_time": "1698422243",
             "mp": "400",
             "ammo": "400",
             "mre": "100",
@@ -40375,11 +40365,11 @@
         "user_id": "1993025",
         "mission_campaign": "13",
         "special_mission_campaign": "0",
-        "attendance_type1_day": "28",
-        "attendance_type1_time": "1698505200",
+        "attendance_type1_day": 29,
+        "attendance_type1_time": 1698591600,
         "attendance_type2_day": "1",
         "attendance_type2_time": "1696777200",
-        "develop_lowrank_count": "0",
+        "develop_lowrank_count": 0,
         "special_develop_lowrank_count": "3",
         "get_gift_ids": "",
         "spend_point": "0.00",
@@ -40392,10 +40382,10 @@
         "last_bp_buy_time": "0",
         "bp_buy_count": "0",
         "new_developgun_count": "10",
-        "buyitem1_developgun_count": "1.50",
+        "buyitem1_developgun_count": 0.6,
         "buyitem1_specialdevelopgun_count": "0.00",
         "buyitem1_num": "0",
-        "last_developgun_time": "1698276208",
+        "last_developgun_time": 1698422243,
         "last_specialdevelopgun_time": "1696555006",
         "furniture_classes": "2",
         "adjutant_multi": "single|0|1|57|0|0|0|0,single|1|0|0|0|0|0|0,single|2|0|0|0|0|0|0,single|3|0|0|0|0|0|0,combined|0|0|0|0|0|0|0,combined|1|0|0|0|0|0|0",
@@ -40416,7 +40406,7 @@
         "develop_nonew_num": "15861",
         "fail_num": "1",
         "first_sangvis": "1",
-        "equip_type_produce_num": "15",
+        "equip_type_produce_num": 10,
         "equip_type_produce_recover_time": "1698591600",
         "equip_type_spproduce_num": "0",
         "equip_type_spproduce_recover_time": "0",
@@ -40427,7 +40417,7 @@
         "vehicle_update": "3030",
         "fairy_building_resource": "128000",
         "sangvis_duplicate_award_k": "3,0",
-        "last_energy_recover_time": 1698418800
+        "last_energy_recover_time": 1698505200
     },
     "user_adjutant_multi": {
         "single": [
@@ -44195,98 +44185,203 @@
             "adjust_count": "0",
             "is_locked": "0",
             "last_adjust": ""
+        },
+        "120945717": {
+            "id": "120945717",
+            "user_id": "1993025",
+            "gun_with_user_id": "0",
+            "equip_id": "2",
+            "equip_exp": "0",
+            "equip_level": "0",
+            "pow": "0",
+            "hit": "0",
+            "dodge": "0",
+            "speed": "0",
+            "rate": "0",
+            "critical_harm_rate": "0",
+            "critical_percent": "5968",
+            "armor_piercing": "0",
+            "armor": "0",
+            "shield": "0",
+            "damage_amplify": "0",
+            "damage_reduction": "0",
+            "night_view_percent": "0",
+            "bullet_number_up": "0",
+            "adjust_count": "0",
+            "is_locked": "0",
+            "last_adjust": ""
+        },
+        "120945718": {
+            "id": "120945718",
+            "user_id": "1993025",
+            "gun_with_user_id": "0",
+            "equip_id": "1",
+            "equip_exp": "0",
+            "equip_level": "0",
+            "pow": "0",
+            "hit": "0",
+            "dodge": "0",
+            "speed": "0",
+            "rate": "0",
+            "critical_harm_rate": "0",
+            "critical_percent": "89",
+            "armor_piercing": "0",
+            "armor": "0",
+            "shield": "0",
+            "damage_amplify": "0",
+            "damage_reduction": "0",
+            "night_view_percent": "0",
+            "bullet_number_up": "0",
+            "adjust_count": "0",
+            "is_locked": "0",
+            "last_adjust": ""
+        },
+        "120945719": {
+            "id": "120945719",
+            "user_id": "1993025",
+            "gun_with_user_id": "0",
+            "equip_id": "2",
+            "equip_exp": "0",
+            "equip_level": "0",
+            "pow": "0",
+            "hit": "0",
+            "dodge": "0",
+            "speed": "0",
+            "rate": "0",
+            "critical_harm_rate": "0",
+            "critical_percent": "3264",
+            "armor_piercing": "0",
+            "armor": "0",
+            "shield": "0",
+            "damage_amplify": "0",
+            "damage_reduction": "0",
+            "night_view_percent": "0",
+            "bullet_number_up": "0",
+            "adjust_count": "0",
+            "is_locked": "0",
+            "last_adjust": ""
+        },
+        "120945720": {
+            "id": "120945720",
+            "user_id": "1993025",
+            "gun_with_user_id": "0",
+            "equip_id": "1",
+            "equip_exp": "0",
+            "equip_level": "0",
+            "pow": "0",
+            "hit": "0",
+            "dodge": "0",
+            "speed": "0",
+            "rate": "0",
+            "critical_harm_rate": "0",
+            "critical_percent": "2563",
+            "armor_piercing": "0",
+            "armor": "0",
+            "shield": "0",
+            "damage_amplify": "0",
+            "damage_reduction": "0",
+            "night_view_percent": "0",
+            "bullet_number_up": "0",
+            "adjust_count": "0",
+            "is_locked": "0",
+            "last_adjust": ""
+        },
+        "120945721": {
+            "id": "120945721",
+            "user_id": "1993025",
+            "gun_with_user_id": "0",
+            "equip_id": "2",
+            "equip_exp": "0",
+            "equip_level": "0",
+            "pow": "0",
+            "hit": "0",
+            "dodge": "0",
+            "speed": "0",
+            "rate": "0",
+            "critical_harm_rate": "0",
+            "critical_percent": "521",
+            "armor_piercing": "0",
+            "armor": "0",
+            "shield": "0",
+            "damage_amplify": "0",
+            "damage_reduction": "0",
+            "night_view_percent": "0",
+            "bullet_number_up": "0",
+            "adjust_count": "0",
+            "is_locked": "0",
+            "last_adjust": ""
         }
     },
     "develop_equip_act_info": {
         "1": {
-            "build_slot": "1",
-            "user_id": "1993025",
-            "equip_id": "2",
-            "start_time": "1698276230",
+            "equip_id": "4",
+            "build_slot": 1,
+            "user_id": 1993025,
+            "start_time": 1698422237,
             "mp": "140",
             "ammo": "10",
             "mre": "110",
             "part": "10",
-            "input_level": "0",
-            "core": "0",
-            "item_num": "0",
-            "type": "0",
-            "fairy_id": "0",
-            "passive_skill": "0",
-            "quality_lv": "0",
-            "is_produce": "1"
+            "input_level": 0,
+            "core": 0,
+            "item_num": 0,
+            "is_produce": 1
         },
         "3": {
-            "build_slot": "3",
-            "user_id": "1993025",
-            "equip_id": "1",
-            "start_time": "1698276230",
+            "equip_id": "2",
+            "build_slot": 3,
+            "user_id": 1993025,
+            "start_time": 1698422237,
             "mp": "140",
             "ammo": "10",
             "mre": "110",
             "part": "10",
-            "input_level": "0",
-            "core": "0",
-            "item_num": "0",
-            "type": "0",
-            "fairy_id": "0",
-            "passive_skill": "0",
-            "quality_lv": "0",
-            "is_produce": "1"
+            "input_level": 0,
+            "core": 0,
+            "item_num": 0,
+            "is_produce": 1
         },
         "5": {
-            "build_slot": "5",
-            "user_id": "1993025",
-            "equip_id": "2",
-            "start_time": "1698276230",
+            "equip_id": "1",
+            "build_slot": 5,
+            "user_id": 1993025,
+            "start_time": 1698422237,
             "mp": "140",
             "ammo": "10",
             "mre": "110",
             "part": "10",
-            "input_level": "0",
-            "core": "0",
-            "item_num": "0",
-            "type": "0",
-            "fairy_id": "0",
-            "passive_skill": "0",
-            "quality_lv": "0",
-            "is_produce": "1"
+            "input_level": 0,
+            "core": 0,
+            "item_num": 0,
+            "is_produce": 1
         },
         "7": {
-            "build_slot": "7",
-            "user_id": "1993025",
             "equip_id": "1",
-            "start_time": "1698276230",
+            "build_slot": 7,
+            "user_id": 1993025,
+            "start_time": 1698422237,
             "mp": "140",
             "ammo": "10",
             "mre": "110",
             "part": "10",
-            "input_level": "0",
-            "core": "0",
-            "item_num": "0",
-            "type": "0",
-            "fairy_id": "0",
-            "passive_skill": "0",
-            "quality_lv": "0",
-            "is_produce": "1"
+            "input_level": 0,
+            "core": 0,
+            "item_num": 0,
+            "is_produce": 1
         },
         "9": {
-            "build_slot": "9",
-            "user_id": "1993025",
             "equip_id": "2",
-            "start_time": "1698276230",
+            "build_slot": 9,
+            "user_id": 1993025,
+            "start_time": 1698422237,
             "mp": "140",
             "ammo": "10",
             "mre": "110",
             "part": "10",
-            "input_level": "0",
-            "core": "0",
-            "item_num": "0",
-            "type": "0",
-            "fairy_id": "0",
-            "passive_skill": "0",
-            "quality_lv": "0",
-            "is_produce": "1"
+            "input_level": 0,
+            "core": 0,
+            "item_num": 0,
+            "is_produce": 1
         }
     },
     "develop_fairy_act_info": [],
@@ -45479,7 +45574,7 @@
             "furniture_id": "41020",
             "upgrade_establish_id": "0",
             "upgrade_starttime": "0",
-            "build_starttime": "1698419520",
+            "build_starttime": "1698505825",
             "build_num": "1",
             "build_tmp_data": "",
             "build_get_time": "0",
@@ -45502,7 +45597,7 @@
             "furniture_id": "41030",
             "upgrade_establish_id": "0",
             "upgrade_starttime": "0",
-            "build_starttime": "1698419520",
+            "build_starttime": "1698505825",
             "build_num": "1",
             "build_tmp_data": "",
             "build_get_time": "0",
@@ -45525,7 +45620,7 @@
             "furniture_id": "41040",
             "upgrade_establish_id": "0",
             "upgrade_starttime": "0",
-            "build_starttime": "1698419520",
+            "build_starttime": "1698505825",
             "build_num": "1",
             "build_tmp_data": "",
             "build_get_time": "0",
@@ -45548,7 +45643,7 @@
             "furniture_id": "41050",
             "upgrade_establish_id": "0",
             "upgrade_starttime": "0",
-            "build_starttime": "1698419520",
+            "build_starttime": "1698505825",
             "build_num": "1",
             "build_tmp_data": "",
             "build_get_time": "0",
@@ -47519,9 +47614,9 @@
     "squad_data_daily": [
         {
             "user_id": 1993025,
-            "squad_id": "10",
-            "type": "slay:normal",
-            "last_finish_time": "2023-10-28",
+            "squad_id": "2",
+            "type": "slay:optional",
+            "last_finish_time": "2023-10-29",
             "count": 0,
             "receive": 0
         }
@@ -48274,7 +48369,89 @@
                 "area_id": "2",
                 "target_id": "31",
                 "item_id": "0",
-                "draw_event_prize": "0"
+                "draw_event_prize": 1
+            },
+            {
+                "user_id": 1993025,
+                "start_time": 1698436868,
+                "end_time": 1698465668,
+                "cancel_time": 0,
+                "affairs": [
+                    {
+                        "affair_id": "4",
+                        "affair_time": "1698443276"
+                    },
+                    {
+                        "affair_id": "85",
+                        "affair_time": "1698447925"
+                    },
+                    {
+                        "affair_id": "79",
+                        "affair_time": "1698452665"
+                    },
+                    {
+                        "affair_id": "80",
+                        "affair_time": "1698463779"
+                    }
+                ],
+                "gun_ids": [
+                    "1017",
+                    "50"
+                ],
+                "pet_ids": [
+                    "2054"
+                ],
+                "area_id": "2",
+                "target_id": "29",
+                "draw_event_prize": 1,
+                "item_id": 0
+            },
+            {
+                "user_id": 1993025,
+                "start_time": 1698476468,
+                "end_time": 1698505268,
+                "cancel_time": 0,
+                "affairs": [
+                    {
+                        "affair_id": "85",
+                        "affair_time": "1698478013"
+                    },
+                    {
+                        "affair_id": "79",
+                        "affair_time": "1698480612"
+                    },
+                    {
+                        "affair_id": "14",
+                        "affair_time": "1698487839"
+                    },
+                    {
+                        "affair_id": "15",
+                        "affair_time": "1698490987"
+                    },
+                    {
+                        "affair_id": "4",
+                        "affair_time": "1698495480"
+                    },
+                    {
+                        "affair_id": "80",
+                        "affair_time": "1698498161"
+                    },
+                    {
+                        "affair_id": "82",
+                        "affair_time": "1698501648"
+                    }
+                ],
+                "gun_ids": [
+                    "1017",
+                    "50"
+                ],
+                "pet_ids": [
+                    "2054"
+                ],
+                "area_id": "2",
+                "target_id": "31",
+                "draw_event_prize": 1,
+                "item_id": 0
             }
         ],
         "next_time": 0,
@@ -48304,15 +48481,28 @@
             "0"
         ],
         "items_taken": [],
-        "next_explore_time": 1698436868,
-        "end_time": 1698426068,
+        "next_explore_time": 1698516068,
+        "end_time": 1698505268,
         "explore_time_type": "3",
-        "mp": "222186",
-        "ammo": "255248",
-        "mre": "301265",
-        "part": "187987"
+        "mp": "222166",
+        "ammo": "251898",
+        "mre": "298915",
+        "part": "189433"
     },
-    "theater_with_user_info": [],
+    "theater_with_user_info": {
+        "111": {
+            "user_id": 1993025,
+            "theater_id": "111",
+            "battle_pt": 56460,
+            "last_exercise_finish_time": 1698438228
+        },
+        "113": {
+            "user_id": 1993025,
+            "theater_id": "113",
+            "battle_pt": "12000",
+            "last_exercise_finish_time": 1698438389
+        }
+    },
     "commander_with_user_info": {
         "user_id": "1993025",
         "commander_emoji": "1",
@@ -56455,7 +56645,7 @@
             "max_dorm": "2",
             "headpic_id": "45",
             "frame_id": "0",
-            "homepage_time": 1698413716,
+            "homepage_time": 1698506293,
             "give_team_today": "1",
             "is_vehicle_visit": 0,
             "dorm_id": "1"
@@ -57295,7 +57485,7 @@
             "max_dorm": "11",
             "headpic_id": "1303",
             "frame_id": "100025",
-            "homepage_time": "1698396323",
+            "homepage_time": 1698499468,
             "give_team_today": "1",
             "is_vehicle_visit": "1",
             "dorm_id": "1"
@@ -57506,7 +57696,7 @@
             "headpic_id": "1248",
             "frame_id": "100003",
             "homepage_time": "1694099743",
-            "give_team_today": "1",
+            "give_team_today": 1,
             "is_vehicle_visit": 0,
             "dorm_id": "1"
         },
@@ -57548,7 +57738,7 @@
             "headpic_id": "1341",
             "frame_id": "100027",
             "homepage_time": "1696731953",
-            "give_team_today": "2",
+            "give_team_today": 2,
             "is_vehicle_visit": 0,
             "dorm_id": "1"
         },
@@ -57589,7 +57779,7 @@
             "max_dorm": "2",
             "headpic_id": "903",
             "frame_id": "100022",
-            "homepage_time": "1698330054",
+            "homepage_time": 1698501470,
             "give_team_today": "1",
             "is_vehicle_visit": 0,
             "dorm_id": "1"
@@ -57673,7 +57863,7 @@
             "max_dorm": "3",
             "headpic_id": "26",
             "frame_id": "100005",
-            "homepage_time": 1698418750,
+            "homepage_time": 1698505284,
             "give_team_today": "2",
             "is_vehicle_visit": "1",
             "dorm_id": "1"
@@ -57683,12 +57873,12 @@
             "end_time": 0,
             "f_userid": "1993687",
             "name": "??",
-            "lv": "70",
+            "lv": "75",
             "max_dorm": "2",
             "headpic_id": "1329",
             "frame_id": "100005",
-            "homepage_time": "1694066089",
-            "give_team_today": "1",
+            "homepage_time": 1698488613,
+            "give_team_today": 0,
             "is_vehicle_visit": 0,
             "dorm_id": "1"
         },
@@ -57711,12 +57901,12 @@
             "end_time": 0,
             "f_userid": "2105030",
             "name": "sjhs",
-            "lv": "109",
+            "lv": "110",
             "max_dorm": "8",
             "headpic_id": "75",
             "frame_id": "0",
-            "homepage_time": 1698419357,
-            "give_team_today": "1",
+            "homepage_time": 1698506542,
+            "give_team_today": 0,
             "is_vehicle_visit": "1",
             "dorm_id": "1"
         },
@@ -57785,7 +57975,7 @@
             "max_dorm": "5",
             "headpic_id": "808",
             "frame_id": "100009",
-            "homepage_time": "1697615935",
+            "homepage_time": 1698463136,
             "give_team_today": "1",
             "is_vehicle_visit": 0,
             "dorm_id": "1"
@@ -57813,8 +58003,8 @@
             "max_dorm": "8",
             "headpic_id": "1288",
             "frame_id": "100022",
-            "homepage_time": 1698406346,
-            "give_team_today": 2,
+            "homepage_time": 1698506835,
+            "give_team_today": 1,
             "is_vehicle_visit": "1",
             "dorm_id": "1"
         }
@@ -58239,13 +58429,13 @@
     ],
     "kalina_with_user_info": {
         "user_id": "1993025",
-        "click_num": "5",
-        "click_time": "1698419661",
+        "click_num": 0,
+        "click_time": 1698507106,
         "level": "17",
         "favor": "8937",
         "last_favor": "8867",
         "skin": "0",
-        "send_mail_time": "1698519600"
+        "send_mail_time": "1698606000"
     },
     "share_with_user_info": {
         "last_time": "1698591600"
@@ -60073,6 +60263,181 @@
             "special_effect": "0"
         },
         {
+            "id": "461020222",
+            "user_id": "1993025",
+            "gun_id": "25",
+            "gun_exp": "0",
+            "gun_level": "1",
+            "team_id": "0",
+            "if_modification": "0",
+            "location": "0",
+            "position": "0",
+            "life": "93",
+            "ammo": "5",
+            "mre": "10",
+            "pow": "0",
+            "hit": "0",
+            "dodge": "0",
+            "rate": "0",
+            "skill1": "1",
+            "skill2": "0",
+            "fix_end_time": "0",
+            "is_locked": "0",
+            "number": "1",
+            "equip1": "0",
+            "equip2": "0",
+            "equip3": "0",
+            "equip4": "0",
+            "favor": "500000",
+            "max_favor": "500000",
+            "favor_toplimit": "1000000",
+            "soul_bond": "0",
+            "skin": "0",
+            "can_click": "0",
+            "soul_bond_time": "0",
+            "special_effect": "0"
+        },
+        {
+            "id": "461020223",
+            "user_id": "1993025",
+            "gun_id": "23",
+            "gun_exp": "0",
+            "gun_level": "1",
+            "team_id": "0",
+            "if_modification": "0",
+            "location": "0",
+            "position": "0",
+            "life": "80",
+            "ammo": "5",
+            "mre": "10",
+            "pow": "0",
+            "hit": "0",
+            "dodge": "0",
+            "rate": "0",
+            "skill1": "1",
+            "skill2": "0",
+            "fix_end_time": "0",
+            "is_locked": "0",
+            "number": "1",
+            "equip1": "0",
+            "equip2": "0",
+            "equip3": "0",
+            "equip4": "0",
+            "favor": "500000",
+            "max_favor": "500000",
+            "favor_toplimit": "1000000",
+            "soul_bond": "0",
+            "skin": "0",
+            "can_click": "0",
+            "soul_bond_time": "0",
+            "special_effect": "0"
+        },
+        {
+            "id": "461020224",
+            "user_id": "1993025",
+            "gun_id": "17",
+            "gun_exp": "0",
+            "gun_level": "1",
+            "team_id": "0",
+            "if_modification": "0",
+            "location": "0",
+            "position": "0",
+            "life": "93",
+            "ammo": "5",
+            "mre": "10",
+            "pow": "0",
+            "hit": "0",
+            "dodge": "0",
+            "rate": "0",
+            "skill1": "1",
+            "skill2": "0",
+            "fix_end_time": "0",
+            "is_locked": "0",
+            "number": "1",
+            "equip1": "0",
+            "equip2": "0",
+            "equip3": "0",
+            "equip4": "0",
+            "favor": "500000",
+            "max_favor": "500000",
+            "favor_toplimit": "1000000",
+            "soul_bond": "0",
+            "skin": "0",
+            "can_click": "0",
+            "soul_bond_time": "0",
+            "special_effect": "0"
+        },
+        {
+            "id": "461020225",
+            "user_id": "1993025",
+            "gun_id": "24",
+            "gun_exp": "0",
+            "gun_level": "1",
+            "team_id": "0",
+            "if_modification": "0",
+            "location": "0",
+            "position": "0",
+            "life": "80",
+            "ammo": "5",
+            "mre": "10",
+            "pow": "0",
+            "hit": "0",
+            "dodge": "0",
+            "rate": "0",
+            "skill1": "1",
+            "skill2": "0",
+            "fix_end_time": "0",
+            "is_locked": "0",
+            "number": "1",
+            "equip1": "0",
+            "equip2": "0",
+            "equip3": "0",
+            "equip4": "0",
+            "favor": "500000",
+            "max_favor": "500000",
+            "favor_toplimit": "1000000",
+            "soul_bond": "0",
+            "skin": "0",
+            "can_click": "0",
+            "soul_bond_time": "0",
+            "special_effect": "0"
+        },
+        {
+            "id": "461020226",
+            "user_id": "1993025",
+            "gun_id": "363",
+            "gun_exp": "0",
+            "gun_level": "1",
+            "team_id": "0",
+            "if_modification": "0",
+            "location": "0",
+            "position": "0",
+            "life": "93",
+            "ammo": "5",
+            "mre": "10",
+            "pow": "0",
+            "hit": "0",
+            "dodge": "0",
+            "rate": "0",
+            "skill1": "1",
+            "skill2": "0",
+            "fix_end_time": "0",
+            "is_locked": "0",
+            "number": "1",
+            "equip1": "0",
+            "equip2": "0",
+            "equip3": "0",
+            "equip4": "0",
+            "favor": "500000",
+            "max_favor": "500000",
+            "favor_toplimit": "1000000",
+            "soul_bond": "0",
+            "skin": "0",
+            "can_click": "0",
+            "soul_bond_time": "0",
+            "special_effect": "0"
+        },
+        {
             "id": "402406682",
             "user_id": "1993025",
             "gun_id": "20010",
@@ -60083,8 +60448,8 @@
             "location": "4",
             "position": "8",
             "life": "335",
-            "ammo": "5",
-            "mre": "9",
+            "ammo": "0",
+            "mre": "0",
             "pow": "18",
             "hit": "52",
             "dodge": "88",
@@ -60118,8 +60483,8 @@
             "location": "5",
             "position": "13",
             "life": "1375",
-            "ammo": "5",
-            "mre": "9",
+            "ammo": "0",
+            "mre": "0",
             "pow": "14",
             "hit": "12",
             "dodge": "9",
@@ -60153,8 +60518,8 @@
             "location": "2",
             "position": "7",
             "life": "425",
-            "ammo": "5",
-            "mre": "9",
+            "ammo": "0",
+            "mre": "0",
             "pow": "75",
             "hit": "82",
             "dodge": "25",
@@ -60188,8 +60553,8 @@
             "location": "1",
             "position": "9",
             "life": "550",
-            "ammo": "5",
-            "mre": "9",
+            "ammo": "0",
+            "mre": "0",
             "pow": "38",
             "hit": "43",
             "dodge": "46",
@@ -60223,8 +60588,8 @@
             "location": "3",
             "position": "14",
             "life": "325",
-            "ammo": "5",
-            "mre": "9",
+            "ammo": "0",
+            "mre": "0",
             "pow": "21",
             "hit": "56",
             "dodge": "75",
@@ -60238,8 +60603,8 @@
             "equip2": "120829594",
             "equip3": "114937159",
             "equip4": "0",
-            "favor": "669474",
-            "max_favor": "669474",
+            "favor": "700168",
+            "max_favor": "700168",
             "favor_toplimit": "1000000",
             "soul_bond": "0",
             "skin": "0",
@@ -60308,8 +60673,8 @@
             "equip2": "120917801",
             "equip3": "119882326",
             "equip4": "0",
-            "favor": "1347484",
-            "max_favor": "1347484",
+            "favor": "1373692",
+            "max_favor": "1373692",
             "favor_toplimit": "1500000",
             "soul_bond": "1",
             "skin": "0",
@@ -60343,8 +60708,8 @@
             "equip2": "120829595",
             "equip3": "0",
             "equip4": "0",
-            "favor": "868609",
-            "max_favor": "880895",
+            "favor": "894817",
+            "max_favor": "894817",
             "favor_toplimit": "1000000",
             "soul_bond": "0",
             "skin": "0",
@@ -60378,8 +60743,8 @@
             "equip2": "0",
             "equip3": "0",
             "equip4": "0",
-            "favor": "790114",
-            "max_favor": "790114",
+            "favor": "816322",
+            "max_favor": "816322",
             "favor_toplimit": "1000000",
             "soul_bond": "0",
             "skin": "0",
@@ -60649,7 +61014,7 @@
             "hit": "0",
             "dodge": "0",
             "rate": "0",
-            "skill1": "6",
+            "skill1": "7",
             "skill2": "0",
             "fix_end_time": "0",
             "is_locked": "1",
@@ -61684,27 +62049,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 }
             ],
             "after_days": 0
@@ -61725,27 +62090,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 }
             ],
             "after_days": 0
@@ -61781,27 +62146,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 }
             ],
             "after_days": 0
@@ -61852,27 +62217,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 }
             ],
             "after_days": 0
@@ -61893,27 +62258,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 }
             ],
             "after_days": 0
@@ -61979,27 +62344,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 }
             ],
             "after_days": 0
@@ -62020,27 +62385,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 }
             ],
             "after_days": 0
@@ -62076,27 +62441,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 }
             ],
             "after_days": 0
@@ -62117,27 +62482,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 }
             ],
             "after_days": 0
@@ -62158,27 +62523,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 }
             ],
             "after_days": 0
@@ -62199,27 +62564,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 }
             ],
             "after_days": 0
@@ -62240,27 +62605,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 }
             ],
             "after_days": 0
@@ -62296,27 +62661,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 }
             ],
             "after_days": 0
@@ -62367,30 +62732,30 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1698505200"
+                    "draw_endtime": "1698591600"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1698505200
+                    "draw_endtime": 1698591600
                 }
             ],
-            "after_days": 8
+            "after_days": 9
         },
         "43": {
             "id": "43",
