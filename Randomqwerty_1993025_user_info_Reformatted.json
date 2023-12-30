@@ -27,7 +27,7 @@
         "max_sangvis": "100",
         "bp": "12",
         "bp_pay": "70",
-        "mp": "180217",
+        "mp": "180817",
         "ammo": "258384",
         "mre": "225557",
         "part": "226065",
@@ -35,13 +35,13 @@
         "monthlycard2_end_time": "0",
         "monthlycard3_end_time": "0",
         "growthfond": "0",
-        "last_recover_time": "1703302764",
+        "last_recover_time": "1703349204",
         "last_bp_recover_time": "1703257200",
-        "last_favor_recover_time": "1703302764",
+        "last_favor_recover_time": "1703349204",
         "last_monthlycard1_recover_time": "0",
         "last_monthlycard2_recover_time": "0",
         "last_monthlycard3_recover_time": "0",
-        "last_login_time": "1703302632",
+        "last_login_time": "1703349207",
         "reg_time": "1592437524",
         "gun_collect": "2,5,9,90,10,71,29,25,37,68,24,127,137,94,17,105,27,14,91,63,47,55,61,33,32,44,31,56,40,41,6,87,93,57,51,74,12,3,82,26,75,54,162,36,139,52,81,58,70,107,92,111,247,34,133,320,198,257,18,184,118,95,21,141,110,42,305,235,46,11,143,237,66,22,69,43,330,1022,8,99,114,1017,346,100,77,168,287,271,123,96,212,269,103,64,236,112,349,126,97,50,272,288,60,293,304,23,363,80,300,338,323,197,1,216,310,324,89,39,329,270,13,72,383,387,282,386,350,358,385,286,356,377,262,122,243,382,365,206,306,378,328,104,380,355,228,20055,20057,359,150,101,154,336,16,213,135,20046,376,20,390,364,20104,394,392,161,53,153,178,347,283,155,337,116,159,325,156,20010,20228,379,354,260,248,20012,20282,352,381,157,326,190,250,285,233,277,65,125,86,238,263,158,353,397,388,189,121,78",
         "equip_collect": "17,29,1,3,2,37,43,30,6,87,55,14,88,10,64,9,63,228,13,89,11,56,232,233,57,12,222,7,73,5,77,42,4,8,137,138,139,140,141,142,143,144,39,15,38,230,265,65,18,31,49,75,270,109,110,69,78,70,79,276,66,277,71,67,68,282,80,40,72,20,283,132,32,288,44,292,295,304,316,74,231,223,306,310,312,313,226,307,340,76,341,174,347,305,224,350,234,309,235,19,90,311,364,355,105,360,197,367,16",
@@ -52,7 +52,7 @@
         "material_available_num1": "160",
         "material_available_num2": "18",
         "dorm_max_score": "38000",
-        "last_ssoc_change_time": "1703299536",
+        "last_ssoc_change_time": "1703337984",
         "app_guard_id": "95329556569daa89bff23d3e36586ea8197b9cbe:1595556407749:TgIFAQ==",
         "app_guard_num": "5",
         "is_bind": "0",
@@ -41104,8 +41104,8 @@
         "user_id": "1993025",
         "mission_campaign": "13",
         "special_mission_campaign": "0",
-        "attendance_type1_day": 15,
-        "attendance_type1_time": 1703343600,
+        "attendance_type1_day": 16,
+        "attendance_type1_time": 1703430000,
         "attendance_type2_day": "1",
         "attendance_type2_time": "1696777200",
         "develop_lowrank_count": "1",
@@ -41156,7 +41156,7 @@
         "vehicle_update": "3030",
         "fairy_building_resource": "168000",
         "sangvis_duplicate_award_k": "3,0",
-        "last_energy_recover_time": 1703300400
+        "last_energy_recover_time": 1703347200
     },
     "user_adjutant_multi": {
         "single": [
@@ -46213,7 +46213,7 @@
             "furniture_id": "41021",
             "upgrade_establish_id": "0",
             "upgrade_starttime": "0",
-            "build_starttime": "1703288351",
+            "build_starttime": "1703349212",
             "build_num": "1",
             "build_tmp_data": "40101,600,600,102,2101",
             "build_get_time": "0",
@@ -46236,7 +46236,7 @@
             "furniture_id": "41031",
             "upgrade_establish_id": "0",
             "upgrade_starttime": "0",
-            "build_starttime": "1703288351",
+            "build_starttime": "1703349212",
             "build_num": "1",
             "build_tmp_data": "40201,600,600,103,2201",
             "build_get_time": "0",
@@ -46259,7 +46259,7 @@
             "furniture_id": "41041",
             "upgrade_establish_id": "0",
             "upgrade_starttime": "0",
-            "build_starttime": "1703288351",
+            "build_starttime": "1703349212",
             "build_num": "1",
             "build_tmp_data": "40401,600,600,104,3033",
             "build_get_time": "0",
@@ -46282,7 +46282,7 @@
             "furniture_id": "41051",
             "upgrade_establish_id": "0",
             "upgrade_starttime": "0",
-            "build_starttime": "1703288351",
+            "build_starttime": "1703349212",
             "build_num": "1",
             "build_tmp_data": "40501,600,600,105,3044",
             "build_get_time": "0",
@@ -48460,7 +48460,7 @@
             "user_id": 1993025,
             "squad_id": "2",
             "type": "slay:optional",
-            "last_finish_time": "2023-12-24",
+            "last_finish_time": "2023-12-25",
             "count": 0,
             "receive": 0
         }
@@ -49708,10 +49708,10 @@
             "0"
         ],
         "items_taken": [],
-        "next_explore_time": 1703355131,
+        "next_explore_time": 1703484731,
         "end_time": 1703095931,
         "explore_time_type": "3",
-        "mp": "180217",
+        "mp": "180817",
         "ammo": "258384",
         "mre": "225557",
         "part": "226065"
@@ -52166,15 +52166,6 @@
         {
             "user_id": 1993025,
             "order_id": 1,
-            "enemy_team_id": 6589210,
-            "fight_type": 0,
-            "fight_coef": "",
-            "fight_environment_group": "",
-            "is_lock": 0
-        },
-        {
-            "user_id": 1993025,
-            "order_id": 2,
             "enemy_team_id": 6589245,
             "fight_type": 0,
             "fight_coef": "",
@@ -52183,7 +52174,7 @@
         },
         {
             "user_id": 1993025,
-            "order_id": 3,
+            "order_id": 2,
             "enemy_team_id": 6589246,
             "fight_type": 0,
             "fight_coef": "",
@@ -52192,7 +52183,7 @@
         },
         {
             "user_id": 1993025,
-            "order_id": 4,
+            "order_id": 3,
             "enemy_team_id": 6589247,
             "fight_type": 0,
             "fight_coef": "",
@@ -52201,7 +52192,7 @@
         },
         {
             "user_id": 1993025,
-            "order_id": 5,
+            "order_id": 4,
             "enemy_team_id": 6589248,
             "fight_type": 0,
             "fight_coef": "",
@@ -52210,7 +52201,7 @@
         },
         {
             "user_id": 1993025,
-            "order_id": 6,
+            "order_id": 5,
             "enemy_team_id": 6589249,
             "fight_type": 0,
             "fight_coef": "",
@@ -52219,7 +52210,7 @@
         },
         {
             "user_id": 1993025,
-            "order_id": 7,
+            "order_id": 6,
             "enemy_team_id": 6589250,
             "fight_type": 0,
             "fight_coef": "",
@@ -57656,8 +57647,8 @@
             "max_dorm": "2",
             "headpic_id": "45",
             "frame_id": "0",
-            "homepage_time": 1703340223,
-            "give_team_today": "0",
+            "homepage_time": 1703474748,
+            "give_team_today": 0,
             "is_vehicle_visit": 0,
             "dorm_id": "1"
         },
@@ -57768,7 +57759,7 @@
             "max_dorm": "2",
             "headpic_id": "20",
             "frame_id": "100003",
-            "homepage_time": "1703211668",
+            "homepage_time": 1703387612,
             "give_team_today": "1",
             "is_vehicle_visit": 0,
             "dorm_id": "1"
@@ -58706,7 +58697,7 @@
             "max_dorm": "3",
             "headpic_id": "1248",
             "frame_id": "100003",
-            "homepage_time": 1703262579,
+            "homepage_time": 1703408637,
             "give_team_today": "1",
             "is_vehicle_visit": 0,
             "dorm_id": "1"
@@ -58790,7 +58781,7 @@
             "max_dorm": "2",
             "headpic_id": "903",
             "frame_id": "100022",
-            "homepage_time": 1703254165,
+            "homepage_time": 1703390418,
             "give_team_today": "1",
             "is_vehicle_visit": 0,
             "dorm_id": "1"
@@ -59014,8 +59005,8 @@
             "max_dorm": "8",
             "headpic_id": "50",
             "frame_id": "100034",
-            "homepage_time": 1703335040,
-            "give_team_today": 1,
+            "homepage_time": 1703472450,
+            "give_team_today": 2,
             "is_vehicle_visit": "1",
             "dorm_id": "1"
         }
@@ -59426,12 +59417,12 @@
     "kalina_with_user_info": {
         "user_id": "1993025",
         "click_num": 0,
-        "click_time": 1703349207,
+        "click_time": 1703475783,
         "level": "17",
         "favor": "9223",
         "last_favor": "8867",
         "skin": "0",
-        "send_mail_time": "1703358000"
+        "send_mail_time": "1703444400"
     },
     "share_with_user_info": {
         "last_time": "1702825200"
@@ -63150,27 +63141,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 }
             ],
             "after_days": 0
@@ -63191,27 +63182,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 }
             ],
             "after_days": 0
@@ -63247,27 +63238,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 }
             ],
             "after_days": 0
@@ -63318,27 +63309,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 }
             ],
             "after_days": 0
@@ -63359,27 +63350,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 }
             ],
             "after_days": 0
@@ -63445,27 +63436,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 }
             ],
             "after_days": 0
@@ -63486,27 +63477,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 }
             ],
             "after_days": 0
@@ -63542,27 +63533,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 }
             ],
             "after_days": 0
@@ -63583,27 +63574,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 }
             ],
             "after_days": 0
@@ -63624,27 +63615,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 }
             ],
             "after_days": 0
@@ -63665,27 +63656,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 }
             ],
             "after_days": 0
@@ -63706,27 +63697,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 }
             ],
             "after_days": 0
@@ -63762,27 +63753,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 }
             ],
             "after_days": 0
@@ -63833,27 +63824,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 }
             ],
             "after_days": 0
@@ -63904,27 +63895,27 @@
                 {
                     "draw_event_id": "400",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "401",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "402",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 },
                 {
                     "draw_event_id": "403",
                     "draw_num": "0",
-                    "draw_endtime": "1703430000"
+                    "draw_endtime": "1703516400"
                 },
                 {
                     "draw_event_id": "404",
                     "draw_num": 0,
-                    "draw_endtime": 1703430000
+                    "draw_endtime": 1703516400
                 }
             ],
             "after_days": 0
