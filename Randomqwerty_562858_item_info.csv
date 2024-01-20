@@ -1,19 +1,19 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,3860
-item-31,Basic Training Data,10530
-item-32,Intermediate Training Data,10784
-item-33,Advanced Training Data,9417
+item-10,Dummy Core,3897
+item-31,Basic Training Data,10830
+item-32,Intermediate Training Data,11084
+item-33,Advanced Training Data,9717
 -1,kalina_level,29
 -1,kalina_favor,110353
-item-1,T-Doll Contract,329
-item-2,Equipment Contract,299
-item-3,Quick Production Contract,329
-item-4,Quick Repair Contract,7447
+item-1,T-Doll Contract,325
+item-2,Equipment Contract,315
+item-3,Quick Production Contract,346
+item-4,Quick Repair Contract,7445
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
-item-8,Quick Training Contract,127
-item-9,Enhancement Capsule,1889
+item-8,Quick Training Contract,132
+item-9,Enhancement Capsule,1934
 item-11,Key Card,0
 item-12,Points,0
 item-14,Original Sample,3150
@@ -23,9 +23,9 @@ item-17,Data Patch,801
 item-41,Token,4150
 item-42,Exchange Ticket,0
 item-43,Black Card,20
-item-44,Calibration Ticket,1029
+item-44,Calibration Ticket,1149
 item-45,Memory Fragment,8789
-item-46,Special Combat Report,18873
+item-46,Special Combat Report,18923
 item-47,Theater Material,2
 item-50,Universal Parts,1204
 item-51,New Type Fire-Control Component,19
@@ -56,8 +56,8 @@ item-306,Central Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Central Data: PP93,0
 item-309,Central Data: Mk 47,0
-item-506,Battery,7613
-item-507,Surplus EXP,135786
+item-506,Battery,7673
+item-507,Surplus EXP,786658
 item-508,Friendship Points,27180
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
@@ -65,7 +65,7 @@ item-512,Supernova Kernel,1820
 item-513,Dark Star Kernel,30500
 item-514,Petri Dish,11391
 item-515,Basic Training Keycode,43268
-item-516,Advanced Training Keycode,16662
+item-516,Advanced Training Keycode,16062
 item-517,Specified Equipment Contract,0
 item-519,HOC General Data,385
 item-520,Frag Grenade,7
@@ -550,9 +550,9 @@ item-10603,Extra Potential Energy,3
 item-10604,Extra Impulse,23
 item-10605,Level of Activity,290
 item-10606,Frontline Protocol Advanced Card,1640
-item-10702,Exploration Permit,2516
+item-10702,Exploration Permit,2225
 item-10703,Gray Zone Exploration Score,10106
-item-10704,Gray Zone Exploration Score,5730
+item-10704,Gray Zone Exploration Score,9140
 item-100009,Crown of Respect,20
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -655,9 +655,9 @@ item-100167,Nova Medal: One Coin Short,2
 item-100168,Platinum Medal: One Coin Short,0
 item-100175,Kotaro Coin,10
 item-100176,Platinum Medal – The Glistening Bloom,3
-item-100180,Supply Box - Slow Shock,0
+item-100180,Supply Box - Slow Shock,15
 item-100181,Nova Medal - Slow Shock,3
-item-100182,Platinum Medal - Slow Shock,235
+item-100182,Platinum Medal - Slow Shock,245
 item-100183,True Core Mask - Slow Shock,1
 item-100184,Corrupted Heart Mask - Slow Shock,0
 item-110006,Event Points,2570
@@ -679,7 +679,7 @@ item-110021,Event Points,2440
 item-110022,Event Points,3000
 item-110023,Event Points,2500
 item-110024,Event Points,2500
-item-110025,Event Points,2340
+item-110025,Event Points,2440
 item-110039,Event Points,67522347
 item-110041,Event Points,6110241
 item-110043,Event Points,24668382
@@ -760,6 +760,7 @@ item-1500077,Frontline Protocol - Extra Prize,0
 item-1500084,Frontline Protocol - Extra Prize,0
 item-1500094,Frontline Protocol - Extra Prize,0
 item-1500098,Frontline Protocol - Extra Prize,0
+item-1500073,Advanced Exclusive Equipment Selection Indicator,0
 gift-100001,Lollipop,340
 gift-100002,Ice Cream Cone,186
 gift-100003,Strawberry Custard Cheesecake,796
@@ -770,7 +771,7 @@ gift-100008,Eden's Apple,10
 gift-100015,Rubber Fragments,1
 gift-100016,Crunchy Dark Chocolate Shell,1
 gift-100021,Dance Is My Legend,10
-gift-200001,Combat Report,12003
+gift-200001,Combat Report,12103
 gift-200003,Beer on Discount,21
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,60
