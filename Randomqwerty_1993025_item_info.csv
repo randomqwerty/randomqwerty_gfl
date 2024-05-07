@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2020-06-17 19:45:24
-item-10,Dummy Core,1638
+item-10,Dummy Core,1664
 item-31,Basic Training Data,4338
 item-32,Intermediate Training Data,5543
 item-33,Advanced Training Data,8179
 -1,kalina_level,17
--1,kalina_favor,9323
-item-1,T-Doll Contract,15
-item-2,Equipment Contract,523
-item-3,Quick Production Contract,280
-item-4,Quick Repair Contract,1241
+-1,kalina_favor,9348
+item-1,T-Doll Contract,17
+item-2,Equipment Contract,531
+item-3,Quick Production Contract,297
+item-4,Quick Repair Contract,1249
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,25
-item-9,Enhancement Capsule,997
+item-9,Enhancement Capsule,995
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,1480
-item-15,Pure Sample,250
-item-16,Quick Analysis Contract,92
+item-14,Original Sample,1540
+item-15,Pure Sample,320
+item-16,Quick Analysis Contract,93
 item-17,Data Patch,0
-item-41,Token,488
+item-41,Token,499
 item-42,Exchange Ticket,0
-item-44,Calibration Ticket,5132
-item-45,Memory Fragment,3926
+item-44,Calibration Ticket,5162
+item-45,Memory Fragment,4156
 item-46,Special Combat Report,406
 item-47,Theater Material,11335
-item-50,Universal Parts,1491
-item-51,New Type Fire-Control Component,21
+item-50,Universal Parts,2697
+item-51,New Type Fire-Control Component,23
 item-57,Energy,4000
 item-60,Component Processing Package,0
 item-105,Sangvis-Griffin Coalition Medal,2
@@ -43,10 +43,10 @@ item-306,Central Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Central Data: PP93,0
 item-310,Core Data: RPG-29,0
-item-506,Battery,2398
+item-506,Battery,3594
 item-507,Surplus EXP,140552
-item-508,Friendship Points,6110
-item-509,Fairy Command,85
+item-508,Friendship Points,6270
+item-509,Fairy Command,140
 item-512,Supernova Kernel,420
 item-513,Dark Star Kernel,24500
 item-514,Petri Dish,2405
@@ -62,7 +62,7 @@ item-532,item-10000532,3
 item-533,item-10000533,11
 item-534,item-10000534,19
 item-601,Infinite Surprise Dye,22
-item-603,Potential Energy,12
+item-603,Potential Energy,0
 item-604,Electronic Impulse,3
 item-605,Aid Commission,43
 item-606,Transfer Catalyst,127
@@ -112,21 +112,21 @@ item-2296,ID: Endless Song,1
 item-2297,ID: Silent Port of Spirits,1
 item-2298,ID: Dawn is Nigh,1
 item-2299,Background: Phonograph Museum,1
-item-4001,City's Gift,26819
-item-4002,Snowfield's Gift,3695
-item-4003,Forest's Gift,39437
-item-4004,Wasteland's Gift,7
-item-6001,Ordinary Meat Bun,44
-item-6002,Bundle of Meat Buns,38
+item-4001,City's Gift,24885
+item-4002,Snowfield's Gift,1011
+item-4003,Forest's Gift,36743
+item-4004,Wasteland's Gift,73
+item-6001,Ordinary Meat Bun,45
+item-6002,Bundle of Meat Buns,39
 item-6003,Trove of Meat Buns,80
 item-6004,Commonfolk Standard,30
-item-6005,Comfort Bucket for One,22
+item-6005,Comfort Bucket for One,23
 item-6006,Full Meal for Two,39
-item-6007,Strawberry Cheesecake Slice,28
+item-6007,Strawberry Cheesecake Slice,29
 item-6008,One Week's Cake Selection,24
 item-6009,Sweet Explosives,55
 item-6010,"Baby  B-A-B-Y.",31
-item-6011,Streetside Oden,36
+item-6011,Streetside Oden,37
 item-6012,Wild Honeycomb,30
 item-6013,Icy Theater,30
 item-8001,Intel Points,2910
@@ -139,8 +139,8 @@ item-9042,Doll Lubricating Oil,0
 item-9043,Lost in Thoughts PT,316000
 item-10603,Extra Potential Energy,27
 item-10604,Extra Impulse,48
-item-10605,Level of Activity,10
-item-10606,Frontline Protocol Advanced Card,10
+item-10605,Level of Activity,30
+item-10606,Frontline Protocol Advanced Card,40
 item-10702,Exploration Permit,973
 item-10703,Gray Zone Exploration Score,90
 item-10705,Gray Zone Exploration Score,1058
@@ -197,7 +197,7 @@ item-100206,item-10100206,74
 item-100211,item-10100211,0
 item-100212,item-10100212,5
 item-100213,item-10100213,12
-item-100214,item-10100214,61
+item-100214,item-10100214,1
 item-100215,item-10100215,0
 item-110036,Event Points,10
 item-110038,Event Points,960
@@ -236,11 +236,11 @@ gift-100003,Strawberry Custard Cheesecake,289
 gift-100013,Reindeer Head Gear,1
 gift-100014,Shark Volleyball,1
 gift-100015,Rubber Fragments,1
-gift-200001,Combat Report,5534
+gift-200001,Combat Report,6534
 gift-200011,Helm of the Dark Rider,1
 gift-200012,Searing Light Orb,2
 gift-200017,Sugar-Free Dinergate,1
-gift-400001,Rapid Growth Disk,5464
+gift-400001,Rapid Growth Disk,5600
 furniture-10102,Simple Workbench,2
 furniture-10201,Plain Cat Bed,1
 furniture-10302,Simple Doghouse,2
