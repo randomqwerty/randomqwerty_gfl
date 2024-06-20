@@ -21,7 +21,7 @@
 12325193,58,X Exo (Body),★★★★★,IOP X4 Exoskeleton,192687967,ZiP .22,-,-,20,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,4,Locked
 12407611,58,X Exo (Body),★★★★★,IOP X4 Exoskeleton,-,-,-,-,8.7596,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
 12482181,16,PEQ (Acc),★★★★★,PEQ-16A,139188036,416 Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,16,Locked
-12482183,44,Plate (Body),★★★★★,Type 3 Armor Plate,214319991,FO-12,-,-,-2,-,-,-,-,-,11,-,-,-,-,-,10075,10,MAX,6,Locked
+12482183,44,Plate (Body),★★★★★,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,11,-,-,-,-,-,10075,10,MAX,6,Locked
 12588291,76,Buck (Shell),★★★★★,#000 Buckshot,-,-,7.4128,-,-,-,-,-,12.7480%,-,-,-,-,-,-,-,0,0,,0,Locked
 12608856,49,PEQ (Acc),★★★★★,16Lab Infrared Designator,192687967,ZiP .22,-,-,-,-,-,-,-,-,-,-,-,-,100.0000%,-,0,0,MAX,0,Locked
 12653275,50,AP (Ammo),★★★★★,16Lab Sub-Caliber Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180.0000,-,-,-,-,-,-,10125,10,MAX,0,Locked
@@ -80,7 +80,7 @@
 19431722,20,AP (Ammo),★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,MAX,15,Locked
 19440882,40,T Exo (Body),★★★★★,IOP T4 Exoskeleton,210191595,P10C,-8,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,,1,Locked
 19441670,66,Supp (Silencer),★★★★★,AC4 Suppressor,-,-,-,-,10,-,-,20%,-,-,-,-,-,-,-,-,10000,10,MAX,9,Locked
-19452214,68,MG Box (Body),★★★★★,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10000,10,MAX,2,Locked
+19452214,68,MG Box (Body),★★★★★,IOP Maximum Ammo Box,175592147,Gr MG4 Mod,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10000,10,MAX,2,Locked
 19454817,32,HV (Ammo),★★★★★,APCR High-Velocity Ammo,56401056,Ribeyrolles Mod,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,2,Locked
 19587364,8,EOT (Holographic),★★★★★,EOT 518,-,-,8,14,-,-,-4,-,-,-,-,-,-,-,-,-,10000,10,MAX,7,Locked
 19588262,4,Optical (Acc),★★★★★,VFL 6-24X56,215192271,EVO 3,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,9,Locked
@@ -546,7 +546,7 @@
 42040445,219,Sp. Eq (Exclusive),★★★★★,Experimental Curved Barrel,-,-,4,-,20,-,-,-,-,-,-,-,-,-,-,-,30000,10,MAX,6,Locked
 42040446,272,Sp. Eq (Exclusive),★★★★★,Tokarev Jacketed Hollowpoint Rounds,-,-,20,-,-,-,-,-,-,-7,-,-,-,-,-,-,30000,10,MAX,16,Locked
 42040451,156,Sp. Eq (Exclusive),★★★★★,AMP COMPSP,55674043,UMP9 Mod,5.2506,8.0072,10.0000,-,-,-,-,-,-,-,-,-,-,-,1,0,,0,Locked
-42040471,333,Sp. Eq (Exclusive),★★★★★,M2 Tripod Mk2,-,-,10,-,-,-1,-,-,-,-,-,-,-,-,-,-,30000,10,MAX,6,Locked
+42040471,333,Sp. Eq (Exclusive),★★★★★,M2 Tripod Mk2,99763525,M1919A4 Mod,10,-,-,-1,-,-,-,-,-,-,-,-,-,-,30000,10,MAX,6,Locked
 42043219,92,Sp. Eq (Exclusive),★★★★★,UMP UX Exoskeleton,-,-,-,-,28.2,-,-,-,18.0%,-,-,-,-,-,-,-,8400,6,,2,Locked
 42058988,342,Sp. Eq (Exclusive),★★★★★,Type 57 Signal Flare,-,-,-,7.1656,-,-,-,-,-,-,-,-,-,-,-,-,1,0,,0,Locked
 42061772,225,Flare (Ammo),★★★★★,Signal Flare,-,-,-,-,-,-,-2.1028,-,-,-,-,-,-,-,-,-,1,0,,0,Locked
@@ -613,4 +613,5 @@
 42494726,32,HV (Ammo),★★★★★,APCR High-Velocity Ammo,-,-,9.6384,-,-,-,-,-,-,-,-,-,-,-,-,-,1,0,,0,Locked
 42500519,32,HV (Ammo),★★★★★,APCR High-Velocity Ammo,-,-,9.8904,-,-,-,-,-,-,-,-,-,-,-,-,-,1,0,,0,Locked
 42501077,32,HV (Ammo),★★★★★,APCR High-Velocity Ammo,-,-,8.4116,-,-,-,-,-,-,-,-,-,-,-,-,-,1,0,,0,Locked
-42508953,366,Sp. Eq (Exclusive),★★★★★,.30-64 Rounds,-,-,-,-,-,-,-,-,3.3934%,245.9085,-,-,-,-,-,-,1,0,,0,Locked
+42508953,366,Sp. Eq (Exclusive),★★★★★,.30-64 Rounds,99763525,M1919A4 Mod,-,-,-,-,-,-,10%,500,-,-,-,-,-,-,30000,10,MAX,16,Locked
+42513729,220,Sp. Eq (Exclusive),★★★★★,Special Steel Buttstock,99763525,M1919A4 Mod,-,32,-,-,-,30.0000%,10%,-,-,-,-,-,-,-,30000,10,MAX,16,Locked
