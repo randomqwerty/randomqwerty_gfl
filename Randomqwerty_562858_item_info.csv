@@ -1,38 +1,38 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,4878
-item-31,Basic Training Data,8462
-item-32,Intermediate Training Data,9250
-item-33,Advanced Training Data,10155
+item-10,Dummy Core,4994
+item-31,Basic Training Data,8987
+item-32,Intermediate Training Data,9675
+item-33,Advanced Training Data,10580
 -1,kalina_level,29
--1,kalina_favor,123481
-item-1,T-Doll Contract,950
-item-2,Equipment Contract,940
-item-3,Quick Production Contract,1022
-item-4,Quick Repair Contract,9024
+-1,kalina_favor,123546
+item-1,T-Doll Contract,955
+item-2,Equipment Contract,993
+item-3,Quick Production Contract,1021
+item-4,Quick Repair Contract,9071
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,2
-item-8,Quick Training Contract,375
-item-9,Enhancement Capsule,4973
+item-8,Quick Training Contract,384
+item-9,Enhancement Capsule,5018
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,2
-item-14,Original Sample,115676
-item-15,Pure Sample,136335
-item-16,Quick Analysis Contract,413
+item-14,Original Sample,116046
+item-15,Pure Sample,136465
+item-16,Quick Analysis Contract,426
 item-17,Data Patch,0
-item-41,Token,6032
+item-41,Token,6048
 item-42,Exchange Ticket,0
 item-43,Black Card,15
-item-44,Calibration Ticket,4579
-item-45,Memory Fragment,409
-item-46,Special Combat Report,22698
-item-47,Theater Material,34265
-item-50,Universal Parts,2463
-item-51,New Type Fire-Control Component,36
+item-44,Calibration Ticket,4784
+item-45,Memory Fragment,849
+item-46,Special Combat Report,23093
+item-47,Theater Material,3
+item-50,Universal Parts,2474
+item-51,New Type Fire-Control Component,41
 item-53,Gachapon Ticket,35
 item-57,Energy,4000
-item-60,Component Processing Package,12157
+item-60,Component Processing Package,11830
 item-100,Elite Griffin Combat Medal,10
 item-101,Combat Ranking Medal,129
 item-103,Challenger Medal,42
@@ -65,15 +65,15 @@ item-307,Central Data: Mk 153,0
 item-308,Central Data: PP93,0
 item-309,Central Data: Mk 47,22
 item-310,Core Data: RPG-29,0
-item-506,Battery,7805
-item-507,Surplus EXP,167428
-item-508,Friendship Points,1210
+item-506,Battery,7027
+item-507,Surplus EXP,182280
+item-508,Friendship Points,2160
 item-509,Fairy Command,1200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1620
 item-513,Dark Star Kernel,42950
-item-514,Petri Dish,14611
-item-515,Basic Training Keycode,36313
+item-514,Petri Dish,14755
+item-515,Basic Training Keycode,36393
 item-516,Advanced Training Keycode,23525
 item-517,Specified Equipment Contract,0
 item-519,HOC General Data,0
@@ -82,13 +82,13 @@ item-521,Stun Grenade,37
 item-522,Turret,21
 item-523,G&K,1
 item-524,Goliath Projectile,1
-item-525,Quick Auto-Battle Contract,2397
+item-525,Quick Auto-Battle Contract,2361
 item-528,Heart Rate Tool,100
 item-530,Signal Tool,65
-item-601,Infinite Surprise Dye,256
+item-601,Infinite Surprise Dye,258
 item-602,Colorful Specified Dye,5
 item-603,Potential Energy,0
-item-604,Electronic Impulse,2
+item-604,Electronic Impulse,0
 item-605,Aid Commission,31
 item-606,Transfer Catalyst,580
 item-1001,AAT-52 Icon,1
@@ -182,6 +182,7 @@ item-1183,Vector Icon,1
 item-1184,Spitfire Icon,1
 item-1185,Kar98k,1
 item-1186,M4A1,1
+item-1188,Halloween,1
 item-1213,Base Background: A Corner on Christmas Eve,1
 item-1222,Icon: Tactical Ferret,1
 item-1223,Icon: Griffin Christmas Emblem,1
@@ -580,7 +581,7 @@ item-6005,Comfort Bucket for One,41
 item-6006,Full Meal for Two,30
 item-6007,Strawberry Cheesecake Slice,117
 item-6008,One Week's Cake Selection,29
-item-6009,Sweet Explosives,50
+item-6009,Sweet Explosives,51
 item-6010,"Baby  B-A-B-Y.",93
 item-6011,Streetside Oden,106
 item-6012,Wild Honeycomb,86
@@ -623,9 +624,9 @@ item-9036,Intricate Mechanical Core,2
 item-9038,Fragmented Visual Data,3
 item-10603,Extra Potential Energy,0
 item-10604,Extra Impulse,47
-item-10605,Level of Activity,370
-item-10606,Frontline Protocol Advanced Card,860
-item-10702,Exploration Permit,1789
+item-10605,Level of Activity,170
+item-10606,Frontline Protocol Advanced Card,1090
+item-10702,Exploration Permit,1916
 item-10703,Gray Zone Exploration Score,10106
 item-10704,Gray Zone Exploration Score,10010
 item-10705,Gray Zone Exploration Score,6012
@@ -633,7 +634,7 @@ item-10706,Gray Zone Exploration Score,10018
 item-10707,Gray Zone Exploration Score,41602
 item-10708,Gray Zone Exploration Score,20730
 item-10709,Gray Zone Exploration Score,16200
-item-10710,Gray Zone Exploration Score,12180
+item-10710,Gray Zone Exploration Score,13290
 item-100009,Crown of Respect,20
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -873,6 +874,7 @@ item-200031,Icon Frame - Dark Purple Tribute,1
 item-200033,Icon Frame - Fearless Honor,1
 item-200035,Icon Frame - Twilight's Salute,1
 item-200037,Icon Frame - Ignition Source,1
+item-200038,Icon Frame - Wild Goose Honk,1
 item-900030,Nova Medal,4
 item-900032,Nova Medal,3
 item-900033,Platinum Medal,103
@@ -965,11 +967,15 @@ item-1800005,Standard-Grade Component Box,0
 item-1800006,High-Precision Heavy Weapon Universal Component Box,0
 item-1800007,High-Precision Light Weapon Universal Component Box,0
 item-1800008,Military-Grade Weapon Component Box 2.0,0
-item-1800009,Military-Grade Function Component Box 2.0,0
-item-1188,Halloween,1
-item-200038,Icon Frame - Wild Goose Honk,1
+item-1800009,Military-Grade Function Component Box 2.0,1
+item-100214,item-10100214,60
+item-100212,item-10100212,84
+item-100213,item-10100213,472
+item-135,Theater 12 Conqueror Medal,1
+item-100215,item-10100215,0
+item-132,item-10000132,1
 gift-100001,Lollipop,360
-gift-100002,Ice Cream Cone,224
+gift-100002,Ice Cream Cone,225
 gift-100003,Strawberry Custard Cheesecake,791
 gift-100005,Mulan Tea,22
 gift-100006,Magic of Happiness,25
@@ -985,7 +991,7 @@ gift-100018,Crunchy Cocoa Shell,2
 gift-100019,Barking Dessert,2
 gift-100021,Dance Is My Legend,10
 gift-100022,Slightly Bitter Pudding,10
-gift-200001,Combat Report,43988
+gift-200001,Combat Report,44589
 gift-200003,Beer on Discount,21
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,60
@@ -1005,7 +1011,7 @@ gift-200019,Fish Hunt Charge 4K,3
 gift-200020,Fish Hunt Surfboard,2
 gift-200021,Sounding Good In Saga,10
 gift-200022,Electronic Fragment,10
-gift-400001,Rapid Growth Disk,14539
+gift-400001,Rapid Growth Disk,14679
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
