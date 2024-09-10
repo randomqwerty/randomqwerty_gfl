@@ -1,41 +1,41 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 18:01:08
-item-10,Dummy Core,7461
-item-31,Basic Training Data,17479
-item-32,Intermediate Training Data,10307
-item-33,Advanced Training Data,14271
+item-10,Dummy Core,7401
+item-31,Basic Training Data,7249
+item-32,Intermediate Training Data,5477
+item-33,Advanced Training Data,9416
 -1,kalina_level,26
--1,kalina_favor,63156
-item-1,T-Doll Contract,1864
-item-2,Equipment Contract,7716
-item-3,Quick Production Contract,1935
-item-4,Quick Repair Contract,9777
+-1,kalina_favor,64326
+item-1,T-Doll Contract,1919
+item-2,Equipment Contract,8008
+item-3,Quick Production Contract,1924
+item-4,Quick Repair Contract,10050
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,9
-item-8,Quick Training Contract,532
-item-9,Enhancement Capsule,8329
+item-8,Quick Training Contract,537
+item-9,Enhancement Capsule,8248
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,1
-item-14,Original Sample,16309
-item-15,Pure Sample,55409
-item-16,Quick Analysis Contract,321
+item-14,Original Sample,20909
+item-15,Pure Sample,57734
+item-16,Quick Analysis Contract,378
 item-17,Data Patch,0
-item-41,Token,8563
+item-41,Token,7169
 item-42,Exchange Ticket,0
-item-43,Black Card,25
-item-44,Calibration Ticket,8588
-item-45,Memory Fragment,8459
-item-46,Special Combat Report,15655
-item-47,Theater Material,3
-item-50,Universal Parts,3344
-item-51,New Type Fire-Control Component,78
+item-43,Black Card,20
+item-44,Calibration Ticket,7828
+item-45,Memory Fragment,7249
+item-46,Special Combat Report,16255
+item-47,Theater Material,0
+item-50,Universal Parts,3168
+item-51,New Type Fire-Control Component,76
 item-53,Gachapon Ticket,90
-item-57,Energy,17000
-item-60,Component Processing Package,0
+item-57,Energy,13160
+item-60,Component Processing Package,2577
 item-100,Elite Griffin Combat Medal,8
 item-101,Combat Ranking Medal,119
-item-103,Challenger Medal,37
+item-103,Challenger Medal,38
 item-104,Elite Adventurer Medal,5
 item-105,Sangvis-Griffin Coalition Medal,10
 item-106,Chess Champion Medal,159
@@ -57,8 +57,10 @@ item-121,Navigator of the Deep Lake,1
 item-122,Snow Line in the Sea Medal,1
 item-128,Theater 11 Pioneer Medal,1
 item-129,Theater 11 Conqueror Medal,1
-item-131,item-10000131,1
+item-131,Mirror Image Recurser Medal,1
+item-132,Time Redeemer Medal,1
 item-134,Theater 12 Pioneer Medal,1
+item-135,Theater 12 Conqueror Medal,1
 item-302,Central Data: AGS-30,0
 item-304,Central Data: M2,0
 item-305,Central Data: AT4,0
@@ -67,16 +69,16 @@ item-307,Central Data: Mk 153,0
 item-308,Central Data: PP93,0
 item-309,Central Data: Mk 47,22
 item-310,Core Data: RPG-29,25
-item-506,Battery,8494
-item-507,Surplus EXP,1113010
-item-508,Friendship Points,9060
-item-509,Fairy Command,195
+item-506,Battery,7792
+item-507,Surplus EXP,2733
+item-508,Friendship Points,4800
+item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
-item-512,Supernova Kernel,1750
-item-513,Dark Star Kernel,88825
-item-514,Petri Dish,22299
-item-515,Basic Training Keycode,48297
-item-516,Advanced Training Keycode,34379
+item-512,Supernova Kernel,1800
+item-513,Dark Star Kernel,88075
+item-514,Petri Dish,18351
+item-515,Basic Training Keycode,48617
+item-516,Advanced Training Keycode,42289
 item-517,Specified Equipment Contract,0
 item-519,HOC General Data,0
 item-520,Frag Grenade,38
@@ -84,15 +86,15 @@ item-521,Stun Grenade,32
 item-522,Turret,15
 item-523,G&K,1
 item-524,Goliath Projectile,1
-item-525,Quick Auto-Battle Contract,2009
+item-525,Quick Auto-Battle Contract,2057
 item-528,Heart Rate Tool,50
 item-530,Signal Tool,90
-item-601,Infinite Surprise Dye,188
+item-601,Infinite Surprise Dye,194
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
-item-604,Electronic Impulse,7
-item-605,Aid Commission,118
-item-606,Transfer Catalyst,783
+item-604,Electronic Impulse,3
+item-605,Aid Commission,126
+item-606,Transfer Catalyst,861
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
 item-1003,IDW Icon,1
@@ -169,6 +171,8 @@ item-1181,S.A.T.8 Icon,1
 item-1182,USAS-12 Icon,1
 item-1185,Kar98k,1
 item-1186,M4A1,1
+item-1187,M16A1,1
+item-1188,Halloween,1
 item-1189,Dinergate,1
 item-1212,Icon: Korvatunturi Pixie,1
 item-1222,Icon: Tactical Ferret,1
@@ -316,6 +320,7 @@ item-1763,ID: City of Tomorrow,1
 item-1764,ID: First Light,1
 item-1765,ID: Cold Shelter,1
 item-1766,Background: Safe House,1
+item-1768,PP-19 Neural Upgrade Icon,1
 item-1770,Icon: Spring,1
 item-1771,Icon: Summer,1
 item-1772,Icon: Fall,1
@@ -395,6 +400,7 @@ item-2016,Icon: Best Partner,2
 item-2017,Icon: Setting Sail,1
 item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
+item-2021,AN-94 Neural Upgrade Icon,1
 item-2023,AK-15 Neural Upgrade Icon,1
 item-2028,Icon: Clandestine Sniping,1
 item-2029,Icon: All-Sugar Cake,1
@@ -418,6 +424,7 @@ item-2076,MG3 Neural Upgrade Icon,1
 item-2079,Cerberus Icon,1
 item-2089,ID: Party All Night Long,1
 item-2109,Alina - Mosasaur Rider Icon,1
+item-2110,Jaws Paradise Icon,1
 item-2111,Icon: First Ever Lycan Tour!,1
 item-2112,Icon: Overheat!,1
 item-2113,Icon: No-Melt Snowball,1
@@ -509,22 +516,31 @@ item-2424,ID: Stinging Truth,1
 item-2425,ID: End of the World,1
 item-2426,ID: Cold Wonderland,1
 item-2427,Background: Tachikoma's Daily Life,1
-item-4001,City's Gift,44269
-item-4002,Snowfield's Gift,24410
-item-4003,Forest's Gift,74886
-item-4004,Wasteland's Gift,9390
-item-6001,Ordinary Meat Bun,38
-item-6002,Bundle of Meat Buns,42
-item-6003,Trove of Meat Buns,60
+item-2432,VHS Icon,1
+item-2433,ID: Cool Girls Don't Look at Explosions!,1
+item-2476,Icon: Keeper of the Keys,1
+item-2477,Icon: A Gaze Frozen in Time,1
+item-2478,Icon: Metamorphosis,1
+item-2479,ID: A Letter from Erma,1
+item-2480,ID: Up the Stairway to the World,1
+item-2481,ID: Ascension,1
+item-2482,Background: Private Cell,1
+item-4001,City's Gift,23614
+item-4002,Snowfield's Gift,36209
+item-4003,Forest's Gift,77023
+item-4004,Wasteland's Gift,11040
+item-6001,Ordinary Meat Bun,40
+item-6002,Bundle of Meat Buns,43
+item-6003,Trove of Meat Buns,64
 item-6004,Commonfolk Standard,46
 item-6005,Comfort Bucket for One,50
-item-6006,Full Meal for Two,33
-item-6007,Strawberry Cheesecake Slice,78
-item-6008,One Week's Cake Selection,71
-item-6009,Sweet Explosives,217
-item-6010,"Baby  B-A-B-Y.",41
+item-6006,Full Meal for Two,34
+item-6007,Strawberry Cheesecake Slice,83
+item-6008,One Week's Cake Selection,74
+item-6009,Sweet Explosives,223
+item-6010,"Baby  B-A-B-Y.",44
 item-6011,Streetside Oden,76
-item-6012,Wild Honeycomb,67
+item-6012,Wild Honeycomb,68
 item-6013,Icy Theater,83
 item-7004,Lovestruck,0
 item-7024,Legend,5
@@ -557,10 +573,10 @@ item-9033,Dusty Blueprints,1
 item-9036,Intricate Mechanical Core,1
 item-9037,Dual-Chip Module,3
 item-10603,Extra Potential Energy,0
-item-10604,Extra Impulse,81
-item-10605,Level of Activity,100
-item-10606,Frontline Protocol Advanced Card,905
-item-10702,Exploration Permit,8021
+item-10604,Extra Impulse,90
+item-10605,Level of Activity,70
+item-10606,Frontline Protocol Advanced Card,930
+item-10702,Exploration Permit,8896
 item-10703,Gray Zone Exploration Score,6857
 item-10704,Gray Zone Exploration Score,6006
 item-10705,Gray Zone Exploration Score,6360
@@ -568,7 +584,8 @@ item-10706,Gray Zone Exploration Score,10020
 item-10707,Gray Zone Exploration Score,13835
 item-10708,Gray Zone Exploration Score,10590
 item-10709,Gray Zone Exploration Score,8040
-item-10710,Gray Zone Exploration Score,5970
+item-10710,Gray Zone Exploration Score,8220
+item-10711,Gray Zone Exploration Score,8220
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
 item-100023,White Knight Armor Fragments,60
@@ -686,6 +703,10 @@ item-100184,Corrupted Heart Mask - Slow Shock,0
 item-100204,Shattered Glass Commendation,15
 item-100205,Nova Medal - Through the Looking-Glass,4
 item-100206,Platinum Medal - Through the Looking-Glass,1
+item-100212,Nova Medal - The Summer Garden of Forking Paths,4
+item-100213,Platinum Medal - The Summer Garden of Forking Paths,3
+item-100214,Shape of Memory,1
+item-100215,Corrupted Heart Mask - The Summer Garden of Forking Paths,0
 item-110006,Event Points,2400
 item-110007,Event Points,2020
 item-110008,Event Points,2500
@@ -709,6 +730,7 @@ item-110025,Event Points,2240
 item-110026,Event Points,2400
 item-110027,Event Points,2500
 item-110028,Event Points,2500
+item-110030,Event Points,660
 item-110039,Event Points,4782361
 item-110041,Event Points,3700269
 item-110043,Event Points,5197268
@@ -790,6 +812,7 @@ item-200029,Icon Frame - Eternal Beauty,1
 item-200031,Icon Frame - Dark Purple Tribute,1
 item-200035,Icon Frame - Twilight's Salute,1
 item-200037,Icon Frame - Ignition Source,1
+item-200038,Icon Frame - Wild Goose Honk,1
 item-900031,Platinum Medal,3
 item-900033,Platinum Medal,1
 item-900034,Nova Medal·Shattered Connexion,46
@@ -848,14 +871,19 @@ item-1500106,Frontline Protocol - Bonus Reward,0
 item-1500112,Frontline Protocol - Extra Prize,0
 item-1500116,Frontline Protocol - Extra Prize,0
 item-1500123,Frontline Protocol - Extra Prize,0
+item-1500127,Frontline Protocol - Extra Prize,0
 item-1700001,Basic Equipment Selection Indicator,0
 item-1700002,Basic Exclusive Equipment Selection Indicator,0
 item-1700003,Advanced Exclusive Equipment Selection Indicator,0
 item-1700004,Basic Equipment Selection Indicator,0
 item-1700005,Basic Exclusive Equipment Selection Indicator,0
-item-1700006,Advanced Exclusive Equipment Selection Indicator,1
+item-1700006,Advanced Exclusive Equipment Selection Indicator,0
 item-1700007,Basic Equipment Selection Indicator,0
 item-1700008,Basic Exclusive Equipment Selection Indicator,0
+item-1700009,Advanced Exclusive Equipment Selection Indicator,1
+item-1700010,Basic Equipment Selection Indicator,1
+item-1700011,Basic Exclusive Equipment Selection Indicator,0
+item-1700012,Advanced Exclusive Equipment Selection Indicator,0
 item-1800001,Military-Grade Weapon Component Box,0
 item-1800002,Military-Grade Function Component Box,0
 item-1800003,Professional-Grade Component Box,0
@@ -865,14 +893,9 @@ item-1800006,High-Precision Heavy Weapon Universal Component Box,0
 item-1800007,High-Precision Light Weapon Universal Component Box,0
 item-1800008,Military-Grade Weapon Component Box 2.0,0
 item-1800009,Military-Grade Function Component Box 2.0,0
-item-135,Theater 12 Conqueror Medal,1
-item-100214,item-10100214,14
-item-100212,item-10100212,2
-gift-6501,Garuda of the Empyrean,1
-gift-8908,Tailfeather Maiden,1
-gift-100001,Lollipop,211
-gift-100002,Ice Cream Cone,75
-gift-100003,Strawberry Custard Cheesecake,1354
+gift-100001,Lollipop,228
+gift-100002,Ice Cream Cone,79
+gift-100003,Strawberry Custard Cheesecake,1441
 gift-100005,Mulan Tea,40
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,50
@@ -880,14 +903,14 @@ gift-100008,Eden's Apple,10
 gift-100010,Spooky Pumpkin Head,1
 gift-100011,Santa Claus' Beard,2
 gift-100012,Jingling Bells,2
-gift-100013,Reindeer Head Gear,3
+gift-100013,Reindeer Head Gear,4
 gift-100016,Crunchy Dark Chocolate Shell,2
 gift-100017,Crunchy White Chocolate Shell,1
 gift-100018,Crunchy Cocoa Shell,2
-gift-100019,Barking Dessert,1
+gift-100019,Barking Dessert,2
 gift-100021,Dance Is My Legend,10
 gift-100022,Slightly Bitter Pudding,10
-gift-200001,Combat Report,64894
+gift-200001,Combat Report,57299
 gift-200003,Beer on Discount,21
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,1
@@ -895,13 +918,14 @@ gift-200006,Satan's Tears,1
 gift-200007,Crab Cannon,3
 gift-200010,Classic Broomstick,1
 gift-200011,Helm of the Dark Rider,2
-gift-200012,Searing Light Orb,2
-gift-200013,Blue Bouquet,1
+gift-200012,Searing Light Orb,5
+gift-200013,Blue Bouquet,2
 gift-200017,Sugar-Free Dinergate,2
-gift-200020,Fish Hunt Surfboard,1
+gift-200019,Fish Hunt Charge 4K,1
+gift-200020,Fish Hunt Surfboard,2
 gift-200021,Sounding Good In Saga,10
 gift-200022,Electronic Fragment,10
-gift-400001,Rapid Growth Disk,24911
+gift-400001,Rapid Growth Disk,22325
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
