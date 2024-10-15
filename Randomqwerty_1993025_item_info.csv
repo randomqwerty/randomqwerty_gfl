@@ -1,30 +1,30 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2020-06-17 19:45:24
-item-10,Dummy Core,1433
-item-31,Basic Training Data,2572
-item-32,Intermediate Training Data,1033
-item-33,Advanced Training Data,4019
+item-10,Dummy Core,1486
+item-31,Basic Training Data,3172
+item-32,Intermediate Training Data,1633
+item-33,Advanced Training Data,4559
 -1,kalina_level,19
--1,kalina_favor,11416
-item-1,T-Doll Contract,351
-item-2,Equipment Contract,565
-item-3,Quick Production Contract,83
-item-4,Quick Repair Contract,1308
+-1,kalina_favor,11721
+item-1,T-Doll Contract,287
+item-2,Equipment Contract,568
+item-3,Quick Production Contract,4
+item-4,Quick Repair Contract,1311
 item-7,Oath Certificate,1
-item-8,Quick Training Contract,0
-item-9,Enhancement Capsule,1025
+item-8,Quick Training Contract,2
+item-9,Enhancement Capsule,1275
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,1200
-item-15,Pure Sample,350
-item-16,Quick Analysis Contract,116
+item-14,Original Sample,1660
+item-15,Pure Sample,540
+item-16,Quick Analysis Contract,117
 item-17,Data Patch,0
-item-41,Token,243
+item-41,Token,313
 item-42,Exchange Ticket,0
-item-44,Calibration Ticket,5622
+item-44,Calibration Ticket,5832
 item-45,Memory Fragment,1906
-item-46,Special Combat Report,1366
-item-47,Theater Material,0
+item-46,Special Combat Report,2466
+item-47,Theater Material,8
 item-50,Universal Parts,1455
 item-51,New Type Fire-Control Component,28
 item-57,Energy,4000
@@ -37,6 +37,7 @@ item-132,Time Redeemer Medal,1
 item-136,item-10000136,1
 item-138,item-10000138,1
 item-139,item-10000139,1
+item-140,Theater 13 Pioneer Medal,1
 item-301,Central Data: BGM-71,0
 item-302,Central Data: AGS-30,0
 item-303,Central Data: 2B14,0
@@ -46,8 +47,9 @@ item-306,Central Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Central Data: PP93,0
 item-310,Core Data: RPG-29,0
-item-506,Battery,2792
-item-507,Surplus EXP,381516
+item-311,item-10000311,4
+item-506,Battery,3322
+item-507,Surplus EXP,383896
 item-508,Friendship Points,6730
 item-509,Fairy Command,140
 item-512,Supernova Kernel,490
@@ -66,7 +68,7 @@ item-533,item-10000533,11
 item-534,item-10000534,19
 item-601,Infinite Surprise Dye,24
 item-603,Potential Energy,0
-item-604,Electronic Impulse,14
+item-604,Electronic Impulse,0
 item-605,Aid Commission,45
 item-606,Transfer Catalyst,152
 item-1001,AAT-52 Icon,1
@@ -129,22 +131,22 @@ item-2529,item-10002529,1
 item-2532,item-10002532,1
 item-2552,item-10002552,1
 item-2553,item-10002553,1
-item-4001,City's Gift,29113
-item-4002,Snowfield's Gift,3043
-item-4003,Forest's Gift,41671
-item-4004,Wasteland's Gift,1820
+item-4001,City's Gift,29726
+item-4002,Snowfield's Gift,3988
+item-4003,Forest's Gift,41816
+item-4004,Wasteland's Gift,2406
 item-6001,Ordinary Meat Bun,47
-item-6002,Bundle of Meat Buns,43
-item-6003,Trove of Meat Buns,82
-item-6004,Commonfolk Standard,35
+item-6002,Bundle of Meat Buns,44
+item-6003,Trove of Meat Buns,83
+item-6004,Commonfolk Standard,36
 item-6005,Comfort Bucket for One,29
 item-6006,Full Meal for Two,39
-item-6007,Strawberry Cheesecake Slice,34
-item-6008,One Week's Cake Selection,28
+item-6007,Strawberry Cheesecake Slice,35
+item-6008,One Week's Cake Selection,29
 item-6009,Sweet Explosives,58
 item-6010,"Baby  B-A-B-Y.",34
 item-6011,Streetside Oden,38
-item-6012,Wild Honeycomb,31
+item-6012,Wild Honeycomb,32
 item-6013,Icy Theater,33
 item-8001,Intel Points,2910
 item-8002,Intel Points,0
@@ -159,9 +161,9 @@ item-9045,item-10009045,0
 item-9046,item-10009046,0
 item-9047,item-10009047,0
 item-10603,Extra Potential Energy,21
-item-10604,Extra Impulse,53
+item-10604,Extra Impulse,58
 item-10605,Level of Activity,0
-item-10606,Frontline Protocol Advanced Card,70
+item-10606,Frontline Protocol Advanced Card,5
 item-10702,Exploration Permit,1481
 item-10703,Gray Zone Exploration Score,90
 item-10705,Gray Zone Exploration Score,1058
@@ -274,7 +276,7 @@ gift-100003,Strawberry Custard Cheesecake,205
 gift-100013,Reindeer Head Gear,1
 gift-100014,Shark Volleyball,1
 gift-100015,Rubber Fragments,1
-gift-200001,Combat Report,2399
+gift-200001,Combat Report,2499
 gift-200011,Helm of the Dark Rider,1
 gift-200012,Searing Light Orb,2
 gift-200017,Sugar-Free Dinergate,1
