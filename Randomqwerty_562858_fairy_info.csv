@@ -7,6 +7,7 @@
 52650,16,★★★★★,3000,100,Rescue Fairy,32.0,80.0,64.0,0.0,0,Damage II,10,Locked
 69327,6,★★★★★,3000,100,Taunt Fairy,18.0,58.0,28.0,8.0,0,Fervor,10,Locked
 112532,1007,★★★★★,550,100,Anna Graem,25.0,30.0,65.0,8.0,0,Damage I,1,Locked
+142526,13,★★★,1300,67,Rocket Fairy,0.0,22.8,0.0,11.4,0,Aim,8,Locked
 189766,1,★★★★★,3000,100,Warrior Fairy,25.0,80.0,40.0,10.0,0,Fervor,10,Locked
 202349,4,★★★★★,3000,100,Shield Fairy,20.0,60.0,80.0,0.0,0,Fervor,10,Locked
 234226,25,★★★★★,3000,100,Twin Fairies,18.0,60.0,48.0,12.0,0,Damage II,10,Locked
@@ -46,6 +47,7 @@
 769066,29,★,0,1,Cheerleader Fairy,5.6,12.4,3.2,3.2,0,Sturdy,1,Locked
 787027,29,★,0,1,Cheerleader Fairy,5.6,12.4,3.2,3.2,0,Damage I,1,Locked
 787028,29,★,0,1,Cheerleader Fairy,5.6,12.4,3.2,3.2,0,Cheering Type,1,Locked
+803159,19,★★★,300,76,Cooking Fairy,4.8,10.2,39.6,9.6,0,Chef,1,Locked
 813556,30,★,0,1,Witch Fairy,5.6,8.0,8.0,0.0,0,Sturdy,1,Locked
 825843,30,★,0,1,Witch Fairy,5.6,8.0,8.0,0.0,0,Keen,1,Locked
 825844,30,★,0,1,Witch Fairy,5.6,8.0,8.0,0.0,0,Witchcraft,1,Locked
@@ -95,7 +97,6 @@
 1078172,32,★,0,1,Peace Fairy,2.8,10.0,8.0,2.0,0,Critical II,1,Locked
 1078173,32,★,0,1,Peace Fairy,2.8,10.0,8.0,2.0,0,Holy Light,1,Locked
 1104781,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0,Sturdy,1,
-1104782,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Damage II,1,
 1134854,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Armor II,1,
 1134856,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0,Charge,1,
 1154862,21,★,0,1,Zodiac Fairy,3.2,0.0,2.8,2.8,0,Armor I,1,Locked
@@ -255,7 +256,6 @@
 1418669,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Assault,1,
 1418998,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Armor I,1,
 1418999,12,★,0,1,Landmine Fairy,5.6,10.0,19.6,0.0,0,Damage I,1,
-1419000,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Armor II,1,
 1419001,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Charge,1,
 1419002,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0,Charge,1,
 1419003,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Evasion II,1,
@@ -275,5 +275,5 @@
 228630,14,★★★,1450,57,Construction Fairy,7.8,25.2,19.8,5.4,0,Sturdy,10,Locked
 599327,1005,★★★★★,550,58,Sehra & Nina,7.2,19.2,24.0,0.0,0,Accuracy I,1,Locked
 897789,31,★,0,48,Trap Fairy,8.0,16.8,0.0,0.0,0,Fervor,1,Locked
-142526,13,★★★,1300,65,Rocket Fairy,0.0,22.8,0.0,11.4,0,Aim,8,Locked
-803159,19,★★★,300,75,Cooking Fairy,4.8,10.2,39.6,9.6,0,Chef,1,Locked
+1104782,7,★,0,20,Sniper Fairy,0.0,21.2,6.8,4.0,0,Damage II,1,Locked
+1419000,7,★,0,20,Sniper Fairy,0.0,21.2,6.8,4.0,0,Armor II,1,Locked
