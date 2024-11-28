@@ -1,14 +1,14 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,4604
+item-10,Dummy Core,4611
 item-31,Basic Training Data,7710
 item-32,Intermediate Training Data,6515
 item-33,Advanced Training Data,5466
 -1,kalina_level,30
 -1,kalina_favor,127564
-item-1,T-Doll Contract,1859
+item-1,T-Doll Contract,1865
 item-2,Equipment Contract,1640
-item-3,Quick Production Contract,1227
+item-3,Quick Production Contract,1233
 item-4,Quick Repair Contract,10050
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
@@ -21,7 +21,7 @@ item-14,Original Sample,132785
 item-15,Pure Sample,118227
 item-16,Quick Analysis Contract,642
 item-17,Data Patch,0
-item-41,Token,7673
+item-41,Token,7683
 item-42,Exchange Ticket,0
 item-43,Black Card,15
 item-44,Calibration Ticket,7977
@@ -71,14 +71,14 @@ item-307,Central Data: Mk 153,0
 item-308,Central Data: PP93,0
 item-309,Central Data: Mk 47,22
 item-310,Core Data: RPG-29,0
-item-506,Battery,5731
-item-507,Surplus EXP,1502870
-item-508,Friendship Points,4180
+item-506,Battery,4108
+item-507,Surplus EXP,1442
+item-508,Friendship Points,4360
 item-509,Fairy Command,610
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1870
 item-513,Dark Star Kernel,50400
-item-514,Petri Dish,19704
+item-514,Petri Dish,19764
 item-515,Basic Training Keycode,35949
 item-516,Advanced Training Keycode,46465
 item-517,Specified Equipment Contract,0
@@ -88,7 +88,7 @@ item-521,Stun Grenade,37
 item-522,Turret,21
 item-523,G&K,1
 item-524,Goliath Projectile,1
-item-525,Quick Auto-Battle Contract,2567
+item-525,Quick Auto-Battle Contract,2563
 item-528,Heart Rate Tool,100
 item-530,Signal Tool,65
 item-601,Infinite Surprise Dye,280
@@ -256,6 +256,7 @@ item-1405,ID Card: Sangvis Presence,1
 item-1406,Icon: Fatal Freedom,1
 item-1416,Icon: Brandy Chocolate Dog,1
 item-1417,Icon: Express Postal Pigeon,1
+item-1418,ID Card: Sanctuary Oath,1
 item-1419,Icon: Official 4-koma - VOL. 9,1
 item-1430,Icon: Official 4-koma - VOL. 10,1
 item-1437,1st Anniversary Icon,1
@@ -1020,6 +1021,7 @@ item-1500123,Frontline Protocol - Extra Prize,0
 item-1500127,Frontline Protocol - Extra Prize,0
 item-1500134,Frontline Protocol - Extra Prize,0
 item-1500141,Frontline Protocol - Extra Prize,0
+item-1500159,Frontline Protocol - Extra Prize,2
 item-1700001,Basic Equipment Selection Indicator,0
 item-1700002,Basic Exclusive Equipment Selection Indicator,0
 item-1700003,Advanced Exclusive Equipment Selection Indicator,0
@@ -1047,8 +1049,6 @@ item-1800006,High-Precision Heavy Weapon Universal Component Box,0
 item-1800007,High-Precision Light Weapon Universal Component Box,0
 item-1800008,Military-Grade Weapon Component Box 2.0,0
 item-1800009,Military-Grade Function Component Box 2.0,2
-item-1418,ID Card: Sanctuary Oath,1
-item-1500159,Frontline Protocol - Extra Prize,2
 gift-100001,Lollipop,406
 gift-100002,Ice Cream Cone,229
 gift-100003,Strawberry Custard Cheesecake,993
@@ -1068,7 +1068,7 @@ gift-100019,Barking Dessert,2
 gift-100020,Green Striped Balloon,1
 gift-100021,Dance Is My Legend,10
 gift-100022,Slightly Bitter Pudding,10
-gift-200001,Combat Report,38180
+gift-200001,Combat Report,38721
 gift-200003,Beer on Discount,21
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,60
