@@ -1,31 +1,31 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2020-06-17 19:45:24
-item-10,Dummy Core,1597
-item-31,Basic Training Data,3377
-item-32,Intermediate Training Data,3449
+item-10,Dummy Core,1607
+item-31,Basic Training Data,3697
+item-32,Intermediate Training Data,4331
 item-33,Advanced Training Data,5339
 -1,kalina_level,19
--1,kalina_favor,11756
-item-1,T-Doll Contract,503
-item-2,Equipment Contract,594
-item-3,Quick Production Contract,46
-item-4,Quick Repair Contract,1361
+-1,kalina_favor,11761
+item-1,T-Doll Contract,514
+item-2,Equipment Contract,599
+item-3,Quick Production Contract,52
+item-4,Quick Repair Contract,1371
 item-7,Oath Certificate,1
 item-8,Quick Training Contract,0
-item-9,Enhancement Capsule,1542
+item-9,Enhancement Capsule,1592
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,2440
+item-14,Original Sample,2530
 item-15,Pure Sample,1000
 item-16,Quick Analysis Contract,117
 item-17,Data Patch,0
-item-41,Token,142
+item-41,Token,155
 item-42,Exchange Ticket,0
-item-44,Calibration Ticket,6002
-item-45,Memory Fragment,3506
+item-44,Calibration Ticket,6022
+item-45,Memory Fragment,3526
 item-46,Special Combat Report,2666
 item-47,Theater Material,8
-item-50,Universal Parts,1689
+item-50,Universal Parts,1698
 item-51,New Type Fire-Control Component,32
 item-57,Energy,4000
 item-60,Component Processing Package,0
@@ -39,6 +39,7 @@ item-138,item-10000138,1
 item-139,item-10000139,1
 item-140,Theater 13 Pioneer Medal,1
 item-142,item-10000142,1
+item-143,item-10000143,1
 item-301,Central Data: BGM-71,0
 item-302,Central Data: AGS-30,0
 item-303,Central Data: 2B14,0
@@ -49,13 +50,13 @@ item-307,Central Data: Mk 153,0
 item-308,Central Data: PP93,0
 item-310,Core Data: RPG-29,0
 item-311,item-10000311,4
-item-506,Battery,3612
+item-506,Battery,3882
 item-507,Surplus EXP,476084
 item-508,Friendship Points,6730
 item-509,Fairy Command,140
 item-512,Supernova Kernel,490
 item-513,Dark Star Kernel,35600
-item-514,Petri Dish,2470
+item-514,Petri Dish,2554
 item-515,Basic Training Keycode,3752
 item-516,Advanced Training Keycode,7929
 item-517,Specified Equipment Contract,34
@@ -67,7 +68,7 @@ item-531,item-10000531,5
 item-532,item-10000532,3
 item-533,item-10000533,11
 item-534,item-10000534,19
-item-601,Infinite Surprise Dye,24
+item-601,Infinite Surprise Dye,25
 item-603,Potential Energy,0
 item-604,Electronic Impulse,14
 item-605,Aid Commission,45
@@ -136,12 +137,12 @@ item-2552,item-10002552,1
 item-2553,item-10002553,1
 item-2577,item-10002577,1
 item-2580,item-10002580,1
-item-4001,City's Gift,31651
-item-4002,Snowfield's Gift,9891
-item-4003,Forest's Gift,43905
-item-4004,Wasteland's Gift,4408
-item-6001,Ordinary Meat Bun,49
-item-6002,Bundle of Meat Buns,48
+item-4001,City's Gift,31843
+item-4002,Snowfield's Gift,11417
+item-4003,Forest's Gift,44097
+item-4004,Wasteland's Gift,4829
+item-6001,Ordinary Meat Bun,50
+item-6002,Bundle of Meat Buns,49
 item-6003,Trove of Meat Buns,85
 item-6004,Commonfolk Standard,41
 item-6005,Comfort Bucket for One,30
@@ -151,11 +152,12 @@ item-6008,One Week's Cake Selection,32
 item-6009,Sweet Explosives,58
 item-6010,"Baby  B-A-B-Y.",34
 item-6011,Streetside Oden,38
-item-6012,Wild Honeycomb,35
+item-6012,Wild Honeycomb,36
 item-6013,Icy Theater,33
 item-8001,Intel Points,2910
 item-8002,Intel Points,0
 item-8003,Intel Points,16
+item-9019,Rabbit Hole npc card score marker,4
 item-9039,Proof of Goodness,483
 item-9040,Sign of the Pack,572
 item-9041,Liquefied Interference Spray,0
@@ -165,11 +167,20 @@ item-9044,Ace of Pentacles,0
 item-9045,Ace of Wands,0
 item-9046,Ace of Swords,0
 item-9047,Ace of Cups,0
+item-9301,item-10009301,1
+item-9302,item-10009302,1
+item-9303,item-10009303,1
+item-9304,item-10009304,1
+item-9305,item-10009305,1
+item-9306,item-10009306,1
+item-9307,item-10009307,1
+item-9308,item-10009308,1
+item-9309,item-10009309,1
 item-10603,Extra Potential Energy,21
 item-10604,Extra Impulse,60
 item-10605,Level of Activity,0
 item-10606,Frontline Protocol Advanced Card,0
-item-10702,Exploration Permit,1691
+item-10702,Exploration Permit,1761
 item-10703,Gray Zone Exploration Score,90
 item-10705,Gray Zone Exploration Score,1058
 item-10707,Gray Zone Exploration Score,1208
@@ -247,6 +258,9 @@ item-100241,item-10100241,7
 item-100242,item-10100242,18
 item-100243,item-10100243,81
 item-100244,item-10100244,0
+item-100245,item-10100245,2
+item-100246,item-10100246,6
+item-100247,item-10100247,60
 item-110036,Event Points,10
 item-110038,Event Points,960
 item-110040,Event Points,10
@@ -254,13 +268,14 @@ item-110047,Event Points,510
 item-110048,Event Points,730
 item-110049,Event Points,270
 item-110050,Event Points,3537500
+item-110053,Event Points,284000
 item-110054,Event Points,69000
 item-110055,Event Points,330
 item-110061,Event Points,2028328
 item-110062,Event Points,1470
 item-110064,Event Points,3938204
 item-110065,Event Score,980
-item-110066,item-10110066,2205000
+item-110066,item-10110066,2462000
 item-110070,item-10110070,1300
 item-110071,item-10110071,1100000
 item-110072,item-10110072,780
@@ -280,32 +295,17 @@ item-1800002,Military-Grade Function Component Box,0
 item-1800004,Industrial-Grade Component Box,0
 item-1800005,Standard-Grade Component Box,0
 item-1800009,Military-Grade Function Component Box 2.0,0
-item-100247,item-10100247,60
-item-100245,item-10100245,2
-item-100246,item-10100246,6
-item-9301,item-10009301,1
-item-9302,item-10009302,1
-item-9303,item-10009303,1
-item-143,item-10000143,1
-item-9304,item-10009304,1
-item-9305,item-10009305,1
-item-9306,item-10009306,1
-item-9307,item-10009307,1
-item-9308,item-10009308,1
-item-9309,item-10009309,1
-item-9019,Rabbit Hole npc card score marker,4
-item-110053,Event Points,284000
 gift-100001,Lollipop,135
 gift-100002,Ice Cream Cone,24
 gift-100003,Strawberry Custard Cheesecake,205
 gift-100013,Reindeer Head Gear,1
 gift-100014,Shark Volleyball,1
 gift-100015,Rubber Fragments,1
-gift-200001,Combat Report,2829
+gift-200001,Combat Report,3109
 gift-200011,Helm of the Dark Rider,1
 gift-200012,Searing Light Orb,2
 gift-200017,Sugar-Free Dinergate,1
-gift-400001,Rapid Growth Disk,5339
+gift-400001,Rapid Growth Disk,5424
 furniture-10102,Simple Workbench,2
 furniture-10201,Plain Cat Bed,1
 furniture-10302,Simple Doghouse,2
