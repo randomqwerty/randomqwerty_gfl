@@ -19,6 +19,7 @@
 252675,20,★★★★★,550,100,Fireworks Fairy,32.0,75.0,32.0,8.0,0,Splendor,1,Locked
 282666,1006,★★★★★,550,100,Preiya & Camilia,22.0,50.0,10.0,10.0,0,Damage II,1,Locked
 316929,1004,★★★★★,550,100,Suee,0.0,0.0,70.0,18.0,0,Fervor,10,Locked
+319012,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
 370738,21,★★★★★,550,100,Zodiac Fairy,25.0,0.0,20.0,20.0,0,New Year,10,Locked
 444653,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
 457274,22,★★★★★,550,100,Beach Fairy,32.0,0.0,40.0,0.0,0,Damage II,10,Locked
@@ -26,7 +27,6 @@
 457276,22,★★★★★,550,100,Beach Fairy,32.0,0.0,40.0,0.0,0,Fervor,10,Locked
 500787,24,★★★★★,3000,100,Barrier Fairy,0.0,72.0,32.0,22.0,0,Damage I,2,Locked
 532223,6,★★★★★,3000,100,Taunt Fairy,18.0,58.0,28.0,8.0,0,Damage II,10,Locked
-533045,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
 569574,27,★★★★★,550,100,Auspicious Fairy,18.0,66.0,88.0,0.0,0,Auspicious Type,1,Locked
 578380,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Critical II,10,Locked
 585171,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
@@ -52,15 +52,18 @@
 803159,19,★★★★★,550,100,Cooking Fairy,10.0,20.0,80.0,20.0,0,Chef,1,Locked
 825843,30,★,0,1,Witch Fairy,5.6,8.0,8.0,0.0,0,Keen,1,Locked
 825844,30,★,0,1,Witch Fairy,5.6,8.0,8.0,0.0,0,Witchcraft,1,Locked
+897789,31,★★★★★,550,83,Trap Fairy,19.2,40.0,0.0,0.0,0,Fervor,6,Locked
 921866,31,★★,100,1,Trap Fairy,5.6,12.0,0.0,0.0,0,Setup,1,Locked
 957339,12,★★★★★,3000,100,Landmine Fairy,25.0,44.0,85.0,0.0,0,Damage I,1,Locked
 978185,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Charge,10,
+1004117,7,★★★★★,3000,89,Sniper Fairy,0.0,66.4,21.6,12.0,0,Sturdy,10,Locked
 1024769,1009,★★★★★,550,100,Drive-In Chicken,16.0,0.0,40.0,15.0,0,Fervor,1,Locked
 1073363,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Charge,10,
 1076323,32,★,0,1,Peace Fairy,2.8,10.0,8.0,2.0,0,Suppression,1,Locked
 1077308,32,★,0,1,Peace Fairy,2.8,10.0,8.0,2.0,0,Aim,1,Locked
 1078172,32,★★★★★,550,70,Peace Fairy,10.4,34.4,27.2,7.2,0,Critical II,1,Locked
 1078173,32,★,0,1,Peace Fairy,2.8,10.0,8.0,2.0,0,Holy Light,1,Locked
+1104782,7,★★★★★,3000,89,Sniper Fairy,0.0,66.4,21.6,12.0,0,Damage II,10,Locked
 1154862,21,★,0,1,Zodiac Fairy,3.2,0.0,2.8,2.8,0,Armor I,1,Locked
 1154863,21,★,0,1,Zodiac Fairy,3.2,0.0,2.8,2.8,0,Armor I,1,Locked
 1154864,21,★,0,1,Zodiac Fairy,3.2,0.0,2.8,2.8,0,Evasion I,1,Locked
@@ -195,7 +198,7 @@
 1500791,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Critical I,1,
 1500794,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Accuracy I,1,
 1500795,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0,Assault,1,
-1502362,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Evasion I,6,
+1502362,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Evasion I,10,
 1508415,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Evasion II,1,
 1508417,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Fervor,1,
 1508418,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Suppression,1,
@@ -275,7 +278,7 @@
 1517151,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Aim,1,
 1517152,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0,Evasion I,1,
 1517157,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Armor I,1,
-1518694,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Critical I,1,
+1518694,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Critical I,7,
 1527710,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Keen,1,
 1527712,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Critical II,1,
 1527902,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Sturdy,1,
@@ -291,12 +294,16 @@
 1531756,10,★,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,0,Sturdy,1,
 1531757,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Armor II,1,
 1536076,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Damage I,1,
+1541915,15,★,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Critical I,1,
+1550711,28,★,0,1,Sand Dancer Fairy,5.2,5.6,11.2,0.0,0,Damage I,1,
+1550712,28,★,0,1,Sand Dancer Fairy,5.2,5.6,11.2,0.0,0,Accuracy I,1,
+1550713,28,★,0,1,Sand Dancer Fairy,5.2,5.6,11.2,0.0,0,Duststorm Type,1,
+1552539,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Accuracy I,1,
+1552540,28,★,0,1,Sand Dancer Fairy,5.2,5.6,11.2,0.0,0,Accuracy I,1,
+1559444,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Accuracy II,2,
+533045,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
 462003,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
 813556,30,★★★★★,550,100,Witch Fairy,45.0,60.0,60.0,0.0,0,Damage I,1,Locked
 813341,30,★★★★★,550,100,Witch Fairy,45.0,60.0,60.0,0.0,0,Fervor,10,Locked
-319012,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
-1004117,7,★★★★★,3000,84,Sniper Fairy,0.0,64.8,20.8,11.2,0,Sturdy,10,Locked
-1104782,7,★★★★★,3000,84,Sniper Fairy,0.0,64.8,20.8,11.2,0,Damage II,10,Locked
-897788,31,★★★★★,550,78,Trap Fairy,19.2,39.2,0.0,0.0,0,Suppression,1,Locked
-897789,31,★★★★★,550,79,Trap Fairy,19.2,39.2,0.0,0.0,0,Fervor,6,Locked
-896547,31,★★★★★,550,80,Trap Fairy,19.2,40.0,0.0,0.0,0,Aim,1,Locked
+897788,31,★★★★★,550,91,Trap Fairy,20.0,41.6,0.0,0.0,0,Suppression,1,Locked
+896547,31,★★★★★,550,92,Trap Fairy,20.8,42.4,0.0,0.0,0,Aim,1,Locked
