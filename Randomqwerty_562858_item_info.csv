@@ -1,15 +1,15 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-03-08 12:19:07
-item-10,Dummy Core,5246
+item-10,Dummy Core,5212
 item-31,Basic Training Data,7506
 item-32,Intermediate Training Data,10075
 item-33,Advanced Training Data,8275
 -1,kalina_level,30
--1,kalina_favor,147169
-item-1,T-Doll Contract,4253
-item-2,Equipment Contract,3439
-item-3,Quick Production Contract,3252
-item-4,Quick Repair Contract,13028
+-1,kalina_favor,147179
+item-1,T-Doll Contract,4261
+item-2,Equipment Contract,3420
+item-3,Quick Production Contract,3255
+item-4,Quick Repair Contract,13044
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,888
@@ -21,17 +21,17 @@ item-14,Original Sample,166305
 item-15,Pure Sample,142702
 item-16,Quick Analysis Contract,1218
 item-17,Data Patch,0
-item-41,Token,1831
+item-41,Token,1841
 item-42,Exchange Ticket,0
 item-43,Black Card,33
-item-44,Calibration Ticket,1025
+item-44,Calibration Ticket,1321
 item-45,Memory Fragment,8969
 item-46,Special Combat Report,31003
 item-47,Theater Material,6
-item-50,Universal Parts,1947
+item-50,Universal Parts,1924
 item-51,New Type Fire-Control Component,56
 item-53,Gachapon Ticket,35
-item-57,Energy,2010
+item-57,Energy,3160
 item-60,Component Processing Package,31753
 item-100,Elite Griffin Combat Medal,10
 item-101,Combat Ranking Medal,129
@@ -71,7 +71,7 @@ item-141,Theater 13 Conqueror Medal,1
 item-142,Isolation Forest Guardian Medal,1
 item-143,Light Chaser Medal,1
 item-144,Fire in the Ashes Medal,1
-item-145,Gold in the Fire Medal,1
+item-145,Gold in the Fire Medal,12
 item-146,Marine Theater Pioneer Medal,1
 item-147,Marine Theater Conqueror Medal,1
 item-304,Central Data: M2,0
@@ -81,14 +81,14 @@ item-308,Central Data: PP93,0
 item-309,Central Data: Mk 47,22
 item-310,Central Data: RPG-29,0
 item-311,Central Data: L9A1,0
-item-506,Battery,4140
-item-507,Surplus EXP,741353
-item-508,Friendship Points,11940
-item-509,Fairy Command,40
+item-506,Battery,4269
+item-507,Surplus EXP,1033081
+item-508,Friendship Points,12390
+item-509,Fairy Command,100
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1190
 item-513,Dark Star Kernel,46050
-item-514,Petri Dish,32414
+item-514,Petri Dish,32498
 item-515,Basic Training Keycode,63753
 item-516,Advanced Training Keycode,64251
 item-517,Specified Equipment Contract,0
@@ -98,7 +98,7 @@ item-521,Stun Grenade,37
 item-522,Turret,21
 item-523,G&K,1
 item-524,Goliath Projectile,1
-item-525,Quick Auto-Battle Contract,2378
+item-525,Quick Auto-Battle Contract,2375
 item-528,Heart Rate Tool,100
 item-530,Signal Tool,65
 item-531,item-10000531,10
@@ -790,9 +790,9 @@ item-9308,A Hand-Drawn Map of the Dark Zone,1
 item-9309,A Damaged Dog Tag,1
 item-10603,Extra Potential Energy,12
 item-10604,Extra Impulse,105
-item-10605,Level of Activity,100
-item-10606,Frontline Protocol Advanced Card,570
-item-10702,Exploration Permit,8539
+item-10605,Level of Activity,140
+item-10606,Frontline Protocol Advanced Card,610
+item-10702,Exploration Permit,8527
 item-10703,Gray Zone Exploration Score,10106
 item-10704,Gray Zone Exploration Score,10010
 item-10705,Gray Zone Exploration Score,6012
@@ -814,7 +814,7 @@ item-10720,Gray Zone Exploration Score,12776
 item-10721,Gray Zone Exploration Score,14422
 item-10722,Gray Zone Exploration Score,9120
 item-10723,Gray Zone Exploration Score,13320
-item-10724,Gray Zone Exploration Score,6900
+item-10724,Gray Zone Exploration Score,7020
 item-100009,Crown of Respect,20
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -969,8 +969,8 @@ item-100244,Corrupted Heart Mask - Isolation Forest,0
 item-100245,Nova Medal - Butterfly Nebula,2
 item-100246,Platinum Medal - Butterfly Nebula,6
 item-100247,Koen,10
-item-100248,Nova Medal - Convolutional Kernel,68
-item-100249,Platinum Medal - Convolutional Kernel,454
+item-100248,Nova Medal - Convolutional Kernel,3
+item-100249,Platinum Medal - Convolutional Kernel,4
 item-100250,Lone Spring Blossom,5
 item-100251,Corrupted Heart Mask - Convolutional Kernel,0
 item-100252,True Core Mask - Convolutional Kernel,0
@@ -1249,6 +1249,9 @@ item-1700045,Advanced Exclusive Equipment Selection Indicator,0
 item-1700046,Basic Equipment Selection Indicator,0
 item-1700047,Basic Exclusive Equipment Selection Indicator,0
 item-1700048,Advanced Exclusive Equipment Selection Indicator,0
+item-1700049,Basic Equipment Selection Indicator,0
+item-1700050,Basic Exclusive Equipment Selection Indicator,0
+item-1700051,Advanced Exclusive Equipment Selection Indicator,0
 item-1800001,Military-Grade Weapon Component Box,0
 item-1800002,Military-Grade Function Component Box,0
 item-1800003,Professional-Grade Component Box,0
@@ -1257,14 +1260,11 @@ item-1800005,Standard-Grade Component Box,0
 item-1800006,High-Precision Heavy Weapon Universal Component Box,0
 item-1800007,High-Precision Light Weapon Universal Component Box,0
 item-1800008,Military-Grade Weapon Component Box 2.0,2
-item-1800009,Military-Grade Function Component Box 2.0,3
-item-1700049,Basic Equipment Selection Indicator,0
-item-1700050,Basic Exclusive Equipment Selection Indicator,0
-item-1700051,Advanced Exclusive Equipment Selection Indicator,0
+item-1800009,Military-Grade Function Component Box 2.0,4
 gift-11007,Phantom of Black Water,1
 gift-100001,Lollipop,2305
 gift-100002,Ice Cream Cone,280
-gift-100003,Strawberry Custard Cheesecake,921
+gift-100003,Strawberry Custard Cheesecake,1024
 gift-100005,Mulan Tea,22
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
@@ -1306,7 +1306,7 @@ gift-200020,Fish Hunt Surfboard,5
 gift-200021,Sounding Good In Saga,10
 gift-200022,Electronic Fragment,10
 gift-200023,Steel Core Rounds,50
-gift-400001,Rapid Growth Disk,34339
+gift-400001,Rapid Growth Disk,34439
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
